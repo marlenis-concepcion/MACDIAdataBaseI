@@ -1,46 +1,46 @@
 erDiagram
-    PERIODO {
+    Periodo {
         int Periodo_ID PK
         smallint Periodo_Anio
         tinyint Periodo_MesNumero
         date Periodo_Fecha
     }
-    SUCURSAL {
+    Sucursal {
         int Sucursal_ID PK
         nvarchar Sucursal_Nombre UK
         nvarchar Sucursal_Region
     }
-    DESTINO {
+    Destino {
         int Destino_ID PK
         nvarchar Destino_Nombre UK
         nvarchar Destino_Rubro
         nvarchar Destino_TipoOperacion
     }
-    FACT_CARTERA_PRESTAMO {
-        int Cartera_ID PK
-        int Sucursal_ID FK
-        int Periodo_ID FK
-        int Cantidad_Prestamos
-        decimal Valor_RD
+    FactCarteraPrestamo {
+        int FactCarteraPrestamo_ID PK
+        int FactCarteraPrestamo_SucursalID FK
+        int FactCarteraPrestamo_PeriodoID FK
+        int FactCarteraPrestamo_CantidadPrestamos
+        decimal FactCarteraPrestamo_ValorRD
     }
-    FACT_AREA_FINANCIADA {
-        int AreaFinanciada_ID PK
-        int Sucursal_ID FK
-        int Periodo_ID FK
-        decimal Tareas
-        decimal Valor_RD
+    FactAreaFinanciada {
+        int FactAreaFinanciada_ID PK
+        int FactAreaFinanciada_SucursalID FK
+        int FactAreaFinanciada_PeriodoID FK
+        decimal FactAreaFinanciada_Tareas
+        decimal FactAreaFinanciada_ValorRD
     }
-    FACT_DESEMBOLSO_COBRO {
-        int DesembolsoCobro_ID PK
-        int Sucursal_ID FK
-        int Periodo_ID FK
-        decimal Desembolsos_RD
-        decimal Cobros_RD
+    FactDesembolsoCobro {
+        int FactDesembolsoCobro_ID PK
+        int FactDesembolsoCobro_SucursalID FK
+        int FactDesembolsoCobro_PeriodoID FK
+        decimal FactDesembolsoCobro_DesembolsosRD
+        decimal FactDesembolsoCobro_CobrosRD
     }
-    FACT_MONTO_DESTINO {
-        int MontoDestino_ID PK
-        int Destino_ID FK
-        int Periodo_ID FK
-        decimal Valores_RD
-        int Beneficiados
+    FactMontoDestino {
+        int FactMontoDestino_ID PK
+        int FactMontoDestino_DestinoID FK
+        int FactMontoDestino_PeriodoID FK
+        decimal FactMontoDestino_ValoresRD
+        int FactMontoDestino_Beneficiados
     }

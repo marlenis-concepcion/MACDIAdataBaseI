@@ -332,7 +332,7 @@ GO
 SET IDENTITY_INSERT dbo.FactCarteraPrestamo ON;
 GO
 
-INSERT INTO dbo.FactCarteraPrestamo (Cartera_ID, Sucursal_ID, Periodo_ID, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactCarteraPrestamo (FactCarteraPrestamo_ID, FactCarteraPrestamo_SucursalID, FactCarteraPrestamo_PeriodoID, FactCarteraPrestamo_CantidadPrestamos, FactCarteraPrestamo_ValorRD, FactCarteraPrestamo_FuenteDatoID)
 VALUES
     (1, 1, 1, 879, 294986541, 1),
     (2, 2, 1, 1997, 667047193, 1),
@@ -836,7 +836,7 @@ VALUES
     (500, 21, 16, 1023, 462107218, 1);
 GO
 
-INSERT INTO dbo.FactCarteraPrestamo (Cartera_ID, Sucursal_ID, Periodo_ID, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactCarteraPrestamo (FactCarteraPrestamo_ID, FactCarteraPrestamo_SucursalID, FactCarteraPrestamo_PeriodoID, FactCarteraPrestamo_CantidadPrestamos, FactCarteraPrestamo_ValorRD, FactCarteraPrestamo_FuenteDatoID)
 VALUES
     (501, 22, 16, 807, 417965184, 1),
     (502, 23, 16, 1262, 319464996, 1),
@@ -1340,7 +1340,7 @@ VALUES
     (1000, 8, 32, 1502, 1359311002, 1);
 GO
 
-INSERT INTO dbo.FactCarteraPrestamo (Cartera_ID, Sucursal_ID, Periodo_ID, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactCarteraPrestamo (FactCarteraPrestamo_ID, FactCarteraPrestamo_SucursalID, FactCarteraPrestamo_PeriodoID, FactCarteraPrestamo_CantidadPrestamos, FactCarteraPrestamo_ValorRD, FactCarteraPrestamo_FuenteDatoID)
 VALUES
     (1001, 9, 32, 1135, 562842585, 1),
     (1002, 10, 32, 988, 446541683, 1),
@@ -1844,7 +1844,7 @@ VALUES
     (1500, 30, 47, 1307, 847711105, 1);
 GO
 
-INSERT INTO dbo.FactCarteraPrestamo (Cartera_ID, Sucursal_ID, Periodo_ID, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactCarteraPrestamo (FactCarteraPrestamo_ID, FactCarteraPrestamo_SucursalID, FactCarteraPrestamo_PeriodoID, FactCarteraPrestamo_CantidadPrestamos, FactCarteraPrestamo_ValorRD, FactCarteraPrestamo_FuenteDatoID)
 VALUES
     (1501, 31, 47, 1822, 2418895135, 1),
     (1502, 32, 47, 926, 1771786116, 1),
@@ -2348,7 +2348,7 @@ VALUES
     (2000, 18, 63, 1025, 698724831, 1);
 GO
 
-INSERT INTO dbo.FactCarteraPrestamo (Cartera_ID, Sucursal_ID, Periodo_ID, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactCarteraPrestamo (FactCarteraPrestamo_ID, FactCarteraPrestamo_SucursalID, FactCarteraPrestamo_PeriodoID, FactCarteraPrestamo_CantidadPrestamos, FactCarteraPrestamo_ValorRD, FactCarteraPrestamo_FuenteDatoID)
 VALUES
     (2001, 19, 63, 1730, 797214898, 1),
     (2002, 20, 63, 1903, 1026469628, 1),
@@ -2852,7 +2852,7 @@ VALUES
     (2500, 5, 79, 703, 1057275176, 1);
 GO
 
-INSERT INTO dbo.FactCarteraPrestamo (Cartera_ID, Sucursal_ID, Periodo_ID, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactCarteraPrestamo (FactCarteraPrestamo_ID, FactCarteraPrestamo_SucursalID, FactCarteraPrestamo_PeriodoID, FactCarteraPrestamo_CantidadPrestamos, FactCarteraPrestamo_ValorRD, FactCarteraPrestamo_FuenteDatoID)
 VALUES
     (2501, 6, 79, 1720, 820045707, 1),
     (2502, 7, 79, 1267, 2730257594, 1),
@@ -3356,7 +3356,7 @@ VALUES
     (3000, 26, 94, 1582, 3844094232, 1);
 GO
 
-INSERT INTO dbo.FactCarteraPrestamo (Cartera_ID, Sucursal_ID, Periodo_ID, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactCarteraPrestamo (FactCarteraPrestamo_ID, FactCarteraPrestamo_SucursalID, FactCarteraPrestamo_PeriodoID, FactCarteraPrestamo_CantidadPrestamos, FactCarteraPrestamo_ValorRD, FactCarteraPrestamo_FuenteDatoID)
 VALUES
     (3001, 27, 94, 671, 922110706, 1),
     (3002, 28, 94, 4428, 3470376621, 1),
@@ -3820,7 +3820,7 @@ GO
 SET IDENTITY_INSERT dbo.FactAreaFinanciada ON;
 GO
 
-INSERT INTO dbo.FactAreaFinanciada (AreaFinanciada_ID, Sucursal_ID, Periodo_ID, Tareas, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactAreaFinanciada (FactAreaFinanciada_ID, FactAreaFinanciada_SucursalID, FactAreaFinanciada_PeriodoID, FactAreaFinanciada_Tareas, FactAreaFinanciada_CantidadPrestamos, FactAreaFinanciada_ValorRD, FactAreaFinanciada_FuenteDatoID)
 VALUES
     (1, 1, 1, 820, 27, 69347508, 2),
     (2, 2, 1, 953, 48, 15743528, 2),
@@ -4324,7 +4324,7 @@ VALUES
     (500, 21, 16, 3019, 50, 17029293, 2);
 GO
 
-INSERT INTO dbo.FactAreaFinanciada (AreaFinanciada_ID, Sucursal_ID, Periodo_ID, Tareas, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactAreaFinanciada (FactAreaFinanciada_ID, FactAreaFinanciada_SucursalID, FactAreaFinanciada_PeriodoID, FactAreaFinanciada_Tareas, FactAreaFinanciada_CantidadPrestamos, FactAreaFinanciada_ValorRD, FactAreaFinanciada_FuenteDatoID)
 VALUES
     (501, 22, 16, 300, 65, 34438692, 2),
     (502, 23, 16, 2712, 45, 10912176, 2),
@@ -4828,7 +4828,7 @@ VALUES
     (1000, 8, 32, 2974, 69, 52940236, 2);
 GO
 
-INSERT INTO dbo.FactAreaFinanciada (AreaFinanciada_ID, Sucursal_ID, Periodo_ID, Tareas, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactAreaFinanciada (FactAreaFinanciada_ID, FactAreaFinanciada_SucursalID, FactAreaFinanciada_PeriodoID, FactAreaFinanciada_Tareas, FactAreaFinanciada_CantidadPrestamos, FactAreaFinanciada_ValorRD, FactAreaFinanciada_FuenteDatoID)
 VALUES
     (1001, 9, 32, 2496, 49, 27541710, 2),
     (1002, 10, 32, 1312, 63, 25471034, 2),
@@ -5332,7 +5332,7 @@ VALUES
     (1500, 29, 47, 443, 53, 218165546, 2);
 GO
 
-INSERT INTO dbo.FactAreaFinanciada (AreaFinanciada_ID, Sucursal_ID, Periodo_ID, Tareas, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactAreaFinanciada (FactAreaFinanciada_ID, FactAreaFinanciada_SucursalID, FactAreaFinanciada_PeriodoID, FactAreaFinanciada_Tareas, FactAreaFinanciada_CantidadPrestamos, FactAreaFinanciada_ValorRD, FactAreaFinanciada_FuenteDatoID)
 VALUES
     (1501, 30, 47, 435, 42, 74314000, 2),
     (1502, 31, 47, 520, 155, 633900098, 2),
@@ -5836,7 +5836,7 @@ VALUES
     (2000, 17, 63, 9492, 130, 107431383, 2);
 GO
 
-INSERT INTO dbo.FactAreaFinanciada (AreaFinanciada_ID, Sucursal_ID, Periodo_ID, Tareas, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactAreaFinanciada (FactAreaFinanciada_ID, FactAreaFinanciada_SucursalID, FactAreaFinanciada_PeriodoID, FactAreaFinanciada_Tareas, FactAreaFinanciada_CantidadPrestamos, FactAreaFinanciada_ValorRD, FactAreaFinanciada_FuenteDatoID)
 VALUES
     (2001, 18, 63, 14792, 213, 96569582, 2),
     (2002, 19, 63, 2280, 88, 66578570, 2),
@@ -6340,7 +6340,7 @@ VALUES
     (2500, 4, 79, 2367, 56, 39892470, 2);
 GO
 
-INSERT INTO dbo.FactAreaFinanciada (AreaFinanciada_ID, Sucursal_ID, Periodo_ID, Tareas, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactAreaFinanciada (FactAreaFinanciada_ID, FactAreaFinanciada_SucursalID, FactAreaFinanciada_PeriodoID, FactAreaFinanciada_Tareas, FactAreaFinanciada_CantidadPrestamos, FactAreaFinanciada_ValorRD, FactAreaFinanciada_FuenteDatoID)
 VALUES
     (2501, 5, 79, 505, 22, 52918453, 2),
     (2502, 6, 79, 898, 48, 26930616, 2),
@@ -6844,7 +6844,7 @@ VALUES
     (3000, 25, 94, 18688, 129, 303063061, 2);
 GO
 
-INSERT INTO dbo.FactAreaFinanciada (AreaFinanciada_ID, Sucursal_ID, Periodo_ID, Tareas, Cantidad_Prestamos, Valor_RD, FuenteDato_ID)
+INSERT INTO dbo.FactAreaFinanciada (FactAreaFinanciada_ID, FactAreaFinanciada_SucursalID, FactAreaFinanciada_PeriodoID, FactAreaFinanciada_Tareas, FactAreaFinanciada_CantidadPrestamos, FactAreaFinanciada_ValorRD, FactAreaFinanciada_FuenteDatoID)
 VALUES
     (3001, 26, 94, 555, 28, 59694903, 2),
     (3002, 27, 94, 776, 14, 15418782, 2),
@@ -7309,7 +7309,7 @@ GO
 SET IDENTITY_INSERT dbo.FactDesembolsoCobro ON;
 GO
 
-INSERT INTO dbo.FactDesembolsoCobro (DesembolsoCobro_ID, Sucursal_ID, Periodo_ID, Desembolsos_RD, Cobros_RD, FuenteDato_ID)
+INSERT INTO dbo.FactDesembolsoCobro (FactDesembolsoCobro_ID, FactDesembolsoCobro_SucursalID, FactDesembolsoCobro_PeriodoID, FactDesembolsoCobro_DesembolsosRD, FactDesembolsoCobro_CobrosRD, FactDesembolsoCobro_FuenteDatoID)
 VALUES
     (1, 1, 94, 132281631, 29601344, 3),
     (2, 2, 94, 12866723, 24802894, 3),
@@ -7798,7 +7798,7 @@ GO
 SET IDENTITY_INSERT dbo.FactMontoDestino ON;
 GO
 
-INSERT INTO dbo.FactMontoDestino (MontoDestino_ID, Destino_ID, Periodo_ID, Cantidad, Valores_RD, Tareas, Beneficiados, FuenteDato_ID)
+INSERT INTO dbo.FactMontoDestino (FactMontoDestino_ID, FactMontoDestino_DestinoID, FactMontoDestino_PeriodoID, FactMontoDestino_Cantidad, FactMontoDestino_ValoresRD, FactMontoDestino_Tareas, FactMontoDestino_Beneficiados, FactMontoDestino_FuenteDatoID)
 VALUES
     (1, 3, 1, 327, 338634506, 0, 327, 4),
     (2, 4, 1, 92, 28028000, 4142, 92, 4),
@@ -8302,7 +8302,7 @@ VALUES
     (500, 64, 11, 1, 40000, 30, 1, 4);
 GO
 
-INSERT INTO dbo.FactMontoDestino (MontoDestino_ID, Destino_ID, Periodo_ID, Cantidad, Valores_RD, Tareas, Beneficiados, FuenteDato_ID)
+INSERT INTO dbo.FactMontoDestino (FactMontoDestino_ID, FactMontoDestino_DestinoID, FactMontoDestino_PeriodoID, FactMontoDestino_Cantidad, FactMontoDestino_ValoresRD, FactMontoDestino_Tareas, FactMontoDestino_Beneficiados, FactMontoDestino_FuenteDatoID)
 VALUES
     (501, 68, 11, 93, 211617353, 12872, 93, 4),
     (502, 69, 11, 1, 500000, 0, 1, 4),
@@ -8806,7 +8806,7 @@ VALUES
     (1000, 27, 22, 15, 14550000, 3276, 15, 4);
 GO
 
-INSERT INTO dbo.FactMontoDestino (MontoDestino_ID, Destino_ID, Periodo_ID, Cantidad, Valores_RD, Tareas, Beneficiados, FuenteDato_ID)
+INSERT INTO dbo.FactMontoDestino (FactMontoDestino_ID, FactMontoDestino_DestinoID, FactMontoDestino_PeriodoID, FactMontoDestino_Cantidad, FactMontoDestino_ValoresRD, FactMontoDestino_Tareas, FactMontoDestino_Beneficiados, FactMontoDestino_FuenteDatoID)
 VALUES
     (1001, 28, 22, 7, 3825000, 278, 7, 4),
     (1002, 33, 22, 0, 0, 0, 0, 4),
@@ -9310,7 +9310,7 @@ VALUES
     (1500, 97, 32, 0, 0, 0, 0, 4);
 GO
 
-INSERT INTO dbo.FactMontoDestino (MontoDestino_ID, Destino_ID, Periodo_ID, Cantidad, Valores_RD, Tareas, Beneficiados, FuenteDato_ID)
+INSERT INTO dbo.FactMontoDestino (FactMontoDestino_ID, FactMontoDestino_DestinoID, FactMontoDestino_PeriodoID, FactMontoDestino_Cantidad, FactMontoDestino_ValoresRD, FactMontoDestino_Tareas, FactMontoDestino_Beneficiados, FactMontoDestino_FuenteDatoID)
 VALUES
     (1501, 98, 32, 12, 11840000, 197, 12, 4),
     (1502, 100, 32, 12, 3170000, 264, 12, 4),
@@ -9814,7 +9814,7 @@ VALUES
     (2000, 59, 43, 3, 18226447, 11, 3, 4);
 GO
 
-INSERT INTO dbo.FactMontoDestino (MontoDestino_ID, Destino_ID, Periodo_ID, Cantidad, Valores_RD, Tareas, Beneficiados, FuenteDato_ID)
+INSERT INTO dbo.FactMontoDestino (FactMontoDestino_ID, FactMontoDestino_DestinoID, FactMontoDestino_PeriodoID, FactMontoDestino_Cantidad, FactMontoDestino_ValoresRD, FactMontoDestino_Tareas, FactMontoDestino_Beneficiados, FactMontoDestino_FuenteDatoID)
 VALUES
     (2001, 63, 43, 0, 0, 0, 0, 4),
     (2002, 64, 43, 3, 314000, 155, 3, 4),
@@ -10318,7 +10318,7 @@ VALUES
     (2500, 72, 54, 26, 27180400, 674, 26, 4);
 GO
 
-INSERT INTO dbo.FactMontoDestino (MontoDestino_ID, Destino_ID, Periodo_ID, Cantidad, Valores_RD, Tareas, Beneficiados, FuenteDato_ID)
+INSERT INTO dbo.FactMontoDestino (FactMontoDestino_ID, FactMontoDestino_DestinoID, FactMontoDestino_PeriodoID, FactMontoDestino_Cantidad, FactMontoDestino_ValoresRD, FactMontoDestino_Tareas, FactMontoDestino_Beneficiados, FactMontoDestino_FuenteDatoID)
 VALUES
     (2501, 75, 54, 9, 5630000, 364, 9, 4),
     (2502, 77, 54, 32, 19320000, 2394, 32, 4),
@@ -10822,7 +10822,7 @@ VALUES
     (3000, 86, 65, 0, 0, 0, 0, 4);
 GO
 
-INSERT INTO dbo.FactMontoDestino (MontoDestino_ID, Destino_ID, Periodo_ID, Cantidad, Valores_RD, Tareas, Beneficiados, FuenteDato_ID)
+INSERT INTO dbo.FactMontoDestino (FactMontoDestino_ID, FactMontoDestino_DestinoID, FactMontoDestino_PeriodoID, FactMontoDestino_Cantidad, FactMontoDestino_ValoresRD, FactMontoDestino_Tareas, FactMontoDestino_Beneficiados, FactMontoDestino_FuenteDatoID)
 VALUES
     (3001, 87, 65, 190, 43813990, 0, 190, 4),
     (3002, 92, 65, 6, 17254825, 0, 6, 4),
@@ -11326,7 +11326,7 @@ VALUES
     (3500, 81, 77, 74, 102072000, 0, 74, 4);
 GO
 
-INSERT INTO dbo.FactMontoDestino (MontoDestino_ID, Destino_ID, Periodo_ID, Cantidad, Valores_RD, Tareas, Beneficiados, FuenteDato_ID)
+INSERT INTO dbo.FactMontoDestino (FactMontoDestino_ID, FactMontoDestino_DestinoID, FactMontoDestino_PeriodoID, FactMontoDestino_Cantidad, FactMontoDestino_ValoresRD, FactMontoDestino_Tareas, FactMontoDestino_Beneficiados, FactMontoDestino_FuenteDatoID)
 VALUES
     (3501, 83, 77, 1, 500000, 0, 1, 4),
     (3502, 87, 77, 232, 48697312, 0, 232, 4),
@@ -11830,7 +11830,7 @@ VALUES
     (4000, 38, 89, 14, 28000000, 0, 14, 4);
 GO
 
-INSERT INTO dbo.FactMontoDestino (MontoDestino_ID, Destino_ID, Periodo_ID, Cantidad, Valores_RD, Tareas, Beneficiados, FuenteDato_ID)
+INSERT INTO dbo.FactMontoDestino (FactMontoDestino_ID, FactMontoDestino_DestinoID, FactMontoDestino_PeriodoID, FactMontoDestino_Cantidad, FactMontoDestino_ValoresRD, FactMontoDestino_Tareas, FactMontoDestino_Beneficiados, FactMontoDestino_FuenteDatoID)
 VALUES
     (4001, 39, 89, 0, 0, 0, 0, 4),
     (4002, 41, 89, 62, 59422988, 0, 62, 4),
@@ -12334,7 +12334,7 @@ VALUES
     (4500, 18, 100, 0, 0, 0, 0, 4);
 GO
 
-INSERT INTO dbo.FactMontoDestino (MontoDestino_ID, Destino_ID, Periodo_ID, Cantidad, Valores_RD, Tareas, Beneficiados, FuenteDato_ID)
+INSERT INTO dbo.FactMontoDestino (FactMontoDestino_ID, FactMontoDestino_DestinoID, FactMontoDestino_PeriodoID, FactMontoDestino_Cantidad, FactMontoDestino_ValoresRD, FactMontoDestino_Tareas, FactMontoDestino_Beneficiados, FactMontoDestino_FuenteDatoID)
 VALUES
     (4501, 21, 100, 6, 1110000, 200, 6, 4),
     (4502, 22, 100, 5, 115100000, 0, 5, 4),

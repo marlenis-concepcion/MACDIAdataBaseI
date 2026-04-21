@@ -19,31 +19,31 @@ BEGIN
 
     INSERT INTO dbo.AuditoriaOperacion
     (
-        Tabla_Nombre,
-        Operacion,
-        Registro_ID,
-        Datos_Anteriores,
-        Datos_Nuevos
+        AuditoriaOperacion_TablaNombre,
+        AuditoriaOperacion_Operacion,
+        AuditoriaOperacion_RegistroID,
+        AuditoriaOperacion_DatosAnteriores,
+        AuditoriaOperacion_DatosNuevos
     )
     SELECT
         N'FactDesembolsoCobro',
         CASE
-            WHEN i.DesembolsoCobro_ID IS NOT NULL AND d.DesembolsoCobro_ID IS NULL THEN N'INSERT'
-            WHEN i.DesembolsoCobro_ID IS NOT NULL AND d.DesembolsoCobro_ID IS NOT NULL THEN N'UPDATE'
+            WHEN i.FactDesembolsoCobro_ID IS NOT NULL AND d.FactDesembolsoCobro_ID IS NULL THEN N'INSERT'
+            WHEN i.FactDesembolsoCobro_ID IS NOT NULL AND d.FactDesembolsoCobro_ID IS NOT NULL THEN N'UPDATE'
             ELSE N'DELETE'
         END,
-        COALESCE(i.DesembolsoCobro_ID, d.DesembolsoCobro_ID),
-        CASE WHEN d.DesembolsoCobro_ID IS NULL THEN NULL ELSE
-            CONCAT(N'Sucursal_ID=', d.Sucursal_ID, N'; Periodo_ID=', d.Periodo_ID,
-                   N'; Desembolsos_RD=', d.Desembolsos_RD, N'; Cobros_RD=', d.Cobros_RD)
+        COALESCE(i.FactDesembolsoCobro_ID, d.FactDesembolsoCobro_ID),
+        CASE WHEN d.FactDesembolsoCobro_ID IS NULL THEN NULL ELSE
+            CONCAT(N'SucursalID=', d.FactDesembolsoCobro_SucursalID, N'; PeriodoID=', d.FactDesembolsoCobro_PeriodoID,
+                   N'; DesembolsosRD=', d.FactDesembolsoCobro_DesembolsosRD, N'; CobrosRD=', d.FactDesembolsoCobro_CobrosRD)
         END,
-        CASE WHEN i.DesembolsoCobro_ID IS NULL THEN NULL ELSE
-            CONCAT(N'Sucursal_ID=', i.Sucursal_ID, N'; Periodo_ID=', i.Periodo_ID,
-                   N'; Desembolsos_RD=', i.Desembolsos_RD, N'; Cobros_RD=', i.Cobros_RD)
+        CASE WHEN i.FactDesembolsoCobro_ID IS NULL THEN NULL ELSE
+            CONCAT(N'SucursalID=', i.FactDesembolsoCobro_SucursalID, N'; PeriodoID=', i.FactDesembolsoCobro_PeriodoID,
+                   N'; DesembolsosRD=', i.FactDesembolsoCobro_DesembolsosRD, N'; CobrosRD=', i.FactDesembolsoCobro_CobrosRD)
         END
     FROM inserted i
     FULL OUTER JOIN deleted d
-        ON d.DesembolsoCobro_ID = i.DesembolsoCobro_ID;
+        ON d.FactDesembolsoCobro_ID = i.FactDesembolsoCobro_ID;
 END;
 GO
 
@@ -56,24 +56,24 @@ BEGIN
 
     INSERT INTO dbo.CarteraPrestamoHistorico
     (
-        Cartera_ID,
-        Sucursal_ID,
-        Periodo_ID,
-        Cantidad_Prestamos_Ant,
-        Valor_RD_Ant,
-        Motivo
+        CarteraPrestamoHistorico_FactCarteraPrestamoID,
+        CarteraPrestamoHistorico_SucursalID,
+        CarteraPrestamoHistorico_PeriodoID,
+        CarteraPrestamoHistorico_CantidadPrestamosAnterior,
+        CarteraPrestamoHistorico_ValorRDAnterior,
+        CarteraPrestamoHistorico_Motivo
     )
     SELECT
-        d.Cartera_ID,
-        d.Sucursal_ID,
-        d.Periodo_ID,
-        d.Cantidad_Prestamos,
-        d.Valor_RD,
+        d.FactCarteraPrestamo_ID,
+        d.FactCarteraPrestamo_SucursalID,
+        d.FactCarteraPrestamo_PeriodoID,
+        d.FactCarteraPrestamo_CantidadPrestamos,
+        d.FactCarteraPrestamo_ValorRD,
         N'Valor anterior guardado automaticamente por trigger'
     FROM deleted d
-    INNER JOIN inserted i ON i.Cartera_ID = d.Cartera_ID
-    WHERE d.Cantidad_Prestamos <> i.Cantidad_Prestamos
-       OR d.Valor_RD <> i.Valor_RD;
+    INNER JOIN inserted i ON i.FactCarteraPrestamo_ID = d.FactCarteraPrestamo_ID
+    WHERE d.FactCarteraPrestamo_CantidadPrestamos <> i.FactCarteraPrestamo_CantidadPrestamos
+       OR d.FactCarteraPrestamo_ValorRD <> i.FactCarteraPrestamo_ValorRD;
 END;
 GO
 
@@ -87,8 +87,8 @@ BEGIN
     IF EXISTS (
         SELECT 1
         FROM inserted
-        WHERE Beneficiados > Cantidad
-          AND Cantidad > 0
+        WHERE FactMontoDestino_Beneficiados > FactMontoDestino_Cantidad
+          AND FactMontoDestino_Cantidad > 0
     )
     BEGIN
         THROW 51001, 'Validacion: los beneficiados no pueden superar la cantidad de operaciones para el destino.', 1;
@@ -103,10 +103,10 @@ BEGIN
     SET NOCOUNT ON;
 
     SELECT p.Periodo_Anio,
-           SUM(c.Cantidad_Prestamos) AS Total_Prestamos,
-           SUM(c.Valor_RD) AS Total_Cartera_RD
+           SUM(c.FactCarteraPrestamo_CantidadPrestamos) AS TotalPrestamos,
+           SUM(c.FactCarteraPrestamo_ValorRD) AS TotalCarteraRD
     FROM dbo.FactCarteraPrestamo c
-    INNER JOIN dbo.Periodo p ON p.Periodo_ID = c.Periodo_ID
+    INNER JOIN dbo.Periodo p ON p.Periodo_ID = c.FactCarteraPrestamo_PeriodoID
     WHERE p.Periodo_Anio = @Anio
     GROUP BY p.Periodo_Anio;
 END;
@@ -122,14 +122,14 @@ BEGIN
     SELECT TOP (@Top)
            s.Sucursal_Nombre,
            s.Sucursal_Region,
-           SUM(c.Valor_RD) AS Total_Cartera_RD,
-           SUM(c.Cantidad_Prestamos) AS Total_Prestamos
+           SUM(c.FactCarteraPrestamo_ValorRD) AS TotalCarteraRD,
+           SUM(c.FactCarteraPrestamo_CantidadPrestamos) AS TotalPrestamos
     FROM dbo.FactCarteraPrestamo c
-    INNER JOIN dbo.Sucursal s ON s.Sucursal_ID = c.Sucursal_ID
-    INNER JOIN dbo.Periodo p ON p.Periodo_ID = c.Periodo_ID
+    INNER JOIN dbo.Sucursal s ON s.Sucursal_ID = c.FactCarteraPrestamo_SucursalID
+    INNER JOIN dbo.Periodo p ON p.Periodo_ID = c.FactCarteraPrestamo_PeriodoID
     WHERE @Anio IS NULL OR p.Periodo_Anio = @Anio
     GROUP BY s.Sucursal_Nombre, s.Sucursal_Region
-    ORDER BY Total_Cartera_RD DESC;
+    ORDER BY TotalCarteraRD DESC;
 END;
 GO
 
@@ -144,12 +144,12 @@ BEGIN
            p.Periodo_Anio,
            p.Periodo_MesNumero,
            p.Periodo_MesNombre,
-           d.Desembolsos_RD,
-           d.Cobros_RD,
-           d.Balance_Neto_RD
+           d.FactDesembolsoCobro_DesembolsosRD,
+           d.FactDesembolsoCobro_CobrosRD,
+           d.FactDesembolsoCobro_BalanceNetoRD
     FROM dbo.FactDesembolsoCobro d
-    INNER JOIN dbo.Sucursal s ON s.Sucursal_ID = d.Sucursal_ID
-    INNER JOIN dbo.Periodo p ON p.Periodo_ID = d.Periodo_ID
+    INNER JOIN dbo.Sucursal s ON s.Sucursal_ID = d.FactDesembolsoCobro_SucursalID
+    INNER JOIN dbo.Periodo p ON p.Periodo_ID = d.FactDesembolsoCobro_PeriodoID
     WHERE s.Sucursal_Nombre = @Sucursal_Nombre
       AND (@Anio IS NULL OR p.Periodo_Anio = @Anio)
     ORDER BY p.Periodo_Anio, p.Periodo_MesNumero;
@@ -166,14 +166,14 @@ BEGIN
     SELECT TOP (@Top)
            de.Destino_Nombre,
            de.Destino_TipoOperacion,
-           SUM(m.Valores_RD) AS Total_Valores_RD,
-           SUM(m.Beneficiados) AS Total_Beneficiados
+           SUM(m.FactMontoDestino_ValoresRD) AS TotalValoresRD,
+           SUM(m.FactMontoDestino_Beneficiados) AS TotalBeneficiados
     FROM dbo.FactMontoDestino m
-    INNER JOIN dbo.Destino de ON de.Destino_ID = m.Destino_ID
-    INNER JOIN dbo.Periodo p ON p.Periodo_ID = m.Periodo_ID
+    INNER JOIN dbo.Destino de ON de.Destino_ID = m.FactMontoDestino_DestinoID
+    INNER JOIN dbo.Periodo p ON p.Periodo_ID = m.FactMontoDestino_PeriodoID
     WHERE @Anio IS NULL OR p.Periodo_Anio = @Anio
     GROUP BY de.Destino_Nombre, de.Destino_TipoOperacion
-    ORDER BY Total_Valores_RD DESC;
+    ORDER BY TotalValoresRD DESC;
 END;
 GO
 
@@ -187,10 +187,10 @@ BEGIN
     SET NOCOUNT ON;
 
     UPDATE c
-    SET c.Valor_RD = @NuevoValor_RD
+    SET c.FactCarteraPrestamo_ValorRD = @NuevoValor_RD
     FROM dbo.FactCarteraPrestamo c
-    INNER JOIN dbo.Sucursal s ON s.Sucursal_ID = c.Sucursal_ID
-    INNER JOIN dbo.Periodo p ON p.Periodo_ID = c.Periodo_ID
+    INNER JOIN dbo.Sucursal s ON s.Sucursal_ID = c.FactCarteraPrestamo_SucursalID
+    INNER JOIN dbo.Periodo p ON p.Periodo_ID = c.FactCarteraPrestamo_PeriodoID
     WHERE s.Sucursal_Nombre = @Sucursal_Nombre
       AND p.Periodo_Anio = @Anio
       AND p.Periodo_MesNumero = @MesNumero;
@@ -207,11 +207,11 @@ BEGIN
     SELECT
         p.Periodo_Anio,
         p.Periodo_MesNombre,
-        (SELECT SUM(Valor_RD) FROM dbo.FactCarteraPrestamo c WHERE c.Periodo_ID = p.Periodo_ID) AS Cartera_RD,
-        (SELECT SUM(Tareas) FROM dbo.FactAreaFinanciada a WHERE a.Periodo_ID = p.Periodo_ID) AS Tareas,
-        (SELECT SUM(Desembolsos_RD) FROM dbo.FactDesembolsoCobro d WHERE d.Periodo_ID = p.Periodo_ID) AS Desembolsos_RD,
-        (SELECT SUM(Cobros_RD) FROM dbo.FactDesembolsoCobro d WHERE d.Periodo_ID = p.Periodo_ID) AS Cobros_RD,
-        (SELECT SUM(Valores_RD) FROM dbo.FactMontoDestino m WHERE m.Periodo_ID = p.Periodo_ID) AS Monto_Destinos_RD
+        (SELECT SUM(FactCarteraPrestamo_ValorRD) FROM dbo.FactCarteraPrestamo c WHERE c.FactCarteraPrestamo_PeriodoID = p.Periodo_ID) AS CarteraRD,
+        (SELECT SUM(FactAreaFinanciada_Tareas) FROM dbo.FactAreaFinanciada a WHERE a.FactAreaFinanciada_PeriodoID = p.Periodo_ID) AS Tareas,
+        (SELECT SUM(FactDesembolsoCobro_DesembolsosRD) FROM dbo.FactDesembolsoCobro d WHERE d.FactDesembolsoCobro_PeriodoID = p.Periodo_ID) AS DesembolsosRD,
+        (SELECT SUM(FactDesembolsoCobro_CobrosRD) FROM dbo.FactDesembolsoCobro d WHERE d.FactDesembolsoCobro_PeriodoID = p.Periodo_ID) AS CobrosRD,
+        (SELECT SUM(FactMontoDestino_ValoresRD) FROM dbo.FactMontoDestino m WHERE m.FactMontoDestino_PeriodoID = p.Periodo_ID) AS MontoDestinosRD
     FROM dbo.Periodo p
     WHERE p.Periodo_Anio = @Anio
       AND p.Periodo_MesNumero = @MesNumero;

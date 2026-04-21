@@ -28,38 +28,38 @@
 <rect x="550" y="95" width="390" height="245" rx="8" fill="#ffffff" stroke="#23684a" stroke-width="2"/>
 <rect x="550" y="95" width="390" height="34" rx="8" fill="#23684a"/>
 <text x="562" y="118" font-size="14" font-weight="700" fill="#ffffff">dbo.FactCarteraPrestamo</text>
-<text x="562" y="153" font-size="12" font-weight="400" fill="#17201b">Cartera_ID INT IDENTITY PK</text>
-<text x="562" y="175" font-size="12" font-weight="400" fill="#17201b">Sucursal_ID INT FK</text>
-<text x="562" y="197" font-size="12" font-weight="400" fill="#17201b">Periodo_ID INT FK</text>
-<text x="562" y="219" font-size="12" font-weight="400" fill="#17201b">Valor_RD DECIMAL(18,2)</text>
+<text x="562" y="153" font-size="12" font-weight="400" fill="#17201b">FactCarteraPrestamo_ID INT IDENTITY PK</text>
+<text x="562" y="175" font-size="12" font-weight="400" fill="#17201b">FactCarteraPrestamo_SucursalID INT FK</text>
+<text x="562" y="197" font-size="12" font-weight="400" fill="#17201b">FactCarteraPrestamo_PeriodoID INT FK</text>
+<text x="562" y="219" font-size="12" font-weight="400" fill="#17201b">FactCarteraPrestamo_ValorRD DECIMAL(18,2)</text>
 <text x="562" y="241" font-size="12" font-weight="400" fill="#17201b">UQ(Sucursal, Periodo)</text>
 <text x="562" y="263" font-size="12" font-weight="400" fill="#17201b">IX por Periodo/Sucursal</text>
 <rect x="550" y="385" width="390" height="245" rx="8" fill="#ffffff" stroke="#2b7c83" stroke-width="2"/>
 <rect x="550" y="385" width="390" height="34" rx="8" fill="#2b7c83"/>
 <text x="562" y="408" font-size="14" font-weight="700" fill="#ffffff">dbo.FactAreaFinanciada</text>
-<text x="562" y="443" font-size="12" font-weight="400" fill="#17201b">AreaFinanciada_ID INT IDENTITY PK</text>
-<text x="562" y="465" font-size="12" font-weight="400" fill="#17201b">Sucursal_ID INT FK</text>
-<text x="562" y="487" font-size="12" font-weight="400" fill="#17201b">Periodo_ID INT FK</text>
-<text x="562" y="509" font-size="12" font-weight="400" fill="#17201b">Tareas DECIMAL(18,2)</text>
-<text x="562" y="531" font-size="12" font-weight="400" fill="#17201b">Valor_RD DECIMAL(18,2)</text>
+<text x="562" y="443" font-size="12" font-weight="400" fill="#17201b">FactAreaFinanciada_ID INT IDENTITY PK</text>
+<text x="562" y="465" font-size="12" font-weight="400" fill="#17201b">FactAreaFinanciada_SucursalID INT FK</text>
+<text x="562" y="487" font-size="12" font-weight="400" fill="#17201b">FactAreaFinanciada_PeriodoID INT FK</text>
+<text x="562" y="509" font-size="12" font-weight="400" fill="#17201b">FactAreaFinanciada_Tareas DECIMAL(18,2)</text>
+<text x="562" y="531" font-size="12" font-weight="400" fill="#17201b">FactAreaFinanciada_ValorRD DECIMAL(18,2)</text>
 <text x="562" y="553" font-size="12" font-weight="400" fill="#17201b">UQ(Sucursal, Periodo)</text>
 <rect x="550" y="675" width="390" height="245" rx="8" fill="#ffffff" stroke="#b85b4a" stroke-width="2"/>
 <rect x="550" y="675" width="390" height="34" rx="8" fill="#b85b4a"/>
 <text x="562" y="698" font-size="14" font-weight="700" fill="#ffffff">dbo.FactDesembolsoCobro</text>
-<text x="562" y="733" font-size="12" font-weight="400" fill="#17201b">DesembolsoCobro_ID INT IDENTITY PK</text>
-<text x="562" y="755" font-size="12" font-weight="400" fill="#17201b">Sucursal_ID INT FK</text>
-<text x="562" y="777" font-size="12" font-weight="400" fill="#17201b">Periodo_ID INT FK</text>
-<text x="562" y="799" font-size="12" font-weight="400" fill="#17201b">Desembolsos_RD DECIMAL(18,2)</text>
-<text x="562" y="821" font-size="12" font-weight="400" fill="#17201b">Cobros_RD DECIMAL(18,2)</text>
-<text x="562" y="843" font-size="12" font-weight="400" fill="#17201b">Balance_Neto computed</text>
+<text x="562" y="733" font-size="12" font-weight="400" fill="#17201b">FactDesembolsoCobro_ID INT IDENTITY PK</text>
+<text x="562" y="755" font-size="12" font-weight="400" fill="#17201b">FactDesembolsoCobro_SucursalID INT FK</text>
+<text x="562" y="777" font-size="12" font-weight="400" fill="#17201b">FactDesembolsoCobro_PeriodoID INT FK</text>
+<text x="562" y="799" font-size="12" font-weight="400" fill="#17201b">FactDesembolsoCobro_DesembolsosRD DECIMAL</text>
+<text x="562" y="821" font-size="12" font-weight="400" fill="#17201b">FactDesembolsoCobro_CobrosRD DECIMAL</text>
+<text x="562" y="843" font-size="12" font-weight="400" fill="#17201b">FactDesembolsoCobro_BalanceNetoRD computed</text>
 <rect x="1110" y="255" width="410" height="245" rx="8" fill="#ffffff" stroke="#c4962e" stroke-width="2"/>
 <rect x="1110" y="255" width="410" height="34" rx="8" fill="#c4962e"/>
 <text x="1122" y="278" font-size="14" font-weight="700" fill="#ffffff">dbo.FactMontoDestino</text>
-<text x="1122" y="313" font-size="12" font-weight="400" fill="#17201b">MontoDestino_ID INT IDENTITY PK</text>
-<text x="1122" y="335" font-size="12" font-weight="400" fill="#17201b">Destino_ID INT FK</text>
-<text x="1122" y="357" font-size="12" font-weight="400" fill="#17201b">Periodo_ID INT FK</text>
-<text x="1122" y="379" font-size="12" font-weight="400" fill="#17201b">Valores_RD DECIMAL(18,2)</text>
-<text x="1122" y="401" font-size="12" font-weight="400" fill="#17201b">Beneficiados INT</text>
+<text x="1122" y="313" font-size="12" font-weight="400" fill="#17201b">FactMontoDestino_ID INT IDENTITY PK</text>
+<text x="1122" y="335" font-size="12" font-weight="400" fill="#17201b">FactMontoDestino_DestinoID INT FK</text>
+<text x="1122" y="357" font-size="12" font-weight="400" fill="#17201b">FactMontoDestino_PeriodoID INT FK</text>
+<text x="1122" y="379" font-size="12" font-weight="400" fill="#17201b">FactMontoDestino_ValoresRD DECIMAL(18,2)</text>
+<text x="1122" y="401" font-size="12" font-weight="400" fill="#17201b">FactMontoDestino_Beneficiados INT</text>
 <text x="1122" y="423" font-size="12" font-weight="400" fill="#17201b">UQ(Destino, Periodo)</text>
 <rect x="1110" y="570" width="410" height="220" rx="8" fill="#ffffff" stroke="#738079" stroke-width="2"/>
 <rect x="1110" y="570" width="410" height="34" rx="8" fill="#738079"/>

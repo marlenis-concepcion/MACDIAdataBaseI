@@ -25,31 +25,31 @@
 <rect x="580" y="95" width="360" height="180" rx="8" fill="#ffffff" stroke="#23684a" stroke-width="2"/>
 <rect x="580" y="95" width="360" height="34" rx="8" fill="#23684a"/>
 <text x="592" y="118" font-size="14" font-weight="700" fill="#ffffff">FactCarteraPrestamo</text>
-<text x="592" y="153" font-size="12" font-weight="400" fill="#17201b">PK Cartera_ID</text>
-<text x="592" y="175" font-size="12" font-weight="400" fill="#17201b">FK Sucursal_ID</text>
-<text x="592" y="197" font-size="12" font-weight="400" fill="#17201b">FK Periodo_ID</text>
-<text x="592" y="219" font-size="12" font-weight="400" fill="#17201b">Cantidad, Valor_RD</text>
+<text x="592" y="153" font-size="12" font-weight="400" fill="#17201b">PK FactCarteraPrestamo_ID</text>
+<text x="592" y="175" font-size="12" font-weight="400" fill="#17201b">FK FactCarteraPrestamo_SucursalID</text>
+<text x="592" y="197" font-size="12" font-weight="400" fill="#17201b">FK FactCarteraPrestamo_PeriodoID</text>
+<text x="592" y="219" font-size="12" font-weight="400" fill="#17201b">CantidadPrestamos, ValorRD</text>
 <rect x="580" y="310" width="360" height="190" rx="8" fill="#ffffff" stroke="#2b7c83" stroke-width="2"/>
 <rect x="580" y="310" width="360" height="34" rx="8" fill="#2b7c83"/>
 <text x="592" y="333" font-size="14" font-weight="700" fill="#ffffff">FactAreaFinanciada</text>
-<text x="592" y="368" font-size="12" font-weight="400" fill="#17201b">PK AreaFinanciada_ID</text>
-<text x="592" y="390" font-size="12" font-weight="400" fill="#17201b">FK Sucursal_ID</text>
-<text x="592" y="412" font-size="12" font-weight="400" fill="#17201b">FK Periodo_ID</text>
-<text x="592" y="434" font-size="12" font-weight="400" fill="#17201b">Tareas, Prestamos, Valor</text>
+<text x="592" y="368" font-size="12" font-weight="400" fill="#17201b">PK FactAreaFinanciada_ID</text>
+<text x="592" y="390" font-size="12" font-weight="400" fill="#17201b">FK FactAreaFinanciada_SucursalID</text>
+<text x="592" y="412" font-size="12" font-weight="400" fill="#17201b">FK FactAreaFinanciada_PeriodoID</text>
+<text x="592" y="434" font-size="12" font-weight="400" fill="#17201b">Tareas, CantidadPrestamos, ValorRD</text>
 <rect x="580" y="545" width="360" height="190" rx="8" fill="#ffffff" stroke="#b85b4a" stroke-width="2"/>
 <rect x="580" y="545" width="360" height="34" rx="8" fill="#b85b4a"/>
 <text x="592" y="568" font-size="14" font-weight="700" fill="#ffffff">FactDesembolsoCobro</text>
-<text x="592" y="603" font-size="12" font-weight="400" fill="#17201b">PK DesembolsoCobro_ID</text>
-<text x="592" y="625" font-size="12" font-weight="400" fill="#17201b">FK Sucursal_ID</text>
-<text x="592" y="647" font-size="12" font-weight="400" fill="#17201b">FK Periodo_ID</text>
-<text x="592" y="669" font-size="12" font-weight="400" fill="#17201b">Desembolsos, Cobros</text>
+<text x="592" y="603" font-size="12" font-weight="400" fill="#17201b">PK FactDesembolsoCobro_ID</text>
+<text x="592" y="625" font-size="12" font-weight="400" fill="#17201b">FK FactDesembolsoCobro_SucursalID</text>
+<text x="592" y="647" font-size="12" font-weight="400" fill="#17201b">FK FactDesembolsoCobro_PeriodoID</text>
+<text x="592" y="669" font-size="12" font-weight="400" fill="#17201b">DesembolsosRD, CobrosRD</text>
 <rect x="1080" y="310" width="360" height="190" rx="8" fill="#ffffff" stroke="#c4962e" stroke-width="2"/>
 <rect x="1080" y="310" width="360" height="34" rx="8" fill="#c4962e"/>
 <text x="1092" y="333" font-size="14" font-weight="700" fill="#ffffff">FactMontoDestino</text>
-<text x="1092" y="368" font-size="12" font-weight="400" fill="#17201b">PK MontoDestino_ID</text>
-<text x="1092" y="390" font-size="12" font-weight="400" fill="#17201b">FK Destino_ID</text>
-<text x="1092" y="412" font-size="12" font-weight="400" fill="#17201b">FK Periodo_ID</text>
-<text x="1092" y="434" font-size="12" font-weight="400" fill="#17201b">Cantidad, Valores, Beneficiados</text>
+<text x="1092" y="368" font-size="12" font-weight="400" fill="#17201b">PK FactMontoDestino_ID</text>
+<text x="1092" y="390" font-size="12" font-weight="400" fill="#17201b">FK FactMontoDestino_DestinoID</text>
+<text x="1092" y="412" font-size="12" font-weight="400" fill="#17201b">FK FactMontoDestino_PeriodoID</text>
+<text x="1092" y="434" font-size="12" font-weight="400" fill="#17201b">Cantidad, ValoresRD, Beneficiados</text>
 <g stroke="#738079" stroke-width="2" fill="none">
   <line x1="370" y1="180" x2="580" y2="185"/>
   <line x1="370" y1="180" x2="580" y2="405"/>

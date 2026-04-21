@@ -86,122 +86,122 @@ GO
 
 CREATE TABLE dbo.FactCarteraPrestamo
 (
-    Cartera_ID          INT IDENTITY(1,1) NOT NULL,
-    Sucursal_ID         INT NOT NULL,
-    Periodo_ID          INT NOT NULL,
-    Cantidad_Prestamos  INT NOT NULL,
-    Valor_RD            DECIMAL(18,2) NOT NULL,
-    FuenteDato_ID       INT NOT NULL,
-    Fecha_Carga         DATETIME2(0) NOT NULL CONSTRAINT DF_FactCartera_FechaCarga DEFAULT SYSDATETIME(),
-    CONSTRAINT PK_FactCarteraPrestamo PRIMARY KEY CLUSTERED (Cartera_ID),
-    CONSTRAINT FK_FactCartera_Sucursal FOREIGN KEY (Sucursal_ID) REFERENCES dbo.Sucursal(Sucursal_ID),
-    CONSTRAINT FK_FactCartera_Periodo FOREIGN KEY (Periodo_ID) REFERENCES dbo.Periodo(Periodo_ID),
-    CONSTRAINT FK_FactCartera_FuenteDato FOREIGN KEY (FuenteDato_ID) REFERENCES dbo.FuenteDato(FuenteDato_ID),
-    CONSTRAINT UQ_FactCartera_SucursalPeriodo UNIQUE (Sucursal_ID, Periodo_ID),
-    CONSTRAINT CK_FactCartera_Cantidad CHECK (Cantidad_Prestamos >= 0),
-    CONSTRAINT CK_FactCartera_Valor CHECK (Valor_RD >= 0)
+    FactCarteraPrestamo_ID          INT IDENTITY(1,1) NOT NULL,
+    FactCarteraPrestamo_SucursalID         INT NOT NULL,
+    FactCarteraPrestamo_PeriodoID          INT NOT NULL,
+    FactCarteraPrestamo_CantidadPrestamos  INT NOT NULL,
+    FactCarteraPrestamo_ValorRD            DECIMAL(18,2) NOT NULL,
+    FactCarteraPrestamo_FuenteDatoID       INT NOT NULL,
+    FactCarteraPrestamo_FechaCarga         DATETIME2(0) NOT NULL CONSTRAINT DF_FactCartera_FechaCarga DEFAULT SYSDATETIME(),
+    CONSTRAINT PK_FactCarteraPrestamo PRIMARY KEY CLUSTERED (FactCarteraPrestamo_ID),
+    CONSTRAINT FK_FactCartera_Sucursal FOREIGN KEY (FactCarteraPrestamo_SucursalID) REFERENCES dbo.Sucursal(Sucursal_ID),
+    CONSTRAINT FK_FactCartera_Periodo FOREIGN KEY (FactCarteraPrestamo_PeriodoID) REFERENCES dbo.Periodo(Periodo_ID),
+    CONSTRAINT FK_FactCartera_FuenteDato FOREIGN KEY (FactCarteraPrestamo_FuenteDatoID) REFERENCES dbo.FuenteDato(FuenteDato_ID),
+    CONSTRAINT UQ_FactCartera_SucursalPeriodo UNIQUE (FactCarteraPrestamo_SucursalID, FactCarteraPrestamo_PeriodoID),
+    CONSTRAINT CK_FactCartera_Cantidad CHECK (FactCarteraPrestamo_CantidadPrestamos >= 0),
+    CONSTRAINT CK_FactCartera_Valor CHECK (FactCarteraPrestamo_ValorRD >= 0)
 );
 GO
 
 CREATE TABLE dbo.FactAreaFinanciada
 (
-    AreaFinanciada_ID   INT IDENTITY(1,1) NOT NULL,
-    Sucursal_ID         INT NOT NULL,
-    Periodo_ID          INT NOT NULL,
-    Tareas              DECIMAL(18,2) NOT NULL,
-    Cantidad_Prestamos  INT NOT NULL,
-    Valor_RD            DECIMAL(18,2) NOT NULL,
-    FuenteDato_ID       INT NOT NULL,
-    Fecha_Carga         DATETIME2(0) NOT NULL CONSTRAINT DF_FactArea_FechaCarga DEFAULT SYSDATETIME(),
-    CONSTRAINT PK_FactAreaFinanciada PRIMARY KEY CLUSTERED (AreaFinanciada_ID),
-    CONSTRAINT FK_FactArea_Sucursal FOREIGN KEY (Sucursal_ID) REFERENCES dbo.Sucursal(Sucursal_ID),
-    CONSTRAINT FK_FactArea_Periodo FOREIGN KEY (Periodo_ID) REFERENCES dbo.Periodo(Periodo_ID),
-    CONSTRAINT FK_FactArea_FuenteDato FOREIGN KEY (FuenteDato_ID) REFERENCES dbo.FuenteDato(FuenteDato_ID),
-    CONSTRAINT UQ_FactArea_SucursalPeriodo UNIQUE (Sucursal_ID, Periodo_ID),
-    CONSTRAINT CK_FactArea_Tareas CHECK (Tareas >= 0),
-    CONSTRAINT CK_FactArea_Cantidad CHECK (Cantidad_Prestamos >= 0),
-    CONSTRAINT CK_FactArea_Valor CHECK (Valor_RD >= 0)
+    FactAreaFinanciada_ID   INT IDENTITY(1,1) NOT NULL,
+    FactAreaFinanciada_SucursalID         INT NOT NULL,
+    FactAreaFinanciada_PeriodoID          INT NOT NULL,
+    FactAreaFinanciada_Tareas              DECIMAL(18,2) NOT NULL,
+    FactAreaFinanciada_CantidadPrestamos  INT NOT NULL,
+    FactAreaFinanciada_ValorRD            DECIMAL(18,2) NOT NULL,
+    FactAreaFinanciada_FuenteDatoID       INT NOT NULL,
+    FactAreaFinanciada_FechaCarga         DATETIME2(0) NOT NULL CONSTRAINT DF_FactArea_FechaCarga DEFAULT SYSDATETIME(),
+    CONSTRAINT PK_FactAreaFinanciada PRIMARY KEY CLUSTERED (FactAreaFinanciada_ID),
+    CONSTRAINT FK_FactArea_Sucursal FOREIGN KEY (FactAreaFinanciada_SucursalID) REFERENCES dbo.Sucursal(Sucursal_ID),
+    CONSTRAINT FK_FactArea_Periodo FOREIGN KEY (FactAreaFinanciada_PeriodoID) REFERENCES dbo.Periodo(Periodo_ID),
+    CONSTRAINT FK_FactArea_FuenteDato FOREIGN KEY (FactAreaFinanciada_FuenteDatoID) REFERENCES dbo.FuenteDato(FuenteDato_ID),
+    CONSTRAINT UQ_FactArea_SucursalPeriodo UNIQUE (FactAreaFinanciada_SucursalID, FactAreaFinanciada_PeriodoID),
+    CONSTRAINT CK_FactArea_Tareas CHECK (FactAreaFinanciada_Tareas >= 0),
+    CONSTRAINT CK_FactArea_Cantidad CHECK (FactAreaFinanciada_CantidadPrestamos >= 0),
+    CONSTRAINT CK_FactArea_Valor CHECK (FactAreaFinanciada_ValorRD >= 0)
 );
 GO
 
 CREATE TABLE dbo.FactDesembolsoCobro
 (
-    DesembolsoCobro_ID  INT IDENTITY(1,1) NOT NULL,
-    Sucursal_ID         INT NOT NULL,
-    Periodo_ID          INT NOT NULL,
-    Desembolsos_RD      DECIMAL(18,2) NOT NULL,
-    Cobros_RD           DECIMAL(18,2) NOT NULL,
-    Balance_Neto_RD     AS (Desembolsos_RD - Cobros_RD) PERSISTED,
-    FuenteDato_ID       INT NOT NULL,
-    Fecha_Carga         DATETIME2(0) NOT NULL CONSTRAINT DF_FactDesembolso_FechaCarga DEFAULT SYSDATETIME(),
-    CONSTRAINT PK_FactDesembolsoCobro PRIMARY KEY CLUSTERED (DesembolsoCobro_ID),
-    CONSTRAINT FK_FactDesembolso_Sucursal FOREIGN KEY (Sucursal_ID) REFERENCES dbo.Sucursal(Sucursal_ID),
-    CONSTRAINT FK_FactDesembolso_Periodo FOREIGN KEY (Periodo_ID) REFERENCES dbo.Periodo(Periodo_ID),
-    CONSTRAINT FK_FactDesembolso_FuenteDato FOREIGN KEY (FuenteDato_ID) REFERENCES dbo.FuenteDato(FuenteDato_ID),
-    CONSTRAINT UQ_FactDesembolso_SucursalPeriodo UNIQUE (Sucursal_ID, Periodo_ID),
-    CONSTRAINT CK_FactDesembolso_Desembolsos CHECK (Desembolsos_RD >= 0),
-    CONSTRAINT CK_FactDesembolso_Cobros CHECK (Cobros_RD >= 0)
+    FactDesembolsoCobro_ID  INT IDENTITY(1,1) NOT NULL,
+    FactDesembolsoCobro_SucursalID         INT NOT NULL,
+    FactDesembolsoCobro_PeriodoID          INT NOT NULL,
+    FactDesembolsoCobro_DesembolsosRD      DECIMAL(18,2) NOT NULL,
+    FactDesembolsoCobro_CobrosRD           DECIMAL(18,2) NOT NULL,
+    FactDesembolsoCobro_BalanceNetoRD     AS (FactDesembolsoCobro_DesembolsosRD - FactDesembolsoCobro_CobrosRD) PERSISTED,
+    FactDesembolsoCobro_FuenteDatoID       INT NOT NULL,
+    FactDesembolsoCobro_FechaCarga         DATETIME2(0) NOT NULL CONSTRAINT DF_FactDesembolso_FechaCarga DEFAULT SYSDATETIME(),
+    CONSTRAINT PK_FactDesembolsoCobro PRIMARY KEY CLUSTERED (FactDesembolsoCobro_ID),
+    CONSTRAINT FK_FactDesembolso_Sucursal FOREIGN KEY (FactDesembolsoCobro_SucursalID) REFERENCES dbo.Sucursal(Sucursal_ID),
+    CONSTRAINT FK_FactDesembolso_Periodo FOREIGN KEY (FactDesembolsoCobro_PeriodoID) REFERENCES dbo.Periodo(Periodo_ID),
+    CONSTRAINT FK_FactDesembolso_FuenteDato FOREIGN KEY (FactDesembolsoCobro_FuenteDatoID) REFERENCES dbo.FuenteDato(FuenteDato_ID),
+    CONSTRAINT UQ_FactDesembolso_SucursalPeriodo UNIQUE (FactDesembolsoCobro_SucursalID, FactDesembolsoCobro_PeriodoID),
+    CONSTRAINT CK_FactDesembolso_Desembolsos CHECK (FactDesembolsoCobro_DesembolsosRD >= 0),
+    CONSTRAINT CK_FactDesembolso_Cobros CHECK (FactDesembolsoCobro_CobrosRD >= 0)
 );
 GO
 
 CREATE TABLE dbo.FactMontoDestino
 (
-    MontoDestino_ID  INT IDENTITY(1,1) NOT NULL,
-    Destino_ID       INT NOT NULL,
-    Periodo_ID       INT NOT NULL,
-    Cantidad         INT NOT NULL,
-    Valores_RD       DECIMAL(18,2) NOT NULL,
-    Tareas           DECIMAL(18,2) NOT NULL,
-    Beneficiados     INT NOT NULL,
-    FuenteDato_ID    INT NOT NULL,
-    Fecha_Carga      DATETIME2(0) NOT NULL CONSTRAINT DF_FactMontoDestino_FechaCarga DEFAULT SYSDATETIME(),
-    CONSTRAINT PK_FactMontoDestino PRIMARY KEY CLUSTERED (MontoDestino_ID),
-    CONSTRAINT FK_FactMontoDestino_Destino FOREIGN KEY (Destino_ID) REFERENCES dbo.Destino(Destino_ID),
-    CONSTRAINT FK_FactMontoDestino_Periodo FOREIGN KEY (Periodo_ID) REFERENCES dbo.Periodo(Periodo_ID),
-    CONSTRAINT FK_FactMontoDestino_FuenteDato FOREIGN KEY (FuenteDato_ID) REFERENCES dbo.FuenteDato(FuenteDato_ID),
-    CONSTRAINT UQ_FactMontoDestino_DestinoPeriodo UNIQUE (Destino_ID, Periodo_ID),
-    CONSTRAINT CK_FactMontoDestino_Cantidad CHECK (Cantidad >= 0),
-    CONSTRAINT CK_FactMontoDestino_Valores CHECK (Valores_RD >= 0),
-    CONSTRAINT CK_FactMontoDestino_Tareas CHECK (Tareas >= 0),
-    CONSTRAINT CK_FactMontoDestino_Beneficiados CHECK (Beneficiados >= 0)
+    FactMontoDestino_ID  INT IDENTITY(1,1) NOT NULL,
+    FactMontoDestino_DestinoID       INT NOT NULL,
+    FactMontoDestino_PeriodoID       INT NOT NULL,
+    FactMontoDestino_Cantidad         INT NOT NULL,
+    FactMontoDestino_ValoresRD       DECIMAL(18,2) NOT NULL,
+    FactMontoDestino_Tareas           DECIMAL(18,2) NOT NULL,
+    FactMontoDestino_Beneficiados     INT NOT NULL,
+    FactMontoDestino_FuenteDatoID    INT NOT NULL,
+    FactMontoDestino_FechaCarga      DATETIME2(0) NOT NULL CONSTRAINT DF_FactMontoDestino_FechaCarga DEFAULT SYSDATETIME(),
+    CONSTRAINT PK_FactMontoDestino PRIMARY KEY CLUSTERED (FactMontoDestino_ID),
+    CONSTRAINT FK_FactMontoDestino_Destino FOREIGN KEY (FactMontoDestino_DestinoID) REFERENCES dbo.Destino(Destino_ID),
+    CONSTRAINT FK_FactMontoDestino_Periodo FOREIGN KEY (FactMontoDestino_PeriodoID) REFERENCES dbo.Periodo(Periodo_ID),
+    CONSTRAINT FK_FactMontoDestino_FuenteDato FOREIGN KEY (FactMontoDestino_FuenteDatoID) REFERENCES dbo.FuenteDato(FuenteDato_ID),
+    CONSTRAINT UQ_FactMontoDestino_DestinoPeriodo UNIQUE (FactMontoDestino_DestinoID, FactMontoDestino_PeriodoID),
+    CONSTRAINT CK_FactMontoDestino_Cantidad CHECK (FactMontoDestino_Cantidad >= 0),
+    CONSTRAINT CK_FactMontoDestino_Valores CHECK (FactMontoDestino_ValoresRD >= 0),
+    CONSTRAINT CK_FactMontoDestino_Tareas CHECK (FactMontoDestino_Tareas >= 0),
+    CONSTRAINT CK_FactMontoDestino_Beneficiados CHECK (FactMontoDestino_Beneficiados >= 0)
 );
 GO
 
 CREATE TABLE dbo.CarteraPrestamoHistorico
 (
-    Historico_ID             INT IDENTITY(1,1) NOT NULL,
-    Cartera_ID               INT NOT NULL,
-    Sucursal_ID              INT NOT NULL,
-    Periodo_ID               INT NOT NULL,
-    Cantidad_Prestamos_Ant   INT NOT NULL,
-    Valor_RD_Ant             DECIMAL(18,2) NOT NULL,
-    Fecha_Historico          DATETIME2(0) NOT NULL CONSTRAINT DF_CarteraHistorico_Fecha DEFAULT SYSDATETIME(),
-    Usuario_Historico        NVARCHAR(128) NOT NULL CONSTRAINT DF_CarteraHistorico_Usuario DEFAULT SUSER_SNAME(),
-    Motivo                   NVARCHAR(250) NULL,
-    CONSTRAINT PK_CarteraPrestamoHistorico PRIMARY KEY CLUSTERED (Historico_ID)
+    CarteraPrestamoHistorico_ID             INT IDENTITY(1,1) NOT NULL,
+    CarteraPrestamoHistorico_FactCarteraPrestamoID               INT NOT NULL,
+    CarteraPrestamoHistorico_SucursalID              INT NOT NULL,
+    CarteraPrestamoHistorico_PeriodoID               INT NOT NULL,
+    CarteraPrestamoHistorico_CantidadPrestamosAnterior   INT NOT NULL,
+    CarteraPrestamoHistorico_ValorRDAnterior             DECIMAL(18,2) NOT NULL,
+    CarteraPrestamoHistorico_Fecha          DATETIME2(0) NOT NULL CONSTRAINT DF_CarteraHistorico_Fecha DEFAULT SYSDATETIME(),
+    CarteraPrestamoHistorico_Usuario        NVARCHAR(128) NOT NULL CONSTRAINT DF_CarteraHistorico_Usuario DEFAULT SUSER_SNAME(),
+    CarteraPrestamoHistorico_Motivo                   NVARCHAR(250) NULL,
+    CONSTRAINT PK_CarteraPrestamoHistorico PRIMARY KEY CLUSTERED (CarteraPrestamoHistorico_ID)
 );
 GO
 
 CREATE TABLE dbo.AuditoriaOperacion
 (
-    Auditoria_ID       INT IDENTITY(1,1) NOT NULL,
-    Tabla_Nombre       NVARCHAR(120) NOT NULL,
-    Operacion          NVARCHAR(20) NOT NULL,
-    Registro_ID        INT NULL,
-    Datos_Anteriores   NVARCHAR(MAX) NULL,
-    Datos_Nuevos       NVARCHAR(MAX) NULL,
-    Usuario_Operacion  NVARCHAR(128) NOT NULL CONSTRAINT DF_Auditoria_Usuario DEFAULT SUSER_SNAME(),
-    Fecha_Operacion    DATETIME2(0) NOT NULL CONSTRAINT DF_Auditoria_Fecha DEFAULT SYSDATETIME(),
-    CONSTRAINT PK_AuditoriaOperacion PRIMARY KEY CLUSTERED (Auditoria_ID),
-    CONSTRAINT CK_Auditoria_Operacion CHECK (Operacion IN (N'INSERT', N'UPDATE', N'DELETE'))
+    AuditoriaOperacion_ID       INT IDENTITY(1,1) NOT NULL,
+    AuditoriaOperacion_TablaNombre       NVARCHAR(120) NOT NULL,
+    AuditoriaOperacion_Operacion          NVARCHAR(20) NOT NULL,
+    AuditoriaOperacion_RegistroID        INT NULL,
+    AuditoriaOperacion_DatosAnteriores   NVARCHAR(MAX) NULL,
+    AuditoriaOperacion_DatosNuevos       NVARCHAR(MAX) NULL,
+    AuditoriaOperacion_Usuario  NVARCHAR(128) NOT NULL CONSTRAINT DF_Auditoria_Usuario DEFAULT SUSER_SNAME(),
+    AuditoriaOperacion_Fecha    DATETIME2(0) NOT NULL CONSTRAINT DF_Auditoria_Fecha DEFAULT SYSDATETIME(),
+    CONSTRAINT PK_AuditoriaOperacion PRIMARY KEY CLUSTERED (AuditoriaOperacion_ID),
+    CONSTRAINT CK_Auditoria_Operacion CHECK (AuditoriaOperacion_Operacion IN (N'INSERT', N'UPDATE', N'DELETE'))
 );
 GO
 
-CREATE INDEX IX_FactCartera_Periodo ON dbo.FactCarteraPrestamo(Periodo_ID) INCLUDE (Valor_RD, Cantidad_Prestamos);
-CREATE INDEX IX_FactCartera_Sucursal ON dbo.FactCarteraPrestamo(Sucursal_ID) INCLUDE (Valor_RD);
-CREATE INDEX IX_FactArea_Periodo ON dbo.FactAreaFinanciada(Periodo_ID) INCLUDE (Tareas, Valor_RD);
-CREATE INDEX IX_FactDesembolso_Periodo ON dbo.FactDesembolsoCobro(Periodo_ID) INCLUDE (Desembolsos_RD, Cobros_RD, Balance_Neto_RD);
-CREATE INDEX IX_FactMontoDestino_Periodo ON dbo.FactMontoDestino(Periodo_ID) INCLUDE (Valores_RD, Cantidad, Beneficiados);
+CREATE INDEX IX_FactCartera_Periodo ON dbo.FactCarteraPrestamo(FactCarteraPrestamo_PeriodoID) INCLUDE (FactCarteraPrestamo_ValorRD, FactCarteraPrestamo_CantidadPrestamos);
+CREATE INDEX IX_FactCartera_Sucursal ON dbo.FactCarteraPrestamo(FactCarteraPrestamo_SucursalID) INCLUDE (FactCarteraPrestamo_ValorRD);
+CREATE INDEX IX_FactArea_Periodo ON dbo.FactAreaFinanciada(FactAreaFinanciada_PeriodoID) INCLUDE (FactAreaFinanciada_Tareas, FactAreaFinanciada_ValorRD);
+CREATE INDEX IX_FactDesembolso_Periodo ON dbo.FactDesembolsoCobro(FactDesembolsoCobro_PeriodoID) INCLUDE (FactDesembolsoCobro_DesembolsosRD, FactDesembolsoCobro_CobrosRD, FactDesembolsoCobro_BalanceNetoRD);
+CREATE INDEX IX_FactMontoDestino_Periodo ON dbo.FactMontoDestino(FactMontoDestino_PeriodoID) INCLUDE (FactMontoDestino_ValoresRD, FactMontoDestino_Cantidad, FactMontoDestino_Beneficiados);
 CREATE INDEX IX_Destino_Rubro ON dbo.Destino(Destino_Rubro, Destino_TipoOperacion);
 GO
 
@@ -211,11 +211,11 @@ SELECT
     s.Sucursal_Nombre,
     s.Sucursal_Region,
     p.Periodo_Anio,
-    SUM(c.Cantidad_Prestamos) AS Total_Prestamos,
-    SUM(c.Valor_RD) AS Total_Valor_RD
+    SUM(c.FactCarteraPrestamo_CantidadPrestamos) AS TotalPrestamos,
+    SUM(c.FactCarteraPrestamo_ValorRD) AS TotalValorRD
 FROM dbo.FactCarteraPrestamo c
-INNER JOIN dbo.Sucursal s ON s.Sucursal_ID = c.Sucursal_ID
-INNER JOIN dbo.Periodo p ON p.Periodo_ID = c.Periodo_ID
+INNER JOIN dbo.Sucursal s ON s.Sucursal_ID = c.FactCarteraPrestamo_SucursalID
+INNER JOIN dbo.Periodo p ON p.Periodo_ID = c.FactCarteraPrestamo_PeriodoID
 GROUP BY s.Sucursal_Nombre, s.Sucursal_Region, p.Periodo_Anio;
 GO
 
@@ -225,11 +225,11 @@ SELECT
     p.Periodo_Anio,
     p.Periodo_MesNumero,
     p.Periodo_MesNombre,
-    SUM(d.Desembolsos_RD) AS Total_Desembolsos_RD,
-    SUM(d.Cobros_RD) AS Total_Cobros_RD,
-    SUM(d.Balance_Neto_RD) AS Balance_Neto_RD
+    SUM(d.FactDesembolsoCobro_DesembolsosRD) AS TotalDesembolsosRD,
+    SUM(d.FactDesembolsoCobro_CobrosRD) AS TotalCobrosRD,
+    SUM(d.FactDesembolsoCobro_BalanceNetoRD) AS BalanceNetoRD
 FROM dbo.FactDesembolsoCobro d
-INNER JOIN dbo.Periodo p ON p.Periodo_ID = d.Periodo_ID
+INNER JOIN dbo.Periodo p ON p.Periodo_ID = d.FactDesembolsoCobro_PeriodoID
 GROUP BY p.Periodo_Anio, p.Periodo_MesNumero, p.Periodo_MesNombre;
 GO
 
@@ -240,12 +240,12 @@ SELECT
     d.Destino_Rubro,
     d.Destino_TipoOperacion,
     p.Periodo_Anio,
-    SUM(m.Valores_RD) AS Total_Valores_RD,
-    SUM(m.Cantidad) AS Total_Operaciones,
-    SUM(m.Beneficiados) AS Total_Beneficiados
+    SUM(m.FactMontoDestino_ValoresRD) AS TotalValoresRD,
+    SUM(m.FactMontoDestino_Cantidad) AS TotalOperaciones,
+    SUM(m.FactMontoDestino_Beneficiados) AS TotalBeneficiados
 FROM dbo.FactMontoDestino m
-INNER JOIN dbo.Destino d ON d.Destino_ID = m.Destino_ID
-INNER JOIN dbo.Periodo p ON p.Periodo_ID = m.Periodo_ID
+INNER JOIN dbo.Destino d ON d.Destino_ID = m.FactMontoDestino_DestinoID
+INNER JOIN dbo.Periodo p ON p.Periodo_ID = m.FactMontoDestino_PeriodoID
 GROUP BY d.Destino_Nombre, d.Destino_Rubro, d.Destino_TipoOperacion, p.Periodo_Anio;
 GO
 
@@ -255,11 +255,11 @@ SELECT
     s.Sucursal_Nombre,
     s.Sucursal_Region,
     p.Periodo_Anio,
-    SUM(a.Tareas) AS Total_Tareas,
-    SUM(a.Cantidad_Prestamos) AS Total_Prestamos,
-    SUM(a.Valor_RD) AS Total_Valor_RD
+    SUM(a.FactAreaFinanciada_Tareas) AS TotalTareas,
+    SUM(a.FactAreaFinanciada_CantidadPrestamos) AS TotalPrestamos,
+    SUM(a.FactAreaFinanciada_ValorRD) AS TotalValorRD
 FROM dbo.FactAreaFinanciada a
-INNER JOIN dbo.Sucursal s ON s.Sucursal_ID = a.Sucursal_ID
-INNER JOIN dbo.Periodo p ON p.Periodo_ID = a.Periodo_ID
+INNER JOIN dbo.Sucursal s ON s.Sucursal_ID = a.FactAreaFinanciada_SucursalID
+INNER JOIN dbo.Periodo p ON p.Periodo_ID = a.FactAreaFinanciada_PeriodoID
 GROUP BY s.Sucursal_Nombre, s.Sucursal_Region, p.Periodo_Anio;
 GO

@@ -1,13 +1,13 @@
 erDiagram
-    PERIODO ||--o{ CARTERA_PRESTAMO : agrupa
-    PERIODO ||--o{ AREA_FINANCIADA : agrupa
-    PERIODO ||--o{ DESEMBOLSO_COBRO : agrupa
-    PERIODO ||--o{ MONTO_DESTINO : agrupa
-    SUCURSAL ||--o{ CARTERA_PRESTAMO : registra
-    SUCURSAL ||--o{ AREA_FINANCIADA : registra
-    SUCURSAL ||--o{ DESEMBOLSO_COBRO : registra
-    DESTINO ||--o{ MONTO_DESTINO : clasifica
-    FUENTE_DATO ||--o{ CARTERA_PRESTAMO : documenta
-    FUENTE_DATO ||--o{ AREA_FINANCIADA : documenta
-    FUENTE_DATO ||--o{ DESEMBOLSO_COBRO : documenta
-    FUENTE_DATO ||--o{ MONTO_DESTINO : documenta
+    Periodo ||--o{ FactCarteraPrestamo : agrupa
+    Periodo ||--o{ FactAreaFinanciada : agrupa
+    Periodo ||--o{ FactDesembolsoCobro : agrupa
+    Periodo ||--o{ FactMontoDestino : agrupa
+    Sucursal ||--o{ FactCarteraPrestamo : registra
+    Sucursal ||--o{ FactAreaFinanciada : registra
+    Sucursal ||--o{ FactDesembolsoCobro : registra
+    Destino ||--o{ FactMontoDestino : clasifica
+    FuenteDato ||--o{ FactCarteraPrestamo : documenta
+    FuenteDato ||--o{ FactAreaFinanciada : documenta
+    FuenteDato ||--o{ FactDesembolsoCobro : documenta
+    FuenteDato ||--o{ FactMontoDestino : documenta

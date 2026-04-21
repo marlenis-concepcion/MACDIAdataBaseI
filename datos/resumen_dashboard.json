@@ -1,0 +1,8332 @@
+{
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "totals": {
+    "cartera": 4328206887618,
+    "prestamos": 4505198,
+    "desembolsos": 31595581251,
+    "cobros": 30614020812,
+    "tareas": 11864365,
+    "montos_destino": 241148789863,
+    "beneficiados": 216930
+  },
+  "carteraByBranchYear": [
+    {
+      "branch": "Arenoso",
+      "year": 2017,
+      "value": 2507120741,
+      "loans": 7268
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2018,
+      "value": 4039411660,
+      "loans": 8971
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2019,
+      "value": 3806274639,
+      "loans": 18450
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2020,
+      "value": 4194171523,
+      "loans": 7088
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2021,
+      "value": 4950489707,
+      "loans": 7372
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2022,
+      "value": 6507556921,
+      "loans": 7956
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2023,
+      "value": 10102111990,
+      "loans": 10876
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2024,
+      "value": 11500666216,
+      "loans": 11680
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2025,
+      "value": 12250263299,
+      "loans": 11599
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2026,
+      "value": 3339665179,
+      "loans": 3242
+    },
+    {
+      "branch": "Azua",
+      "year": 2017,
+      "value": 6106767372,
+      "loans": 17812
+    },
+    {
+      "branch": "Azua",
+      "year": 2018,
+      "value": 10140712298,
+      "loans": 20346
+    },
+    {
+      "branch": "Azua",
+      "year": 2019,
+      "value": 8060151153,
+      "loans": 21281
+    },
+    {
+      "branch": "Azua",
+      "year": 2020,
+      "value": 11030425305,
+      "loans": 19533
+    },
+    {
+      "branch": "Azua",
+      "year": 2021,
+      "value": 13724173312,
+      "loans": 20710
+    },
+    {
+      "branch": "Azua",
+      "year": 2022,
+      "value": 15856746464,
+      "loans": 23330
+    },
+    {
+      "branch": "Azua",
+      "year": 2023,
+      "value": 15436221947,
+      "loans": 23630
+    },
+    {
+      "branch": "Azua",
+      "year": 2024,
+      "value": 15402934814,
+      "loans": 24155
+    },
+    {
+      "branch": "Azua",
+      "year": 2025,
+      "value": 14735057729,
+      "loans": 23063
+    },
+    {
+      "branch": "Azua",
+      "year": 2026,
+      "value": 3696078618,
+      "loans": 4993
+    },
+    {
+      "branch": "Baní",
+      "year": 2017,
+      "value": 5008531414,
+      "loans": 7022
+    },
+    {
+      "branch": "Baní",
+      "year": 2018,
+      "value": 7744842645,
+      "loans": 8249
+    },
+    {
+      "branch": "Baní",
+      "year": 2019,
+      "value": 7257264743,
+      "loans": 12740
+    },
+    {
+      "branch": "Baní",
+      "year": 2020,
+      "value": 10549642358,
+      "loans": 7169
+    },
+    {
+      "branch": "Baní",
+      "year": 2021,
+      "value": 15196041967,
+      "loans": 9308
+    },
+    {
+      "branch": "Baní",
+      "year": 2022,
+      "value": 18127430459,
+      "loans": 11260
+    },
+    {
+      "branch": "Baní",
+      "year": 2023,
+      "value": 23077848833,
+      "loans": 13268
+    },
+    {
+      "branch": "Baní",
+      "year": 2024,
+      "value": 25837700269,
+      "loans": 14304
+    },
+    {
+      "branch": "Baní",
+      "year": 2025,
+      "value": 27971797747,
+      "loans": 14580
+    },
+    {
+      "branch": "Baní",
+      "year": 2026,
+      "value": 8369299954,
+      "loans": 3690
+    },
+    {
+      "branch": "Barahona",
+      "year": 2017,
+      "value": 5203451635,
+      "loans": 19339
+    },
+    {
+      "branch": "Barahona",
+      "year": 2018,
+      "value": 8181933174,
+      "loans": 24318
+    },
+    {
+      "branch": "Barahona",
+      "year": 2019,
+      "value": 17343697553,
+      "loans": 39775
+    },
+    {
+      "branch": "Barahona",
+      "year": 2020,
+      "value": 10094505822,
+      "loans": 17637
+    },
+    {
+      "branch": "Barahona",
+      "year": 2021,
+      "value": 12819736663,
+      "loans": 21905
+    },
+    {
+      "branch": "Barahona",
+      "year": 2022,
+      "value": 13745142280,
+      "loans": 21810
+    },
+    {
+      "branch": "Barahona",
+      "year": 2023,
+      "value": 16748789778,
+      "loans": 24548
+    },
+    {
+      "branch": "Barahona",
+      "year": 2024,
+      "value": 20598909194,
+      "loans": 30307
+    },
+    {
+      "branch": "Barahona",
+      "year": 2025,
+      "value": 20554636303,
+      "loans": 28927
+    },
+    {
+      "branch": "Barahona",
+      "year": 2026,
+      "value": 4943892062,
+      "loans": 6658
+    },
+    {
+      "branch": "Bonao",
+      "year": 2017,
+      "value": 4270888870,
+      "loans": 5563
+    },
+    {
+      "branch": "Bonao",
+      "year": 2018,
+      "value": 6162830738,
+      "loans": 5969
+    },
+    {
+      "branch": "Bonao",
+      "year": 2019,
+      "value": 6019134374,
+      "loans": 11592
+    },
+    {
+      "branch": "Bonao",
+      "year": 2020,
+      "value": 5270880366,
+      "loans": 4549
+    },
+    {
+      "branch": "Bonao",
+      "year": 2021,
+      "value": 6227627656,
+      "loans": 5059
+    },
+    {
+      "branch": "Bonao",
+      "year": 2022,
+      "value": 9018945358,
+      "loans": 7009
+    },
+    {
+      "branch": "Bonao",
+      "year": 2023,
+      "value": 12048948639,
+      "loans": 9192
+    },
+    {
+      "branch": "Bonao",
+      "year": 2024,
+      "value": 11833631622,
+      "loans": 9222
+    },
+    {
+      "branch": "Bonao",
+      "year": 2025,
+      "value": 11755213198,
+      "loans": 8592
+    },
+    {
+      "branch": "Bonao",
+      "year": 2026,
+      "value": 2859362582,
+      "loans": 2003
+    },
+    {
+      "branch": "Comendador",
+      "year": 2017,
+      "value": 3052152568,
+      "loans": 16564
+    },
+    {
+      "branch": "Comendador",
+      "year": 2018,
+      "value": 3778335236,
+      "loans": 18571
+    },
+    {
+      "branch": "Comendador",
+      "year": 2019,
+      "value": 23740327913,
+      "loans": 14274
+    },
+    {
+      "branch": "Comendador",
+      "year": 2020,
+      "value": 4049613182,
+      "loans": 18172
+    },
+    {
+      "branch": "Comendador",
+      "year": 2021,
+      "value": 5390687663,
+      "loans": 18626
+    },
+    {
+      "branch": "Comendador",
+      "year": 2022,
+      "value": 7218696851,
+      "loans": 20078
+    },
+    {
+      "branch": "Comendador",
+      "year": 2023,
+      "value": 9152150225,
+      "loans": 22138
+    },
+    {
+      "branch": "Comendador",
+      "year": 2024,
+      "value": 10142423208,
+      "loans": 23537
+    },
+    {
+      "branch": "Comendador",
+      "year": 2025,
+      "value": 10232952400,
+      "loans": 23832
+    },
+    {
+      "branch": "Comendador",
+      "year": 2026,
+      "value": 2329115565,
+      "loans": 4941
+    },
+    {
+      "branch": "Constanza",
+      "year": 2017,
+      "value": 7144786297,
+      "loans": 11327
+    },
+    {
+      "branch": "Constanza",
+      "year": 2018,
+      "value": 9210118501,
+      "loans": 11555
+    },
+    {
+      "branch": "Constanza",
+      "year": 2019,
+      "value": 6133831108,
+      "loans": 9965
+    },
+    {
+      "branch": "Constanza",
+      "year": 2020,
+      "value": 9937100976,
+      "loans": 8742
+    },
+    {
+      "branch": "Constanza",
+      "year": 2021,
+      "value": 14090369963,
+      "loans": 10921
+    },
+    {
+      "branch": "Constanza",
+      "year": 2022,
+      "value": 20983292964,
+      "loans": 12384
+    },
+    {
+      "branch": "Constanza",
+      "year": 2023,
+      "value": 31901131354,
+      "loans": 15883
+    },
+    {
+      "branch": "Constanza",
+      "year": 2024,
+      "value": 40758520729,
+      "loans": 18761
+    },
+    {
+      "branch": "Constanza",
+      "year": 2025,
+      "value": 42166090123,
+      "loans": 19069
+    },
+    {
+      "branch": "Constanza",
+      "year": 2026,
+      "value": 10541590231,
+      "loans": 4673
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2017,
+      "value": 9177099015,
+      "loans": 17489
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2018,
+      "value": 14420042834,
+      "loans": 19670
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2019,
+      "value": 9917627599,
+      "loans": 20264
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2020,
+      "value": 16678734687,
+      "loans": 17955
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2021,
+      "value": 18279917434,
+      "loans": 17261
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2022,
+      "value": 21782520521,
+      "loans": 15235
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2023,
+      "value": 20334162102,
+      "loans": 15000
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2024,
+      "value": 19297722631,
+      "loans": 14509
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2025,
+      "value": 21026543528,
+      "loans": 13882
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2026,
+      "value": 5511297275,
+      "loans": 3582
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2017,
+      "value": 4295204620,
+      "loans": 10495
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2018,
+      "value": 6432391468,
+      "loans": 13371
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2019,
+      "value": 6542177514,
+      "loans": 7097
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2020,
+      "value": 7016071801,
+      "loans": 12962
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2021,
+      "value": 8516259159,
+      "loans": 12829
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2022,
+      "value": 10211493886,
+      "loans": 13019
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2023,
+      "value": 11286674704,
+      "loans": 14130
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2024,
+      "value": 11528323153,
+      "loans": 15182
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2025,
+      "value": 11459848534,
+      "loans": 14927
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2026,
+      "value": 3035940041,
+      "loans": 3581
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2017,
+      "value": 2926226298,
+      "loans": 10468
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2018,
+      "value": 4638814689,
+      "loans": 11847
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2019,
+      "value": 11448880522,
+      "loans": 14072
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2020,
+      "value": 5530110197,
+      "loans": 11128
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2021,
+      "value": 6779155062,
+      "loans": 11611
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2022,
+      "value": 8505721155,
+      "loans": 13198
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2023,
+      "value": 11968075975,
+      "loans": 20413
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2024,
+      "value": 12269283191,
+      "loans": 20300
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2025,
+      "value": 11436760037,
+      "loans": 18654
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2026,
+      "value": 2753068935,
+      "loans": 4436
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2017,
+      "value": 5899911283,
+      "loans": 10407
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2018,
+      "value": 11317795143,
+      "loans": 12559
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2019,
+      "value": 21436933960,
+      "loans": 18509
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2020,
+      "value": 14281673366,
+      "loans": 14348
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2021,
+      "value": 16577347720,
+      "loans": 14777
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2022,
+      "value": 19626484533,
+      "loans": 15817
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2023,
+      "value": 25156628440,
+      "loans": 22159
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2024,
+      "value": 26432533353,
+      "loans": 24447
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2025,
+      "value": 25843204706,
+      "loans": 22382
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2026,
+      "value": 6004975686,
+      "loans": 5044
+    },
+    {
+      "branch": "Higüey",
+      "year": 2017,
+      "value": 7174330716,
+      "loans": 10646
+    },
+    {
+      "branch": "Higüey",
+      "year": 2018,
+      "value": 8814309092,
+      "loans": 11099
+    },
+    {
+      "branch": "Higüey",
+      "year": 2019,
+      "value": 5772282652,
+      "loans": 12009
+    },
+    {
+      "branch": "Higüey",
+      "year": 2020,
+      "value": 9581770626,
+      "loans": 10861
+    },
+    {
+      "branch": "Higüey",
+      "year": 2021,
+      "value": 12714790359,
+      "loans": 11982
+    },
+    {
+      "branch": "Higüey",
+      "year": 2022,
+      "value": 14410829606,
+      "loans": 12462
+    },
+    {
+      "branch": "Higüey",
+      "year": 2023,
+      "value": 18463920016,
+      "loans": 14934
+    },
+    {
+      "branch": "Higüey",
+      "year": 2024,
+      "value": 18136091564,
+      "loans": 14648
+    },
+    {
+      "branch": "Higüey",
+      "year": 2025,
+      "value": 16475358879,
+      "loans": 14204
+    },
+    {
+      "branch": "Higüey",
+      "year": 2026,
+      "value": 3830594139,
+      "loans": 3381
+    },
+    {
+      "branch": "La Vega",
+      "year": 2017,
+      "value": 8497536608,
+      "loans": 9106
+    },
+    {
+      "branch": "La Vega",
+      "year": 2018,
+      "value": 11802518302,
+      "loans": 10759
+    },
+    {
+      "branch": "La Vega",
+      "year": 2019,
+      "value": 5727176536,
+      "loans": 8478
+    },
+    {
+      "branch": "La Vega",
+      "year": 2020,
+      "value": 11520367059,
+      "loans": 9083
+    },
+    {
+      "branch": "La Vega",
+      "year": 2021,
+      "value": 19607648894,
+      "loans": 10601
+    },
+    {
+      "branch": "La Vega",
+      "year": 2022,
+      "value": 33555594083,
+      "loans": 13484
+    },
+    {
+      "branch": "La Vega",
+      "year": 2023,
+      "value": 39131085808,
+      "loans": 13820
+    },
+    {
+      "branch": "La Vega",
+      "year": 2024,
+      "value": 34443551968,
+      "loans": 13149
+    },
+    {
+      "branch": "La Vega",
+      "year": 2025,
+      "value": 34558819038,
+      "loans": 12201
+    },
+    {
+      "branch": "La Vega",
+      "year": 2026,
+      "value": 8647362053,
+      "loans": 3271
+    },
+    {
+      "branch": "Moca",
+      "year": 2017,
+      "value": 5777039906,
+      "loans": 8935
+    },
+    {
+      "branch": "Moca",
+      "year": 2018,
+      "value": 8085813518,
+      "loans": 9621
+    },
+    {
+      "branch": "Moca",
+      "year": 2019,
+      "value": 12893291476,
+      "loans": 9979
+    },
+    {
+      "branch": "Moca",
+      "year": 2020,
+      "value": 11884465593,
+      "loans": 8810
+    },
+    {
+      "branch": "Moca",
+      "year": 2021,
+      "value": 15805716268,
+      "loans": 9458
+    },
+    {
+      "branch": "Moca",
+      "year": 2022,
+      "value": 16791190951,
+      "loans": 9736
+    },
+    {
+      "branch": "Moca",
+      "year": 2023,
+      "value": 17840546403,
+      "loans": 9552
+    },
+    {
+      "branch": "Moca",
+      "year": 2024,
+      "value": 18209565348,
+      "loans": 9479
+    },
+    {
+      "branch": "Moca",
+      "year": 2025,
+      "value": 17021663208,
+      "loans": 8927
+    },
+    {
+      "branch": "Moca",
+      "year": 2026,
+      "value": 4559128075,
+      "loans": 2099
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2017,
+      "value": 9243556142,
+      "loans": 11377
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2018,
+      "value": 17126270802,
+      "loans": 16151
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2019,
+      "value": 12392902909,
+      "loans": 13130
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2020,
+      "value": 28208620024,
+      "loans": 18252
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2021,
+      "value": 30763015059,
+      "loans": 20888
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2022,
+      "value": 38523220576,
+      "loans": 24554
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2023,
+      "value": 50807875940,
+      "loans": 31144
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2024,
+      "value": 57575763081,
+      "loans": 36244
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2025,
+      "value": 57365577071,
+      "loans": 34743
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2026,
+      "value": 13613623237,
+      "loans": 8063
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2017,
+      "value": 9983028967,
+      "loans": 9647
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2018,
+      "value": 11594791005,
+      "loans": 12007
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2019,
+      "value": 6578854031,
+      "loans": 10145
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2020,
+      "value": 11261389534,
+      "loans": 12725
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2021,
+      "value": 12100042467,
+      "loans": 13274
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2022,
+      "value": 12550559362,
+      "loans": 13820
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2023,
+      "value": 14854654361,
+      "loans": 15358
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2024,
+      "value": 16834828954,
+      "loans": 17265
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2025,
+      "value": 18696431171,
+      "loans": 17955
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2026,
+      "value": 4855329275,
+      "loans": 4536
+    },
+    {
+      "branch": "Nagua",
+      "year": 2017,
+      "value": 3815989748,
+      "loans": 9480
+    },
+    {
+      "branch": "Nagua",
+      "year": 2018,
+      "value": 5619234472,
+      "loans": 11624
+    },
+    {
+      "branch": "Nagua",
+      "year": 2019,
+      "value": 15063329234,
+      "loans": 18771
+    },
+    {
+      "branch": "Nagua",
+      "year": 2020,
+      "value": 5171748053,
+      "loans": 8200
+    },
+    {
+      "branch": "Nagua",
+      "year": 2021,
+      "value": 6145630445,
+      "loans": 10046
+    },
+    {
+      "branch": "Nagua",
+      "year": 2022,
+      "value": 9293270773,
+      "loans": 13362
+    },
+    {
+      "branch": "Nagua",
+      "year": 2023,
+      "value": 17416289274,
+      "loans": 19710
+    },
+    {
+      "branch": "Nagua",
+      "year": 2024,
+      "value": 18490551234,
+      "loans": 21624
+    },
+    {
+      "branch": "Nagua",
+      "year": 2025,
+      "value": 17803187541,
+      "loans": 22097
+    },
+    {
+      "branch": "Nagua",
+      "year": 2026,
+      "value": 4394803695,
+      "loans": 5849
+    },
+    {
+      "branch": "Neyba",
+      "year": 2017,
+      "value": 4431126364,
+      "loans": 15641
+    },
+    {
+      "branch": "Neyba",
+      "year": 2018,
+      "value": 6328061801,
+      "loans": 18134
+    },
+    {
+      "branch": "Neyba",
+      "year": 2019,
+      "value": 8909354043,
+      "loans": 9320
+    },
+    {
+      "branch": "Neyba",
+      "year": 2020,
+      "value": 7228859854,
+      "loans": 18234
+    },
+    {
+      "branch": "Neyba",
+      "year": 2021,
+      "value": 8338980960,
+      "loans": 19273
+    },
+    {
+      "branch": "Neyba",
+      "year": 2022,
+      "value": 10049532003,
+      "loans": 20880
+    },
+    {
+      "branch": "Neyba",
+      "year": 2023,
+      "value": 11535684064,
+      "loans": 23218
+    },
+    {
+      "branch": "Neyba",
+      "year": 2024,
+      "value": 12737583227,
+      "loans": 24439
+    },
+    {
+      "branch": "Neyba",
+      "year": 2025,
+      "value": 12134483343,
+      "loans": 22366
+    },
+    {
+      "branch": "Neyba",
+      "year": 2026,
+      "value": 2928461917,
+      "loans": 5227
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2017,
+      "value": 5123397052,
+      "loans": 16986
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2018,
+      "value": 7282536303,
+      "loans": 19174
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2019,
+      "value": 10965348575,
+      "loans": 13557
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2020,
+      "value": 8225309601,
+      "loans": 19367
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2021,
+      "value": 10701242478,
+      "loans": 20400
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2022,
+      "value": 11790912545,
+      "loans": 22244
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2023,
+      "value": 11731636427,
+      "loans": 22642
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2024,
+      "value": 11629568387,
+      "loans": 21914
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2025,
+      "value": 11424383044,
+      "loans": 20196
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2026,
+      "value": 2946182674,
+      "loans": 4780
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2017,
+      "value": 4004137919,
+      "loans": 8927
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2018,
+      "value": 5498252268,
+      "loans": 11172
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2019,
+      "value": 10112638822,
+      "loans": 10786
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2020,
+      "value": 7108688198,
+      "loans": 12562
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2021,
+      "value": 10688986861,
+      "loans": 13676
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2022,
+      "value": 13432996118,
+      "loans": 15882
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2023,
+      "value": 16233415685,
+      "loans": 19366
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2024,
+      "value": 17197106840,
+      "loans": 20304
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2025,
+      "value": 16562630539,
+      "loans": 19899
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2026,
+      "value": 4021160245,
+      "loans": 4770
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2017,
+      "value": 3642096500,
+      "loans": 7921
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2018,
+      "value": 5487668487,
+      "loans": 9276
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2019,
+      "value": 3905521036,
+      "loans": 11988
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2020,
+      "value": 5704299795,
+      "loans": 7364
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2021,
+      "value": 6220869974,
+      "loans": 7067
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2022,
+      "value": 7789164298,
+      "loans": 6647
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2023,
+      "value": 7570621582,
+      "loans": 6027
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2024,
+      "value": 8373630369,
+      "loans": 5354
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2025,
+      "value": 5587041687,
+      "loans": 4224
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2026,
+      "value": 1173754690,
+      "loans": 1006
+    },
+    {
+      "branch": "Samaná",
+      "year": 2017,
+      "value": 2782725555,
+      "loans": 11602
+    },
+    {
+      "branch": "Samaná",
+      "year": 2018,
+      "value": 3974539812,
+      "loans": 13635
+    },
+    {
+      "branch": "Samaná",
+      "year": 2019,
+      "value": 4547273724,
+      "loans": 12307
+    },
+    {
+      "branch": "Samaná",
+      "year": 2020,
+      "value": 3027782847,
+      "loans": 9589
+    },
+    {
+      "branch": "Samaná",
+      "year": 2021,
+      "value": 2988782555,
+      "loans": 9031
+    },
+    {
+      "branch": "Samaná",
+      "year": 2022,
+      "value": 3655785508,
+      "loans": 9105
+    },
+    {
+      "branch": "Samaná",
+      "year": 2023,
+      "value": 5264519531,
+      "loans": 11860
+    },
+    {
+      "branch": "Samaná",
+      "year": 2024,
+      "value": 5863022531,
+      "loans": 12884
+    },
+    {
+      "branch": "Samaná",
+      "year": 2025,
+      "value": 5815726464,
+      "loans": 12697
+    },
+    {
+      "branch": "Samaná",
+      "year": 2026,
+      "value": 1523846941,
+      "loans": 3081
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2017,
+      "value": 6164261308,
+      "loans": 11500
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2018,
+      "value": 8697496592,
+      "loans": 13714
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2019,
+      "value": 9603672582,
+      "loans": 16236
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2020,
+      "value": 9824533679,
+      "loans": 9748
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2021,
+      "value": 10985719218,
+      "loans": 10814
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2022,
+      "value": 12601643506,
+      "loans": 11594
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2023,
+      "value": 13300195766,
+      "loans": 12428
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2024,
+      "value": 12250162378,
+      "loans": 11514
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2025,
+      "value": 11439233509,
+      "loans": 10346
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2026,
+      "value": 3121437646,
+      "loans": 2555
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2017,
+      "value": 6236862292,
+      "loans": 7724
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2018,
+      "value": 8904505738,
+      "loans": 10641
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2019,
+      "value": 9334444797,
+      "loans": 19477
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2020,
+      "value": 10478709951,
+      "loans": 9756
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2021,
+      "value": 13661871430,
+      "loans": 9714
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2022,
+      "value": 19642082580,
+      "loans": 10424
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2023,
+      "value": 22376746098,
+      "loans": 11459
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2024,
+      "value": 21154781356,
+      "loans": 11742
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2025,
+      "value": 21640724760,
+      "loans": 11654
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2026,
+      "value": 4995026631,
+      "loans": 3154
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2017,
+      "value": 14345811356,
+      "loans": 10344
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2018,
+      "value": 21292831019,
+      "loans": 11910
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2019,
+      "value": 11792387004,
+      "loans": 11108
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2020,
+      "value": 32348620692,
+      "loans": 12912
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2021,
+      "value": 36698750817,
+      "loans": 14907
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2022,
+      "value": 41974082146,
+      "loans": 16774
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2023,
+      "value": 44276421012,
+      "loans": 18154
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2024,
+      "value": 45396866777,
+      "loans": 18691
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2025,
+      "value": 44748275507,
+      "loans": 18279
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2026,
+      "value": 11172447822,
+      "loans": 4535
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2017,
+      "value": 5225856494,
+      "loans": 8494
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2018,
+      "value": 7479474735,
+      "loans": 10254
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2019,
+      "value": 19621611794,
+      "loans": 11702
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2020,
+      "value": 8146226394,
+      "loans": 10555
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2021,
+      "value": 9432419030,
+      "loans": 10158
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2022,
+      "value": 9722021208,
+      "loans": 9091
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2023,
+      "value": 10704185496,
+      "loans": 9185
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2024,
+      "value": 10891928404,
+      "loans": 8636
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2025,
+      "value": 11667618427,
+      "loans": 8031
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2026,
+      "value": 3241382278,
+      "loans": 1996
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2017,
+      "value": 12645446259,
+      "loans": 41477
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2018,
+      "value": 18728863543,
+      "loans": 52062
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2019,
+      "value": 11057023032,
+      "loans": 16172
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2020,
+      "value": 21407602501,
+      "loans": 38427
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2021,
+      "value": 24323680363,
+      "loans": 41408
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2022,
+      "value": 27920991673,
+      "loans": 39506
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2023,
+      "value": 36955578050,
+      "loans": 45477
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2024,
+      "value": 40312267661,
+      "loans": 52852
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2025,
+      "value": 41113890027,
+      "loans": 47109
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2026,
+      "value": 10415927370,
+      "loans": 11100
+    },
+    {
+      "branch": "Santiago",
+      "year": 2017,
+      "value": 3998251622,
+      "loans": 4389
+    },
+    {
+      "branch": "Santiago",
+      "year": 2018,
+      "value": 5728883732,
+      "loans": 5686
+    },
+    {
+      "branch": "Santiago",
+      "year": 2019,
+      "value": 5613393242,
+      "loans": 5509
+    },
+    {
+      "branch": "Santiago",
+      "year": 2020,
+      "value": 7386473577,
+      "loans": 5332
+    },
+    {
+      "branch": "Santiago",
+      "year": 2021,
+      "value": 15208698481,
+      "loans": 6401
+    },
+    {
+      "branch": "Santiago",
+      "year": 2022,
+      "value": 18446436499,
+      "loans": 7024
+    },
+    {
+      "branch": "Santiago",
+      "year": 2023,
+      "value": 21304752686,
+      "loans": 7432
+    },
+    {
+      "branch": "Santiago",
+      "year": 2024,
+      "value": 24236524096,
+      "loans": 7912
+    },
+    {
+      "branch": "Santiago",
+      "year": 2025,
+      "value": 24841467157,
+      "loans": 7991
+    },
+    {
+      "branch": "Santiago",
+      "year": 2026,
+      "value": 6519556078,
+      "loans": 2087
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2017,
+      "value": 6897837564,
+      "loans": 14874
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2018,
+      "value": 9500039036,
+      "loans": 16261
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2019,
+      "value": 9681885349,
+      "loans": 10769
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2020,
+      "value": 9625789932,
+      "loans": 15971
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2021,
+      "value": 10910779617,
+      "loans": 16491
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2022,
+      "value": 12120334364,
+      "loans": 17642
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2023,
+      "value": 12745397944,
+      "loans": 19170
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2024,
+      "value": 13364190619,
+      "loans": 19762
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2025,
+      "value": 12294014965,
+      "loans": 18417
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2026,
+      "value": 3153463052,
+      "loans": 4387
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2017,
+      "value": 16869028610,
+      "loans": 17761
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2018,
+      "value": 24593609566,
+      "loans": 21283
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2019,
+      "value": 23958633562,
+      "loans": 22767
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2020,
+      "value": 28120675256,
+      "loans": 24015
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2021,
+      "value": 35455097954,
+      "loans": 23111
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2022,
+      "value": 33683824762,
+      "loans": 24889
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2023,
+      "value": 34564263477,
+      "loans": 23245
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2024,
+      "value": 35144928652,
+      "loans": 24448
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2025,
+      "value": 34222616327,
+      "loans": 21745
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2026,
+      "value": 8206990672,
+      "loans": 4735
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2017,
+      "value": 12339231750,
+      "loans": 9545
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2018,
+      "value": 19426388172,
+      "loans": 11513
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2019,
+      "value": 12454687496,
+      "loans": 11409
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2020,
+      "value": 19567941342,
+      "loans": 10384
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2021,
+      "value": 24124843807,
+      "loans": 10487
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2022,
+      "value": 26959725066,
+      "loans": 10352
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2023,
+      "value": 29340180126,
+      "loans": 11008
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2024,
+      "value": 30208354183,
+      "loans": 11671
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2025,
+      "value": 33786333911,
+      "loans": 12023
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2026,
+      "value": 7694160812,
+      "loans": 2791
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2017,
+      "value": 3133624826,
+      "loans": 9790
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2018,
+      "value": 6155979810,
+      "loans": 13221
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2019,
+      "value": 6389038248,
+      "loans": 17333
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2020,
+      "value": 4543038646,
+      "loans": 11014
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2021,
+      "value": 4885932267,
+      "loans": 10929
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2022,
+      "value": 7511078596,
+      "loans": 12730
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2023,
+      "value": 9768072190,
+      "loans": 15352
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2024,
+      "value": 10269647029,
+      "loans": 16157
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2025,
+      "value": 9474584799,
+      "loans": 15600
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2026,
+      "value": 2455063203,
+      "loans": 4119
+    }
+  ],
+  "destinoByYear": [
+    {
+      "destino": "Acuicola",
+      "year": 2023,
+      "value": 192988649,
+      "cantidad": 126,
+      "beneficiados": 126,
+      "rubro": "Acuicola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Acuícola",
+      "year": 2024,
+      "value": 113054392,
+      "cantidad": 85,
+      "beneficiados": 85,
+      "rubro": "Acuícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Acuícola",
+      "year": 2025,
+      "value": 274400000,
+      "cantidad": 38,
+      "beneficiados": 38,
+      "rubro": "Acuícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Acuícola",
+      "year": 2026,
+      "value": 2950000,
+      "cantidad": 6,
+      "beneficiados": 6,
+      "rubro": "Acuícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Agro. Manufactura, Comercio V. y Otros",
+      "year": 2017,
+      "value": 2812408711,
+      "cantidad": 2641,
+      "beneficiados": 2645,
+      "rubro": "Agro. Manufactura, Comercio V. y Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Agro. Manufactura, Comercio V. y Otros",
+      "year": 2018,
+      "value": 5182566373,
+      "cantidad": 4270,
+      "beneficiados": 4270,
+      "rubro": "Agro. Manufactura, Comercio V. y Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Agro. Manufactura, Comercio V. y Otros",
+      "year": 2019,
+      "value": 4611592656,
+      "cantidad": 4158,
+      "beneficiados": 4158,
+      "rubro": "Agro. Manufactura, Comercio V. y Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Agro. Manufactura, Comercio V. y Otros",
+      "year": 2020,
+      "value": 4237350374,
+      "cantidad": 3735,
+      "beneficiados": 3735,
+      "rubro": "Agro. Manufactura, Comercio V. y Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Agro. Manufactura, Comercio V. y Otros",
+      "year": 2021,
+      "value": 5483203664,
+      "cantidad": 3702,
+      "beneficiados": 3702,
+      "rubro": "Agro. Manufactura, Comercio V. y Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Agro. Manufactura, Comercio V. y Otros",
+      "year": 2022,
+      "value": 5496724448,
+      "cantidad": 4090,
+      "beneficiados": 4090,
+      "rubro": "Agro. Manufactura, Comercio V. y Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Agro. Manufactura, Comercio V. y Otros",
+      "year": 2023,
+      "value": 433960135,
+      "cantidad": 324,
+      "beneficiados": 324,
+      "rubro": "Agro. Manufactura, Comercio V. y Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Aguacate (Producción)",
+      "year": 2017,
+      "value": 124111000,
+      "cantidad": 365,
+      "beneficiados": 403,
+      "rubro": "Aguacate",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Aguacate (Producción)",
+      "year": 2018,
+      "value": 485171088,
+      "cantidad": 677,
+      "beneficiados": 1339,
+      "rubro": "Aguacate",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Aguacate (Producción)",
+      "year": 2019,
+      "value": 504402199,
+      "cantidad": 814,
+      "beneficiados": 1008,
+      "rubro": "Aguacate",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Aguacate (Producción)",
+      "year": 2020,
+      "value": 573226337,
+      "cantidad": 849,
+      "beneficiados": 849,
+      "rubro": "Aguacate",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Aguacate (Producción)",
+      "year": 2021,
+      "value": 843281139,
+      "cantidad": 1423,
+      "beneficiados": 1423,
+      "rubro": "Aguacate",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Aguacate (Producción)",
+      "year": 2022,
+      "value": 610378546,
+      "cantidad": 963,
+      "beneficiados": 984,
+      "rubro": "Aguacate",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Aguacate (Producción)",
+      "year": 2023,
+      "value": 786491923,
+      "cantidad": 952,
+      "beneficiados": 952,
+      "rubro": "Aguacate",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Aguacate (Producción)",
+      "year": 2024,
+      "value": 640874013,
+      "cantidad": 873,
+      "beneficiados": 873,
+      "rubro": "Aguacate",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Aguacate (Producción)",
+      "year": 2025,
+      "value": 538358325,
+      "cantidad": 826,
+      "beneficiados": 826,
+      "rubro": "Aguacate",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Aguacate (Producción)",
+      "year": 2026,
+      "value": 110494775,
+      "cantidad": 160,
+      "beneficiados": 160,
+      "rubro": "Aguacate",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Aji (Producción)",
+      "year": 2023,
+      "value": 230052988,
+      "cantidad": 206,
+      "beneficiados": 206,
+      "rubro": "Aji",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ajo",
+      "year": 2023,
+      "value": 431587248,
+      "cantidad": 138,
+      "beneficiados": 138,
+      "rubro": "Ajo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ajo (Comerc.)",
+      "year": 2024,
+      "value": 72792900,
+      "cantidad": 2,
+      "beneficiados": 2,
+      "rubro": "Ajo",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Ajo (Comerc.)",
+      "year": 2025,
+      "value": 5000000,
+      "cantidad": 1,
+      "beneficiados": 1,
+      "rubro": "Ajo",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Ajo (Comerc.)",
+      "year": 2026,
+      "value": 41150894,
+      "cantidad": 2,
+      "beneficiados": 2,
+      "rubro": "Ajo",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Ajo (Comercialización)",
+      "year": 2017,
+      "value": 224000000,
+      "cantidad": 8,
+      "beneficiados": 8,
+      "rubro": "Ajo",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Ajo (Comercialización)",
+      "year": 2018,
+      "value": 454000000,
+      "cantidad": 12,
+      "beneficiados": 12,
+      "rubro": "Ajo",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Ajo (Comercialización)",
+      "year": 2019,
+      "value": 893250000,
+      "cantidad": 10,
+      "beneficiados": 10,
+      "rubro": "Ajo",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Ajo (Comercialización)",
+      "year": 2020,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Ajo",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Ajo (Comercialización)",
+      "year": 2021,
+      "value": 250955400,
+      "cantidad": 12,
+      "beneficiados": 12,
+      "rubro": "Ajo",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Ajo (Comercialización)",
+      "year": 2022,
+      "value": 370911564,
+      "cantidad": 9,
+      "beneficiados": 9,
+      "rubro": "Ajo",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Ajo (Producción)",
+      "year": 2017,
+      "value": 29015000,
+      "cantidad": 33,
+      "beneficiados": 33,
+      "rubro": "Ajo",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ajo (Producción)",
+      "year": 2018,
+      "value": 130043000,
+      "cantidad": 45,
+      "beneficiados": 45,
+      "rubro": "Ajo",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ajo (Producción)",
+      "year": 2019,
+      "value": 143388200,
+      "cantidad": 56,
+      "beneficiados": 56,
+      "rubro": "Ajo",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ajo (Producción)",
+      "year": 2020,
+      "value": 87827660,
+      "cantidad": 63,
+      "beneficiados": 63,
+      "rubro": "Ajo",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ajo (Producción)",
+      "year": 2021,
+      "value": 256154800,
+      "cantidad": 280,
+      "beneficiados": 280,
+      "rubro": "Ajo",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ajo (Producción)",
+      "year": 2022,
+      "value": 491583000,
+      "cantidad": 314,
+      "beneficiados": 314,
+      "rubro": "Ajo",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ajo (Producción)",
+      "year": 2024,
+      "value": 970749500,
+      "cantidad": 406,
+      "beneficiados": 406,
+      "rubro": "Ajo",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ajo (Producción)",
+      "year": 2025,
+      "value": 740033000,
+      "cantidad": 271,
+      "beneficiados": 271,
+      "rubro": "Ajo",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ajo (Producción)",
+      "year": 2026,
+      "value": 101450000,
+      "cantidad": 24,
+      "beneficiados": 24,
+      "rubro": "Ajo",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ají (Producción)",
+      "year": 2017,
+      "value": 210040800,
+      "cantidad": 178,
+      "beneficiados": 178,
+      "rubro": "Ají",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ají (Producción)",
+      "year": 2018,
+      "value": 167296800,
+      "cantidad": 153,
+      "beneficiados": 153,
+      "rubro": "Ají",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ají (Producción)",
+      "year": 2019,
+      "value": 181034575,
+      "cantidad": 140,
+      "beneficiados": 140,
+      "rubro": "Ají",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ají (Producción)",
+      "year": 2020,
+      "value": 128398285,
+      "cantidad": 138,
+      "beneficiados": 138,
+      "rubro": "Ají",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ají (Producción)",
+      "year": 2021,
+      "value": 289835000,
+      "cantidad": 214,
+      "beneficiados": 214,
+      "rubro": "Ají",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ají (Producción)",
+      "year": 2022,
+      "value": 214153608,
+      "cantidad": 262,
+      "beneficiados": 262,
+      "rubro": "Ají",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ají (Producción)",
+      "year": 2024,
+      "value": 243184860,
+      "cantidad": 181,
+      "beneficiados": 181,
+      "rubro": "Ají",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ají (Producción)",
+      "year": 2025,
+      "value": 198475342,
+      "cantidad": 162,
+      "beneficiados": 162,
+      "rubro": "Ají",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ají (Producción)",
+      "year": 2026,
+      "value": 49460000,
+      "cantidad": 28,
+      "beneficiados": 28,
+      "rubro": "Ají",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Apícola",
+      "year": 2017,
+      "value": 28484106,
+      "cantidad": 30,
+      "beneficiados": 30,
+      "rubro": "Apícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Apícola",
+      "year": 2018,
+      "value": 55892323,
+      "cantidad": 47,
+      "beneficiados": 47,
+      "rubro": "Apícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Apícola",
+      "year": 2019,
+      "value": 23733345,
+      "cantidad": 48,
+      "beneficiados": 48,
+      "rubro": "Apícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Apícola",
+      "year": 2020,
+      "value": 12747000,
+      "cantidad": 41,
+      "beneficiados": 41,
+      "rubro": "Apícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Apícola",
+      "year": 2021,
+      "value": 11430000,
+      "cantidad": 42,
+      "beneficiados": 42,
+      "rubro": "Apícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Apícola",
+      "year": 2022,
+      "value": 30743394,
+      "cantidad": 87,
+      "beneficiados": 87,
+      "rubro": "Apícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Apícola",
+      "year": 2023,
+      "value": 32268367,
+      "cantidad": 70,
+      "beneficiados": 70,
+      "rubro": "Apícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Apícola",
+      "year": 2024,
+      "value": 14583843,
+      "cantidad": 39,
+      "beneficiados": 39,
+      "rubro": "Apícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Apícola",
+      "year": 2025,
+      "value": 23704690,
+      "cantidad": 49,
+      "beneficiados": 49,
+      "rubro": "Apícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Apícola",
+      "year": 2026,
+      "value": 8137500,
+      "cantidad": 11,
+      "beneficiados": 11,
+      "rubro": "Apícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Arroz (Comerc.)",
+      "year": 2023,
+      "value": 3271246770,
+      "cantidad": 278,
+      "beneficiados": 278,
+      "rubro": "Arroz",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Arroz (Comerc.)",
+      "year": 2025,
+      "value": 1067589000,
+      "cantidad": 65,
+      "beneficiados": 65,
+      "rubro": "Arroz",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Arroz (Comerc.)",
+      "year": 2026,
+      "value": 315955000,
+      "cantidad": 24,
+      "beneficiados": 24,
+      "rubro": "Arroz",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Arroz (Comerc.) 1",
+      "year": 2024,
+      "value": 2945476000,
+      "cantidad": 265,
+      "beneficiados": 265,
+      "rubro": "Arroz (Comerc.) 1",
+      "tipo": "General"
+    },
+    {
+      "destino": "Arroz (Comercialización)",
+      "year": 2017,
+      "value": 1481669112,
+      "cantidad": 107,
+      "beneficiados": 107,
+      "rubro": "Arroz",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Arroz (Comercialización)",
+      "year": 2018,
+      "value": 3163385260,
+      "cantidad": 147,
+      "beneficiados": 147,
+      "rubro": "Arroz",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Arroz (Comercialización)",
+      "year": 2019,
+      "value": 2775241691,
+      "cantidad": 153,
+      "beneficiados": 153,
+      "rubro": "Arroz",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Arroz (Comercialización)",
+      "year": 2020,
+      "value": 1714703780,
+      "cantidad": 199,
+      "beneficiados": 199,
+      "rubro": "Arroz",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Arroz (Comercialización)",
+      "year": 2021,
+      "value": 2969894280,
+      "cantidad": 301,
+      "beneficiados": 301,
+      "rubro": "Arroz",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Arroz (Comercialización)",
+      "year": 2022,
+      "value": 5233679521,
+      "cantidad": 401,
+      "beneficiados": 401,
+      "rubro": "Arroz",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Arroz (Comercialización)",
+      "year": 2023,
+      "value": 1895332550,
+      "cantidad": 129,
+      "beneficiados": 129,
+      "rubro": "Arroz",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Arroz (Pginoración)",
+      "year": 2025,
+      "value": 347916800,
+      "cantidad": 12,
+      "beneficiados": 12,
+      "rubro": "Arroz",
+      "tipo": "Pginoración"
+    },
+    {
+      "destino": "Arroz (Pignoración)",
+      "year": 2025,
+      "value": 3077115360,
+      "cantidad": 259,
+      "beneficiados": 259,
+      "rubro": "Arroz",
+      "tipo": "Pignoración"
+    },
+    {
+      "destino": "Arroz (Pignoración)",
+      "year": 2026,
+      "value": 289465920,
+      "cantidad": 15,
+      "beneficiados": 15,
+      "rubro": "Arroz",
+      "tipo": "Pignoración"
+    },
+    {
+      "destino": "Arroz (Producción)",
+      "year": 2017,
+      "value": 3034046291,
+      "cantidad": 6223,
+      "beneficiados": 6327,
+      "rubro": "Arroz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Arroz (Producción)",
+      "year": 2018,
+      "value": 2830067763,
+      "cantidad": 6248,
+      "beneficiados": 6347,
+      "rubro": "Arroz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Arroz (Producción)",
+      "year": 2019,
+      "value": 2812060736,
+      "cantidad": 6098,
+      "beneficiados": 6334,
+      "rubro": "Arroz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Arroz (Producción)",
+      "year": 2020,
+      "value": 3110601344,
+      "cantidad": 5809,
+      "beneficiados": 6027,
+      "rubro": "Arroz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Arroz (Producción)",
+      "year": 2021,
+      "value": 3004792375,
+      "cantidad": 6437,
+      "beneficiados": 6550,
+      "rubro": "Arroz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Arroz (Producción)",
+      "year": 2022,
+      "value": 3589746823,
+      "cantidad": 6543,
+      "beneficiados": 6576,
+      "rubro": "Arroz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Arroz (Producción)",
+      "year": 2023,
+      "value": 4415751254,
+      "cantidad": 6917,
+      "beneficiados": 6991,
+      "rubro": "Arroz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Arroz (Producción)",
+      "year": 2024,
+      "value": 3804290521,
+      "cantidad": 5961,
+      "beneficiados": 5965,
+      "rubro": "Arroz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Arroz (Producción)",
+      "year": 2025,
+      "value": 3927076103,
+      "cantidad": 6172,
+      "beneficiados": 6173,
+      "rubro": "Arroz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Arroz (Producción)",
+      "year": 2026,
+      "value": 629282491,
+      "cantidad": 968,
+      "beneficiados": 968,
+      "rubro": "Arroz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Avícola (Comerc.)",
+      "year": 2024,
+      "value": 2725000,
+      "cantidad": 3,
+      "beneficiados": 3,
+      "rubro": "Avícola",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Avícola (Comerc.)",
+      "year": 2025,
+      "value": 6887644,
+      "cantidad": 10,
+      "beneficiados": 10,
+      "rubro": "Avícola",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Avícola (Comerc.)",
+      "year": 2026,
+      "value": 123502565,
+      "cantidad": 5,
+      "beneficiados": 5,
+      "rubro": "Avícola",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Avícola (Comerc.)1",
+      "year": 2024,
+      "value": 346000000,
+      "cantidad": 4,
+      "beneficiados": 4,
+      "rubro": "Avícola (Comerc.)1",
+      "tipo": "General"
+    },
+    {
+      "destino": "Batata",
+      "year": 2017,
+      "value": 12810000,
+      "cantidad": 61,
+      "beneficiados": 61,
+      "rubro": "Batata",
+      "tipo": "General"
+    },
+    {
+      "destino": "Batata",
+      "year": 2018,
+      "value": 20533500,
+      "cantidad": 68,
+      "beneficiados": 68,
+      "rubro": "Batata",
+      "tipo": "General"
+    },
+    {
+      "destino": "Batata",
+      "year": 2019,
+      "value": 20334500,
+      "cantidad": 80,
+      "beneficiados": 80,
+      "rubro": "Batata",
+      "tipo": "General"
+    },
+    {
+      "destino": "Batata",
+      "year": 2020,
+      "value": 13229893,
+      "cantidad": 60,
+      "beneficiados": 60,
+      "rubro": "Batata",
+      "tipo": "General"
+    },
+    {
+      "destino": "Batata",
+      "year": 2021,
+      "value": 18907500,
+      "cantidad": 71,
+      "beneficiados": 71,
+      "rubro": "Batata",
+      "tipo": "General"
+    },
+    {
+      "destino": "Batata",
+      "year": 2022,
+      "value": 38731744,
+      "cantidad": 118,
+      "beneficiados": 118,
+      "rubro": "Batata",
+      "tipo": "General"
+    },
+    {
+      "destino": "Batata",
+      "year": 2023,
+      "value": 44678679,
+      "cantidad": 143,
+      "beneficiados": 143,
+      "rubro": "Batata",
+      "tipo": "General"
+    },
+    {
+      "destino": "Batata (Producción)",
+      "year": 2024,
+      "value": 26186000,
+      "cantidad": 79,
+      "beneficiados": 79,
+      "rubro": "Batata",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Batata (Producción)",
+      "year": 2025,
+      "value": 26123975,
+      "cantidad": 88,
+      "beneficiados": 88,
+      "rubro": "Batata",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Batata (Producción)",
+      "year": 2026,
+      "value": 14965000,
+      "cantidad": 41,
+      "beneficiados": 41,
+      "rubro": "Batata",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Cacao (Comerc.)",
+      "year": 2023,
+      "value": 986880000,
+      "cantidad": 47,
+      "beneficiados": 47,
+      "rubro": "Cacao",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Cacao (Comerc.)",
+      "year": 2024,
+      "value": 1116995000,
+      "cantidad": 81,
+      "beneficiados": 81,
+      "rubro": "Cacao",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Cacao (Comerc.)",
+      "year": 2025,
+      "value": 665205000,
+      "cantidad": 62,
+      "beneficiados": 62,
+      "rubro": "Cacao",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Cacao (Comerc.)",
+      "year": 2026,
+      "value": 240825000,
+      "cantidad": 10,
+      "beneficiados": 10,
+      "rubro": "Cacao",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Cacao (Comercialización)",
+      "year": 2017,
+      "value": 523507000,
+      "cantidad": 52,
+      "beneficiados": 52,
+      "rubro": "Cacao",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Cacao (Comercialización)",
+      "year": 2018,
+      "value": 683902420,
+      "cantidad": 71,
+      "beneficiados": 71,
+      "rubro": "Cacao",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Cacao (Comercialización)",
+      "year": 2019,
+      "value": 714691000,
+      "cantidad": 61,
+      "beneficiados": 61,
+      "rubro": "Cacao",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Cacao (Comercialización)",
+      "year": 2020,
+      "value": 876227000,
+      "cantidad": 60,
+      "beneficiados": 60,
+      "rubro": "Cacao",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Cacao (Comercialización)",
+      "year": 2021,
+      "value": 996216000,
+      "cantidad": 63,
+      "beneficiados": 63,
+      "rubro": "Cacao",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Cacao (Comercialización)",
+      "year": 2022,
+      "value": 1638305000,
+      "cantidad": 75,
+      "beneficiados": 75,
+      "rubro": "Cacao",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Cacao (Comercialización)",
+      "year": 2023,
+      "value": 388335832,
+      "cantidad": 28,
+      "beneficiados": 28,
+      "rubro": "Cacao",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Cacao (Producción)",
+      "year": 2017,
+      "value": 498454600,
+      "cantidad": 1091,
+      "beneficiados": 1275,
+      "rubro": "Cacao",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Cacao (Producción)",
+      "year": 2018,
+      "value": 653377164,
+      "cantidad": 1253,
+      "beneficiados": 1500,
+      "rubro": "Cacao",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Cacao (Producción)",
+      "year": 2019,
+      "value": 629361400,
+      "cantidad": 1221,
+      "beneficiados": 1506,
+      "rubro": "Cacao",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Cacao (Producción)",
+      "year": 2020,
+      "value": 497018587,
+      "cantidad": 1138,
+      "beneficiados": 1138,
+      "rubro": "Cacao",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Cacao (Producción)",
+      "year": 2021,
+      "value": 1142230063,
+      "cantidad": 1762,
+      "beneficiados": 1762,
+      "rubro": "Cacao",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Cacao (Producción)",
+      "year": 2022,
+      "value": 1120162216,
+      "cantidad": 1939,
+      "beneficiados": 1940,
+      "rubro": "Cacao",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Cacao (Producción)",
+      "year": 2023,
+      "value": 1009024985,
+      "cantidad": 1948,
+      "beneficiados": 1948,
+      "rubro": "Cacao",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Cacao (Producción)",
+      "year": 2024,
+      "value": 599568957,
+      "cantidad": 846,
+      "beneficiados": 846,
+      "rubro": "Cacao",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Cacao (Producción)",
+      "year": 2025,
+      "value": 573263620,
+      "cantidad": 761,
+      "beneficiados": 761,
+      "rubro": "Cacao",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Cacao (Producción)",
+      "year": 2026,
+      "value": 125316500,
+      "cantidad": 190,
+      "beneficiados": 190,
+      "rubro": "Cacao",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Café (Comerc.)",
+      "year": 2023,
+      "value": 8650000,
+      "cantidad": 7,
+      "beneficiados": 7,
+      "rubro": "Café",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Café (Comerc.)",
+      "year": 2024,
+      "value": 19650000,
+      "cantidad": 11,
+      "beneficiados": 11,
+      "rubro": "Café",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Café (Comerc.)",
+      "year": 2025,
+      "value": 4800000,
+      "cantidad": 4,
+      "beneficiados": 4,
+      "rubro": "Café",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Café (Comerc.)",
+      "year": 2026,
+      "value": 3800000,
+      "cantidad": 3,
+      "beneficiados": 3,
+      "rubro": "Café",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Café (Comercialización)",
+      "year": 2017,
+      "value": 46200000,
+      "cantidad": 8,
+      "beneficiados": 8,
+      "rubro": "Café",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Café (Comercialización)",
+      "year": 2018,
+      "value": 3200000,
+      "cantidad": 3,
+      "beneficiados": 3,
+      "rubro": "Café",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Café (Comercialización)",
+      "year": 2019,
+      "value": 31420500,
+      "cantidad": 5,
+      "beneficiados": 5,
+      "rubro": "Café",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Café (Comercialización)",
+      "year": 2020,
+      "value": 22202496,
+      "cantidad": 3,
+      "beneficiados": 3,
+      "rubro": "Café",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Café (Comercialización)",
+      "year": 2021,
+      "value": 36095000,
+      "cantidad": 7,
+      "beneficiados": 7,
+      "rubro": "Café",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Café (Comercialización)",
+      "year": 2022,
+      "value": 40670032,
+      "cantidad": 8,
+      "beneficiados": 8,
+      "rubro": "Café",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Café (Comercialización)",
+      "year": 2023,
+      "value": 2300000,
+      "cantidad": 2,
+      "beneficiados": 2,
+      "rubro": "Café",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Café (Producción)",
+      "year": 2017,
+      "value": 89674750,
+      "cantidad": 183,
+      "beneficiados": 183,
+      "rubro": "Café",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Café (Producción)",
+      "year": 2018,
+      "value": 204890348,
+      "cantidad": 272,
+      "beneficiados": 272,
+      "rubro": "Café",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Café (Producción)",
+      "year": 2019,
+      "value": 199417581,
+      "cantidad": 261,
+      "beneficiados": 261,
+      "rubro": "Café",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Café (Producción)",
+      "year": 2020,
+      "value": 125755317,
+      "cantidad": 261,
+      "beneficiados": 261,
+      "rubro": "Café",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Café (Producción)",
+      "year": 2021,
+      "value": 375500055,
+      "cantidad": 691,
+      "beneficiados": 691,
+      "rubro": "Café",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Café (Producción)",
+      "year": 2022,
+      "value": 258733589,
+      "cantidad": 538,
+      "beneficiados": 538,
+      "rubro": "Café",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Café (Producción)",
+      "year": 2023,
+      "value": 302003628,
+      "cantidad": 533,
+      "beneficiados": 533,
+      "rubro": "Café",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Café (Producción)",
+      "year": 2024,
+      "value": 204580899,
+      "cantidad": 346,
+      "beneficiados": 346,
+      "rubro": "Café",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Café (Producción)",
+      "year": 2025,
+      "value": 182478707,
+      "cantidad": 312,
+      "beneficiados": 312,
+      "rubro": "Café",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Café (Producción)",
+      "year": 2026,
+      "value": 72660352,
+      "cantidad": 125,
+      "beneficiados": 125,
+      "rubro": "Café",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Cebolla",
+      "year": 2017,
+      "value": 106717200,
+      "cantidad": 224,
+      "beneficiados": 230,
+      "rubro": "Cebolla",
+      "tipo": "General"
+    },
+    {
+      "destino": "Cebolla",
+      "year": 2018,
+      "value": 104077652,
+      "cantidad": 215,
+      "beneficiados": 215,
+      "rubro": "Cebolla",
+      "tipo": "General"
+    },
+    {
+      "destino": "Cebolla",
+      "year": 2019,
+      "value": 77688300,
+      "cantidad": 141,
+      "beneficiados": 151,
+      "rubro": "Cebolla",
+      "tipo": "General"
+    },
+    {
+      "destino": "Cebolla",
+      "year": 2020,
+      "value": 133492900,
+      "cantidad": 254,
+      "beneficiados": 258,
+      "rubro": "Cebolla",
+      "tipo": "General"
+    },
+    {
+      "destino": "Cebolla",
+      "year": 2021,
+      "value": 1714610564,
+      "cantidad": 253,
+      "beneficiados": 253,
+      "rubro": "Cebolla",
+      "tipo": "General"
+    },
+    {
+      "destino": "Cebolla",
+      "year": 2022,
+      "value": 365708254,
+      "cantidad": 430,
+      "beneficiados": 430,
+      "rubro": "Cebolla",
+      "tipo": "General"
+    },
+    {
+      "destino": "Cebolla",
+      "year": 2023,
+      "value": 220050820,
+      "cantidad": 266,
+      "beneficiados": 266,
+      "rubro": "Cebolla",
+      "tipo": "General"
+    },
+    {
+      "destino": "Cebolla",
+      "year": 2024,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Cebolla",
+      "tipo": "General"
+    },
+    {
+      "destino": "Cebolla",
+      "year": 2025,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Cebolla",
+      "tipo": "General"
+    },
+    {
+      "destino": "Cebolla (Producción)",
+      "year": 2024,
+      "value": 5270000,
+      "cantidad": 11,
+      "beneficiados": 11,
+      "rubro": "Cebolla",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Cebolla (Producción)",
+      "year": 2025,
+      "value": 45063759,
+      "cantidad": 99,
+      "beneficiados": 99,
+      "rubro": "Cebolla",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Cebolla 1",
+      "year": 2025,
+      "value": 150490164,
+      "cantidad": 143,
+      "beneficiados": 143,
+      "rubro": "Cebolla 1",
+      "tipo": "General"
+    },
+    {
+      "destino": "Cebolla 1",
+      "year": 2026,
+      "value": 52288200,
+      "cantidad": 25,
+      "beneficiados": 25,
+      "rubro": "Cebolla 1",
+      "tipo": "General"
+    },
+    {
+      "destino": "Cebolla 2",
+      "year": 2024,
+      "value": 175422500,
+      "cantidad": 168,
+      "beneficiados": 168,
+      "rubro": "Cebolla 2",
+      "tipo": "General"
+    },
+    {
+      "destino": "Coco",
+      "year": 2023,
+      "value": 540234004,
+      "cantidad": 502,
+      "beneficiados": 502,
+      "rubro": "Coco",
+      "tipo": "General"
+    },
+    {
+      "destino": "Coco (Comercialización)",
+      "year": 2017,
+      "value": 1270000,
+      "cantidad": 4,
+      "beneficiados": 4,
+      "rubro": "Coco",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Coco (Comercialización)",
+      "year": 2018,
+      "value": 3110000,
+      "cantidad": 12,
+      "beneficiados": 12,
+      "rubro": "Coco",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Coco (Comercialización)",
+      "year": 2019,
+      "value": 1850000,
+      "cantidad": 4,
+      "beneficiados": 4,
+      "rubro": "Coco",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Coco (Comercialización)",
+      "year": 2020,
+      "value": 460000,
+      "cantidad": 3,
+      "beneficiados": 3,
+      "rubro": "Coco",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Coco (Comercialización)",
+      "year": 2021,
+      "value": 2245000,
+      "cantidad": 6,
+      "beneficiados": 6,
+      "rubro": "Coco",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Coco (Comercialización)",
+      "year": 2022,
+      "value": 6140000,
+      "cantidad": 10,
+      "beneficiados": 10,
+      "rubro": "Coco",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Coco (Producción)",
+      "year": 2017,
+      "value": 36742500,
+      "cantidad": 42,
+      "beneficiados": 42,
+      "rubro": "Coco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Coco (Producción)",
+      "year": 2018,
+      "value": 52665478,
+      "cantidad": 71,
+      "beneficiados": 71,
+      "rubro": "Coco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Coco (Producción)",
+      "year": 2019,
+      "value": 87030000,
+      "cantidad": 43,
+      "beneficiados": 43,
+      "rubro": "Coco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Coco (Producción)",
+      "year": 2020,
+      "value": 84815175,
+      "cantidad": 59,
+      "beneficiados": 59,
+      "rubro": "Coco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Coco (Producción)",
+      "year": 2021,
+      "value": 275088065,
+      "cantidad": 216,
+      "beneficiados": 216,
+      "rubro": "Coco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Coco (Producción)",
+      "year": 2022,
+      "value": 563937590,
+      "cantidad": 359,
+      "beneficiados": 359,
+      "rubro": "Coco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Coco (Producción)",
+      "year": 2024,
+      "value": 133482500,
+      "cantidad": 146,
+      "beneficiados": 146,
+      "rubro": "Coco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Coco (Producción)",
+      "year": 2025,
+      "value": 92118000,
+      "cantidad": 77,
+      "beneficiados": 77,
+      "rubro": "Coco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Coco (Producción)",
+      "year": 2026,
+      "value": 11650000,
+      "cantidad": 11,
+      "beneficiados": 11,
+      "rubro": "Coco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Coco 1",
+      "year": 2025,
+      "value": 69899500,
+      "cantidad": 56,
+      "beneficiados": 56,
+      "rubro": "Coco 1",
+      "tipo": "General"
+    },
+    {
+      "destino": "Coco 1",
+      "year": 2026,
+      "value": 26987000,
+      "cantidad": 26,
+      "beneficiados": 26,
+      "rubro": "Coco 1",
+      "tipo": "General"
+    },
+    {
+      "destino": "Coco 2",
+      "year": 2024,
+      "value": 85665000,
+      "cantidad": 68,
+      "beneficiados": 68,
+      "rubro": "Coco 2",
+      "tipo": "General"
+    },
+    {
+      "destino": "Gallina (Ponedora)",
+      "year": 2023,
+      "value": 198511758,
+      "cantidad": 68,
+      "beneficiados": 68,
+      "rubro": "Gallina",
+      "tipo": "Ponedora"
+    },
+    {
+      "destino": "Gallina Ponedora",
+      "year": 2023,
+      "value": 378469934,
+      "cantidad": 144,
+      "beneficiados": 144,
+      "rubro": "Gallina Ponedora",
+      "tipo": "General"
+    },
+    {
+      "destino": "Gallina Ponedora",
+      "year": 2024,
+      "value": 365074311,
+      "cantidad": 154,
+      "beneficiados": 154,
+      "rubro": "Gallina Ponedora",
+      "tipo": "General"
+    },
+    {
+      "destino": "Gallina Ponedora",
+      "year": 2025,
+      "value": 623558133,
+      "cantidad": 194,
+      "beneficiados": 194,
+      "rubro": "Gallina Ponedora",
+      "tipo": "General"
+    },
+    {
+      "destino": "Gallina Ponedora",
+      "year": 2026,
+      "value": 68082000,
+      "cantidad": 37,
+      "beneficiados": 37,
+      "rubro": "Gallina Ponedora",
+      "tipo": "General"
+    },
+    {
+      "destino": "Gallina Reproductora",
+      "year": 2024,
+      "value": 36930000,
+      "cantidad": 8,
+      "beneficiados": 8,
+      "rubro": "Gallina Reproductora",
+      "tipo": "General"
+    },
+    {
+      "destino": "Gallina Reproductora",
+      "year": 2025,
+      "value": 19700000,
+      "cantidad": 4,
+      "beneficiados": 4,
+      "rubro": "Gallina Reproductora",
+      "tipo": "General"
+    },
+    {
+      "destino": "Gallina Reproductora",
+      "year": 2026,
+      "value": 47200000,
+      "cantidad": 3,
+      "beneficiados": 3,
+      "rubro": "Gallina Reproductora",
+      "tipo": "General"
+    },
+    {
+      "destino": "Gallinas Ponedoras",
+      "year": 2017,
+      "value": 110020000,
+      "cantidad": 42,
+      "beneficiados": 42,
+      "rubro": "Gallinas Ponedoras",
+      "tipo": "General"
+    },
+    {
+      "destino": "Gallinas Ponedoras",
+      "year": 2018,
+      "value": 162585890,
+      "cantidad": 58,
+      "beneficiados": 58,
+      "rubro": "Gallinas Ponedoras",
+      "tipo": "General"
+    },
+    {
+      "destino": "Gallinas Ponedoras",
+      "year": 2019,
+      "value": 178025000,
+      "cantidad": 75,
+      "beneficiados": 75,
+      "rubro": "Gallinas Ponedoras",
+      "tipo": "General"
+    },
+    {
+      "destino": "Gallinas Ponedoras",
+      "year": 2020,
+      "value": 332915550,
+      "cantidad": 78,
+      "beneficiados": 78,
+      "rubro": "Gallinas Ponedoras",
+      "tipo": "General"
+    },
+    {
+      "destino": "Gallinas Ponedoras",
+      "year": 2021,
+      "value": 307658455,
+      "cantidad": 100,
+      "beneficiados": 100,
+      "rubro": "Gallinas Ponedoras",
+      "tipo": "General"
+    },
+    {
+      "destino": "Gallinas Ponedoras",
+      "year": 2022,
+      "value": 474103093,
+      "cantidad": 208,
+      "beneficiados": 208,
+      "rubro": "Gallinas Ponedoras",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Carne",
+      "year": 2017,
+      "value": 513963038,
+      "cantidad": 615,
+      "beneficiados": 615,
+      "rubro": "Ganado de Carne",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Carne",
+      "year": 2018,
+      "value": 676797948,
+      "cantidad": 711,
+      "beneficiados": 711,
+      "rubro": "Ganado de Carne",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Carne",
+      "year": 2019,
+      "value": 644379056,
+      "cantidad": 671,
+      "beneficiados": 671,
+      "rubro": "Ganado de Carne",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Carne",
+      "year": 2020,
+      "value": 659667200,
+      "cantidad": 587,
+      "beneficiados": 587,
+      "rubro": "Ganado de Carne",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Carne",
+      "year": 2021,
+      "value": 711968267,
+      "cantidad": 690,
+      "beneficiados": 690,
+      "rubro": "Ganado de Carne",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Carne",
+      "year": 2022,
+      "value": 1060203792,
+      "cantidad": 1453,
+      "beneficiados": 1453,
+      "rubro": "Ganado de Carne",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Carne",
+      "year": 2023,
+      "value": 1056455091,
+      "cantidad": 1038,
+      "beneficiados": 1038,
+      "rubro": "Ganado de Carne",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Carne",
+      "year": 2024,
+      "value": 929537182,
+      "cantidad": 678,
+      "beneficiados": 678,
+      "rubro": "Ganado de Carne",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Carne",
+      "year": 2025,
+      "value": 872590833,
+      "cantidad": 602,
+      "beneficiados": 602,
+      "rubro": "Ganado de Carne",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Carne",
+      "year": 2026,
+      "value": 234457062,
+      "cantidad": 140,
+      "beneficiados": 140,
+      "rubro": "Ganado de Carne",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Carne (Com)",
+      "year": 2017,
+      "value": 54535000,
+      "cantidad": 52,
+      "beneficiados": 52,
+      "rubro": "Ganado de Carne",
+      "tipo": "Com"
+    },
+    {
+      "destino": "Ganado de Carne (Com)",
+      "year": 2018,
+      "value": 51256480,
+      "cantidad": 59,
+      "beneficiados": 59,
+      "rubro": "Ganado de Carne",
+      "tipo": "Com"
+    },
+    {
+      "destino": "Ganado de Carne (Com)",
+      "year": 2019,
+      "value": 19377500,
+      "cantidad": 42,
+      "beneficiados": 42,
+      "rubro": "Ganado de Carne",
+      "tipo": "Com"
+    },
+    {
+      "destino": "Ganado de Carne (Com)",
+      "year": 2020,
+      "value": 20097500,
+      "cantidad": 34,
+      "beneficiados": 34,
+      "rubro": "Ganado de Carne",
+      "tipo": "Com"
+    },
+    {
+      "destino": "Ganado de Carne (Com)",
+      "year": 2021,
+      "value": 64095611,
+      "cantidad": 49,
+      "beneficiados": 49,
+      "rubro": "Ganado de Carne",
+      "tipo": "Com"
+    },
+    {
+      "destino": "Ganado de Carne (Com)",
+      "year": 2022,
+      "value": 239753400,
+      "cantidad": 51,
+      "beneficiados": 51,
+      "rubro": "Ganado de Carne",
+      "tipo": "Com"
+    },
+    {
+      "destino": "Ganado de Carne (Comerc.)",
+      "year": 2023,
+      "value": 73892029,
+      "cantidad": 56,
+      "beneficiados": 56,
+      "rubro": "Ganado de Carne",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Ganado de Carne (Comerc.)",
+      "year": 2024,
+      "value": 36340000,
+      "cantidad": 33,
+      "beneficiados": 33,
+      "rubro": "Ganado de Carne",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Ganado de Carne (Comerc.)",
+      "year": 2025,
+      "value": 25456700,
+      "cantidad": 24,
+      "beneficiados": 24,
+      "rubro": "Ganado de Carne",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Ganado de Carne (Comerc.)",
+      "year": 2026,
+      "value": 13155000,
+      "cantidad": 9,
+      "beneficiados": 9,
+      "rubro": "Ganado de Carne",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Ganado de Doble Propósito",
+      "year": 2017,
+      "value": 520811948,
+      "cantidad": 458,
+      "beneficiados": 458,
+      "rubro": "Ganado de Doble Propósito",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Doble Propósito",
+      "year": 2018,
+      "value": 596718800,
+      "cantidad": 597,
+      "beneficiados": 597,
+      "rubro": "Ganado de Doble Propósito",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Doble Propósito",
+      "year": 2019,
+      "value": 775219550,
+      "cantidad": 571,
+      "beneficiados": 655,
+      "rubro": "Ganado de Doble Propósito",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Doble Propósito",
+      "year": 2020,
+      "value": 665334453,
+      "cantidad": 528,
+      "beneficiados": 548,
+      "rubro": "Ganado de Doble Propósito",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Doble Propósito",
+      "year": 2021,
+      "value": 1244192998,
+      "cantidad": 888,
+      "beneficiados": 888,
+      "rubro": "Ganado de Doble Propósito",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Doble Propósito",
+      "year": 2022,
+      "value": 981275516,
+      "cantidad": 750,
+      "beneficiados": 750,
+      "rubro": "Ganado de Doble Propósito",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Doble Propósito",
+      "year": 2023,
+      "value": 891734885,
+      "cantidad": 646,
+      "beneficiados": 646,
+      "rubro": "Ganado de Doble Propósito",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Doble Propósito",
+      "year": 2024,
+      "value": 700322458,
+      "cantidad": 528,
+      "beneficiados": 528,
+      "rubro": "Ganado de Doble Propósito",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Doble Propósito",
+      "year": 2025,
+      "value": 875554696,
+      "cantidad": 610,
+      "beneficiados": 610,
+      "rubro": "Ganado de Doble Propósito",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Doble Propósito",
+      "year": 2026,
+      "value": 154728833,
+      "cantidad": 141,
+      "beneficiados": 141,
+      "rubro": "Ganado de Doble Propósito",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Leche",
+      "year": 2017,
+      "value": 273713196,
+      "cantidad": 227,
+      "beneficiados": 271,
+      "rubro": "Ganado de Leche",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Leche",
+      "year": 2018,
+      "value": 266477752,
+      "cantidad": 274,
+      "beneficiados": 274,
+      "rubro": "Ganado de Leche",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Leche",
+      "year": 2019,
+      "value": 234318094,
+      "cantidad": 172,
+      "beneficiados": 172,
+      "rubro": "Ganado de Leche",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Leche",
+      "year": 2020,
+      "value": 129354500,
+      "cantidad": 104,
+      "beneficiados": 104,
+      "rubro": "Ganado de Leche",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Leche",
+      "year": 2021,
+      "value": 272698000,
+      "cantidad": 221,
+      "beneficiados": 221,
+      "rubro": "Ganado de Leche",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Leche",
+      "year": 2022,
+      "value": 299114848,
+      "cantidad": 252,
+      "beneficiados": 252,
+      "rubro": "Ganado de Leche",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Leche",
+      "year": 2023,
+      "value": 293734171,
+      "cantidad": 232,
+      "beneficiados": 232,
+      "rubro": "Ganado de Leche",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Leche",
+      "year": 2024,
+      "value": 205716874,
+      "cantidad": 163,
+      "beneficiados": 163,
+      "rubro": "Ganado de Leche",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Leche",
+      "year": 2025,
+      "value": 190567356,
+      "cantidad": 135,
+      "beneficiados": 135,
+      "rubro": "Ganado de Leche",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Leche",
+      "year": 2026,
+      "value": 39605000,
+      "cantidad": 37,
+      "beneficiados": 37,
+      "rubro": "Ganado de Leche",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Leche (Com.)",
+      "year": 2017,
+      "value": 350000,
+      "cantidad": 3,
+      "beneficiados": 3,
+      "rubro": "Ganado de Leche",
+      "tipo": "Com."
+    },
+    {
+      "destino": "Ganado de Leche (Com.)",
+      "year": 2018,
+      "value": 100000,
+      "cantidad": 1,
+      "beneficiados": 1,
+      "rubro": "Ganado de Leche",
+      "tipo": "Com."
+    },
+    {
+      "destino": "Ganado de Leche (Com.)",
+      "year": 2019,
+      "value": 594852397,
+      "cantidad": 38,
+      "beneficiados": 38,
+      "rubro": "Ganado de Leche",
+      "tipo": "Com."
+    },
+    {
+      "destino": "Ganado de Leche (Com.)",
+      "year": 2020,
+      "value": 159104000,
+      "cantidad": 17,
+      "beneficiados": 17,
+      "rubro": "Ganado de Leche",
+      "tipo": "Com."
+    },
+    {
+      "destino": "Ganado de Leche (Com.)",
+      "year": 2021,
+      "value": 3290000,
+      "cantidad": 7,
+      "beneficiados": 7,
+      "rubro": "Ganado de Leche",
+      "tipo": "Com."
+    },
+    {
+      "destino": "Ganado de Leche (Com.)",
+      "year": 2022,
+      "value": 238282308,
+      "cantidad": 10,
+      "beneficiados": 10,
+      "rubro": "Ganado de Leche",
+      "tipo": "Com."
+    },
+    {
+      "destino": "Ganado de Leche (Comerc.)",
+      "year": 2023,
+      "value": 93065916,
+      "cantidad": 11,
+      "beneficiados": 11,
+      "rubro": "Ganado de Leche",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Ganado de Leche (Comerc.)",
+      "year": 2024,
+      "value": 1940000,
+      "cantidad": 3,
+      "beneficiados": 3,
+      "rubro": "Ganado de Leche",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Ganado de Leche (Comerc.)",
+      "year": 2025,
+      "value": 320000,
+      "cantidad": 1,
+      "beneficiados": 1,
+      "rubro": "Ganado de Leche",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Ganado de Leche (Comerc.)",
+      "year": 2026,
+      "value": 5000000,
+      "cantidad": 1,
+      "beneficiados": 1,
+      "rubro": "Ganado de Leche",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Ganado de Leche (Comerc.) 1",
+      "year": 2024,
+      "value": 132376874,
+      "cantidad": 7,
+      "beneficiados": 7,
+      "rubro": "Ganado de Leche (Comerc.) 1",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ganado de Leche (Comerc.)1",
+      "year": 2024,
+      "value": 100029216,
+      "cantidad": 6,
+      "beneficiados": 6,
+      "rubro": "Ganado de Leche (Comerc.)1",
+      "tipo": "General"
+    },
+    {
+      "destino": "Guandul",
+      "year": 2023,
+      "value": 7970600,
+      "cantidad": 35,
+      "beneficiados": 35,
+      "rubro": "Guandul",
+      "tipo": "General"
+    },
+    {
+      "destino": "Guandul (Comercialización)",
+      "year": 2017,
+      "value": 500000,
+      "cantidad": 1,
+      "beneficiados": 1,
+      "rubro": "Guandul",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Guandul (Comercialización)",
+      "year": 2018,
+      "value": 1000000,
+      "cantidad": 2,
+      "beneficiados": 2,
+      "rubro": "Guandul",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Guandul (Comercialización)",
+      "year": 2019,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Guandul",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Guandul (Comercialización)",
+      "year": 2020,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Guandul",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Guandul (Comercialización)",
+      "year": 2021,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Guandul",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Guandul (Comercialización)",
+      "year": 2022,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Guandul",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Guandul (Producción)",
+      "year": 2017,
+      "value": 3120000,
+      "cantidad": 26,
+      "beneficiados": 26,
+      "rubro": "Guandul",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Guandul (Producción)",
+      "year": 2018,
+      "value": 4300000,
+      "cantidad": 35,
+      "beneficiados": 35,
+      "rubro": "Guandul",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Guandul (Producción)",
+      "year": 2019,
+      "value": 2982500,
+      "cantidad": 25,
+      "beneficiados": 25,
+      "rubro": "Guandul",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Guandul (Producción)",
+      "year": 2020,
+      "value": 2506000,
+      "cantidad": 21,
+      "beneficiados": 21,
+      "rubro": "Guandul",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Guandul (Producción)",
+      "year": 2021,
+      "value": 2790400,
+      "cantidad": 27,
+      "beneficiados": 27,
+      "rubro": "Guandul",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Guandul (Producción)",
+      "year": 2022,
+      "value": 6667304,
+      "cantidad": 41,
+      "beneficiados": 41,
+      "rubro": "Guandul",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Guandul (Producción)",
+      "year": 2024,
+      "value": 4499000,
+      "cantidad": 20,
+      "beneficiados": 20,
+      "rubro": "Guandul",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Guandul (Producción)",
+      "year": 2025,
+      "value": 9061500,
+      "cantidad": 19,
+      "beneficiados": 19,
+      "rubro": "Guandul",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Guandul (Producción)",
+      "year": 2026,
+      "value": 150000,
+      "cantidad": 1,
+      "beneficiados": 1,
+      "rubro": "Guandul",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Guineo",
+      "year": 2017,
+      "value": 1038828059,
+      "cantidad": 97,
+      "beneficiados": 463,
+      "rubro": "Guineo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Guineo",
+      "year": 2018,
+      "value": 145373502,
+      "cantidad": 73,
+      "beneficiados": 78,
+      "rubro": "Guineo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Guineo",
+      "year": 2019,
+      "value": 68214000,
+      "cantidad": 36,
+      "beneficiados": 36,
+      "rubro": "Guineo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Guineo",
+      "year": 2020,
+      "value": 130220901,
+      "cantidad": 55,
+      "beneficiados": 55,
+      "rubro": "Guineo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Guineo",
+      "year": 2021,
+      "value": 616172561,
+      "cantidad": 186,
+      "beneficiados": 186,
+      "rubro": "Guineo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Guineo",
+      "year": 2022,
+      "value": 215789854,
+      "cantidad": 200,
+      "beneficiados": 200,
+      "rubro": "Guineo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Guineo",
+      "year": 2023,
+      "value": 223674645,
+      "cantidad": 199,
+      "beneficiados": 199,
+      "rubro": "Guineo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Guineo (Producción)",
+      "year": 2024,
+      "value": 118402495,
+      "cantidad": 85,
+      "beneficiados": 85,
+      "rubro": "Guineo",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Guineo (Producción)",
+      "year": 2025,
+      "value": 404019092,
+      "cantidad": 159,
+      "beneficiados": 159,
+      "rubro": "Guineo",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Guineo (Producción)",
+      "year": 2026,
+      "value": 26492894,
+      "cantidad": 20,
+      "beneficiados": 20,
+      "rubro": "Guineo",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Habichuela (Comerc.)",
+      "year": 2023,
+      "value": 58344000,
+      "cantidad": 5,
+      "beneficiados": 5,
+      "rubro": "Habichuela",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Habichuela (Comerc.)",
+      "year": 2024,
+      "value": 15988000,
+      "cantidad": 1,
+      "beneficiados": 1,
+      "rubro": "Habichuela",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Habichuela (Comerc.)",
+      "year": 2025,
+      "value": 2500000,
+      "cantidad": 5,
+      "beneficiados": 5,
+      "rubro": "Habichuela",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Habichuela (Comerc.)",
+      "year": 2026,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Habichuela",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Habichuela (Comerc.) 1",
+      "year": 2024,
+      "value": 26448000,
+      "cantidad": 2,
+      "beneficiados": 2,
+      "rubro": "Habichuela (Comerc.) 1",
+      "tipo": "General"
+    },
+    {
+      "destino": "Habichuela (Comercialización)",
+      "year": 2017,
+      "value": 240000000,
+      "cantidad": 7,
+      "beneficiados": 7,
+      "rubro": "Habichuela",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Habichuela (Comercialización)",
+      "year": 2018,
+      "value": 700000,
+      "cantidad": 2,
+      "beneficiados": 2,
+      "rubro": "Habichuela",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Habichuela (Comercialización)",
+      "year": 2019,
+      "value": 112747000,
+      "cantidad": 5,
+      "beneficiados": 5,
+      "rubro": "Habichuela",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Habichuela (Comercialización)",
+      "year": 2020,
+      "value": 167439368,
+      "cantidad": 3,
+      "beneficiados": 3,
+      "rubro": "Habichuela",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Habichuela (Comercialización)",
+      "year": 2021,
+      "value": 105401368,
+      "cantidad": 5,
+      "beneficiados": 5,
+      "rubro": "Habichuela",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Habichuela (Comercialización)",
+      "year": 2022,
+      "value": 42760000,
+      "cantidad": 4,
+      "beneficiados": 4,
+      "rubro": "Habichuela",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Habichuela (Comercialización)",
+      "year": 2023,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Habichuela",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Habichuela (Producción)",
+      "year": 2017,
+      "value": 41853400,
+      "cantidad": 203,
+      "beneficiados": 203,
+      "rubro": "Habichuela",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Habichuela (Producción)",
+      "year": 2018,
+      "value": 52936400,
+      "cantidad": 225,
+      "beneficiados": 225,
+      "rubro": "Habichuela",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Habichuela (Producción)",
+      "year": 2019,
+      "value": 47188200,
+      "cantidad": 184,
+      "beneficiados": 184,
+      "rubro": "Habichuela",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Habichuela (Producción)",
+      "year": 2020,
+      "value": 61276750,
+      "cantidad": 254,
+      "beneficiados": 254,
+      "rubro": "Habichuela",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Habichuela (Producción)",
+      "year": 2021,
+      "value": 60221088,
+      "cantidad": 231,
+      "beneficiados": 231,
+      "rubro": "Habichuela",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Habichuela (Producción)",
+      "year": 2022,
+      "value": 103489883,
+      "cantidad": 293,
+      "beneficiados": 293,
+      "rubro": "Habichuela",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Habichuela (Producción)",
+      "year": 2023,
+      "value": 78639900,
+      "cantidad": 228,
+      "beneficiados": 228,
+      "rubro": "Habichuela",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Habichuela (Producción)",
+      "year": 2024,
+      "value": 42020700,
+      "cantidad": 110,
+      "beneficiados": 110,
+      "rubro": "Habichuela",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Habichuela (Producción)",
+      "year": 2025,
+      "value": 59011853,
+      "cantidad": 147,
+      "beneficiados": 147,
+      "rubro": "Habichuela",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Habichuela (Producción)",
+      "year": 2026,
+      "value": 3400000,
+      "cantidad": 2,
+      "beneficiados": 2,
+      "rubro": "Habichuela",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Invernadero",
+      "year": 2017,
+      "value": 243185721,
+      "cantidad": 40,
+      "beneficiados": 40,
+      "rubro": "Invernadero",
+      "tipo": "General"
+    },
+    {
+      "destino": "Invernadero",
+      "year": 2018,
+      "value": 575706391,
+      "cantidad": 55,
+      "beneficiados": 55,
+      "rubro": "Invernadero",
+      "tipo": "General"
+    },
+    {
+      "destino": "Invernadero",
+      "year": 2019,
+      "value": 632800971,
+      "cantidad": 55,
+      "beneficiados": 55,
+      "rubro": "Invernadero",
+      "tipo": "General"
+    },
+    {
+      "destino": "Invernadero",
+      "year": 2020,
+      "value": 53614850,
+      "cantidad": 9,
+      "beneficiados": 9,
+      "rubro": "Invernadero",
+      "tipo": "General"
+    },
+    {
+      "destino": "Invernadero",
+      "year": 2021,
+      "value": 186021101,
+      "cantidad": 62,
+      "beneficiados": 62,
+      "rubro": "Invernadero",
+      "tipo": "General"
+    },
+    {
+      "destino": "Invernadero",
+      "year": 2022,
+      "value": 265810611,
+      "cantidad": 35,
+      "beneficiados": 35,
+      "rubro": "Invernadero",
+      "tipo": "General"
+    },
+    {
+      "destino": "Invernadero",
+      "year": 2023,
+      "value": 320163026,
+      "cantidad": 41,
+      "beneficiados": 41,
+      "rubro": "Invernadero",
+      "tipo": "General"
+    },
+    {
+      "destino": "Invernadero",
+      "year": 2024,
+      "value": 583809302,
+      "cantidad": 37,
+      "beneficiados": 37,
+      "rubro": "Invernadero",
+      "tipo": "General"
+    },
+    {
+      "destino": "Invernadero",
+      "year": 2025,
+      "value": 487751979,
+      "cantidad": 32,
+      "beneficiados": 32,
+      "rubro": "Invernadero",
+      "tipo": "General"
+    },
+    {
+      "destino": "Invernadero (Infraestructura)",
+      "year": 2026,
+      "value": 49317600,
+      "cantidad": 3,
+      "beneficiados": 3,
+      "rubro": "Invernadero",
+      "tipo": "Infraestructura"
+    },
+    {
+      "destino": "Limón (Producción)",
+      "year": 2024,
+      "value": 129621716,
+      "cantidad": 241,
+      "beneficiados": 241,
+      "rubro": "Limón",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Maíz",
+      "year": 2023,
+      "value": 20180070,
+      "cantidad": 82,
+      "beneficiados": 82,
+      "rubro": "Maíz",
+      "tipo": "General"
+    },
+    {
+      "destino": "Maíz (Comercialización)",
+      "year": 2017,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Maíz",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Maíz (Comercialización)",
+      "year": 2018,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Maíz",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Maíz (Comercialización)",
+      "year": 2019,
+      "value": 250000,
+      "cantidad": 1,
+      "beneficiados": 1,
+      "rubro": "Maíz",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Maíz (Comercialización)",
+      "year": 2020,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Maíz",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Maíz (Comercialización)",
+      "year": 2021,
+      "value": 2200000,
+      "cantidad": 3,
+      "beneficiados": 3,
+      "rubro": "Maíz",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Maíz (Comercialización)",
+      "year": 2022,
+      "value": 4027158,
+      "cantidad": 3,
+      "beneficiados": 3,
+      "rubro": "Maíz",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Maíz (Producción)",
+      "year": 2017,
+      "value": 3574000,
+      "cantidad": 35,
+      "beneficiados": 35,
+      "rubro": "Maíz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Maíz (Producción)",
+      "year": 2018,
+      "value": 11339585,
+      "cantidad": 36,
+      "beneficiados": 36,
+      "rubro": "Maíz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Maíz (Producción)",
+      "year": 2019,
+      "value": 6705500,
+      "cantidad": 54,
+      "beneficiados": 54,
+      "rubro": "Maíz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Maíz (Producción)",
+      "year": 2020,
+      "value": 5900750,
+      "cantidad": 55,
+      "beneficiados": 55,
+      "rubro": "Maíz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Maíz (Producción)",
+      "year": 2021,
+      "value": 11280600,
+      "cantidad": 74,
+      "beneficiados": 74,
+      "rubro": "Maíz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Maíz (Producción)",
+      "year": 2022,
+      "value": 25255640,
+      "cantidad": 132,
+      "beneficiados": 189,
+      "rubro": "Maíz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Maíz (Producción)",
+      "year": 2024,
+      "value": 26759500,
+      "cantidad": 109,
+      "beneficiados": 109,
+      "rubro": "Maíz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Maíz (Producción)",
+      "year": 2025,
+      "value": 8615000,
+      "cantidad": 35,
+      "beneficiados": 35,
+      "rubro": "Maíz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Maíz (Producción)",
+      "year": 2026,
+      "value": 4188500,
+      "cantidad": 20,
+      "beneficiados": 20,
+      "rubro": "Maíz",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Microempresas y Otros",
+      "year": 2023,
+      "value": 3633307799,
+      "cantidad": 2137,
+      "beneficiados": 2137,
+      "rubro": "Microempresas y Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Microempresas y Otros",
+      "year": 2024,
+      "value": 3912654072,
+      "cantidad": 2152,
+      "beneficiados": 2151,
+      "rubro": "Microempresas y Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Microempresas y Otros",
+      "year": 2025,
+      "value": 3148915923,
+      "cantidad": 1514,
+      "beneficiados": 1514,
+      "rubro": "Microempresas y Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Microempresas y Otros",
+      "year": 2026,
+      "value": 802023761,
+      "cantidad": 389,
+      "beneficiados": 389,
+      "rubro": "Microempresas y Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros",
+      "year": 2020,
+      "value": 724665375,
+      "cantidad": 618,
+      "beneficiados": 637,
+      "rubro": "Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros",
+      "year": 2021,
+      "value": 5353638105,
+      "cantidad": 2840,
+      "beneficiados": 2840,
+      "rubro": "Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros",
+      "year": 2022,
+      "value": 6414597553,
+      "cantidad": 4057,
+      "beneficiados": 4077,
+      "rubro": "Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros",
+      "year": 2023,
+      "value": 6534790839,
+      "cantidad": 4027,
+      "beneficiados": 4057,
+      "rubro": "Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros",
+      "year": 2024,
+      "value": 3884371230,
+      "cantidad": 1953,
+      "beneficiados": 1957,
+      "rubro": "Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros",
+      "year": 2025,
+      "value": 3505253475,
+      "cantidad": 1509,
+      "beneficiados": 1515,
+      "rubro": "Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros",
+      "year": 2026,
+      "value": 808353647,
+      "cantidad": 457,
+      "beneficiados": 460,
+      "rubro": "Otros",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros Agrícola",
+      "year": 2020,
+      "value": 959507467,
+      "cantidad": 481,
+      "beneficiados": 481,
+      "rubro": "Otros Agrícola",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros Agrícolas",
+      "year": 2017,
+      "value": 1783357615,
+      "cantidad": 1113,
+      "beneficiados": 1250,
+      "rubro": "Otros Agrícolas",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros Agrícolas",
+      "year": 2018,
+      "value": 2513336275,
+      "cantidad": 1594,
+      "beneficiados": 1634,
+      "rubro": "Otros Agrícolas",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros Agrícolas",
+      "year": 2019,
+      "value": 2889134773,
+      "cantidad": 1667,
+      "beneficiados": 1805,
+      "rubro": "Otros Agrícolas",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros Agrícolas",
+      "year": 2020,
+      "value": 738314889,
+      "cantidad": 459,
+      "beneficiados": 459,
+      "rubro": "Otros Agrícolas",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros Avícolas",
+      "year": 2017,
+      "value": 1390000,
+      "cantidad": 5,
+      "beneficiados": 5,
+      "rubro": "Otros Avícolas",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros Avícolas",
+      "year": 2018,
+      "value": 18235810,
+      "cantidad": 8,
+      "beneficiados": 8,
+      "rubro": "Otros Avícolas",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros Avícolas",
+      "year": 2019,
+      "value": 4500000,
+      "cantidad": 8,
+      "beneficiados": 8,
+      "rubro": "Otros Avícolas",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros Avícolas",
+      "year": 2020,
+      "value": 17150000,
+      "cantidad": 6,
+      "beneficiados": 6,
+      "rubro": "Otros Avícolas",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros Pecuarios",
+      "year": 2017,
+      "value": 476953203,
+      "cantidad": 385,
+      "beneficiados": 385,
+      "rubro": "Otros Pecuarios",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros Pecuarios",
+      "year": 2018,
+      "value": 518669267,
+      "cantidad": 374,
+      "beneficiados": 371,
+      "rubro": "Otros Pecuarios",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros Pecuarios",
+      "year": 2019,
+      "value": 468997888,
+      "cantidad": 417,
+      "beneficiados": 437,
+      "rubro": "Otros Pecuarios",
+      "tipo": "General"
+    },
+    {
+      "destino": "Otros Pecuarios",
+      "year": 2020,
+      "value": 373641957,
+      "cantidad": 323,
+      "beneficiados": 323,
+      "rubro": "Otros Pecuarios",
+      "tipo": "General"
+    },
+    {
+      "destino": "Paneles Solares",
+      "year": 2025,
+      "value": 113211726,
+      "cantidad": 52,
+      "beneficiados": 52,
+      "rubro": "Paneles Solares",
+      "tipo": "General"
+    },
+    {
+      "destino": "Paneles Solares",
+      "year": 2026,
+      "value": 48499951,
+      "cantidad": 9,
+      "beneficiados": 9,
+      "rubro": "Paneles Solares",
+      "tipo": "General"
+    },
+    {
+      "destino": "Papa",
+      "year": 2017,
+      "value": 200064620,
+      "cantidad": 221,
+      "beneficiados": 221,
+      "rubro": "Papa",
+      "tipo": "General"
+    },
+    {
+      "destino": "Papa",
+      "year": 2018,
+      "value": 239641380,
+      "cantidad": 228,
+      "beneficiados": 228,
+      "rubro": "Papa",
+      "tipo": "General"
+    },
+    {
+      "destino": "Papa",
+      "year": 2019,
+      "value": 387141880,
+      "cantidad": 230,
+      "beneficiados": 230,
+      "rubro": "Papa",
+      "tipo": "General"
+    },
+    {
+      "destino": "Papa",
+      "year": 2020,
+      "value": 322830750,
+      "cantidad": 267,
+      "beneficiados": 267,
+      "rubro": "Papa",
+      "tipo": "General"
+    },
+    {
+      "destino": "Papa",
+      "year": 2021,
+      "value": 636551059,
+      "cantidad": 395,
+      "beneficiados": 395,
+      "rubro": "Papa",
+      "tipo": "General"
+    },
+    {
+      "destino": "Papa",
+      "year": 2022,
+      "value": 383056000,
+      "cantidad": 382,
+      "beneficiados": 382,
+      "rubro": "Papa",
+      "tipo": "General"
+    },
+    {
+      "destino": "Papa",
+      "year": 2023,
+      "value": 612269000,
+      "cantidad": 517,
+      "beneficiados": 517,
+      "rubro": "Papa",
+      "tipo": "General"
+    },
+    {
+      "destino": "Papa (Producción)",
+      "year": 2024,
+      "value": 431138000,
+      "cantidad": 341,
+      "beneficiados": 341,
+      "rubro": "Papa",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Papa (Producción)",
+      "year": 2025,
+      "value": 492541325,
+      "cantidad": 302,
+      "beneficiados": 302,
+      "rubro": "Papa",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Papa (Producción)",
+      "year": 2026,
+      "value": 92379000,
+      "cantidad": 41,
+      "beneficiados": 41,
+      "rubro": "Papa",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Papa 2",
+      "year": 2024,
+      "value": 197454906,
+      "cantidad": 161,
+      "beneficiados": 161,
+      "rubro": "Papa 2",
+      "tipo": "General"
+    },
+    {
+      "destino": "Piña",
+      "year": 2017,
+      "value": 118368000,
+      "cantidad": 164,
+      "beneficiados": 164,
+      "rubro": "Piña",
+      "tipo": "General"
+    },
+    {
+      "destino": "Piña",
+      "year": 2018,
+      "value": 629122698,
+      "cantidad": 279,
+      "beneficiados": 436,
+      "rubro": "Piña",
+      "tipo": "General"
+    },
+    {
+      "destino": "Piña",
+      "year": 2019,
+      "value": 319191140,
+      "cantidad": 228,
+      "beneficiados": 228,
+      "rubro": "Piña",
+      "tipo": "General"
+    },
+    {
+      "destino": "Piña",
+      "year": 2020,
+      "value": 195326000,
+      "cantidad": 190,
+      "beneficiados": 190,
+      "rubro": "Piña",
+      "tipo": "General"
+    },
+    {
+      "destino": "Piña",
+      "year": 2021,
+      "value": 236639000,
+      "cantidad": 180,
+      "beneficiados": 180,
+      "rubro": "Piña",
+      "tipo": "General"
+    },
+    {
+      "destino": "Piña",
+      "year": 2022,
+      "value": 145967346,
+      "cantidad": 149,
+      "beneficiados": 149,
+      "rubro": "Piña",
+      "tipo": "General"
+    },
+    {
+      "destino": "Piña",
+      "year": 2023,
+      "value": 124525805,
+      "cantidad": 133,
+      "beneficiados": 133,
+      "rubro": "Piña",
+      "tipo": "General"
+    },
+    {
+      "destino": "Piña (Producción)",
+      "year": 2024,
+      "value": 150098400,
+      "cantidad": 127,
+      "beneficiados": 127,
+      "rubro": "Piña",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Piña (Producción)",
+      "year": 2025,
+      "value": 174355332,
+      "cantidad": 154,
+      "beneficiados": 154,
+      "rubro": "Piña",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Piña (Producción)",
+      "year": 2026,
+      "value": 30950000,
+      "cantidad": 26,
+      "beneficiados": 26,
+      "rubro": "Piña",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Plátano",
+      "year": 2017,
+      "value": 217945797,
+      "cantidad": 582,
+      "beneficiados": 582,
+      "rubro": "Plátano",
+      "tipo": "General"
+    },
+    {
+      "destino": "Plátano",
+      "year": 2018,
+      "value": 307773626,
+      "cantidad": 656,
+      "beneficiados": 706,
+      "rubro": "Plátano",
+      "tipo": "General"
+    },
+    {
+      "destino": "Plátano",
+      "year": 2019,
+      "value": 391676802,
+      "cantidad": 628,
+      "beneficiados": 628,
+      "rubro": "Plátano",
+      "tipo": "General"
+    },
+    {
+      "destino": "Plátano",
+      "year": 2020,
+      "value": 396994197,
+      "cantidad": 802,
+      "beneficiados": 802,
+      "rubro": "Plátano",
+      "tipo": "General"
+    },
+    {
+      "destino": "Plátano",
+      "year": 2021,
+      "value": 538398557,
+      "cantidad": 973,
+      "beneficiados": 987,
+      "rubro": "Plátano",
+      "tipo": "General"
+    },
+    {
+      "destino": "Plátano",
+      "year": 2022,
+      "value": 579153548,
+      "cantidad": 943,
+      "beneficiados": 943,
+      "rubro": "Plátano",
+      "tipo": "General"
+    },
+    {
+      "destino": "Plátano",
+      "year": 2023,
+      "value": 752091740,
+      "cantidad": 1063,
+      "beneficiados": 1063,
+      "rubro": "Plátano",
+      "tipo": "General"
+    },
+    {
+      "destino": "Plátano (Producción)",
+      "year": 2024,
+      "value": 361179000,
+      "cantidad": 453,
+      "beneficiados": 453,
+      "rubro": "Plátano",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Plátano (Producción)",
+      "year": 2025,
+      "value": 422521826,
+      "cantidad": 573,
+      "beneficiados": 573,
+      "rubro": "Plátano",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Plátano (Producción)",
+      "year": 2026,
+      "value": 85594100,
+      "cantidad": 118,
+      "beneficiados": 118,
+      "rubro": "Plátano",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Plátano 1",
+      "year": 2025,
+      "value": 223222800,
+      "cantidad": 359,
+      "beneficiados": 359,
+      "rubro": "Plátano 1",
+      "tipo": "General"
+    },
+    {
+      "destino": "Plátano 1",
+      "year": 2026,
+      "value": 106389500,
+      "cantidad": 78,
+      "beneficiados": 78,
+      "rubro": "Plátano 1",
+      "tipo": "General"
+    },
+    {
+      "destino": "Plátano 2",
+      "year": 2024,
+      "value": 412117700,
+      "cantidad": 575,
+      "beneficiados": 575,
+      "rubro": "Plátano 2",
+      "tipo": "General"
+    },
+    {
+      "destino": "Pollos",
+      "year": 2023,
+      "value": 897971500,
+      "cantidad": 844,
+      "beneficiados": 844,
+      "rubro": "Pollos",
+      "tipo": "General"
+    },
+    {
+      "destino": "Pollos",
+      "year": 2024,
+      "value": 718805300,
+      "cantidad": 682,
+      "beneficiados": 682,
+      "rubro": "Pollos",
+      "tipo": "General"
+    },
+    {
+      "destino": "Pollos",
+      "year": 2025,
+      "value": 581120000,
+      "cantidad": 551,
+      "beneficiados": 551,
+      "rubro": "Pollos",
+      "tipo": "General"
+    },
+    {
+      "destino": "Pollos",
+      "year": 2026,
+      "value": 147206000,
+      "cantidad": 131,
+      "beneficiados": 131,
+      "rubro": "Pollos",
+      "tipo": "General"
+    },
+    {
+      "destino": "Pollos de Engorde",
+      "year": 2017,
+      "value": 449768693,
+      "cantidad": 453,
+      "beneficiados": 453,
+      "rubro": "Pollos de Engorde",
+      "tipo": "General"
+    },
+    {
+      "destino": "Pollos de Engorde",
+      "year": 2018,
+      "value": 609809757,
+      "cantidad": 524,
+      "beneficiados": 524,
+      "rubro": "Pollos de Engorde",
+      "tipo": "General"
+    },
+    {
+      "destino": "Pollos de Engorde",
+      "year": 2019,
+      "value": 483794217,
+      "cantidad": 593,
+      "beneficiados": 602,
+      "rubro": "Pollos de Engorde",
+      "tipo": "General"
+    },
+    {
+      "destino": "Pollos de Engorde",
+      "year": 2020,
+      "value": 422653888,
+      "cantidad": 426,
+      "beneficiados": 426,
+      "rubro": "Pollos de Engorde",
+      "tipo": "General"
+    },
+    {
+      "destino": "Pollos de Engorde",
+      "year": 2021,
+      "value": 635052975,
+      "cantidad": 583,
+      "beneficiados": 583,
+      "rubro": "Pollos de Engorde",
+      "tipo": "General"
+    },
+    {
+      "destino": "Pollos de Engorde",
+      "year": 2022,
+      "value": 1299245677,
+      "cantidad": 861,
+      "beneficiados": 861,
+      "rubro": "Pollos de Engorde",
+      "tipo": "General"
+    },
+    {
+      "destino": "Porcino",
+      "year": 2023,
+      "value": 2580000,
+      "cantidad": 5,
+      "beneficiados": 5,
+      "rubro": "Porcino",
+      "tipo": "General"
+    },
+    {
+      "destino": "Porcino",
+      "year": 2024,
+      "value": 1100000,
+      "cantidad": 2,
+      "beneficiados": 2,
+      "rubro": "Porcino",
+      "tipo": "General"
+    },
+    {
+      "destino": "Porcino",
+      "year": 2025,
+      "value": 200000,
+      "cantidad": 1,
+      "beneficiados": 1,
+      "rubro": "Porcino",
+      "tipo": "General"
+    },
+    {
+      "destino": "Porcino",
+      "year": 2026,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Porcino",
+      "tipo": "General"
+    },
+    {
+      "destino": "Porcino (Comerc.)",
+      "year": 2024,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Porcino",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Porcino (Comercialización)",
+      "year": 2017,
+      "value": 2125000,
+      "cantidad": 5,
+      "beneficiados": 5,
+      "rubro": "Porcino",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Porcino (Comercialización)",
+      "year": 2018,
+      "value": 760000,
+      "cantidad": 4,
+      "beneficiados": 4,
+      "rubro": "Porcino",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Porcino (Comercialización)",
+      "year": 2019,
+      "value": 1060000,
+      "cantidad": 6,
+      "beneficiados": 6,
+      "rubro": "Porcino",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Porcino (Comercialización)",
+      "year": 2020,
+      "value": 1630000,
+      "cantidad": 8,
+      "beneficiados": 8,
+      "rubro": "Porcino",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Porcino (Comercialización)",
+      "year": 2021,
+      "value": 24088356,
+      "cantidad": 6,
+      "beneficiados": 6,
+      "rubro": "Porcino",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Porcino (Comercialización)",
+      "year": 2022,
+      "value": 0,
+      "cantidad": 0,
+      "beneficiados": 0,
+      "rubro": "Porcino",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Porcino (Producción)",
+      "year": 2017,
+      "value": 280091842,
+      "cantidad": 544,
+      "beneficiados": 544,
+      "rubro": "Porcino",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Porcino (Producción)",
+      "year": 2018,
+      "value": 330956363,
+      "cantidad": 646,
+      "beneficiados": 646,
+      "rubro": "Porcino",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Porcino (Producción)",
+      "year": 2019,
+      "value": 371247605,
+      "cantidad": 573,
+      "beneficiados": 573,
+      "rubro": "Porcino",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Porcino (Producción)",
+      "year": 2020,
+      "value": 348859341,
+      "cantidad": 420,
+      "beneficiados": 420,
+      "rubro": "Porcino",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Porcino (Producción)",
+      "year": 2021,
+      "value": 410883300,
+      "cantidad": 357,
+      "beneficiados": 357,
+      "rubro": "Porcino",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Porcino (Producción)",
+      "year": 2022,
+      "value": 13100000,
+      "cantidad": 4,
+      "beneficiados": 5,
+      "rubro": "Porcino",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Préstamos de Consumo",
+      "year": 2017,
+      "value": 312309461,
+      "cantidad": 1696,
+      "beneficiados": 1696,
+      "rubro": "Préstamos de Consumo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Préstamos de Consumo",
+      "year": 2018,
+      "value": 427233122,
+      "cantidad": 2134,
+      "beneficiados": 2134,
+      "rubro": "Préstamos de Consumo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Préstamos de Consumo",
+      "year": 2019,
+      "value": 450367455,
+      "cantidad": 2400,
+      "beneficiados": 2400,
+      "rubro": "Préstamos de Consumo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Préstamos de Consumo",
+      "year": 2020,
+      "value": 392180024,
+      "cantidad": 2065,
+      "beneficiados": 2065,
+      "rubro": "Préstamos de Consumo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Préstamos de Consumo",
+      "year": 2021,
+      "value": 455482174,
+      "cantidad": 1992,
+      "beneficiados": 1992,
+      "rubro": "Préstamos de Consumo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Préstamos de Consumo",
+      "year": 2022,
+      "value": 526150182,
+      "cantidad": 2291,
+      "beneficiados": 2291,
+      "rubro": "Préstamos de Consumo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Préstamos de Consumo",
+      "year": 2023,
+      "value": 542409275,
+      "cantidad": 2231,
+      "beneficiados": 2231,
+      "rubro": "Préstamos de Consumo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Préstamos de Consumo",
+      "year": 2024,
+      "value": 496766245,
+      "cantidad": 2057,
+      "beneficiados": 2057,
+      "rubro": "Préstamos de Consumo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Préstamos de Consumo",
+      "year": 2025,
+      "value": 456403416,
+      "cantidad": 1607,
+      "beneficiados": 1607,
+      "rubro": "Préstamos de Consumo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Préstamos de Consumo",
+      "year": 2026,
+      "value": 118335125,
+      "cantidad": 363,
+      "beneficiados": 363,
+      "rubro": "Préstamos de Consumo",
+      "tipo": "General"
+    },
+    {
+      "destino": "Sistema de Riego",
+      "year": 2025,
+      "value": 27928935,
+      "cantidad": 25,
+      "beneficiados": 25,
+      "rubro": "Sistema de Riego",
+      "tipo": "General"
+    },
+    {
+      "destino": "Sistema de Riego",
+      "year": 2026,
+      "value": 2894021,
+      "cantidad": 4,
+      "beneficiados": 4,
+      "rubro": "Sistema de Riego",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tabaco (Comerc.)",
+      "year": 2023,
+      "value": 699869508,
+      "cantidad": 83,
+      "beneficiados": 83,
+      "rubro": "Tabaco",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Tabaco (Comerc.)",
+      "year": 2024,
+      "value": 148975931,
+      "cantidad": 18,
+      "beneficiados": 18,
+      "rubro": "Tabaco",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Tabaco (Comerc.)",
+      "year": 2025,
+      "value": 95159500,
+      "cantidad": 59,
+      "beneficiados": 59,
+      "rubro": "Tabaco",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Tabaco (Comerc.)",
+      "year": 2026,
+      "value": 31980000,
+      "cantidad": 17,
+      "beneficiados": 17,
+      "rubro": "Tabaco",
+      "tipo": "Comerc."
+    },
+    {
+      "destino": "Tabaco (Comerc.) 1",
+      "year": 2024,
+      "value": 1113599892,
+      "cantidad": 137,
+      "beneficiados": 137,
+      "rubro": "Tabaco (Comerc.) 1",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tabaco (Comerc.)1",
+      "year": 2024,
+      "value": 96023584,
+      "cantidad": 8,
+      "beneficiados": 8,
+      "rubro": "Tabaco (Comerc.)1",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tabaco (Comercialización)",
+      "year": 2017,
+      "value": 8345000,
+      "cantidad": 26,
+      "beneficiados": 26,
+      "rubro": "Tabaco",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Tabaco (Comercialización)",
+      "year": 2018,
+      "value": 33475000,
+      "cantidad": 28,
+      "beneficiados": 28,
+      "rubro": "Tabaco",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Tabaco (Comercialización)",
+      "year": 2019,
+      "value": 166970000,
+      "cantidad": 40,
+      "beneficiados": 103,
+      "rubro": "Tabaco",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Tabaco (Comercialización)",
+      "year": 2020,
+      "value": 147806100,
+      "cantidad": 44,
+      "beneficiados": 44,
+      "rubro": "Tabaco",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Tabaco (Comercialización)",
+      "year": 2021,
+      "value": 1003355835,
+      "cantidad": 138,
+      "beneficiados": 138,
+      "rubro": "Tabaco",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Tabaco (Comercialización)",
+      "year": 2022,
+      "value": 873355280,
+      "cantidad": 129,
+      "beneficiados": 129,
+      "rubro": "Tabaco",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Tabaco (Comercialización)",
+      "year": 2023,
+      "value": 306306253,
+      "cantidad": 51,
+      "beneficiados": 51,
+      "rubro": "Tabaco",
+      "tipo": "Comercialización"
+    },
+    {
+      "destino": "Tabaco (Pignoración)",
+      "year": 2025,
+      "value": 1112239019,
+      "cantidad": 110,
+      "beneficiados": 110,
+      "rubro": "Tabaco",
+      "tipo": "Pignoración"
+    },
+    {
+      "destino": "Tabaco (Pignoración)",
+      "year": 2026,
+      "value": 337490818,
+      "cantidad": 41,
+      "beneficiados": 41,
+      "rubro": "Tabaco",
+      "tipo": "Pignoración"
+    },
+    {
+      "destino": "Tabaco (Producción)",
+      "year": 2017,
+      "value": 3498000,
+      "cantidad": 17,
+      "beneficiados": 17,
+      "rubro": "Tabaco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Tabaco (Producción)",
+      "year": 2018,
+      "value": 13526000,
+      "cantidad": 24,
+      "beneficiados": 63,
+      "rubro": "Tabaco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Tabaco (Producción)",
+      "year": 2019,
+      "value": 38852773,
+      "cantidad": 25,
+      "beneficiados": 139,
+      "rubro": "Tabaco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Tabaco (Producción)",
+      "year": 2020,
+      "value": 79554435,
+      "cantidad": 32,
+      "beneficiados": 61,
+      "rubro": "Tabaco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Tabaco (Producción)",
+      "year": 2021,
+      "value": 22622000,
+      "cantidad": 76,
+      "beneficiados": 76,
+      "rubro": "Tabaco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Tabaco (Producción)",
+      "year": 2022,
+      "value": 29869500,
+      "cantidad": 97,
+      "beneficiados": 97,
+      "rubro": "Tabaco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Tabaco (Producción)",
+      "year": 2023,
+      "value": 99116648,
+      "cantidad": 130,
+      "beneficiados": 157,
+      "rubro": "Tabaco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Tabaco (Producción)",
+      "year": 2024,
+      "value": 102310902,
+      "cantidad": 150,
+      "beneficiados": 150,
+      "rubro": "Tabaco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Tabaco (Producción)",
+      "year": 2025,
+      "value": 50535000,
+      "cantidad": 94,
+      "beneficiados": 94,
+      "rubro": "Tabaco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Tabaco (Producción)",
+      "year": 2026,
+      "value": 23685000,
+      "cantidad": 39,
+      "beneficiados": 39,
+      "rubro": "Tabaco",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Tomate",
+      "year": 2023,
+      "value": 415093380,
+      "cantidad": 191,
+      "beneficiados": 191,
+      "rubro": "Tomate",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tomate (Producción)",
+      "year": 2024,
+      "value": 198201787,
+      "cantidad": 180,
+      "beneficiados": 180,
+      "rubro": "Tomate",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Tomate (Producción)",
+      "year": 2025,
+      "value": 500919641,
+      "cantidad": 141,
+      "beneficiados": 141,
+      "rubro": "Tomate",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Tomate (Producción)",
+      "year": 2026,
+      "value": 35950000,
+      "cantidad": 25,
+      "beneficiados": 25,
+      "rubro": "Tomate",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Tomate Industrial",
+      "year": 2017,
+      "value": 750000,
+      "cantidad": 4,
+      "beneficiados": 4,
+      "rubro": "Tomate Industrial",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tomate Industrial",
+      "year": 2018,
+      "value": 800000,
+      "cantidad": 1,
+      "beneficiados": 1,
+      "rubro": "Tomate Industrial",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tomate Industrial",
+      "year": 2019,
+      "value": 1200000,
+      "cantidad": 2,
+      "beneficiados": 2,
+      "rubro": "Tomate Industrial",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tomate Industrial",
+      "year": 2020,
+      "value": 8180000,
+      "cantidad": 5,
+      "beneficiados": 5,
+      "rubro": "Tomate Industrial",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tomate Industrial",
+      "year": 2021,
+      "value": 72140000,
+      "cantidad": 5,
+      "beneficiados": 5,
+      "rubro": "Tomate Industrial",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tomate Industrial",
+      "year": 2022,
+      "value": 1527800,
+      "cantidad": 5,
+      "beneficiados": 5,
+      "rubro": "Tomate Industrial",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tomate de Mesa",
+      "year": 2017,
+      "value": 115337000,
+      "cantidad": 184,
+      "beneficiados": 184,
+      "rubro": "Tomate de Mesa",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tomate de Mesa",
+      "year": 2018,
+      "value": 186513169,
+      "cantidad": 253,
+      "beneficiados": 253,
+      "rubro": "Tomate de Mesa",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tomate de Mesa",
+      "year": 2019,
+      "value": 125384000,
+      "cantidad": 150,
+      "beneficiados": 150,
+      "rubro": "Tomate de Mesa",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tomate de Mesa",
+      "year": 2020,
+      "value": 530110500,
+      "cantidad": 163,
+      "beneficiados": 163,
+      "rubro": "Tomate de Mesa",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tomate de Mesa",
+      "year": 2021,
+      "value": 304457406,
+      "cantidad": 149,
+      "beneficiados": 149,
+      "rubro": "Tomate de Mesa",
+      "tipo": "General"
+    },
+    {
+      "destino": "Tomate de Mesa",
+      "year": 2022,
+      "value": 229132879,
+      "cantidad": 186,
+      "beneficiados": 186,
+      "rubro": "Tomate de Mesa",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yautia",
+      "year": 2023,
+      "value": 53708538,
+      "cantidad": 180,
+      "beneficiados": 180,
+      "rubro": "Yautia",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yautía",
+      "year": 2017,
+      "value": 28881120,
+      "cantidad": 134,
+      "beneficiados": 134,
+      "rubro": "Yautía",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yautía",
+      "year": 2018,
+      "value": 34669300,
+      "cantidad": 110,
+      "beneficiados": 110,
+      "rubro": "Yautía",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yautía",
+      "year": 2019,
+      "value": 24177000,
+      "cantidad": 117,
+      "beneficiados": 117,
+      "rubro": "Yautía",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yautía",
+      "year": 2020,
+      "value": 29945000,
+      "cantidad": 125,
+      "beneficiados": 125,
+      "rubro": "Yautía",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yautía",
+      "year": 2021,
+      "value": 35008750,
+      "cantidad": 113,
+      "beneficiados": 113,
+      "rubro": "Yautía",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yautía",
+      "year": 2022,
+      "value": 71054515,
+      "cantidad": 332,
+      "beneficiados": 332,
+      "rubro": "Yautía",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yautía (Producción)",
+      "year": 2024,
+      "value": 39624000,
+      "cantidad": 123,
+      "beneficiados": 123,
+      "rubro": "Yautía",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Yautía (Producción)",
+      "year": 2025,
+      "value": 41705000,
+      "cantidad": 101,
+      "beneficiados": 101,
+      "rubro": "Yautía",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Yautía (Producción)",
+      "year": 2026,
+      "value": 11930000,
+      "cantidad": 29,
+      "beneficiados": 29,
+      "rubro": "Yautía",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Yuca",
+      "year": 2017,
+      "value": 26877200,
+      "cantidad": 120,
+      "beneficiados": 120,
+      "rubro": "Yuca",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yuca",
+      "year": 2018,
+      "value": 59289010,
+      "cantidad": 204,
+      "beneficiados": 204,
+      "rubro": "Yuca",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yuca",
+      "year": 2019,
+      "value": 73758000,
+      "cantidad": 259,
+      "beneficiados": 259,
+      "rubro": "Yuca",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yuca",
+      "year": 2020,
+      "value": 59743830,
+      "cantidad": 198,
+      "beneficiados": 198,
+      "rubro": "Yuca",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yuca",
+      "year": 2021,
+      "value": 46307469,
+      "cantidad": 164,
+      "beneficiados": 164,
+      "rubro": "Yuca",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yuca",
+      "year": 2022,
+      "value": 99444385,
+      "cantidad": 462,
+      "beneficiados": 462,
+      "rubro": "Yuca",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yuca",
+      "year": 2023,
+      "value": 125192396,
+      "cantidad": 435,
+      "beneficiados": 435,
+      "rubro": "Yuca",
+      "tipo": "General"
+    },
+    {
+      "destino": "Yuca (Producción)",
+      "year": 2024,
+      "value": 80583112,
+      "cantidad": 255,
+      "beneficiados": 255,
+      "rubro": "Yuca",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Yuca (Producción)",
+      "year": 2025,
+      "value": 67775500,
+      "cantidad": 155,
+      "beneficiados": 155,
+      "rubro": "Yuca",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Yuca (Producción)",
+      "year": 2026,
+      "value": 15379000,
+      "cantidad": 46,
+      "beneficiados": 46,
+      "rubro": "Yuca",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ñame",
+      "year": 2017,
+      "value": 22968187,
+      "cantidad": 127,
+      "beneficiados": 127,
+      "rubro": "Ñame",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ñame",
+      "year": 2018,
+      "value": 26965330,
+      "cantidad": 156,
+      "beneficiados": 156,
+      "rubro": "Ñame",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ñame",
+      "year": 2019,
+      "value": 22339200,
+      "cantidad": 119,
+      "beneficiados": 119,
+      "rubro": "Ñame",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ñame",
+      "year": 2020,
+      "value": 20025000,
+      "cantidad": 94,
+      "beneficiados": 94,
+      "rubro": "Ñame",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ñame",
+      "year": 2021,
+      "value": 25680000,
+      "cantidad": 111,
+      "beneficiados": 111,
+      "rubro": "Ñame",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ñame",
+      "year": 2022,
+      "value": 49300351,
+      "cantidad": 218,
+      "beneficiados": 218,
+      "rubro": "Ñame",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ñame",
+      "year": 2023,
+      "value": 32440000,
+      "cantidad": 125,
+      "beneficiados": 125,
+      "rubro": "Ñame",
+      "tipo": "General"
+    },
+    {
+      "destino": "Ñame (Producción)",
+      "year": 2024,
+      "value": 28567000,
+      "cantidad": 88,
+      "beneficiados": 88,
+      "rubro": "Ñame",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ñame (Producción)",
+      "year": 2025,
+      "value": 33380000,
+      "cantidad": 78,
+      "beneficiados": 78,
+      "rubro": "Ñame",
+      "tipo": "Producción"
+    },
+    {
+      "destino": "Ñame (Producción)",
+      "year": 2026,
+      "value": 11880000,
+      "cantidad": 28,
+      "beneficiados": 28,
+      "rubro": "Ñame",
+      "tipo": "Producción"
+    }
+  ],
+  "flows": [
+    {
+      "year": 2025,
+      "month": 1,
+      "label": "Ene 2025",
+      "desembolsos": 2084724386,
+      "cobros": 1698130968
+    },
+    {
+      "year": 2025,
+      "month": 2,
+      "label": "Feb 2025",
+      "desembolsos": 1520889071,
+      "cobros": 1803402337
+    },
+    {
+      "year": 2025,
+      "month": 3,
+      "label": "Mar 2025",
+      "desembolsos": 1897761927,
+      "cobros": 2096230055
+    },
+    {
+      "year": 2025,
+      "month": 4,
+      "label": "Abr 2025",
+      "desembolsos": 2361060018,
+      "cobros": 2639242084
+    },
+    {
+      "year": 2025,
+      "month": 5,
+      "label": "May 2025",
+      "desembolsos": 2642163029,
+      "cobros": 2500013466
+    },
+    {
+      "year": 2025,
+      "month": 6,
+      "label": "Jun 2025",
+      "desembolsos": 1901442792,
+      "cobros": 2059112567
+    },
+    {
+      "year": 2025,
+      "month": 7,
+      "label": "Jul 2025",
+      "desembolsos": 2461475703,
+      "cobros": 2192030457
+    },
+    {
+      "year": 2025,
+      "month": 8,
+      "label": "Ago 2025",
+      "desembolsos": 2318595921,
+      "cobros": 2034009933
+    },
+    {
+      "year": 2025,
+      "month": 9,
+      "label": "Sep 2025",
+      "desembolsos": 1643784037,
+      "cobros": 1764236441
+    },
+    {
+      "year": 2025,
+      "month": 10,
+      "label": "Oct 2025",
+      "desembolsos": 1497444648,
+      "cobros": 1779983623
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "label": "Nov 2025",
+      "desembolsos": 1706356959,
+      "cobros": 1768291330
+    },
+    {
+      "year": 2025,
+      "month": 12,
+      "label": "Dic 2025",
+      "desembolsos": 3864065727,
+      "cobros": 2282158338
+    },
+    {
+      "year": 2026,
+      "month": 1,
+      "label": "Ene 2026",
+      "desembolsos": 1908588278,
+      "cobros": 2174845755
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "label": "Feb 2026",
+      "desembolsos": 1653837139,
+      "cobros": 1768440049
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "label": "Mar 2026",
+      "desembolsos": 2133391616,
+      "cobros": 2053893409
+    }
+  ],
+  "areasByBranchYear": [
+    {
+      "branch": "Arenoso",
+      "year": 2017,
+      "tareas": 69911,
+      "value": 415702915
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2018,
+      "tareas": 84190,
+      "value": 509172997
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2019,
+      "tareas": 93806,
+      "value": 544043766
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2020,
+      "tareas": 88391,
+      "value": 511571087
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2021,
+      "tareas": 98905,
+      "value": 659336321
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2022,
+      "tareas": 95405,
+      "value": 927094008
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2023,
+      "tareas": 135683,
+      "value": 1297268676
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2024,
+      "tareas": 113344,
+      "value": 972759820
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2025,
+      "tareas": 102219,
+      "value": 809373933
+    },
+    {
+      "branch": "Arenoso",
+      "year": 2026,
+      "tareas": 16821,
+      "value": 147538555
+    },
+    {
+      "branch": "Azua",
+      "year": 2017,
+      "tareas": 19557,
+      "value": 339976800
+    },
+    {
+      "branch": "Azua",
+      "year": 2018,
+      "tareas": 26431,
+      "value": 473291137
+    },
+    {
+      "branch": "Azua",
+      "year": 2019,
+      "tareas": 20881,
+      "value": 748293541
+    },
+    {
+      "branch": "Azua",
+      "year": 2020,
+      "tareas": 23989,
+      "value": 754296035
+    },
+    {
+      "branch": "Azua",
+      "year": 2021,
+      "tareas": 22080,
+      "value": 845992635
+    },
+    {
+      "branch": "Azua",
+      "year": 2022,
+      "tareas": 19895,
+      "value": 1012570513
+    },
+    {
+      "branch": "Azua",
+      "year": 2023,
+      "tareas": 15943,
+      "value": 869059634
+    },
+    {
+      "branch": "Azua",
+      "year": 2024,
+      "tareas": 16173,
+      "value": 651614691
+    },
+    {
+      "branch": "Azua",
+      "year": 2025,
+      "tareas": 15070,
+      "value": 490752356
+    },
+    {
+      "branch": "Azua",
+      "year": 2026,
+      "tareas": 3279,
+      "value": 84038500
+    },
+    {
+      "branch": "Baní",
+      "year": 2017,
+      "tareas": 7705,
+      "value": 228744758
+    },
+    {
+      "branch": "Baní",
+      "year": 2018,
+      "tareas": 14884,
+      "value": 396653089
+    },
+    {
+      "branch": "Baní",
+      "year": 2019,
+      "tareas": 15895,
+      "value": 391720454
+    },
+    {
+      "branch": "Baní",
+      "year": 2020,
+      "tareas": 17178,
+      "value": 376065172
+    },
+    {
+      "branch": "Baní",
+      "year": 2021,
+      "tareas": 34135,
+      "value": 928421024
+    },
+    {
+      "branch": "Baní",
+      "year": 2022,
+      "tareas": 37523,
+      "value": 1255759346
+    },
+    {
+      "branch": "Baní",
+      "year": 2023,
+      "tareas": 28192,
+      "value": 1113404693
+    },
+    {
+      "branch": "Baní",
+      "year": 2024,
+      "tareas": 18729,
+      "value": 894973918
+    },
+    {
+      "branch": "Baní",
+      "year": 2025,
+      "tareas": 43095,
+      "value": 1259724318
+    },
+    {
+      "branch": "Baní",
+      "year": 2026,
+      "tareas": 2487,
+      "value": 159818600
+    },
+    {
+      "branch": "Barahona",
+      "year": 2017,
+      "tareas": 9803,
+      "value": 208378989
+    },
+    {
+      "branch": "Barahona",
+      "year": 2018,
+      "tareas": 28861,
+      "value": 495496326
+    },
+    {
+      "branch": "Barahona",
+      "year": 2019,
+      "tareas": 24137,
+      "value": 552630414
+    },
+    {
+      "branch": "Barahona",
+      "year": 2020,
+      "tareas": 23224,
+      "value": 537800703
+    },
+    {
+      "branch": "Barahona",
+      "year": 2021,
+      "tareas": 34492,
+      "value": 588770290
+    },
+    {
+      "branch": "Barahona",
+      "year": 2022,
+      "tareas": 20223,
+      "value": 369974527
+    },
+    {
+      "branch": "Barahona",
+      "year": 2023,
+      "tareas": 31660,
+      "value": 610139323
+    },
+    {
+      "branch": "Barahona",
+      "year": 2024,
+      "tareas": 33788,
+      "value": 477361730
+    },
+    {
+      "branch": "Barahona",
+      "year": 2025,
+      "tareas": 10912,
+      "value": 151789063
+    },
+    {
+      "branch": "Barahona",
+      "year": 2026,
+      "tareas": 2199,
+      "value": 33573000
+    },
+    {
+      "branch": "Bonao",
+      "year": 2017,
+      "tareas": 23010,
+      "value": 324143509
+    },
+    {
+      "branch": "Bonao",
+      "year": 2018,
+      "tareas": 19955,
+      "value": 281185243
+    },
+    {
+      "branch": "Bonao",
+      "year": 2019,
+      "tareas": 19185,
+      "value": 401295497
+    },
+    {
+      "branch": "Bonao",
+      "year": 2020,
+      "tareas": 19044,
+      "value": 406516880
+    },
+    {
+      "branch": "Bonao",
+      "year": 2021,
+      "tareas": 22453,
+      "value": 548066426
+    },
+    {
+      "branch": "Bonao",
+      "year": 2022,
+      "tareas": 58912,
+      "value": 749347070
+    },
+    {
+      "branch": "Bonao",
+      "year": 2023,
+      "tareas": 26089,
+      "value": 777441772
+    },
+    {
+      "branch": "Bonao",
+      "year": 2024,
+      "tareas": 15997,
+      "value": 497254622
+    },
+    {
+      "branch": "Bonao",
+      "year": 2025,
+      "tareas": 15294,
+      "value": 619673034
+    },
+    {
+      "branch": "Bonao",
+      "year": 2026,
+      "tareas": 2371,
+      "value": 113417153
+    },
+    {
+      "branch": "Comendador",
+      "year": 2017,
+      "tareas": 3380,
+      "value": 74781962
+    },
+    {
+      "branch": "Comendador",
+      "year": 2018,
+      "tareas": 25147,
+      "value": 307157366
+    },
+    {
+      "branch": "Comendador",
+      "year": 2019,
+      "tareas": 11501,
+      "value": 144761324
+    },
+    {
+      "branch": "Comendador",
+      "year": 2020,
+      "tareas": 7845,
+      "value": 140043583
+    },
+    {
+      "branch": "Comendador",
+      "year": 2021,
+      "tareas": 11283,
+      "value": 266551892
+    },
+    {
+      "branch": "Comendador",
+      "year": 2022,
+      "tareas": 12274,
+      "value": 311573196
+    },
+    {
+      "branch": "Comendador",
+      "year": 2023,
+      "tareas": 8313,
+      "value": 319674352
+    },
+    {
+      "branch": "Comendador",
+      "year": 2024,
+      "tareas": 5045,
+      "value": 235737903
+    },
+    {
+      "branch": "Comendador",
+      "year": 2025,
+      "tareas": 5232,
+      "value": 198289030
+    },
+    {
+      "branch": "Comendador",
+      "year": 2026,
+      "tareas": 1276,
+      "value": 40295059
+    },
+    {
+      "branch": "Constanza",
+      "year": 2017,
+      "tareas": 15058,
+      "value": 514464653
+    },
+    {
+      "branch": "Constanza",
+      "year": 2018,
+      "tareas": 20176,
+      "value": 886642903
+    },
+    {
+      "branch": "Constanza",
+      "year": 2019,
+      "tareas": 24471,
+      "value": 1385428038
+    },
+    {
+      "branch": "Constanza",
+      "year": 2020,
+      "tareas": 74422,
+      "value": 880854580
+    },
+    {
+      "branch": "Constanza",
+      "year": 2021,
+      "tareas": 135462,
+      "value": 1664588554
+    },
+    {
+      "branch": "Constanza",
+      "year": 2022,
+      "tareas": 57880,
+      "value": 1947005031
+    },
+    {
+      "branch": "Constanza",
+      "year": 2023,
+      "tareas": 56917,
+      "value": 1779183516
+    },
+    {
+      "branch": "Constanza",
+      "year": 2024,
+      "tareas": 111190,
+      "value": 2191782836
+    },
+    {
+      "branch": "Constanza",
+      "year": 2025,
+      "tareas": 40805,
+      "value": 1731705736
+    },
+    {
+      "branch": "Constanza",
+      "year": 2026,
+      "tareas": 17793,
+      "value": 357714394
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2017,
+      "tareas": 103211,
+      "value": 1089811157
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2018,
+      "tareas": 117597,
+      "value": 1590259469
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2019,
+      "tareas": 97034,
+      "value": 1441593533
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2020,
+      "tareas": 94081,
+      "value": 1270866613
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2021,
+      "tareas": 97173,
+      "value": 1487385692
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2022,
+      "tareas": 86691,
+      "value": 1699594224
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2023,
+      "tareas": 77114,
+      "value": 1234035567
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2024,
+      "tareas": 80178,
+      "value": 1056699443
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2025,
+      "tareas": 88207,
+      "value": 1236049393
+    },
+    {
+      "branch": "Cotuí",
+      "year": 2026,
+      "tareas": 13776,
+      "value": 172748000
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2017,
+      "tareas": 37712,
+      "value": 243191077
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2018,
+      "tareas": 47560,
+      "value": 466957712
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2019,
+      "tareas": 25884,
+      "value": 375768310
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2020,
+      "tareas": 24412,
+      "value": 367788521
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2021,
+      "tareas": 29950,
+      "value": 560826127
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2022,
+      "tareas": 28531,
+      "value": 469808877
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2023,
+      "tareas": 22044,
+      "value": 401666772
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2024,
+      "tareas": 22049,
+      "value": 348818118
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2025,
+      "tareas": 21079,
+      "value": 426139149
+    },
+    {
+      "branch": "Dajabón",
+      "year": 2026,
+      "tareas": 3720,
+      "value": 57324000
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2017,
+      "tareas": 11333,
+      "value": 219243704
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2018,
+      "tareas": 12488,
+      "value": 321055785
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2019,
+      "tareas": 10335,
+      "value": 325770561
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2020,
+      "tareas": 9523,
+      "value": 330281253
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2021,
+      "tareas": 21126,
+      "value": 423071242
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2022,
+      "tareas": 31009,
+      "value": 641176030
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2023,
+      "tareas": 26151,
+      "value": 455375165
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2024,
+      "tareas": 6173,
+      "value": 298884760
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2025,
+      "tareas": 6479,
+      "value": 293139380
+    },
+    {
+      "branch": "El Seibo",
+      "year": 2026,
+      "tareas": 960,
+      "value": 76724500
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2017,
+      "tareas": 21724,
+      "value": 545255216
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2018,
+      "tareas": 36170,
+      "value": 566052154
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2019,
+      "tareas": 33921,
+      "value": 455756315
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2020,
+      "tareas": 31404,
+      "value": 497616680
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2021,
+      "tareas": 54216,
+      "value": 736327134
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2022,
+      "tareas": 38436,
+      "value": 931507601
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2023,
+      "tareas": 40525,
+      "value": 962485513
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2024,
+      "tareas": 23301,
+      "value": 701642020
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2025,
+      "tareas": 18085,
+      "value": 475359276
+    },
+    {
+      "branch": "Hato Mayor",
+      "year": 2026,
+      "tareas": 1474,
+      "value": 77366000
+    },
+    {
+      "branch": "Higüey",
+      "year": 2017,
+      "tareas": 12413,
+      "value": 358048996
+    },
+    {
+      "branch": "Higüey",
+      "year": 2018,
+      "tareas": 8819,
+      "value": 387704943
+    },
+    {
+      "branch": "Higüey",
+      "year": 2019,
+      "tareas": 7851,
+      "value": 494859744
+    },
+    {
+      "branch": "Higüey",
+      "year": 2020,
+      "tareas": 7910,
+      "value": 486656670
+    },
+    {
+      "branch": "Higüey",
+      "year": 2021,
+      "tareas": 11567,
+      "value": 724468015
+    },
+    {
+      "branch": "Higüey",
+      "year": 2022,
+      "tareas": 21775,
+      "value": 684528718
+    },
+    {
+      "branch": "Higüey",
+      "year": 2023,
+      "tareas": 12711,
+      "value": 633521030
+    },
+    {
+      "branch": "Higüey",
+      "year": 2024,
+      "tareas": 26785,
+      "value": 378421612
+    },
+    {
+      "branch": "Higüey",
+      "year": 2025,
+      "tareas": 9647,
+      "value": 418236629
+    },
+    {
+      "branch": "Higüey",
+      "year": 2026,
+      "tareas": 443,
+      "value": 59276775
+    },
+    {
+      "branch": "La Vega",
+      "year": 2017,
+      "tareas": 83165,
+      "value": 1043510932
+    },
+    {
+      "branch": "La Vega",
+      "year": 2018,
+      "tareas": 83150,
+      "value": 1471432226
+    },
+    {
+      "branch": "La Vega",
+      "year": 2019,
+      "tareas": 72570,
+      "value": 1342904476
+    },
+    {
+      "branch": "La Vega",
+      "year": 2020,
+      "tareas": 168234,
+      "value": 1255249202
+    },
+    {
+      "branch": "La Vega",
+      "year": 2021,
+      "tareas": 96358,
+      "value": 2187425559
+    },
+    {
+      "branch": "La Vega",
+      "year": 2022,
+      "tareas": 209110,
+      "value": 3863119159
+    },
+    {
+      "branch": "La Vega",
+      "year": 2023,
+      "tareas": 96338,
+      "value": 3066711618
+    },
+    {
+      "branch": "La Vega",
+      "year": 2024,
+      "tareas": 104860,
+      "value": 2034794768
+    },
+    {
+      "branch": "La Vega",
+      "year": 2025,
+      "tareas": 79576,
+      "value": 2179525077
+    },
+    {
+      "branch": "La Vega",
+      "year": 2026,
+      "tareas": 17666,
+      "value": 453446112
+    },
+    {
+      "branch": "Moca",
+      "year": 2017,
+      "tareas": 32126,
+      "value": 440200252
+    },
+    {
+      "branch": "Moca",
+      "year": 2018,
+      "tareas": 16856,
+      "value": 727106706
+    },
+    {
+      "branch": "Moca",
+      "year": 2019,
+      "tareas": 22249,
+      "value": 800479314
+    },
+    {
+      "branch": "Moca",
+      "year": 2020,
+      "tareas": 14878,
+      "value": 755928635
+    },
+    {
+      "branch": "Moca",
+      "year": 2021,
+      "tareas": 19540,
+      "value": 1041628372
+    },
+    {
+      "branch": "Moca",
+      "year": 2022,
+      "tareas": 25045,
+      "value": 961126888
+    },
+    {
+      "branch": "Moca",
+      "year": 2023,
+      "tareas": 16958,
+      "value": 1055212873
+    },
+    {
+      "branch": "Moca",
+      "year": 2024,
+      "tareas": 20427,
+      "value": 913106801
+    },
+    {
+      "branch": "Moca",
+      "year": 2025,
+      "tareas": 19927,
+      "value": 1081642032
+    },
+    {
+      "branch": "Moca",
+      "year": 2026,
+      "tareas": 3819,
+      "value": 165700933
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2017,
+      "tareas": 20781,
+      "value": 946890575
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2018,
+      "tareas": 36622,
+      "value": 2123509732
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2019,
+      "tareas": 36715,
+      "value": 1928460687
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2020,
+      "tareas": 20282,
+      "value": 1293165379
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2021,
+      "tareas": 36962,
+      "value": 1616120529
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2022,
+      "tareas": 43638,
+      "value": 2761997004
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2023,
+      "tareas": 38388,
+      "value": 1620391022
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2024,
+      "tareas": 18735,
+      "value": 973102636
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2025,
+      "tareas": 10717,
+      "value": 579217396
+    },
+    {
+      "branch": "Monte Plata",
+      "year": 2026,
+      "tareas": 2340,
+      "value": 104924922
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2017,
+      "tareas": 75931,
+      "value": 663328644
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2018,
+      "tareas": 67550,
+      "value": 594499463
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2019,
+      "tareas": 48568,
+      "value": 459232348
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2020,
+      "tareas": 48611,
+      "value": 451489100
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2021,
+      "tareas": 63077,
+      "value": 709393732
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2022,
+      "tareas": 72361,
+      "value": 705039014
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2023,
+      "tareas": 63236,
+      "value": 909774711
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2024,
+      "tareas": 56698,
+      "value": 764886083
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2025,
+      "tareas": 58593,
+      "value": 985481307
+    },
+    {
+      "branch": "Montecristí",
+      "year": 2026,
+      "tareas": 11877,
+      "value": 215275951
+    },
+    {
+      "branch": "Nagua",
+      "year": 2017,
+      "tareas": 83464,
+      "value": 458703805
+    },
+    {
+      "branch": "Nagua",
+      "year": 2018,
+      "tareas": 85265,
+      "value": 512509633
+    },
+    {
+      "branch": "Nagua",
+      "year": 2019,
+      "tareas": 76209,
+      "value": 485217554
+    },
+    {
+      "branch": "Nagua",
+      "year": 2020,
+      "tareas": 68139,
+      "value": 463202013
+    },
+    {
+      "branch": "Nagua",
+      "year": 2021,
+      "tareas": 117034,
+      "value": 569428798
+    },
+    {
+      "branch": "Nagua",
+      "year": 2022,
+      "tareas": 120875,
+      "value": 1282435404
+    },
+    {
+      "branch": "Nagua",
+      "year": 2023,
+      "tareas": 153457,
+      "value": 1166739163
+    },
+    {
+      "branch": "Nagua",
+      "year": 2024,
+      "tareas": 77307,
+      "value": 799968035
+    },
+    {
+      "branch": "Nagua",
+      "year": 2025,
+      "tareas": 72417,
+      "value": 716055160
+    },
+    {
+      "branch": "Nagua",
+      "year": 2026,
+      "tareas": 23296,
+      "value": 140746612
+    },
+    {
+      "branch": "Neyba",
+      "year": 2017,
+      "tareas": 15715,
+      "value": 152616522
+    },
+    {
+      "branch": "Neyba",
+      "year": 2018,
+      "tareas": 5753,
+      "value": 189861833
+    },
+    {
+      "branch": "Neyba",
+      "year": 2019,
+      "tareas": 8895,
+      "value": 240105006
+    },
+    {
+      "branch": "Neyba",
+      "year": 2020,
+      "tareas": 9553,
+      "value": 266724798
+    },
+    {
+      "branch": "Neyba",
+      "year": 2021,
+      "tareas": 26538,
+      "value": 418845488
+    },
+    {
+      "branch": "Neyba",
+      "year": 2022,
+      "tareas": 10629,
+      "value": 362557998
+    },
+    {
+      "branch": "Neyba",
+      "year": 2023,
+      "tareas": 9401,
+      "value": 358279380
+    },
+    {
+      "branch": "Neyba",
+      "year": 2024,
+      "tareas": 6119,
+      "value": 217858541
+    },
+    {
+      "branch": "Neyba",
+      "year": 2025,
+      "tareas": 7499,
+      "value": 167274032
+    },
+    {
+      "branch": "Neyba",
+      "year": 2026,
+      "tareas": 1842,
+      "value": 42860200
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2017,
+      "tareas": 14109,
+      "value": 253364951
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2018,
+      "tareas": 30247,
+      "value": 344666111
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2019,
+      "tareas": 17645,
+      "value": 457517582
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2020,
+      "tareas": 14100,
+      "value": 431185896
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2021,
+      "tareas": 17043,
+      "value": 693942901
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2022,
+      "tareas": 15965,
+      "value": 561707454
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2023,
+      "tareas": 15300,
+      "value": 656873428
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2024,
+      "tareas": 13822,
+      "value": 511564178
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2025,
+      "tareas": 15234,
+      "value": 594938855
+    },
+    {
+      "branch": "Puerto Plata",
+      "year": 2026,
+      "tareas": 2131,
+      "value": 115883811
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2017,
+      "tareas": 43073,
+      "value": 339896697
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2018,
+      "tareas": 29979,
+      "value": 318917918
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2019,
+      "tareas": 33703,
+      "value": 370623612
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2020,
+      "tareas": 18330,
+      "value": 269123477
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2021,
+      "tareas": 66981,
+      "value": 636672326
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2022,
+      "tareas": 53125,
+      "value": 558571640
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2023,
+      "tareas": 30805,
+      "value": 578335397
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2024,
+      "tareas": 23316,
+      "value": 478002025
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2025,
+      "tareas": 18459,
+      "value": 402482049
+    },
+    {
+      "branch": "Río San Juan",
+      "year": 2026,
+      "tareas": 1861,
+      "value": 107804002
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2017,
+      "tareas": 48437,
+      "value": 375817143
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2018,
+      "tareas": 55393,
+      "value": 502598345
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2019,
+      "tareas": 64356,
+      "value": 464947866
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2020,
+      "tareas": 58053,
+      "value": 487287733
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2021,
+      "tareas": 51736,
+      "value": 665364371
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2022,
+      "tareas": 54136,
+      "value": 795118365
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2023,
+      "tareas": 46107,
+      "value": 640734924
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2024,
+      "tareas": 32806,
+      "value": 614720192
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2025,
+      "tareas": 35497,
+      "value": 399294187
+    },
+    {
+      "branch": "Salcedo",
+      "year": 2026,
+      "tareas": 4632,
+      "value": 74901490
+    },
+    {
+      "branch": "Samaná",
+      "year": 2017,
+      "tareas": 25909,
+      "value": 163242837
+    },
+    {
+      "branch": "Samaná",
+      "year": 2018,
+      "tareas": 26013,
+      "value": 208632412
+    },
+    {
+      "branch": "Samaná",
+      "year": 2019,
+      "tareas": 12399,
+      "value": 111339269
+    },
+    {
+      "branch": "Samaná",
+      "year": 2020,
+      "tareas": 14210,
+      "value": 142521212
+    },
+    {
+      "branch": "Samaná",
+      "year": 2021,
+      "tareas": 17990,
+      "value": 223755596
+    },
+    {
+      "branch": "Samaná",
+      "year": 2022,
+      "tareas": 25815,
+      "value": 272947144
+    },
+    {
+      "branch": "Samaná",
+      "year": 2023,
+      "tareas": 13739,
+      "value": 262180738
+    },
+    {
+      "branch": "Samaná",
+      "year": 2024,
+      "tareas": 8779,
+      "value": 218901807
+    },
+    {
+      "branch": "Samaná",
+      "year": 2025,
+      "tareas": 9145,
+      "value": 232096608
+    },
+    {
+      "branch": "Samaná",
+      "year": 2026,
+      "tareas": 2583,
+      "value": 76544584
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2017,
+      "tareas": 9879,
+      "value": 314736111
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2018,
+      "tareas": 17930,
+      "value": 572437895
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2019,
+      "tareas": 11691,
+      "value": 628137998
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2020,
+      "tareas": 17031,
+      "value": 471687920
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2021,
+      "tareas": 25907,
+      "value": 566188082
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2022,
+      "tareas": 24504,
+      "value": 601448002
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2023,
+      "tareas": 15136,
+      "value": 315079518
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2024,
+      "tareas": 15075,
+      "value": 232356530
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2025,
+      "tareas": 16041,
+      "value": 224742866
+    },
+    {
+      "branch": "San Cristóbal",
+      "year": 2026,
+      "tareas": 5027,
+      "value": 117020400
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2017,
+      "tareas": 112606,
+      "value": 841881919
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2018,
+      "tareas": 134177,
+      "value": 1171946140
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2019,
+      "tareas": 122925,
+      "value": 1230039623
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2020,
+      "tareas": 144615,
+      "value": 1012554592
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2021,
+      "tareas": 133616,
+      "value": 1325057328
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2022,
+      "tareas": 140366,
+      "value": 1834218823
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2023,
+      "tareas": 144761,
+      "value": 2155375907
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2024,
+      "tareas": 108782,
+      "value": 1189615362
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2025,
+      "tareas": 116843,
+      "value": 1661444279
+    },
+    {
+      "branch": "San Francisco de Macorís",
+      "year": 2026,
+      "tareas": 15520,
+      "value": 510698800
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2017,
+      "tareas": 8204,
+      "value": 533428027
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2018,
+      "tareas": 16273,
+      "value": 1148010017
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2019,
+      "tareas": 10984,
+      "value": 1104977654
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2020,
+      "tareas": 28377,
+      "value": 421524387
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2021,
+      "tareas": 212948,
+      "value": 1028296060
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2022,
+      "tareas": 22762,
+      "value": 912513095
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2023,
+      "tareas": 19120,
+      "value": 1167563994
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2024,
+      "tareas": 50223,
+      "value": 1524086226
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2025,
+      "tareas": 29511,
+      "value": 1134403826
+    },
+    {
+      "branch": "San José de Ocoa",
+      "year": 2026,
+      "tareas": 18659,
+      "value": 227948431
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2017,
+      "tareas": 9471,
+      "value": 271436001
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2018,
+      "tareas": 9921,
+      "value": 295662554
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2019,
+      "tareas": 10006,
+      "value": 221246320
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2020,
+      "tareas": 6253,
+      "value": 375736738
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2021,
+      "tareas": 7955,
+      "value": 258361083
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2022,
+      "tareas": 6209,
+      "value": 204632391
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2023,
+      "tareas": 7446,
+      "value": 360821273
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2024,
+      "tareas": 6153,
+      "value": 489363481
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2025,
+      "tareas": 10458,
+      "value": 333723523
+    },
+    {
+      "branch": "San José de las Matas",
+      "year": 2026,
+      "tareas": 2278,
+      "value": 147329037
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2017,
+      "tareas": 47383,
+      "value": 599322348
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2018,
+      "tareas": 42662,
+      "value": 410986722
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2019,
+      "tareas": 44359,
+      "value": 782657329
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2020,
+      "tareas": 48498,
+      "value": 719552319
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2021,
+      "tareas": 54831,
+      "value": 917302187
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2022,
+      "tareas": 66243,
+      "value": 1676246877
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2023,
+      "tareas": 42451,
+      "value": 1599889270
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2024,
+      "tareas": 41876,
+      "value": 809007090
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2025,
+      "tareas": 35556,
+      "value": 880307362
+    },
+    {
+      "branch": "San Juan de la Maguana",
+      "year": 2026,
+      "tareas": 5819,
+      "value": 111621174
+    },
+    {
+      "branch": "Santiago",
+      "year": 2017,
+      "tareas": 13719,
+      "value": 650475211
+    },
+    {
+      "branch": "Santiago",
+      "year": 2018,
+      "tareas": 15955,
+      "value": 822819545
+    },
+    {
+      "branch": "Santiago",
+      "year": 2019,
+      "tareas": 20787,
+      "value": 847531816
+    },
+    {
+      "branch": "Santiago",
+      "year": 2020,
+      "tareas": 38510,
+      "value": 956394730
+    },
+    {
+      "branch": "Santiago",
+      "year": 2021,
+      "tareas": 10767,
+      "value": 1678888262
+    },
+    {
+      "branch": "Santiago",
+      "year": 2022,
+      "tareas": 21977,
+      "value": 1707896956
+    },
+    {
+      "branch": "Santiago",
+      "year": 2023,
+      "tareas": 26403,
+      "value": 1945928154
+    },
+    {
+      "branch": "Santiago",
+      "year": 2024,
+      "tareas": 18170,
+      "value": 1678939832
+    },
+    {
+      "branch": "Santiago",
+      "year": 2025,
+      "tareas": 17383,
+      "value": 1506347694
+    },
+    {
+      "branch": "Santiago",
+      "year": 2026,
+      "tareas": 3340,
+      "value": 525716528
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2017,
+      "tareas": 5528,
+      "value": 301425031
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2018,
+      "tareas": 32330,
+      "value": 398617499
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2019,
+      "tareas": 2791,
+      "value": 445479090
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2020,
+      "tareas": 3435,
+      "value": 274392861
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2021,
+      "tareas": 6569,
+      "value": 440377075
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2022,
+      "tareas": 6256,
+      "value": 472061897
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2023,
+      "tareas": 6413,
+      "value": 430479513
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2024,
+      "tareas": 5503,
+      "value": 300782171
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2025,
+      "tareas": 3576,
+      "value": 362937169
+    },
+    {
+      "branch": "Santiago Rodríguez",
+      "year": 2026,
+      "tareas": 1588,
+      "value": 145238098
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2017,
+      "tareas": 6853,
+      "value": 1754920353
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2018,
+      "tareas": 15606,
+      "value": 2288367558
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2019,
+      "tareas": 6051,
+      "value": 2604778935
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2020,
+      "tareas": 7716,
+      "value": 1921874066
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2021,
+      "tareas": 13964,
+      "value": 4482922179
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2022,
+      "tareas": 19984,
+      "value": 2304717157
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2023,
+      "tareas": 4424,
+      "value": 2573632625
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2024,
+      "tareas": 3293,
+      "value": 2887662002
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2025,
+      "tareas": 2315,
+      "value": 2771730634
+    },
+    {
+      "branch": "Santo Domingo",
+      "year": 2026,
+      "tareas": 97,
+      "value": 589766272
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2017,
+      "tareas": 80687,
+      "value": 1343574996
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2018,
+      "tareas": 46989,
+      "value": 1378286989
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2019,
+      "tareas": 49424,
+      "value": 1014525931
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2020,
+      "tareas": 37940,
+      "value": 850326992
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2021,
+      "tareas": 58938,
+      "value": 1636133317
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2022,
+      "tareas": 33020,
+      "value": 1147844772
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2023,
+      "tareas": 48129,
+      "value": 1719290599
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2024,
+      "tareas": 29937,
+      "value": 1500765522
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2025,
+      "tareas": 48201,
+      "value": 1719812156
+    },
+    {
+      "branch": "Valverde Mao",
+      "year": 2026,
+      "tareas": 8262,
+      "value": 232427394
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2017,
+      "tareas": 65051,
+      "value": 342120079
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2018,
+      "tareas": 64899,
+      "value": 527749598
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2019,
+      "tareas": 60230,
+      "value": 441225276
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2020,
+      "tareas": 72626,
+      "value": 394326901
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2021,
+      "tareas": 73352,
+      "value": 528825743
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2022,
+      "tareas": 104171,
+      "value": 755658570
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2023,
+      "tareas": 82026,
+      "value": 681796417
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2024,
+      "tareas": 62194,
+      "value": 504503827
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2025,
+      "tareas": 71104,
+      "value": 598407041
+    },
+    {
+      "branch": "Villa Riva",
+      "year": 2026,
+      "tareas": 12025,
+      "value": 91348724
+    }
+  ]
+}

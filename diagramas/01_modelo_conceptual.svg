@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1380" height="760" viewBox="0 0 1380 760">
+<rect width="1380" height="760" fill="#f5f6f1"/>
+<text x="38" y="48" font-size="26" font-weight="700" fill="#17201b">Modelo Conceptual - Banco Agricola RD</text>
+<rect x="70" y="105" width="230" height="145" rx="8" fill="#ffffff" stroke="#23684a" stroke-width="2"/>
+<rect x="70" y="105" width="230" height="34" rx="8" fill="#23684a"/>
+<text x="82" y="128" font-size="14" font-weight="700" fill="#ffffff">PERIODO</text>
+<text x="82" y="163" font-size="12" font-weight="400" fill="#17201b">Año</text>
+<text x="82" y="185" font-size="12" font-weight="400" fill="#17201b">Mes</text>
+<text x="82" y="207" font-size="12" font-weight="400" fill="#17201b">Fecha periodo</text>
+<rect x="70" y="315" width="230" height="145" rx="8" fill="#ffffff" stroke="#2b7c83" stroke-width="2"/>
+<rect x="70" y="315" width="230" height="34" rx="8" fill="#2b7c83"/>
+<text x="82" y="338" font-size="14" font-weight="700" fill="#ffffff">SUCURSAL</text>
+<text x="82" y="373" font-size="12" font-weight="400" fill="#17201b">Nombre</text>
+<text x="82" y="395" font-size="12" font-weight="400" fill="#17201b">Region</text>
+<text x="82" y="417" font-size="12" font-weight="400" fill="#17201b">Estatus</text>
+<rect x="70" y="525" width="230" height="145" rx="8" fill="#ffffff" stroke="#c4962e" stroke-width="2"/>
+<rect x="70" y="525" width="230" height="34" rx="8" fill="#c4962e"/>
+<text x="82" y="548" font-size="14" font-weight="700" fill="#ffffff">DESTINO</text>
+<text x="82" y="583" font-size="12" font-weight="400" fill="#17201b">Rubro</text>
+<text x="82" y="605" font-size="12" font-weight="400" fill="#17201b">Tipo operacion</text>
+<text x="82" y="627" font-size="12" font-weight="400" fill="#17201b">Estatus</text>
+<rect x="560" y="110" width="270" height="120" rx="8" fill="#ffffff" stroke="#23684a" stroke-width="2"/>
+<rect x="560" y="110" width="270" height="34" rx="8" fill="#23684a"/>
+<text x="572" y="133" font-size="14" font-weight="700" fill="#ffffff">CARTERA PRESTAMO</text>
+<text x="572" y="168" font-size="12" font-weight="400" fill="#17201b">Prestamos</text>
+<text x="572" y="190" font-size="12" font-weight="400" fill="#17201b">Valor RD$</text>
+<rect x="560" y="270" width="270" height="120" rx="8" fill="#ffffff" stroke="#2b7c83" stroke-width="2"/>
+<rect x="560" y="270" width="270" height="34" rx="8" fill="#2b7c83"/>
+<text x="572" y="293" font-size="14" font-weight="700" fill="#ffffff">AREA FINANCIADA</text>
+<text x="572" y="328" font-size="12" font-weight="400" fill="#17201b">Tareas</text>
+<text x="572" y="350" font-size="12" font-weight="400" fill="#17201b">Prestamos</text>
+<text x="572" y="372" font-size="12" font-weight="400" fill="#17201b">Valor RD$</text>
+<rect x="560" y="430" width="270" height="120" rx="8" fill="#ffffff" stroke="#b85b4a" stroke-width="2"/>
+<rect x="560" y="430" width="270" height="34" rx="8" fill="#b85b4a"/>
+<text x="572" y="453" font-size="14" font-weight="700" fill="#ffffff">DESEMBOLSO COBRO</text>
+<text x="572" y="488" font-size="12" font-weight="400" fill="#17201b">Desembolsos</text>
+<text x="572" y="510" font-size="12" font-weight="400" fill="#17201b">Cobros</text>
+<text x="572" y="532" font-size="12" font-weight="400" fill="#17201b">Balance neto</text>
+<rect x="560" y="590" width="270" height="120" rx="8" fill="#ffffff" stroke="#c4962e" stroke-width="2"/>
+<rect x="560" y="590" width="270" height="34" rx="8" fill="#c4962e"/>
+<text x="572" y="613" font-size="14" font-weight="700" fill="#ffffff">MONTO DESTINO</text>
+<text x="572" y="648" font-size="12" font-weight="400" fill="#17201b">Cantidad</text>
+<text x="572" y="670" font-size="12" font-weight="400" fill="#17201b">Valores</text>
+<text x="572" y="692" font-size="12" font-weight="400" fill="#17201b">Beneficiados</text>
+<rect x="1040" y="315" width="245" height="145" rx="8" fill="#ffffff" stroke="#738079" stroke-width="2"/>
+<rect x="1040" y="315" width="245" height="34" rx="8" fill="#738079"/>
+<text x="1052" y="338" font-size="14" font-weight="700" fill="#ffffff">FUENTE DATO</text>
+<text x="1052" y="373" font-size="12" font-weight="400" fill="#17201b">Archivo origen</text>
+<text x="1052" y="395" font-size="12" font-weight="400" fill="#17201b">Descripcion</text>
+<text x="1052" y="417" font-size="12" font-weight="400" fill="#17201b">Fecha carga</text>
+<g stroke="#738079" stroke-width="2" fill="none">
+  <line x1="300" y1="178" x2="560" y2="170"/>
+  <line x1="300" y1="178" x2="560" y2="330"/>
+  <line x1="300" y1="178" x2="560" y2="490"/>
+  <line x1="300" y1="178" x2="560" y2="650"/>
+  <line x1="300" y1="388" x2="560" y2="170"/>
+  <line x1="300" y1="388" x2="560" y2="330"/>
+  <line x1="300" y1="388" x2="560" y2="490"/>
+  <line x1="300" y1="598" x2="560" y2="650"/>
+  <line x1="830" y1="170" x2="1040" y2="388"/>
+  <line x1="830" y1="330" x2="1040" y2="388"/>
+  <line x1="830" y1="490" x2="1040" y2="388"/>
+  <line x1="830" y1="650" x2="1040" y2="388"/>
+</g>
+</svg>

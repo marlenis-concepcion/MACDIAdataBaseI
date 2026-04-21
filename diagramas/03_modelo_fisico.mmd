@@ -1,0 +1,59 @@
+erDiagram
+    PERIODO {
+        int Periodo_ID PK
+        smallint Periodo_Anio
+        tinyint Periodo_MesNumero
+        date Periodo_Fecha
+    }
+    SUCURSAL {
+        int Sucursal_ID PK
+        nvarchar Sucursal_Nombre UK
+        nvarchar Sucursal_Region
+    }
+    DESTINO {
+        int Destino_ID PK
+        nvarchar Destino_Nombre UK
+        nvarchar Destino_Rubro
+        nvarchar Destino_TipoOperacion
+    }
+    FACT_CARTERA_PRESTAMO {
+        int Cartera_ID PK
+        int Sucursal_ID FK
+        int Periodo_ID FK
+        int Cantidad_Prestamos
+        decimal Valor_RD
+    }
+    FACT_AREA_FINANCIADA {
+        int AreaFinanciada_ID PK
+        int Sucursal_ID FK
+        int Periodo_ID FK
+        decimal Tareas
+        decimal Valor_RD
+    }
+    FACT_DESEMBOLSO_COBRO {
+        int DesembolsoCobro_ID PK
+        int Sucursal_ID FK
+        int Periodo_ID FK
+        decimal Desembolsos_RD
+        decimal Cobros_RD
+    }
+    FACT_MONTO_DESTINO {
+        int MontoDestino_ID PK
+        int Destino_ID FK
+        int Periodo_ID FK
+        decimal Valores_RD
+        int Beneficiados
+    }
+
+    AUDITORIA_OPERACION {
+        int Auditoria_ID PK
+        nvarchar Tabla_Nombre
+        nvarchar Operacion
+        datetime2 Fecha_Operacion
+    }
+    CARTERA_PRESTAMO_HISTORICO {
+        int Historico_ID PK
+        int Cartera_ID
+        decimal Valor_RD_Ant
+        datetime2 Fecha_Historico
+    }

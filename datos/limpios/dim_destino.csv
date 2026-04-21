@@ -1,0 +1,106 @@
+destino_id,destino_nombre,rubro,tipo_operacion
+1,Acuicola,Acuicola,General
+2,Acuícola,Acuícola,General
+3,"Agro. Manufactura, Comercio V. y Otros","Agro. Manufactura, Comercio V. y Otros",General
+4,Aguacate (Producción),Aguacate,Producción
+5,Aji (Producción),Aji,Producción
+6,Ajo,Ajo,General
+7,Ajo (Comerc.),Ajo,Comerc.
+8,Ajo (Comercialización),Ajo,Comercialización
+9,Ajo (Producción),Ajo,Producción
+10,Ají (Producción),Ají,Producción
+11,Apícola,Apícola,General
+12,Arroz (Comerc.),Arroz,Comerc.
+13,Arroz (Comerc.) 1,Arroz (Comerc.) 1,General
+14,Arroz (Comercialización),Arroz,Comercialización
+15,Arroz (Pginoración),Arroz,Pginoración
+16,Arroz (Pignoración),Arroz,Pignoración
+17,Arroz (Producción),Arroz,Producción
+18,Avícola (Comerc.),Avícola,Comerc.
+19,Avícola (Comerc.)1,Avícola (Comerc.)1,General
+20,Batata,Batata,General
+21,Batata (Producción),Batata,Producción
+22,Cacao (Comerc.),Cacao,Comerc.
+23,Cacao (Comercialización),Cacao,Comercialización
+24,Cacao (Producción),Cacao,Producción
+25,Café (Comerc.),Café,Comerc.
+26,Café (Comercialización),Café,Comercialización
+27,Café (Producción),Café,Producción
+28,Cebolla,Cebolla,General
+29,Cebolla (Producción),Cebolla,Producción
+30,Cebolla 1,Cebolla 1,General
+31,Cebolla 2,Cebolla 2,General
+32,Coco,Coco,General
+33,Coco (Comercialización),Coco,Comercialización
+34,Coco (Producción),Coco,Producción
+35,Coco 1,Coco 1,General
+36,Coco 2,Coco 2,General
+37,Gallina (Ponedora),Gallina,Ponedora
+38,Gallina Ponedora,Gallina Ponedora,General
+39,Gallina Reproductora,Gallina Reproductora,General
+40,Gallinas Ponedoras,Gallinas Ponedoras,General
+41,Ganado de Carne,Ganado de Carne,General
+42,Ganado de Carne (Com),Ganado de Carne,Com
+43,Ganado de Carne (Comerc.),Ganado de Carne,Comerc.
+44,Ganado de Doble Propósito,Ganado de Doble Propósito,General
+45,Ganado de Leche,Ganado de Leche,General
+46,Ganado de Leche (Com.),Ganado de Leche,Com.
+47,Ganado de Leche (Comerc.),Ganado de Leche,Comerc.
+48,Ganado de Leche (Comerc.) 1,Ganado de Leche (Comerc.) 1,General
+49,Ganado de Leche (Comerc.)1,Ganado de Leche (Comerc.)1,General
+50,Guandul,Guandul,General
+51,Guandul (Comercialización),Guandul,Comercialización
+52,Guandul (Producción),Guandul,Producción
+53,Guineo,Guineo,General
+54,Guineo (Producción),Guineo,Producción
+55,Habichuela (Comerc.),Habichuela,Comerc.
+56,Habichuela (Comerc.) 1,Habichuela (Comerc.) 1,General
+57,Habichuela (Comercialización),Habichuela,Comercialización
+58,Habichuela (Producción),Habichuela,Producción
+59,Invernadero,Invernadero,General
+60,Invernadero (Infraestructura),Invernadero,Infraestructura
+61,Limón (Producción),Limón,Producción
+62,Maíz,Maíz,General
+63,Maíz (Comercialización),Maíz,Comercialización
+64,Maíz (Producción),Maíz,Producción
+65,Microempresas y Otros,Microempresas y Otros,General
+66,Otros,Otros,General
+67,Otros Agrícola,Otros Agrícola,General
+68,Otros Agrícolas,Otros Agrícolas,General
+69,Otros Avícolas,Otros Avícolas,General
+70,Otros Pecuarios,Otros Pecuarios,General
+71,Paneles Solares,Paneles Solares,General
+72,Papa,Papa,General
+73,Papa (Producción),Papa,Producción
+74,Papa 2,Papa 2,General
+75,Piña,Piña,General
+76,Piña (Producción),Piña,Producción
+77,Plátano,Plátano,General
+78,Plátano (Producción),Plátano,Producción
+79,Plátano 1,Plátano 1,General
+80,Plátano 2,Plátano 2,General
+81,Pollos,Pollos,General
+82,Pollos de Engorde,Pollos de Engorde,General
+83,Porcino,Porcino,General
+84,Porcino (Comerc.),Porcino,Comerc.
+85,Porcino (Comercialización),Porcino,Comercialización
+86,Porcino (Producción),Porcino,Producción
+87,Préstamos de Consumo,Préstamos de Consumo,General
+88,Sistema de Riego,Sistema de Riego,General
+89,Tabaco (Comerc.),Tabaco,Comerc.
+90,Tabaco (Comerc.) 1,Tabaco (Comerc.) 1,General
+91,Tabaco (Comerc.)1,Tabaco (Comerc.)1,General
+92,Tabaco (Comercialización),Tabaco,Comercialización
+93,Tabaco (Pignoración),Tabaco,Pignoración
+94,Tabaco (Producción),Tabaco,Producción
+95,Tomate,Tomate,General
+96,Tomate (Producción),Tomate,Producción
+97,Tomate Industrial,Tomate Industrial,General
+98,Tomate de Mesa,Tomate de Mesa,General
+99,Yautia,Yautia,General
+100,Yautía,Yautía,General
+101,Yautía (Producción),Yautía,Producción
+102,Yuca,Yuca,General
+103,Yuca (Producción),Yuca,Producción
+104,Ñame,Ñame,General
+105,Ñame (Producción),Ñame,Producción

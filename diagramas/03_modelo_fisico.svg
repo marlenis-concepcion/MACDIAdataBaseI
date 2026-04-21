@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="1160" viewBox="0 0 1680 1160">
+<rect width="1680" height="1160" fill="#f5f6f1"/>
+<text x="38" y="48" font-size="26" font-weight="700" fill="#17201b">Modelo Fisico - SQL Server BancoAgricolaRD</text>
+<rect x="50" y="95" width="360" height="220" rx="8" fill="#ffffff" stroke="#23684a" stroke-width="2"/>
+<rect x="50" y="95" width="360" height="34" rx="8" fill="#23684a"/>
+<text x="62" y="118" font-size="14" font-weight="700" fill="#ffffff">dbo.Periodo</text>
+<text x="62" y="153" font-size="12" font-weight="400" fill="#17201b">Periodo_ID INT IDENTITY PK</text>
+<text x="62" y="175" font-size="12" font-weight="400" fill="#17201b">Periodo_Anio SMALLINT</text>
+<text x="62" y="197" font-size="12" font-weight="400" fill="#17201b">Periodo_MesNumero TINYINT</text>
+<text x="62" y="219" font-size="12" font-weight="400" fill="#17201b">UQ(Anio, Mes)</text>
+<text x="62" y="241" font-size="12" font-weight="400" fill="#17201b">CHECK Mes 1-12</text>
+<rect x="50" y="355" width="360" height="220" rx="8" fill="#ffffff" stroke="#2b7c83" stroke-width="2"/>
+<rect x="50" y="355" width="360" height="34" rx="8" fill="#2b7c83"/>
+<text x="62" y="378" font-size="14" font-weight="700" fill="#ffffff">dbo.Sucursal</text>
+<text x="62" y="413" font-size="12" font-weight="400" fill="#17201b">Sucursal_ID INT IDENTITY PK</text>
+<text x="62" y="435" font-size="12" font-weight="400" fill="#17201b">Sucursal_Nombre NVARCHAR(100)</text>
+<text x="62" y="457" font-size="12" font-weight="400" fill="#17201b">Sucursal_Region NVARCHAR(40)</text>
+<text x="62" y="479" font-size="12" font-weight="400" fill="#17201b">UNIQUE Nombre</text>
+<text x="62" y="501" font-size="12" font-weight="400" fill="#17201b">CHECK Region</text>
+<rect x="50" y="615" width="360" height="220" rx="8" fill="#ffffff" stroke="#c4962e" stroke-width="2"/>
+<rect x="50" y="615" width="360" height="34" rx="8" fill="#c4962e"/>
+<text x="62" y="638" font-size="14" font-weight="700" fill="#ffffff">dbo.Destino</text>
+<text x="62" y="673" font-size="12" font-weight="400" fill="#17201b">Destino_ID INT IDENTITY PK</text>
+<text x="62" y="695" font-size="12" font-weight="400" fill="#17201b">Destino_Nombre NVARCHAR(180)</text>
+<text x="62" y="717" font-size="12" font-weight="400" fill="#17201b">Destino_Rubro NVARCHAR(120)</text>
+<text x="62" y="739" font-size="12" font-weight="400" fill="#17201b">Destino_TipoOperacion</text>
+<text x="62" y="761" font-size="12" font-weight="400" fill="#17201b">UNIQUE Nombre</text>
+<rect x="550" y="95" width="390" height="245" rx="8" fill="#ffffff" stroke="#23684a" stroke-width="2"/>
+<rect x="550" y="95" width="390" height="34" rx="8" fill="#23684a"/>
+<text x="562" y="118" font-size="14" font-weight="700" fill="#ffffff">dbo.FactCarteraPrestamo</text>
+<text x="562" y="153" font-size="12" font-weight="400" fill="#17201b">Cartera_ID INT IDENTITY PK</text>
+<text x="562" y="175" font-size="12" font-weight="400" fill="#17201b">Sucursal_ID INT FK</text>
+<text x="562" y="197" font-size="12" font-weight="400" fill="#17201b">Periodo_ID INT FK</text>
+<text x="562" y="219" font-size="12" font-weight="400" fill="#17201b">Valor_RD DECIMAL(18,2)</text>
+<text x="562" y="241" font-size="12" font-weight="400" fill="#17201b">UQ(Sucursal, Periodo)</text>
+<text x="562" y="263" font-size="12" font-weight="400" fill="#17201b">IX por Periodo/Sucursal</text>
+<rect x="550" y="385" width="390" height="245" rx="8" fill="#ffffff" stroke="#2b7c83" stroke-width="2"/>
+<rect x="550" y="385" width="390" height="34" rx="8" fill="#2b7c83"/>
+<text x="562" y="408" font-size="14" font-weight="700" fill="#ffffff">dbo.FactAreaFinanciada</text>
+<text x="562" y="443" font-size="12" font-weight="400" fill="#17201b">AreaFinanciada_ID INT IDENTITY PK</text>
+<text x="562" y="465" font-size="12" font-weight="400" fill="#17201b">Sucursal_ID INT FK</text>
+<text x="562" y="487" font-size="12" font-weight="400" fill="#17201b">Periodo_ID INT FK</text>
+<text x="562" y="509" font-size="12" font-weight="400" fill="#17201b">Tareas DECIMAL(18,2)</text>
+<text x="562" y="531" font-size="12" font-weight="400" fill="#17201b">Valor_RD DECIMAL(18,2)</text>
+<text x="562" y="553" font-size="12" font-weight="400" fill="#17201b">UQ(Sucursal, Periodo)</text>
+<rect x="550" y="675" width="390" height="245" rx="8" fill="#ffffff" stroke="#b85b4a" stroke-width="2"/>
+<rect x="550" y="675" width="390" height="34" rx="8" fill="#b85b4a"/>
+<text x="562" y="698" font-size="14" font-weight="700" fill="#ffffff">dbo.FactDesembolsoCobro</text>
+<text x="562" y="733" font-size="12" font-weight="400" fill="#17201b">DesembolsoCobro_ID INT IDENTITY PK</text>
+<text x="562" y="755" font-size="12" font-weight="400" fill="#17201b">Sucursal_ID INT FK</text>
+<text x="562" y="777" font-size="12" font-weight="400" fill="#17201b">Periodo_ID INT FK</text>
+<text x="562" y="799" font-size="12" font-weight="400" fill="#17201b">Desembolsos_RD DECIMAL(18,2)</text>
+<text x="562" y="821" font-size="12" font-weight="400" fill="#17201b">Cobros_RD DECIMAL(18,2)</text>
+<text x="562" y="843" font-size="12" font-weight="400" fill="#17201b">Balance_Neto computed</text>
+<rect x="1110" y="255" width="410" height="245" rx="8" fill="#ffffff" stroke="#c4962e" stroke-width="2"/>
+<rect x="1110" y="255" width="410" height="34" rx="8" fill="#c4962e"/>
+<text x="1122" y="278" font-size="14" font-weight="700" fill="#ffffff">dbo.FactMontoDestino</text>
+<text x="1122" y="313" font-size="12" font-weight="400" fill="#17201b">MontoDestino_ID INT IDENTITY PK</text>
+<text x="1122" y="335" font-size="12" font-weight="400" fill="#17201b">Destino_ID INT FK</text>
+<text x="1122" y="357" font-size="12" font-weight="400" fill="#17201b">Periodo_ID INT FK</text>
+<text x="1122" y="379" font-size="12" font-weight="400" fill="#17201b">Valores_RD DECIMAL(18,2)</text>
+<text x="1122" y="401" font-size="12" font-weight="400" fill="#17201b">Beneficiados INT</text>
+<text x="1122" y="423" font-size="12" font-weight="400" fill="#17201b">UQ(Destino, Periodo)</text>
+<rect x="1110" y="570" width="410" height="220" rx="8" fill="#ffffff" stroke="#738079" stroke-width="2"/>
+<rect x="1110" y="570" width="410" height="34" rx="8" fill="#738079"/>
+<text x="1122" y="593" font-size="14" font-weight="700" fill="#ffffff">Control y Auditoria</text>
+<text x="1122" y="628" font-size="12" font-weight="400" fill="#17201b">dbo.FuenteDato</text>
+<text x="1122" y="650" font-size="12" font-weight="400" fill="#17201b">dbo.AuditoriaOperacion</text>
+<text x="1122" y="672" font-size="12" font-weight="400" fill="#17201b">dbo.CarteraPrestamoHistorico</text>
+<text x="1122" y="694" font-size="12" font-weight="400" fill="#17201b">Triggers de auditoria/historico/validacion</text>
+<g stroke="#738079" stroke-width="2" fill="none">
+  <line x1="410" y1="205" x2="550" y2="218"/>
+  <line x1="410" y1="205" x2="550" y2="508"/>
+  <line x1="410" y1="205" x2="550" y2="798"/>
+  <line x1="410" y1="205" x2="1110" y2="378"/>
+  <line x1="410" y1="465" x2="550" y2="218"/>
+  <line x1="410" y1="465" x2="550" y2="508"/>
+  <line x1="410" y1="465" x2="550" y2="798"/>
+  <line x1="410" y1="725" x2="1110" y2="378"/>
+  <line x1="940" y1="218" x2="1110" y2="680"/>
+  <line x1="940" y1="508" x2="1110" y2="680"/>
+  <line x1="940" y1="798" x2="1110" y2="680"/>
+</g>
+</svg>

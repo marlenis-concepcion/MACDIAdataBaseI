@@ -1,0 +1,3457 @@
+Sucursales ;Tareas;Cantidad de Préstamos;Valor (RD$);Mes;Año
+Santo Domingo; 485 ; 89 ; 56,951,389 ;Abril;2017
+San Cristóbal; 3,123 ; 102 ; 62,837,494 ;Abril;2017
+Monte Plata; 1,072 ; 48 ; 102,917,376 ;Abril;2017
+Hato Mayor; 4,035 ; 93 ; 32,356,764 ;Abril;2017
+El Seybo; 684 ; 36 ; 23,909,753 ;Abril;2017
+Higüey; 1,224 ; 56 ; 33,909,704 ;Abril;2017
+San Juan de la Maguana ; 4,206 ; 75 ; 35,937,989 ;Abril;2017
+Baní; 1,672 ; 43 ; 30,303,494 ;Abril;2017
+San José de Ocoa; 1,369 ; 65 ; 80,729,208 ;Abril;2017
+Azua; 953 ; 48 ; 15,743,528 ;Abril;2017
+Barahona; 822 ; 56 ; 20,880,193 ;Abril;2017
+Neyba; 60 ; 39 ; 5,753,320 ;Abril;2017
+Comendador; 450 ; 35 ; 13,737,937 ;Abril;2017
+San Fco. Macorís; 4,282 ; 66 ; 76,891,509 ;Abril;2017
+Cotuí; 2,125 ; 35 ; 142,779,621 ;Abril;2017
+Villa Riva; 3,049 ; 37 ; 31,148,307 ;Abril;2017
+Arenoso; 820 ; 27 ; 69,347,508 ;Abril;2017
+Samaná; 1,242 ; 56 ; 16,051,296 ;Abril;2017
+Nagua; 445 ; 13 ; 27,109,780 ;Abril;2017
+Río San Juan; 1,077 ; 24 ; 18,581,976 ;Abril;2017
+La Vega; 3,356 ; 75 ; 108,332,135 ;Abril;2017
+Bonao; 2,714 ; 22 ; 37,556,291 ;Abril;2017
+Constanza; 803 ; 51 ; 31,052,303 ;Abril;2017
+Salcedo; 2,524 ; 80 ; 34,509,525 ;Abril;2017
+Moca; 1,958 ; 86 ; 52,004,703 ;Abril;2017
+Santiago; 315 ; 40 ; 57,050,070 ;Abril;2017
+Valverde Mao; 1,434 ; 41 ; 83,761,110 ;Abril;2017
+Montecristí; 16,790 ; 22 ; 24,057,720 ;Abril;2017
+Santiago Rodríguez; 410 ; 38 ; 30,675,604 ;Abril;2017
+Dajabón; 4,315 ; 44 ; 19,676,697 ;Abril;2017
+San José de las Matas; 625 ; 30 ; 98,841,660 ;Abril;2017
+Puerto Plata; 1,072 ; 83 ; 23,669,419 ;Abril;2017
+Santo Domingo; 2 ; 96 ; 267,670,653 ;Mayo;2017
+San Cristóbal; 2,022 ; 93 ; 41,184,121 ;Mayo;2017
+Monte Plata; 1,336 ; 63 ; 75,499,781 ;Mayo;2017
+Hato Mayor; 5,648 ; 134 ; 35,840,550 ;Mayo;2017
+El Seybo; 2,420 ; 51 ; 30,563,465 ;Mayo;2017
+Higüey; 1,090 ; 59 ; 74,483,744 ;Mayo;2017
+San Juan de la Maguana ; 3,374 ; 95 ; 55,950,055 ;Mayo;2017
+Baní; 1,229 ; 43 ; 30,096,450 ;Mayo;2017
+San José de Ocoa; 2,279 ; 64 ; 108,933,074 ;Mayo;2017
+Azua; 2,879 ; 89 ; 71,577,278 ;Mayo;2017
+Barahona; 3,067 ; 69 ; 44,883,076 ;Mayo;2017
+Neyba; 41 ; 47 ; 13,787,247 ;Mayo;2017
+Comendador; 363 ; 30 ; 11,742,468 ;Mayo;2017
+San Fco. Macorís; 11,618 ; 164 ; 65,886,288 ;Mayo;2017
+Cotuí; 19,312 ; 202 ; 143,720,220 ;Mayo;2017
+Villa Riva; 9,128 ; 140 ; 40,244,622 ;Mayo;2017
+Arenoso; 10,610 ; 97 ; 38,833,628 ;Mayo;2017
+Samaná; 2,463 ; 54 ; 15,022,413 ;Mayo;2017
+Nagua; 15,103 ; 226 ; 71,366,379 ;Mayo;2017
+Río San Juan; 4,926 ; 76 ; 36,537,912 ;Mayo;2017
+La Vega; 14,111 ; 235 ; 155,350,106 ;Mayo;2017
+Bonao; 3,469 ; 35 ; 63,331,679 ;Mayo;2017
+Constanza; 1,687 ; 78 ; 86,908,551 ;Mayo;2017
+Salcedo; 4,012 ; 90 ; 40,484,180 ;Mayo;2017
+Moca; 19,639 ; 102 ; 50,943,768 ;Mayo;2017
+Santiago; 873 ; 47 ; 213,621,237 ;Mayo;2017
+Valverde Mao; 3,434 ; 72 ; 124,251,604 ;Mayo;2017
+Montecristí; 11,612 ; 148 ; 66,115,830 ;Mayo;2017
+Santiago Rodríguez; 120 ; 38 ; 40,437,850 ;Mayo;2017
+Dajabón; 7,929 ; 100 ; 49,916,300 ;Mayo;2017
+San José de las Matas; 1,533 ; 37 ; 45,969,750 ;Mayo;2017
+Puerto Plata; 1,622 ; 79 ; 24,622,440 ;Mayo;2017
+Santo Domingo; 1,334 ; 85 ; 138,443,626 ;Junio ;2017
+San Cristóbal; 1,303 ; 72 ; 45,486,597 ;Junio ;2017
+Monte Plata; 2,598 ; 57 ; 69,606,010 ;Junio;2017
+Hato Mayor; 2,762 ; 79 ; 43,455,021 ;Junio;2017
+El Seybo; 2,259 ; 52 ; 18,755,851 ;Junio;2017
+Higüey; 2,030 ; 75 ; 50,996,887 ;Junio;2017
+San Juan de la Maguana ; 4,478 ; 76 ; 66,415,400 ;Junio;2017
+Baní; 827 ; 25 ; 15,990,135 ;Junio;2017
+San José de Ocoa; 899 ; 48 ; 100,274,418 ;Junio;2017
+Azua; 5,464 ; 66 ; 38,031,903 ;Junio;2017
+Barahona; 682 ; 52 ; 44,051,109 ;Junio;2017
+Neyba; 45 ; 36 ; 9,011,735 ;Junio;2017
+Comendador; 637 ; 30 ; 9,470,723 ;Junio;2017
+San Fco. Macorís; 29,647 ; 215 ; 169,578,346 ;Junio;2017
+Cotuí; 25,878 ; 303 ; 160,483,040 ;Junio;2017
+Villa Riva; 14,107 ; 164 ; 67,651,840 ;Junio;2017
+Arenoso; 16,616 ; 176 ; 81,648,297 ;Junio;2017
+Samaná; 3,291 ; 66 ; 17,155,034 ;Junio;2017
+Nagua; 17,198 ; 231 ; 71,245,230 ;Junio;2017
+Río San Juan; 4,560 ; 92 ; 43,162,586 ;Junio;2017
+La Vega; 19,721 ; 235 ; 118,967,235 ;Junio;2017
+Bonao; 2,547 ; 67 ; 35,040,408 ;Junio;2017
+Constanza; 2,110 ; 77 ; 60,230,918 ;Junio;2017
+Salcedo; 15,577 ; 77 ; 65,319,664 ;Junio;2017
+Moca; 3,280 ; 107 ; 63,622,755 ;Junio;2017
+Santiago; 3,545 ; 43 ; 80,005,044 ;Junio;2017
+Valverde Mao; 10,302 ; 123 ; 91,040,086 ;Junio;2017
+Montecristí; 4,828 ; 87 ; 47,494,254 ;Junio;2017
+Santiago Rodríguez; 134 ; 32 ; 29,788,974 ;Junio;2017
+Dajabón; 4,513 ; 96 ; 32,371,300 ;Junio;2017
+San José de las Matas; 1,695 ; 47 ; 16,245,500 ;Junio;2017
+Puerto Plata; 3,250 ; 96 ; 27,552,792 ;Junio;2017
+Santo Domingo; 1,109 ; 72 ; 102,372,535 ;Julio;2017
+San Cristóbal; 218 ; 47 ; 28,136,855 ;Julio;2017
+Monte Plata; 3,031 ; 80 ; 56,936,763 ;Julio;2017
+Hato Mayor; 1,168 ; 52 ; 131,694,134 ;Julio;2017
+El Seybo; 1,377 ; 40 ; 41,105,892 ;Julio;2017
+Higüey; 472 ; 43 ; 25,752,979 ;Julio;2017
+San Juan de la Maguana ; 8,131 ; 95 ; 85,656,554 ;Julio;2017
+Baní; 599 ; 32 ; 15,197,500 ;Julio;2017
+San José de Ocoa; 483 ; 34 ; 46,022,210 ;Julio;2017
+Azua; 1,992 ; 53 ; 22,792,738 ;Julio;2017
+Barahona; 118 ; 21 ; 10,469,719 ;Julio;2017
+Neyba; 30 ; 30 ; 4,659,032 ;Julio;2017
+Comendador; 226 ; 14 ; 3,414,433 ;Julio;2017
+San Fco. Macorís; 14,043 ; 95 ; 62,175,099 ;Julio;2017
+Cotuí; 9,442 ; 102 ; 51,859,290 ;Julio;2017
+Villa Riva; 3,622 ; 60 ; 15,357,535 ;Julio;2017
+Arenoso; 6,449 ; 56 ; 35,173,200 ;Julio;2017
+Samaná; 2,258 ; 58 ; 16,659,593 ;Julio;2017
+Nagua; 4,946 ; 43 ; 19,941,842 ;Julio;2017
+Río San Juan; 11,451 ; 49 ; 35,999,279 ;Julio;2017
+La Vega; 5,325 ; 108 ; 62,828,384 ;Julio;2017
+Bonao; 3,619 ; 57 ; 26,930,877 ;Julio;2017
+Constanza; 1,572 ; 53 ; 33,751,755 ;Julio;2017
+Salcedo; 7,131 ; 65 ; 41,979,410 ;Julio;2017
+Moca; 1,011 ; 72 ; 34,545,642 ;Julio;2017
+Santiago; 1,101 ; 24 ; 16,497,356 ;Julio;2017
+Valverde Mao; 4,519 ; 49 ; 39,551,482 ;Julio;2017
+Montecristí; 3,578 ; 21 ; 31,254,000 ;Julio;2017
+Santiago Rodríguez; 320 ; 28 ; 27,304,052 ;Julio;2017
+Dajabón; 3,171 ; 59 ; 33,222,200 ;Julio;2017
+San José de las Matas; 1,282 ; 28 ; 29,694,831 ;Julio;2017
+Puerto Plata; 3,415 ; 93 ; 31,961,045 ;Julio;2017
+Santo Domingo; 1,029 ; 104 ; 30,138,440 ;Agosto;2017
+San Cristóbal; 440 ; 48 ; 14,565,172 ;Agosto;2017
+Monte Plata; 4,176 ; 71 ; 140,306,795 ;Agosto;2017
+Hato Mayor; 1,612 ; 47 ; 17,491,615 ;Agosto;2017
+El Seybo; 965 ; 47 ; 9,084,798 ;Agosto;2017
+Higüey; 50 ; 38 ; 34,484,137 ;Agosto;2017
+San Juan de la Maguana ; 2,010 ; 54 ; 23,507,297 ;Agosto;2017
+Baní; 793 ; 29 ; 28,053,450 ;Agosto;2017
+San José de Ocoa; 434 ; 35 ; 30,219,454 ;Agosto;2017
+Azua; 1,292 ; 43 ; 25,678,895 ;Agosto;2017
+Barahona; 1,172 ; 25 ; 10,631,973 ;Agosto;2017
+Neyba; 5,000 ; 27 ; 2,977,500 ;Agosto;2017
+Comendador; 249 ; 22 ; 6,673,100 ;Agosto;2017
+San Fco. Macorís; 8,078 ; 41 ; 41,011,708 ;Agosto;2017
+Cotuí; 4,857 ; 62 ; 76,105,000 ;Agosto;2017
+Villa Riva; 2,121 ; 49 ; 10,351,810 ;Agosto;2017
+Arenoso; 1,311 ; 24 ; 24,263,250 ;Agosto;2017
+Río San Juan; 2,347 ; 44 ; 28,866,174 ;Agosto;2017
+Nagua; 2,295 ; 30 ; 11,040,580 ;Agosto;2017
+Samaná; 1,187 ; 41 ; 9,255,635 ;Agosto;2017
+La Vega; 1,953 ; 36 ; 23,130,913 ;Agosto;2017
+Bonao; 3,695 ; 24 ; 5,225,935 ;Agosto;2017
+Constanza; 1,869 ; 55 ; 39,094,800 ;Agosto;2017
+Salcedo; 2,885 ; 64 ; 43,009,170 ;Agosto;2017
+Moca; 1,615 ; 58 ; 42,659,000 ;Agosto;2017
+Santiago; 1,822 ; 31 ; 19,843,712 ;Agosto;2017
+Valverde Mao; 2,747 ; 28 ; 79,018,033 ;Agosto;2017
+Montecristí; 488 ; 9 ; 3,727,062 ;Agosto;2017
+Santiago Rodríguez; 520 ; 34 ; 27,018,100 ;Agosto;2017
+Dajabón; 1,470 ; 26 ; 10,351,000 ;Agosto;2017
+San José de las Matas; 1,600 ; 38 ; 10,997,300 ;Agosto;2017
+Puerto Plata; 968 ; 35 ; 18,841,267 ;Agosto;2017
+Santo Domingo; 1,498 ; 69 ; 22,078,568 ;Septiembre;2017
+San Cristóbal; 535 ; 45 ; 15,971,298 ;Septiembre;2017
+Monte Plata; 2,781 ; 72 ; 56,981,854 ;Septiembre;2017
+Hato Mayor; 1,210 ; 30 ; 18,921,000 ;Septiembre;2017
+El Seybo; 217 ; 20 ; 27,318,414 ;Septiembre;2017
+Higüey; 76 ; 25 ; 17,468,000 ;Septiembre;2017
+San Juan de la Maguana ; 2,520 ; 24 ; 79,761,311 ;Septiembre;2017
+Baní; 756 ; 27 ; 23,408,628 ;Septiembre;2017
+San José de Ocoa; 602 ; 32 ; 38,880,514 ;Septiembre;2017
+Azua; 1,301 ; 38 ; 9,912,000 ;Septiembre;2017
+Barahona; 437 ; 14 ; 2,256,300 ;Septiembre;2017
+Neyba; 1,782 ; 29 ; 13,392,978 ;Septiembre;2017
+Comendador; 214 ; 7 ; 535,000 ;Septiembre;2017
+San Fco. Macorís; 4,158 ; 25 ; 118,141,902 ;Septiembre;2017
+Cotuí; 4,374 ; 36 ; 112,230,958 ;Septiembre;2017
+Villa Riva; 1,299 ; 16 ; 5,375,000 ;Septiembre;2017
+Arenoso; 220 ; 11 ; 5,919,959 ;Septiembre;2017
+Río San Juan; 754 ; 22 ; 6,758,957 ;Septiembre;2017
+Nagua; 10,251 ; 11 ; 37,817,500 ;Septiembre;2017
+Samaná; 5,304 ; 42 ; 15,463,386 ;Septiembre;2017
+La Vega; 511 ; 30 ; 194,738,567 ;Septiembre;2017
+Bonao; 465 ; 8 ; 23,827,527 ;Septiembre;2017
+Constanza; 1,377 ; 41 ; 41,749,500 ;Septiembre;2017
+Salcedo; 3,317 ; 45 ; 17,767,388 ;Septiembre;2017
+Moca; 306 ; 53 ; 20,843,707 ;Septiembre;2017
+Santiago; 405 ; 28 ; 19,875,608 ;Septiembre;2017
+Valverde Mao; 223 ; 11 ; 117,807,344 ;Septiembre;2017
+Montecristí; 2,770 ; 8 ; 25,146,282 ;Septiembre;2017
+Santiago Rodríguez; 495 ; 20 ; 30,916,748 ;Septiembre;2017
+Dajabón; -   ; 15 ; 13,856,000 ;Septiembre;2017
+San José de las Matas; 593 ; 34 ; 13,022,450 ;Septiembre;2017
+Puerto Plata; 655 ; 38 ; 14,817,974 ;Septiembre;2017
+Santo Domingo; 515 ; 106 ; 592,569,178 ;Octubre;2017
+San Cristóbal; 693 ; 44 ; 16,074,280 ;Octubre;2017
+Monte Plata; 2,404 ; 69 ; 136,779,885 ;Octubre;2017
+Hato Mayor; 2,767 ; 59 ; 163,470,584 ;Octubre;2017
+El Seybo; 494 ; 40 ; 14,717,158 ;Octubre;2017
+Higüey; 3,017 ; 31 ; 42,137,412 ;Octubre;2017
+San Juan de la Maguana ; 4,605 ; 82 ; 57,340,559 ;Octubre;2017
+Baní; 384 ; 34 ; 40,128,356 ;Octubre;2017
+San José de Ocoa; 636 ; 39 ; 51,635,401 ;Octubre;2017
+Azua; 1,336 ; 47 ; 57,998,289 ;Octubre;2017
+Barahona; 1,058 ; 33 ; 17,253,256 ;Octubre;2017
+Neyba; 4,775 ; 68 ; 58,239,496 ;Octubre;2017
+Comendador; 496 ; 25 ; 8,730,324 ;Octubre;2017
+San Fco. Macorís; 457 ; 28 ; 66,644,352 ;Octubre;2017
+Cotuí; 2,895 ; 53 ; 180,901,000 ;Octubre;2017
+Villa Riva; 2,297 ; 26 ; 14,279,500 ;Octubre;2017
+Arenoso; -   ; 11 ; 8,265,383 ;Octubre;2017
+Río San Juan; 319 ; 21 ; 31,048,449 ;Octubre;2017
+Nagua; -   ; 9 ; 82,250,000 ;Octubre;2017
+Samaná; 3,476 ; 62 ; 17,158,478 ;Octubre;2017
+La Vega; 331 ; 55 ; 79,083,590 ;Octubre;2017
+Bonao; 1,270 ; 18 ; 59,559,060 ;Octubre;2017
+Constanza; 2,300 ; 99 ; 51,209,025 ;Octubre;2017
+Salcedo; 1,929 ; 55 ; 43,905,675 ;Octubre;2017
+Moca; 1,283 ; 95 ; 69,563,942 ;Octubre;2017
+Santiago; 476 ; 40 ; 76,662,577 ;Octubre;2017
+Valverde Mao; 1,306 ; 32 ; 77,708,288 ;Octubre;2017
+Montecristí; 654 ; 6 ; 9,206,587 ;Octubre;2017
+Santiago Rodríguez; 200 ; 25 ; 24,984,177 ;Octubre;2017
+Dajabón; 1,873 ; 19 ; 14,606,000 ;Octubre;2017
+San José de las Matas; 762 ; 37 ; 20,979,526 ;Octubre;2017
+Puerto Plata; 1,254 ; 49 ; 43,675,812 ;Octubre;2017
+Santo Domingo; 166 ; 115 ; 146,169,538 ;Noviembre;2017
+San Cristóbal; 884 ; 55 ; 46,018,374 ;Noviembre;2017
+Monte Plata; 1,673 ; 61 ; 73,201,502 ;Noviembre;2017
+Hato Mayor; 1,657 ; 72 ; 59,821,848 ;Noviembre;2017
+El Seybo; 1,284 ; 50 ; 26,747,412 ;Noviembre;2017
+Higüey; 1,301 ; 54 ; 33,995,443 ;Noviembre;2017
+San Juan de la Maguana ; 13,120 ; 151 ; 152,528,659 ;Noviembre;2017
+Baní; 1,117 ; 33 ; 28,897,145 ;Noviembre;2017
+San José de Ocoa; 632 ; 37 ; 26,860,200 ;Noviembre;2017
+Azua; 1,874 ; 54 ; 48,745,420 ;Noviembre;2017
+Barahona; 955 ; 43 ; 21,658,180 ;Noviembre;2017
+Neyba; 1,495 ; 51 ; 17,083,614 ;Noviembre;2017
+Comendador; 160 ; 24 ; 7,809,253 ;Noviembre;2017
+San Fco. Macorís; 11,401 ; 114 ; 74,845,467 ;Noviembre;2017
+Cotuí; 14,712 ; 206 ; 90,187,906 ;Noviembre;2017
+Villa Riva; 7,969 ; 92 ; 62,555,800 ;Noviembre;2017
+Arenoso; 16,918 ; 146 ; 75,790,794 ;Noviembre;2017
+Río San Juan; 3,111 ; 63 ; 38,934,084 ;Noviembre;2017
+Nagua; 11,288 ; 172 ; 46,210,117 ;Noviembre;2017
+Samaná; 3,999 ; 81 ; 30,364,402 ;Noviembre;2017
+La Vega; 14,022 ; 239 ; 127,064,972 ;Noviembre;2017
+Bonao; 1,976 ; 58 ; 44,640,857 ;Noviembre;2017
+Constanza; 1,999 ; 56 ; 131,780,334 ;Noviembre;2017
+Salcedo; 3,314 ; 76 ; 30,779,235 ;Noviembre;2017
+Moca; 1,543 ; 72 ; 35,106,606 ;Noviembre;2017
+Santiago; 1,660 ; 41 ; 38,461,716 ;Noviembre;2017
+Valverde Mao; 1,145 ; 34 ; 21,048,619 ;Noviembre;2017
+Montecristí; 5,496 ; 66 ; 50,183,231 ;Noviembre;2017
+Santiago Rodríguez; 1,733 ; 26 ; 32,440,000 ;Noviembre;2017
+Dajabón; 6,603 ; 82 ; 36,859,640 ;Noviembre;2017
+San José de las Matas; 758 ; 30 ; 10,738,568 ;Noviembre;2017
+Puerto Plata; 917 ; 70 ; 41,135,818 ;Noviembre;2017
+Santo Domingo; 715 ; 109 ; 398,526,426 ;Diciembre;2017
+San Cristóbal; 661 ; 53 ; 44,461,920 ;Diciembre;2017
+Monte Plata; 1,710 ; 67 ; 234,660,609 ;Diciembre;2017
+Hato Mayor; 865 ; 69 ; 42,203,700 ;Diciembre;2017
+El Seybo; 1,633 ; 73 ; 27,040,961 ;Diciembre;2017
+Higüey; 3,153 ; 61 ; 44,820,690 ;Diciembre;2017
+San Juan de la Maguana ; 4,939 ; 133 ; 42,224,524 ;Diciembre;2017
+Baní; 328 ; 30 ; 16,669,600 ;Diciembre;2017
+San José de Ocoa; 870 ; 37 ; 49,873,548 ;Diciembre;2017
+Azua; 2,466 ; 78 ; 49,496,749 ;Diciembre;2017
+Barahona; 1,492 ; 47 ; 36,295,183 ;Diciembre;2017
+Neyba; 2,487 ; 47 ; 27,711,600 ;Diciembre;2017
+Comendador; 585 ; 32 ; 12,668,724 ;Diciembre;2017
+San Fco. Macorís; 28,922 ; 207 ; 166,707,248 ;Diciembre;2017
+Cotuí; 19,616 ; 247 ; 131,544,122 ;Diciembre;2017
+Villa Riva; 21,459 ; 184 ; 95,155,665 ;Diciembre;2017
+Arenoso; 16,967 ; 186 ; 76,460,896 ;Diciembre;2017
+Río San Juan; 14,528 ; 61 ; 100,007,280 ;Diciembre;2017
+Nagua; 21,938 ; 276 ; 91,722,377 ;Diciembre;2017
+Samaná; 2,689 ; 99 ; 26,112,600 ;Diciembre;2017
+La Vega; 23,835 ; 246 ; 174,015,030 ;Diciembre;2017
+Bonao; 3,255 ; 84 ; 28,030,875 ;Diciembre;2017
+Constanza; 1,341 ; 58 ; 38,687,467 ;Diciembre;2017
+Salcedo; 7,748 ; 69 ; 58,062,896 ;Diciembre;2017
+Moca; 1,491 ; 98 ; 70,910,129 ;Diciembre;2017
+Santiago; 3,522 ; 55 ; 128,457,891 ;Diciembre;2017
+Valverde Mao; 55,577 ; 158 ; 709,388,430 ;Diciembre;2017
+Montecristí; 29,715 ; 103 ; 406,143,678 ;Diciembre;2017
+Santiago Rodríguez; 1,596 ; 27 ; 57,859,526 ;Diciembre;2017
+Dajabón; 7,838 ; 101 ; 32,331,940 ;Diciembre;2017
+San José de las Matas; 623 ; 38 ; 24,946,416 ;Diciembre;2017
+Puerto Plata; 956 ; 88 ; 27,088,384 ;Diciembre;2017
+Santo Domingo; 2,955 ; 65 ; 66,470,828 ;Enero;2018
+San Cristóbal; 3,385 ; 56 ; 60,647,946 ;Enero;2018
+Monte Plata; 1,734 ; 55 ; 138,657,073 ;Enero;2018
+Hato Mayor; 4,656 ; 64 ; 42,810,494 ;Enero;2018
+El Seybo; 682 ; 44 ; 12,793,867 ;Enero;2018
+Higüey; 300 ; 41 ; 31,818,550 ;Enero;2018
+San Juan de la Maguana ; 3,209 ; 64 ; 16,042,183 ;Enero;2018
+Baní; 213 ; 15 ; 5,676,000 ;Enero;2018
+San José de Ocoa; 782 ; 43 ; 57,565,242 ;Enero;2018
+Azua; 1,942 ; 47 ; 20,666,101 ;Enero;2018
+Barahona; 6,046 ; 42 ; 31,269,420 ;Enero;2018
+Neyba; 425 ; 27 ; 6,979,200 ;Enero;2018
+Comendador; 130 ; 16 ; 6,431,613 ;Enero;2018
+San Fco. Macorís; 6,975 ; 60 ; 44,086,764 ;Enero;2018
+Cotuí; 15,430 ; 93 ; 77,956,000 ;Enero;2018
+Villa Riva; 5,571 ; 67 ; 118,522,992 ;Enero;2018
+Arenoso; 5,703 ; 52 ; 27,892,926 ;Enero;2018
+Río San Juan; 960 ; 19 ; 8,009,304 ;Enero;2018
+Nagua; 5,323 ; 58 ; 27,986,025 ;Enero;2018
+Samaná; 1,372 ; 55 ; 13,662,588 ;Enero;2018
+La Vega; 3,946 ; 91 ; 67,643,444 ;Enero;2018
+Bonao; 2,252 ; 32 ; 33,881,146 ;Enero;2018
+Constanza; 1,993 ; 54 ; 63,509,777 ;Enero;2018
+Salcedo; 2,014 ; 46 ; 53,267,327 ;Enero;2018
+Moca; 994 ; 78 ; 37,880,917 ;Enero;2018
+Santiago; 5,183 ; 53 ; 49,706,497 ;Enero;2018
+Valverde Mao; 4,900 ; 59 ; 123,578,845 ;Enero;2018
+Montecristí; 4,666 ; 87 ; 29,184,916 ;Enero;2018
+Santiago Rodríguez; 4,848 ; 32 ; 17,933,648 ;Enero;2018
+Dajabón; 4,292 ; 35 ; 11,393,825 ;Enero;2018
+San José de las Matas; 1,085 ; 38 ; 17,348,010 ;Enero;2018
+Puerto Plata; 1,240 ; 78 ; 21,903,919 ;Enero;2018
+Santo Domingo; 155 ; 98 ; 217,035,857 ;Febrero;2018
+San Cristóbal; 1,398 ; 71 ; 37,651,362 ;Febrero;2018
+Monte Plata; 773 ; 50 ; 125,524,909 ;Febrero;2018
+Hato Mayor; 1,717 ; 63 ; 120,276,730 ;Febrero;2018
+El Seybo; 1,494 ; 47 ; 22,356,053 ;Febrero;2018
+Higüey; -   ; 28 ; 14,009,569 ;Febrero;2018
+San Juan de la Maguana ; 2,365 ; 62 ; 18,927,300 ;Febrero;2018
+Baní; 535 ; 29 ; 17,568,600 ;Febrero;2018
+San José de Ocoa; 1,063 ; 28 ; 67,386,428 ;Febrero;2018
+Azua; 1,166 ; 47 ; 19,500,000 ;Febrero;2018
+Barahona; 8,007 ; 53 ; 104,810,932 ;Febrero;2018
+Neyba; 504 ; 60 ; 13,830,796 ;Febrero;2018
+Comendador; 286 ; 23 ; 7,527,835 ;Febrero;2018
+San Fco. Macorís; 7,754 ; 51 ; 46,679,961 ;Febrero;2018
+Cotuí; 4,597 ; 64 ; 59,915,502 ;Febrero;2018
+Villa Riva; 2,666 ; 43 ; 19,683,874 ;Febrero;2018
+Arenoso; 1,445 ; 26 ; 11,138,165 ;Febrero;2018
+Río San Juan; 800 ; 19 ; 21,975,477 ;Febrero;2018
+Nagua; 2,572 ; 25 ; 15,084,841 ;Febrero;2018
+Samaná; 3,418 ; 49 ; 31,570,614 ;Febrero;2018
+La Vega; 2,506 ; 62 ; 35,910,088 ;Febrero;2018
+Bonao; 542 ; 22 ; 7,489,891 ;Febrero;2018
+Constanza; 1,092 ; 31 ; 26,982,700 ;Febrero;2018
+Salcedo; 4,112 ; 47 ; 32,548,910 ;Febrero;2018
+Moca; 1,650 ; 53 ; 70,043,691 ;Febrero;2018
+Santiago; 718 ; 35 ; 45,290,970 ;Febrero;2018
+Valverde Mao; 3,498 ; 40 ; 63,181,620 ;Febrero;2018
+Montecristí; 1,823 ; 30 ; 21,223,799 ;Febrero;2018
+Santiago Rodríguez; 7,052 ; 32 ; 27,022,121 ;Febrero;2018
+Dajabón; 1,728 ; 33 ; 10,077,350 ;Febrero;2018
+San José de las Matas; 1,281 ; 45 ; 18,701,376 ;Febrero;2018
+Puerto Plata; 1,698 ; 75 ; 33,890,086 ;Febrero;2018
+Santo Domingo; 1,621 ; 147 ; 92,940,001 ;Marzo;2018
+San Cristóbal; 3,131 ; 115 ; 52,630,687 ;Marzo;2018
+Monte Plata; 1,341 ; 56 ; 113,808,446 ;Marzo;2018
+Hato Mayor; 2,530 ; 88 ; 50,889,975 ;Marzo;2018
+El Seybo; 526 ; 63 ; 33,806,303 ;Marzo;2018
+Higüey; 100 ; 35 ; 31,689,000 ;Marzo;2018
+San Juan de la Maguana ; 2,920 ; 45 ; 24,343,236 ;Marzo;2018
+Baní; 2,543 ; 49 ; 60,964,800 ;Marzo;2018
+San José de Ocoa; 819 ; 44 ; 28,862,220 ;Marzo;2018
+Azua; 1,397 ; 46 ; 51,817,534 ;Marzo;2018
+Barahona; 935 ; 59 ; 18,119,785 ;Marzo;2018
+Neyba; 382 ; 53 ; 12,600,644 ;Marzo;2018
+Comendador; 278 ; 25 ; 12,251,158 ;Marzo;2018
+San Fco. Macorís; 3,040 ; 42 ; 30,017,744 ;Marzo;2018
+Cotuí; 3,848 ; 69 ; 169,585,265 ;Marzo;2018
+Villa Riva; 2,217 ; 42 ; 24,272,248 ;Marzo;2018
+Arenoso; 80 ; 27 ; 44,916,884 ;Marzo;2018
+Río San Juan; 60 ; 23 ; 19,632,503 ;Marzo;2018
+Nagua; 1,021 ; 20 ; 16,600,946 ;Marzo;2018
+Samaná; 1,910 ; 65 ; 18,470,149 ;Marzo;2018
+La Vega; 2,079 ; 71 ; 150,106,894 ;Marzo;2018
+Bonao; 690 ; 22 ; 13,318,819 ;Marzo;2018
+Constanza; 1,907 ; 50 ; 26,758,220 ;Marzo;2018
+Salcedo; 1,322 ; 60 ; 35,654,533 ;Marzo;2018
+Moca; 1,423 ; 71 ; 78,552,028 ;Marzo;2018
+Santiago; 690 ; 53 ; 48,710,251 ;Marzo;2018
+Valverde Mao; 3,830 ; 39 ; 83,765,090 ;Marzo;2018
+Montecristí; 1,039 ; 18 ; 13,259,474 ;Marzo;2018
+Santiago Rodríguez; 4,726 ; 41 ; 56,244,403 ;Marzo;2018
+Dajabón; 1,786 ; 26 ; 28,208,945 ;Marzo;2018
+San José de las Matas; 1,885 ; 49 ; 37,429,117 ;Marzo;2018
+Puerto Plata; 193 ; 68 ; 24,419,606 ;Marzo;2018
+Santo Domingo; 241 ; 100 ; 117,599,768 ;Abril;2018
+San Cristóbal; 1,811 ; 86 ; 50,222,183 ;Abril;2018
+Monte Plata; 1,651 ; 62 ; 166,576,805 ;Abril;2018
+Hato Mayor; 3,616 ; 81 ; 28,635,826 ;Abril;2018
+El Seybo; 500 ; 64 ; 39,676,170 ;Abril;2018
+Higüey; 370 ; 31 ; 26,059,136 ;Abril;2018
+San Juan de la Maguana ; 1,934 ; 62 ; 72,263,187 ;Abril;2018
+Baní; 1,895 ; 49 ; 25,467,399 ;Abril;2018
+San José de Ocoa; 1,563 ; 71 ; 61,447,386 ;Abril;2018
+Azua; 1,719 ; 60 ; 42,677,551 ;Abril;2018
+Barahona; 663 ; 54 ; 20,954,600 ;Abril;2018
+Neyba; 718 ; 42 ; 26,233,342 ;Abril;2018
+Comendador; 370 ; 29 ; 19,378,418 ;Abril;2018
+San Fco. Macorís; 4,803 ; 75 ; 62,511,491 ;Abril;2018
+Cotuí; 2,018 ; 76 ; 170,397,187 ;Abril;2018
+Villa Riva; 6,292 ; 82 ; 28,614,240 ;Abril;2018
+Arenoso; 4,098 ; 60 ; 49,335,818 ;Abril;2018
+Río San Juan; 282 ; 21 ; 13,878,575 ;Abril;2018
+Nagua; 3,650 ; 74 ; 54,981,597 ;Abril;2018
+Samaná; 1,792 ; 48 ; 24,381,647 ;Abril;2018
+La Vega; 4,458 ; 105 ; 119,365,119 ;Abril;2018
+Bonao; 1,404 ; 32 ; 39,200,436 ;Abril;2018
+Constanza; 1,090 ; 38 ; 24,878,700 ;Abril;2018
+Salcedo; 2,259 ; 70 ; 22,585,427 ;Abril;2018
+Moca; 2,361 ; 73 ; 60,716,764 ;Abril;2018
+Santiago; 1,016 ; 45 ; 54,775,987 ;Abril;2018
+Valverde Mao; 997 ; 48 ; 62,583,743 ;Abril;2018
+Montecristy; 6,663 ; 30 ; 36,228,179 ;Abril;2018
+Santiago Rodríguez; 4,480 ; 39 ; 32,434,956 ;Abril;2018
+Dajabón; 2,674 ; 55 ; 24,695,824 ;Abril;2018
+San José de las Matas; 606 ; 32 ; 21,203,276 ;Abril;2018
+Puerto Plata; 2,910 ; 67 ; 31,618,508 ;Abril;2018
+Santo Domingo; 5,921 ; 110 ; 138,142,277 ;Mayo;2018
+San Cristóbal; 1,751 ; 91 ; 60,750,534 ;Mayo;2018
+Monte Plata; 2,420 ; 76 ; 113,492,165 ;Mayo;2018
+Hato Mayor; 7,559 ; 120 ; 69,043,320 ;Mayo;2018
+El Seybo; 1,283 ; 71 ; 29,852,292 ;Mayo;2018
+Higüey; 1,257 ; 62 ; 43,689,488 ;Mayo;2018
+San Juan de la Maguana ; 7,280 ; 83 ; 80,801,110 ;Mayo;2018
+Baní; 1,370 ; 43 ; 32,450,404 ;Mayo;2018
+San José de Ocoa; 1,175 ; 68 ; 204,919,965 ;Mayo;2018
+Azua; 11,754 ; 64 ; 45,332,639 ;Mayo;2018
+Barahona; 1,716 ; 69 ; 62,633,656 ;Mayo;2018
+Neyba; 832 ; 65 ; 23,117,990 ;Mayo;2018
+Comendador; 765 ; 39 ; 12,448,377 ;Mayo;2018
+San Fco. Macorís; 16,043 ; 161 ; 137,133,967 ;Mayo;2018
+Cotuí; 10,193 ; 145 ; 167,785,917 ;Mayo;2018
+Villa Riva; 10,619 ; 159 ; 45,434,999 ;Mayo;2018
+Arenoso; 20,711 ; 159 ; 77,415,164 ;Mayo;2018
+Río San Juan; 4,832 ; 76 ; 31,714,787 ;Mayo;2018
+Nagua; 20,196 ; 264 ; 94,917,235 ;Mayo;2018
+Samaná; 2,141 ; 59 ; 23,164,546 ;Mayo;2018
+La Vega; 16,555 ; 253 ; 261,413,458 ;Mayo;2018
+Bonao; 1,730 ; 53 ; 34,772,674 ;Mayo;2018
+Constanza; 1,341 ; 45 ; 38,674,767 ;Mayo;2018
+Salcedo; 3,609 ; 76 ; 42,618,101 ;Mayo;2018
+Moca; 2,083 ; 76 ; 65,635,595 ;Mayo;2018
+Santiago; 3,199 ; 53 ; 241,877,395 ;Mayo;2018
+Valverde Mao; 6,927 ; 144 ; 370,155,477 ;Mayo;2018
+Montecristy; 24,529 ; 129 ; 82,583,901 ;Mayo;2018
+Santiago Rodríguez; 2,322 ; 33 ; 34,177,207 ;Mayo;2018
+Dajabón; 4,658 ; 100 ; 54,870,500 ;Mayo;2018
+San José de las Matas; 1,658 ; 42 ; 16,291,069 ;Mayo;2018
+Puerto Plata; 1,435 ; 60 ; 19,733,139 ;Mayo;2018
+Santo Domingo; 364 ; 157 ; 131,909,507 ;Junio;2018
+San Cristóbal; 2,894 ; 79 ; 47,857,156 ;Junio;2018
+Monte Plata; 12,353 ; 89 ; 516,462,621 ;Junio;2018
+Hato Mayor; 2,354 ; 87 ; 34,203,400 ;Junio;2018
+El Seybo; 878 ; 74 ; 31,782,226 ;Junio;2018
+Higüey; 925 ; 55 ; 33,098,700 ;Junio;2018
+San Juan de la Maguana ; 5,381 ; 56 ; 55,484,631 ;Junio;2018
+Baní; 1,791 ; 35 ; 27,087,220 ;Junio;2018
+San José de Ocoa; 1,426 ; 71 ; 197,884,668 ;Junio;2018
+Azua; 1,772 ; 75 ; 43,117,267 ;Junio;2018
+Barahona; 2,396 ; 71 ; 57,379,478 ;Junio;2018
+Neyba; 532 ; 67 ; 22,616,694 ;Junio;2018
+Comendador; 3,451 ; 29 ; 24,589,998 ;Junio;2018
+San Fco. Macorís; 31,429 ; 170 ; 166,701,450 ;Junio;2018
+Cotuí; 24,992 ; 227 ; 149,209,636 ;Junio;2018
+Villa Riva; 6,110 ; 92 ; 33,032,445 ;Junio;2018
+Arenoso; 10,759 ; 90 ; 44,750,477 ;Junio;2018
+Río San Juan; 3,580 ; 65 ; 27,001,091 ;Junio;2018
+Nagua; 14,601 ; 95 ; 69,176,453 ;Junio;2018
+Samaná; 1,649 ; 64 ; 18,358,945 ;Junio;2018
+La Vega; 15,636 ; 190 ; 237,952,450 ;Junio;2018
+Bonao; 3,859 ; 67 ; 25,487,532 ;Junio;2018
+Constanza; 2,024 ; 41 ; 169,773,595 ;Junio;2018
+Salcedo; 23,373 ; 85 ; 86,003,140 ;Junio;2018
+Moca; 1,259 ; 89 ; 63,255,223 ;Junio;2018
+Santiago; 2,536 ; 48 ; 56,038,241 ;Junio;2018
+Valverde Mao; 6,629 ; 73 ; 101,338,868 ;Junio;2018
+Montecristí; 8,101 ; 99 ; 56,325,129 ;Junio;2018
+Santiago Rodríguez; 1,070 ; 28 ; 32,820,382 ;Junio;2018
+Dajabón; 4,317 ; 62 ; 30,536,516 ;Junio;2018
+San José de las Matas; 755 ; 27 ; 15,231,394 ;Junio;2018
+Puerto Plata; 1,645 ; 93 ; 26,465,266 ;Junio;2018
+Santo Domingo; 917 ; 70 ; 214,121,673 ;Julio;2018
+San Cristóbal; 1,439 ; 62 ; 29,252,201 ;Julio;2018
+Monte Plata; 4,956 ; 91 ; 183,964,903 ;Julio;2018
+Hato Mayor; 5,286 ; 85 ; 38,285,168 ;Julio;2018
+El Seybo; 500 ; 58 ; 24,161,379 ;Julio;2018
+Higüey; 200 ; 39 ; 21,444,100 ;Julio;2018
+San Juan de la Maguana ; 1,352 ; 37 ; 16,462,250 ;Julio;2018
+Baní; 1,718 ; 18 ; 29,569,371 ;Julio;2018
+San José de Ocoa; 1,231 ; 50 ; 111,450,591 ;Julio;2018
+Azua; 1,872 ; 46 ; 30,460,015 ;Julio;2018
+Barahona; 1,265 ; 33 ; 17,058,788 ;Julio;2018
+Neyba; 364 ; 35 ; 7,544,336 ;Julio;2018
+Comendador; 374 ; 20 ; 6,486,630 ;Julio;2018
+San Fco. Macorís; 10,017 ; 110 ; 64,459,675 ;Julio;2018
+Cotuí; 14,195 ; 180 ; 139,231,080 ;Julio;2018
+Villa Riva; 4,125 ; 45 ; 16,546,250 ;Julio;2018
+Arenoso; 4,354 ; 38 ; 42,948,392 ;Julio;2018
+Río San Juan; 3,019 ; 50 ; 17,029,293 ;Julio;2018
+Nagua; 4,355 ; 40 ; 20,065,731 ;Julio;2018
+Samaná; 2,712 ; 45 ; 10,912,176 ;Julio;2018
+La Vega; 4,525 ; 58 ; 77,418,477 ;Julio;2018
+Bonao; 2,352 ; 42 ; 10,197,442 ;Julio;2018
+Constanza; 2,542 ; 62 ; 56,864,322 ;Julio;2018
+Salcedo; 300 ; 65 ; 34,438,692 ;Julio;2018
+Moca; 488 ; 70 ; 33,038,248 ;Julio;2018
+Santiago; 136 ; 32 ; 26,948,201 ;Julio;2018
+Valverde Mao; 7,549 ; 41 ; 86,763,304 ;Julio;2018
+Montecristí; 4,725 ; 26 ; 53,376,202 ;Julio;2018
+Santiago Rodríguez; 400 ; 35 ; 14,164,600 ;Julio;2018
+Dajabón; 2,137 ; 42 ; 38,544,531 ;Julio;2018
+San José de las Matas; 495 ; 38 ; 73,852,900 ;Julio;2018
+Puerto Plata; 1,008 ; 61 ; 19,604,324 ;Julio;2018
+Santo Domingo; 500 ; 62 ; 250,113,329 ;Agosto;2018
+San Cristóbal; 414 ; 35 ; 50,595,106 ;Agosto;2018
+Monte Plata; 3,926 ; 76 ; 70,106,281 ;Agosto;2018
+Hato Mayor; 1,623 ; 68 ; 21,202,500 ;Agosto;2018
+El Seybo; 3,011 ; 41 ; 29,336,000 ;Agosto;2018
+Higüey; 288 ; 30 ; 36,852,000 ;Agosto;2018
+San Juan de la Maguana ; 895 ; 12 ; 13,025,000 ;Agosto;2018
+Baní; 1,675 ; 28 ; 102,406,428 ;Agosto;2018
+San José de Ocoa; 4,783 ; 48 ; 118,135,796 ;Agosto;2018
+Azua; 1,205 ; 24 ; 14,030,398 ;Agosto;2018
+Barahona; 2,167 ; 14 ; 6,001,000 ;Agosto;2018
+Neyba; 403 ; 52 ; 7,598,606 ;Agosto;2018
+Comendador; 8,862 ; 16 ; 85,974,000 ;Agosto;2018
+San Francisco de Macorís; 5,850 ; 48 ; 33,014,804 ;Agosto;2018
+Cotuí; 5,002 ; 66 ; 80,862,600 ;Agosto;2018
+Villa Riva; 2,441 ; 35 ; 13,318,168 ;Agosto;2018
+Arenoso; 1,929 ; 30 ; 7,764,000 ;Agosto;2018
+Río San Juan; 1,787 ; 42 ; 39,522,200 ;Agosto;2018
+Nagua; 600 ; 11 ; 2,812,000 ;Agosto;2018
+Samaná; 2,133 ; 48 ; 8,921,335 ;Agosto;2018
+La Vega; 1,559 ; 34 ; 130,804,453 ;Agosto;2018
+Bonao; 802 ; 13 ; 20,853,000 ;Agosto;2018
+Constanza; 1,076 ; 39 ; 37,983,000 ;Agosto;2018
+Salcedo; 2,743 ; 55 ; 37,930,302 ;Agosto;2018
+Moca; 802 ; 52 ; 35,878,000 ;Agosto;2018
+Santiago; 474 ; 17 ; 8,073,124 ;Agosto;2018
+Valverde Mao; 2,773 ; 16 ; 49,805,000 ;Agosto;2018
+Montecristy; 687 ; 9 ; 152,117,000 ;Agosto;2018
+Santiago Rodríguez; 2,532 ; 27 ; 22,541,060 ;Agosto;2018
+Dajabón; 2,198 ; 21 ; 59,966,000 ;Agosto;2018
+San José de las Matas; 377 ; 31 ; 11,429,785 ;Agosto;2018
+Puerto Plata; 3,450 ; 78 ; 18,700,408 ;Agosto;2018
+Santo Domingo; 914 ; 78 ; 159,397,296 ;Septiembre;2018
+San Cristóbal; 280 ; 32 ; 33,274,453 ;Septiembre;2018
+Monte Plata; 1,474 ; 56 ; 105,737,469 ;Septiembre;2018
+Hato Mayor; 1,110 ; 40 ; 49,421,644 ;Septiembre;2018
+El Seybo; 913 ; 38 ; 21,172,364 ;Septiembre;2018
+Higüey; 16 ; 22 ; 20,901,250 ;Septiembre;2018
+San Juan de la Maguana ; 40 ; 9 ; 3,687,000 ;Septiembre;2018
+Baní; 950 ; 29 ; 19,087,500 ;Septiembre;2018
+San José de Ocoa; 1,590 ; 38 ; 65,704,275 ;Septiembre;2018
+Azua; 1,163 ; 31 ; 16,712,037 ;Septiembre;2018
+Barahona; 730 ; 24 ; 8,376,585 ;Septiembre;2018
+Neyba; 406 ; 33 ; 11,542,974 ;Septiembre;2018
+Comendador; 6,924 ; 15 ; 70,456,350 ;Septiembre;2018
+San Fco. Macorís; 4,742 ; 28 ; 113,050,435 ;Septiembre;2018
+Cotuí; 2,197 ; 42 ; 84,957,000 ;Septiembre;2018
+Villa Riva; 1,641 ; 24 ; 7,222,500 ;Septiembre;2018
+Arenoso; 585 ; 12 ; 44,597,982 ;Septiembre;2018
+Río San Juan; 1,299 ; 38 ; 14,099,832 ;Septiembre;2018
+Nagua; 727 ; 9 ; 7,495,000 ;Septiembre;2018
+Samaná; 2,172 ; 30 ; 7,689,760 ;Septiembre;2018
+La Vega; 2,907 ; 28 ; 125,354,409 ;Septiembre;2018
+Bonao; 250 ; 14 ; 18,737,695 ;Septiembre;2018
+Constanza; 1,447 ; 39 ; 35,780,500 ;Septiembre;2018
+Salcedo; 936 ; 33 ; 20,310,000 ;Septiembre;2018
+Moca; 1,017 ; 73 ; 61,681,614 ;Septiembre;2018
+Santiago; 65 ; 29 ; 65,483,774 ;Septiembre;2018
+Valverde Mao; 76 ; 12 ; 257,072,744 ;Septiembre;2018
+Montecristí; 4,110 ; 18 ; 32,207,686 ;Septiembre;2018
+Santiago Rodríguez; 2,463 ; 21 ; 33,514,816 ;Septiembre;2018
+Dajabón; 4,892 ; 24 ; 42,013,602 ;Septiembre;2018
+San José de las Matas; 388 ; 24 ; 29,115,000 ;Septiembre;2018
+Puerto Plata; 4,627 ; 67 ; 21,265,275 ;Septiembre;2018
+Santo Domingo; 682 ; 109 ; 96,956,283 ;Octubre;2018
+San Cristóbal; 397 ; 59 ; 29,772,374 ;Octubre;2018
+Monte Plata; 2,957 ; 65 ; 268,975,182 ;Octubre;2018
+Hato Mayor; 1,133 ; 55 ; 23,543,000 ;Octubre;2018
+El Seybo; 443 ; 55 ; 26,396,416 ;Octubre;2018
+Higüey; 226 ; 32 ; 23,949,588 ;Octubre;2018
+San Juan de la Maguana ; 8,569 ; 126 ; 37,068,175 ;Octubre;2018
+Baní; 936 ; 34 ; 34,043,558 ;Octubre;2018
+San José de Ocoa; 599 ; 39 ; 56,611,496 ;Octubre;2018
+Azua; 842 ; 55 ; 31,681,459 ;Octubre;2018
+Barahona; 1,245 ; 53 ; 29,364,197 ;Octubre;2018
+Neyba; 237 ; 60 ; 20,772,611 ;Octubre;2018
+Comendador; 2,255 ; 14 ; 22,120,011 ;Octubre;2018
+San Fco. Macorís; 4,138 ; 31 ; 33,359,594 ;Octubre;2018
+Cotuí; 3,209 ; 38 ; 142,336,968 ;Octubre;2018
+Villa Riva; 570 ; 31 ; 102,130,034 ;Octubre;2018
+Arenoso; 160 ; 9 ; 6,830,479 ;Octubre;2018
+Río San Juan; 829 ; 31 ; 17,490,410 ;Octubre;2018
+Nagua; 2,268 ; 15 ; 67,282,291 ;Octubre;2018
+Samaná; 2,669 ; 51 ; 16,764,289 ;Octubre;2018
+La Vega; 1,485 ; 42 ; 62,808,026 ;Octubre;2018
+Bonao; 300 ; 26 ; 13,145,543 ;Octubre;2018
+Constanza; 2,743 ; 70 ; 185,077,020 ;Octubre;2018
+Salcedo; 1,566 ; 50 ; 43,246,457 ;Octubre;2018
+Moca; 1,646 ; 75 ; 61,279,974 ;Octubre;2018
+Santiago; 1,257 ; 51 ; 122,179,683 ;Octubre;2018
+Valverde Mao; 263 ; 14 ; 47,994,000 ;Octubre;2018
+Montecristí; 194 ; 14 ; 12,187,575 ;Octubre;2018
+Santiago Rodríguez; 1,537 ; 30 ; 33,357,429 ;Octubre;2018
+Dajabón; 4,812 ; 31 ; 44,027,261 ;Octubre;2018
+San José de las Matas; 800 ; 30 ; 27,378,040 ;Octubre;2018
+Puerto Plata; 7,050 ; 96 ; 44,751,006 ;Octubre;2018
+Santo Domingo; 736 ; 101 ; 376,285,239 ;Noviembre;2018
+San Cristóbal; 663 ; 47 ; 48,714,944 ;Noviembre;2018
+Monte Plata; 1,577 ; 63 ; 199,582,378 ;Noviembre;2018
+Hato Mayor; 1,147 ; 76 ; 45,826,345 ;Noviembre;2018
+El Seybo; 1,097 ; 49 ; 22,506,760 ;Noviembre;2018
+Higüey; 2,505 ; 75 ; 34,969,900 ;Noviembre;2018
+San Juan de la Maguana ; 4,693 ; 171 ; 34,573,100 ;Noviembre;2018
+Baní; 741 ; 42 ; 28,080,744 ;Noviembre;2018
+San José de Ocoa; 714 ; 45 ; 59,939,500 ;Noviembre;2018
+Azua; 740 ; 46 ; 102,733,268 ;Noviembre;2018
+Barahona; 1,178 ; 50 ; 33,935,981 ;Noviembre;2018
+Neyba; 520 ; 65 ; 19,932,000 ;Noviembre;2018
+Comendador; 1,142 ; 21 ; 28,652,562 ;Noviembre;2018
+San Fco. Macorís; 10,717 ; 103 ; 113,274,848 ;Noviembre;2018
+Cotuí; 12,862 ; 109 ; 152,542,019 ;Noviembre;2018
+Villa Riva; 12,694 ; 129 ; 58,523,353 ;Noviembre;2018
+Arenoso; 17,947 ; 102 ; 78,291,538 ;Noviembre;2018
+Río San Juan; 1,805 ; 40 ; 36,469,066 ;Noviembre;2018
+Nagua; 11,191 ; 135 ; 58,396,570 ;Noviembre;2018
+Samaná; 1,696 ; 37 ; 18,106,842 ;Noviembre;2018
+La Vega; 9,177 ; 176 ; 73,953,171 ;Noviembre;2018
+Bonao; 2,212 ; 49 ; 33,992,177 ;Noviembre;2018
+Constanza; 1,694 ; 55 ; 136,519,401 ;Noviembre;2018
+Salcedo; 5,411 ; 61 ; 37,658,221 ;Noviembre;2018
+Moca; 2,383 ; 70 ; 62,001,474 ;Noviembre;2018
+Santiago; 256 ; 58 ; 39,944,931 ;Noviembre;2018
+Valverde Mao; 2,909 ; 25 ; 66,618,132 ;Noviembre;2018
+Montecristí; 2,794 ; 27 ; 50,405,621 ;Noviembre;2018
+Santiago Rodríguez; 305 ; 36 ; 53,187,909 ;Noviembre;2018
+Dajabón; 5,486 ; 53 ; 43,355,637 ;Noviembre;2018
+San José de las Matas; 392 ; 39 ; 16,011,829 ;Noviembre;2018
+Puerto Plata; 3,002 ; 100 ; 38,234,035 ;Noviembre;2018
+Santo Domingo; 600 ; 136 ; 427,395,500 ;Diciembre;2018
+San Cristóbal; 367 ; 51 ; 71,068,949 ;Diciembre;2018
+Monte Plata; 1,460 ; 57 ; 120,621,500 ;Diciembre;2018
+Hato Mayor; 3,439 ; 86 ; 41,913,752 ;Diciembre;2018
+El Seybo; 1,161 ; 60 ; 27,215,955 ;Diciembre;2018
+Higüey; 2,632 ; 49 ; 69,223,662 ;Diciembre;2018
+San Juan de la Maguana ; 4,024 ; 79 ; 38,309,550 ;Diciembre;2018
+Baní; 517 ; 24 ; 14,251,065 ;Diciembre;2018
+San José de Ocoa; 528 ; 32 ; 118,102,450 ;Diciembre;2018
+Azua; 859 ; 41 ; 54,562,868 ;Diciembre;2018
+Barahona; 2,513 ; 66 ; 105,591,904 ;Diciembre;2018
+Neyba; 430 ; 48 ; 17,092,640 ;Diciembre;2018
+Comendador; 310 ; 21 ; 10,840,414 ;Diciembre;2018
+San Fco. Macorís; 28,669 ; 206 ; 327,655,407 ;Diciembre;2018
+Cotuí; 19,054 ; 241 ; 195,480,295 ;Diciembre;2018
+Villa Riva; 9,953 ; 168 ; 60,448,495 ;Diciembre;2018
+Arenoso; 16,419 ; 206 ; 73,291,172 ;Diciembre;2018
+Río San Juan; 10,726 ; 63 ; 72,095,380 ;Diciembre;2018
+Nagua; 18,761 ; 279 ; 77,710,944 ;Diciembre;2018
+Samaná; 2,349 ; 51 ; 16,629,521 ;Diciembre;2018
+La Vega; 18,317 ; 243 ; 128,702,237 ;Diciembre;2018
+Bonao; 3,562 ; 74 ; 30,108,888 ;Diciembre;2018
+Constanza; 1,227 ; 41 ; 83,840,901 ;Diciembre;2018
+Salcedo; 7,748 ; 70 ; 56,337,235 ;Diciembre;2018
+Moca; 750 ; 59 ; 97,143,178 ;Diciembre;2018
+Santiago; 425 ; 50 ; 63,790,491 ;Diciembre;2018
+Valverde Mao; 6,638 ; 110 ; 65,430,166 ;Diciembre;2018
+Montecristí; 8,219 ; 48 ; 55,399,981 ;Diciembre;2018
+Santiago Rodríguez; 595 ; 28 ; 41,218,968 ;Diciembre;2018
+Dajabón; 8,580 ; 102 ; 79,267,721 ;Diciembre;2018
+San José de las Matas; 199 ; 31 ; 11,670,758 ;Diciembre;2018
+Puerto Plata; 1,989 ; 90 ; 44,080,539 ;Diciembre;2018
+Santo Domingo; 1,562 ; 100 ; 120,193,942 ;Enero ;2019
+San Cristóbal; 768 ; 44 ; 66,484,482 ;Enero ;2019
+Monte Plata; 733 ; 50 ; 170,289,307 ;Enero;2019
+Hato Mayor; 4,564 ; 60 ; 31,897,999 ;Enero;2019
+El Seybo; 469 ; 53 ; 18,821,080 ;Enero;2019
+Higüey; 547 ; 46 ; 47,894,550 ;Enero;2019
+San Juan de la Maguana; 1,913 ; 65 ; 22,586,500 ;Enero;2019
+Baní; 2,499 ; 16 ; 34,677,567 ;Enero;2019
+San José de Ocoa; 873 ; 34 ; 45,891,900 ;Enero;2019
+Azua; 2,755 ; 45 ; 76,333,357 ;Enero;2019
+Barahona; 4,402 ; 68 ; 33,655,343 ;Enero;2019
+Neyba; 397 ; 49 ; 14,753,404 ;Enero;2019
+Comendador; 414 ; 24 ; 10,912,690 ;Enero;2019
+San Fco. Macorís; 9,929 ; 96 ; 122,220,083 ;Enero;2019
+Cotuí; 8,841 ; 121 ; 92,610,564 ;Enero;2019
+Villa Riva; 1,191 ; 39 ; 33,556,124 ;Enero;2019
+Arenoso; 5,047 ; 56 ; 23,239,098 ;Enero;2019
+Río San Juan; 804 ; 22 ; 28,169,130 ;Enero;2019
+Nagua; 5,290 ; 77 ; 21,806,240 ;Enero;2019
+Samaná; 494 ; 27 ; 10,892,997 ;Enero;2019
+La Vega; 5,921 ; 105 ; 90,016,072 ;Enero;2019
+Bonao; 2,300 ; 50 ; 28,914,272 ;Enero;2019
+Constanza; 1,397 ; 42 ; 37,290,078 ;Enero;2019
+Salcedo; 2,774 ; 60 ; 37,841,042 ;Enero;2019
+Moca; 2,096 ; 76 ; 44,922,710 ;Enero;2019
+Santiago; 1,832 ; 52 ; 50,388,344 ;Enero;2019
+Valverde Mao; 9,698 ; 91 ; 63,170,529 ;Enero;2019
+Montecristí; 5,704 ; 80 ; 40,380,325 ;Enero;2019
+Santiago Rodríguez; 735 ; 33 ; 32,226,423 ;Enero;2019
+Dajabón; 2,237 ; 46 ; 17,792,630 ;Enero;2019
+San José de las Matas; 495 ; 22 ; 13,246,951 ;Enero;2019
+Puerto Plata; 3,531 ; 73 ; 42,479,014 ;Enero;2019
+Santo Domingo; 295 ; 104 ; 146,018,900 ;Febrero;2019
+San Cristóbal; 845 ; 52 ; 49,719,790 ;Febrero;2019
+Monte Plata; 1,594 ; 49 ; 150,258,241 ;Febrero;2019
+Hato Mayor; 1,017 ; 62 ; 33,814,296 ;Febrero;2019
+El Seybo; 1,508 ; 35 ; 19,272,841 ;Febrero;2019
+Higüey; 70 ; 23 ; 20,416,900 ;Febrero;2019
+San Juan de la Maguana; 800 ; 36 ; 13,943,102 ;Febrero;2019
+Baní; 1,408 ; 37 ; 38,309,565 ;Febrero;2019
+San José de Ocoa; 1,007 ; 45 ; 46,546,065 ;Febrero;2019
+Azua; 4,223 ; 55 ; 45,386,794 ;Febrero;2019
+Barahona; 2,090 ; 64 ; 38,908,600 ;Febrero;2019
+Neyba; 392 ; 63 ; 12,794,232 ;Febrero;2019
+Comendador; 712 ; 29 ; 7,958,500 ;Febrero;2019
+San Fco. Macorís; 4,828 ; 47 ; 29,905,885 ;Febrero;2019
+Cotuí; 4,222 ; 51 ; 50,061,982 ;Febrero;2019
+Villa Riva; 889 ; 25 ; 22,673,856 ;Febrero;2019
+Arenoso; 3,793 ; 28 ; 17,570,326 ;Febrero;2019
+Río San Juan; 137 ; 20 ; 17,119,685 ;Febrero;2019
+Nagua; 5,169 ; 16 ; 18,030,000 ;Febrero;2019
+Samaná; 620 ; 24 ; 6,662,760 ;Febrero;2019
+La Vega; 1,962 ; 55 ; 26,315,079 ;Febrero;2019
+Bonao; 340 ; 17 ; 5,597,393 ;Febrero;2019
+Constanza; 2,318 ; 40 ; 79,354,420 ;Febrero;2019
+Salcedo; 2,286 ; 49 ; 23,841,553 ;Febrero;2019
+Moca; 2,494 ; 54 ; 40,459,578 ;Febrero;2019
+Santiago; 842 ; 44 ; 47,604,572 ;Febrero;2019
+Valverde Mao; 1,341 ; 34 ; 44,841,832 ;Febrero;2019
+Montecristí; 287 ; 19 ; 6,790,134 ;Febrero;2019
+Santiago Rodríguez; 420 ; 27 ; 30,812,490 ;Febrero;2019
+Dajabón; 1,432 ; 18 ; 14,578,905 ;Febrero;2019
+San José de las Matas; 451 ; 22 ; 8,689,832 ;Febrero;2019
+Puerto Plata; 655 ; 70 ; 22,736,045 ;Febrero;2019
+Santo Domingo; 82 ; 123 ; 93,968,435 ;Marzo;2019
+San Cristóbal; 2,707 ; 87 ; 49,505,856 ;Marzo;2019
+Monte Plata; 454 ; 49 ; 117,804,778 ;Marzo;2019
+Hato Mayor; 6,788 ; 64 ; 36,243,092 ;Marzo;2019
+El Seybo; 515 ; 38 ; 17,695,072 ;Marzo;2019
+Higüey; 114 ; 36 ; 49,089,000 ;Marzo;2019
+San Juan de la Maguana; 2,226 ; 58 ; 87,137,495 ;Marzo;2019
+Baní; 740 ; 31 ; 51,286,262 ;Marzo;2019
+San José de Ocoa; 1,740 ; 39 ; 42,212,481 ;Marzo;2019
+Azua; 1,286 ; 44 ; 47,196,782 ;Marzo;2019
+Barahona; 975 ; 57 ; 102,110,901 ;Marzo;2019
+Neyba; 1,085 ; 66 ; 16,764,035 ;Marzo;2019
+Comendador; 4,385 ; 38 ; 20,004,703 ;Marzo;2019
+San Fco. Macorís; 2,480 ; 42 ; 123,379,153 ;Marzo;2019
+Cotuí; 2,098 ; 34 ; 44,228,306 ;Marzo;2019
+Villa Riva; 1,752 ; 19 ; 20,995,153 ;Marzo;2019
+Arenoso; 370 ; 25 ; 17,864,591 ;Marzo;2019
+Río San Juan; 301 ; 22 ; 13,624,108 ;Marzo;2019
+Nagua; 2,760 ; 15 ; 28,524,181 ;Marzo;2019
+Samaná; 1,503 ; 37 ; 11,694,332 ;Marzo;2019
+La Vega; 3,622 ; 52 ; 45,541,830 ;Marzo;2019
+Bonao; 40 ; 18 ; 62,120,556 ;Marzo;2019
+Constanza; 1,449 ; 38 ; 43,929,500 ;Marzo;2019
+Salcedo; 576 ; 41 ; 15,085,779 ;Marzo;2019
+Moca; 2,114 ; 74 ; 55,649,742 ;Marzo;2019
+Santiago; 597 ; 35 ; 177,180,282 ;Marzo;2019
+Valverde Mao; 421 ; 23 ; 61,939,920 ;Marzo;2019
+Montecristí; 280 ; 9 ; 153,683,720 ;Marzo;2019
+Santiago Rodríguez; -   ; 13 ; 9,193,000 ;Marzo;2019
+Dajabón; 1,115 ; 20 ; 4,478,208 ;Marzo;2019
+San José de las Matas; 1,127 ; 32 ; 10,440,000 ;Marzo;2019
+Puerto Plata; 2,151 ; 66 ; 35,136,851 ;Marzo;2019
+Santo Domingo; 80 ; 113 ; 148,632,426 ;Abril ;2019
+San Cristóbal; 1,663 ; 92 ; 55,008,518 ;Abril ;2019
+Monte Plata; 817 ; 49 ; 162,551,942 ;Abril;2019
+Hato Mayor; 3,444 ; 96 ; 32,185,729 ;Abril;2019
+El Seybo; 255 ; 36 ; 35,259,580 ;Abril;2019
+Higüey; 445 ; 36 ; 44,274,550 ;Abril;2019
+San Juan de la Maguana; 2,056 ; 58 ; 59,861,650 ;Abril;2019
+Baní; 1,557 ; 44 ; 17,991,823 ;Abril;2019
+San José de Ocoa; 1,307 ; 48 ; 46,693,852 ;Abril;2019
+Azua; 945 ; 41 ; 82,485,685 ;Abril;2019
+Barahona; 1,435 ; 80 ; 39,162,375 ;Abril;2019
+Neyba; 1,407 ; 52 ; 36,949,782 ;Abril;2019
+Comendador; 468 ; 33 ; 16,138,096 ;Abril;2019
+San Fco. Macorís; 2,677 ; 42 ; 31,538,116 ;Abril;2019
+Cotuí; 1,156 ; 52 ; 151,452,950 ;Abril;2019
+Villa Riva; 2,371 ; 37 ; 8,937,154 ;Abril;2019
+Arenoso; 799 ; 22 ; 78,793,283 ;Abril;2019
+Río San Juan; 619 ; 23 ; 35,999,231 ;Abril;2019
+Nagua; 600 ; 14 ; 11,625,081 ;Abril;2019
+Samaná; 886 ; 34 ; 11,819,816 ;Abril;2019
+La Vega; 422 ; 48 ; 205,422,298 ;Abril;2019
+Bonao; 430 ; 20 ; 49,122,299 ;Abril;2019
+Constanza; 1,122 ; 41 ; 133,768,903 ;Abril;2019
+Salcedo; 2,016 ; 65 ; 33,070,247 ;Abril;2019
+Moca; 631 ; 79 ; 54,526,366 ;Abril;2019
+Santiago; 334 ; 46 ; 68,411,087 ;Abril;2019
+Valverde Mao; 1,369 ; 12 ; 149,238,024 ;Abril;2019
+Montecristí; 25 ; 18 ; 6,594,960 ;Abril;2019
+Santiago Rodríguez; 70 ; 19 ; 15,054,937 ;Abril;2019
+Dajabón; 468 ; 16 ; 53,846,417 ;Abril;2019
+San José de las Matas; 1,045 ; 31 ; 17,616,879 ;Abril;2019
+Puerto Plata; 422 ; 56 ; 23,127,280 ;Abril;2019
+Santo Domingo; 170 ; 157 ; 180,400,478 ;Mayo;2019
+San Cristóbal; 1,621 ; 90 ; 59,083,754 ;Mayo;2019
+Monte Plata; 3,411 ; 75 ; 186,137,315 ;Mayo;2019
+Hato Mayor; 4,155 ; 135 ; 44,231,397 ;Mayo;2019
+El Seybo; 1,654 ; 51 ; 34,248,904 ;Mayo;2019
+Higüey; 1,462 ; 91 ; 52,338,467 ;Mayo;2019
+San Juan de la Maguana; 3,345 ; 67 ; 180,723,132 ;Mayo;2019
+Baní; 1,014 ; 41 ; 54,909,146 ;Mayo;2019
+San José de Ocoa; 1,439 ; 70 ; 171,727,784 ;Mayo;2019
+Azua; 694 ; 41 ; 35,513,677 ;Mayo;2019
+Barahona; 1,840 ; 100 ; 46,569,966 ;Mayo;2019
+Neyba; 840 ; 70 ; 28,560,698 ;Mayo;2019
+Comendador; 972 ; 55 ; 17,782,580 ;Mayo;2019
+San Fco. Macorís; 19,187 ; 173 ; 152,278,428 ;Mayo;2019
+Cotuí; 11,994 ; 102 ; 255,983,495 ;Mayo;2019
+Villa Riva; 19,819 ; 216 ; 69,333,726 ;Mayo;2019
+Arenoso; 24,125 ; 211 ; 91,481,923 ;Mayo;2019
+Río San Juan; 3,591 ; 57 ; 23,073,208 ;Mayo;2019
+Nagua; 16,453 ; 233 ; 85,055,887 ;Mayo;2019
+Samaná; 1,387 ; 43 ; 10,863,499 ;Mayo;2019
+La Vega; 4,262 ; 127 ; 294,691,397 ;Mayo;2019
+Bonao; 2,688 ; 74 ; 60,415,268 ;Mayo;2019
+Constanza; 1,859 ; 47 ; 54,844,015 ;Mayo;2019
+Salcedo; 4,651 ; 89 ; 40,035,843 ;Mayo;2019
+Moca; 717 ; 104 ; 130,745,765 ;Mayo;2019
+Santiago; 3,110 ; 49 ; 97,582,205 ;Mayo;2019
+Valverde Mao; 1,108 ; 37 ; 313,060,252 ;Mayo;2019
+Montecristí; 155 ; 22 ; 4,312,615 ;Mayo;2019
+Santiago Rodríguez; 544 ; 41 ; 55,347,690 ;Mayo;2019
+Dajabón; 3,835 ; 57 ; 44,703,123 ;Mayo;2019
+San José de las Matas; 982 ; 59 ; 20,785,545 ;Mayo;2019
+Puerto Plata; 1,672 ; 97 ; 63,608,238 ;Mayo;2019
+Santo Domingo; 360 ; 106 ; 185,758,834 ;Junio;2019
+San Cristóbal; 584 ; 55 ; 45,409,866 ;Junio;2019
+Monte Plata; 3,413 ; 84 ; 192,457,582 ;Junio;2019
+Hato Mayor; 3,347 ; 91 ; 37,568,784 ;Junio;2019
+El Seybo; 1,427 ; 66 ; 29,341,403 ;Junio;2019
+Higüey; 1,487 ; 58 ; 64,130,044 ;Junio;2019
+San Juan de la Maguana; 5,119 ; 100 ; 87,005,969 ;Junio;2019
+Baní; 1,683 ; 27 ; 32,965,386 ;Junio;2019
+San José de Ocoa; 767 ; 40 ; 166,901,953 ;Junio;2019
+Azua; 1,547 ; 38 ; 41,467,352 ;Junio;2019
+Barahona; 1,516 ; 75 ; 40,743,300 ;Junio;2019
+Neyba; 711 ; 48 ; 29,349,779 ;Junio;2019
+Comendador; 975 ; 42 ; 12,967,419 ;Junio;2019
+San Fco. Macorís; 29,501 ; 177 ; 156,993,715 ;Junio;2019
+Cotuí; 17,201 ; 198 ; 252,504,818 ;Junio;2019
+Villa Riva; 3,682 ; 60 ; 17,178,413 ;Junio;2019
+Arenoso; 11,052 ; 106 ; 73,845,440 ;Junio;2019
+Río San Juan; 2,610 ; 48 ; 22,780,077 ;Junio;2019
+Nagua; 8,868 ; 103 ; 40,881,414 ;Junio;2019
+Samaná; 1,413 ; 34 ; 14,871,170 ;Junio;2019
+La Vega; 17,739 ; 232 ; 127,036,974 ;Junio;2019
+Bonao; 3,632 ; 73 ; 25,823,259 ;Junio;2019
+Constanza; 1,772 ; 37 ; 358,205,494 ;Junio;2019
+Salcedo; 7,597 ; 71 ; 54,887,258 ;Junio;2019
+Moca; 2,473 ; 74 ; 63,572,046 ;Junio;2019
+Santiago; 4,013 ; 60 ; 98,936,312 ;Junio;2019
+Valverde Mao; 10,977 ; 116 ; 72,114,388 ;Junio;2019
+Montecristí; 17,717 ; 95 ; 89,407,550 ;Junio;2019
+Santiago Rodríguez; 45 ; 28 ; 54,195,280 ;Junio;2019
+Dajabón; 5,215 ; 82 ; 41,651,288 ;Junio;2019
+San José de las Matas; 1,160 ; 32 ; 28,550,158 ;Junio;2019
+Puerto Plata; 2,559 ; 88 ; 71,027,363 ;Junio;2019
+Santo Domingo; 1,315 ; 131 ; 181,493,452 ;Julio;2019
+San Cristóbal; 1,186 ; 79 ; 34,500,690 ;Julio;2019
+Monte Plata; 4,136 ; 83 ; 99,925,538 ;Julio;2019
+Hato Mayor; 3,002 ; 73 ; 24,922,147 ;Julio;2019
+El Seybo; 1,299 ; 45 ; 13,498,900 ;Julio;2019
+Higüey; 300 ; 45 ; 56,367,300 ;Julio;2019
+San Juan de la Maguana; 5,559 ; 121 ; 32,141,960 ;Julio;2019
+Baní; 2,224 ; 33 ; 32,423,660 ;Julio;2019
+San José de Ocoa; 1,348 ; 52 ; 150,569,045 ;Julio;2019
+Azua; 2,262 ; 53 ; 41,364,782 ;Julio;2019
+Barahona; 5,002 ; 56 ; 132,298,900 ;Julio;2019
+Neyba; 1,362 ; 57 ; 27,911,889 ;Julio;2019
+Comendador; 566 ; 22 ; 5,916,092 ;Julio;2019
+San Fco. Macorís; 12,010 ; 112 ; 111,378,700 ;Julio;2019
+Cotuí; 15,555 ; 157 ; 150,623,939 ;Julio;2019
+Villa Riva; 2,590 ; 45 ; 17,704,762 ;Julio;2019
+Arenoso; 6,146 ; 51 ; 34,001,960 ;Julio;2019
+Río San Juan; 2,963 ; 41 ; 13,130,806 ;Julio;2019
+Nagua; 3,468 ; 45 ; 19,971,897 ;Julio;2019
+Samaná; 1,286 ; 23 ; 5,193,166 ;Julio;2019
+La Vega; 8,525 ; 126 ; 86,996,394 ;Julio;2019
+Bonao; 1,851 ; 47 ; 13,281,942 ;Julio;2019
+Constanza; 4,063 ; 80 ; 125,978,929 ;Julio;2019
+Salcedo; 22,534 ; 82 ; 72,275,670 ;Julio;2019
+Moca; 1,247 ; 75 ; 59,907,492 ;Julio;2019
+Santiago; 2,427 ; 47 ; 49,840,962 ;Julio;2019
+Valverde Mao; 5,280 ; 60 ; 49,763,263 ;Julio;2019
+Montecristí; 6,359 ; 64 ; 31,793,240 ;Julio;2019
+Santiago Rodríguez; 247 ; 34 ; 55,090,600 ;Julio;2019
+Dajabón; 1,662 ; 43 ; 25,362,260 ;Julio;2019
+San José de las Matas; 1,210 ; 42 ; 30,573,899 ;Julio;2019
+Puerto Plata; 3,309 ; 119 ; 40,715,316 ;Julio;2019
+Santo Domingo; 532 ; 77 ; 402,245,980 ;Agosto;2019
+San Cristóbal; 887 ; 50 ; 86,452,911 ;Agosto;2019
+Monte Plata; 8,387 ; 60 ; 143,572,000 ;Agosto;2019
+Hato Mayor; 662 ; 38 ; 57,123,067 ;Agosto;2019
+El Seybo; 271 ; 23 ; 35,752,325 ;Agosto;2019
+Higüey; 40 ; 32 ; 28,799,700 ;Agosto;2019
+San Juan de la Maguana; 2,228 ; 52 ; 36,655,620 ;Agosto;2019
+Baní; 2,360 ; 22 ; 26,763,000 ;Agosto;2019
+San José de Ocoa; 502 ; 37 ; 173,436,169 ;Agosto;2019
+Azua; 2,842 ; 17 ; 40,013,559 ;Agosto;2019
+Barahona; 1,060 ; 22 ; 18,685,000 ;Agosto;2019
+Neyba; 569 ; 55 ; 13,517,977 ;Agosto;2019
+Comendador; 515 ; 24 ; 6,793,957 ;Agosto;2019
+San Fco. Macorís; 2,731 ; 34 ; 109,081,616 ;Agosto;2019
+Cotuí; 3,066 ; 56 ; 106,256,500 ;Agosto;2019
+Villa Riva; 2,630 ; 28 ; 8,035,000 ;Agosto;2019
+Arenoso; 778 ; 15 ; 9,244,500 ;Agosto;2019
+Río San Juan; 14,349 ; 22 ; 112,250,040 ;Agosto;2019
+Nagua; 394 ; 7 ; 1,975,000 ;Agosto;2019
+Samaná; 840 ; 18 ; 3,929,000 ;Agosto;2019
+La Vega; 3,372 ; 24 ; 105,078,098 ;Agosto;2019
+Bonao; 478 ; 12 ; 11,469,527 ;Agosto;2019
+Constanza; 1,494 ; 34 ; 43,676,500 ;Agosto;2019
+Salcedo; 4,215 ; 50 ; 35,350,000 ;Agosto;2019
+Moca; 2,153 ; 51 ; 21,991,612 ;Agosto;2019
+Santiago; 1,091 ; 30 ; 32,154,950 ;Agosto;2019
+Valverde Mao; 1,522 ; 18 ; 39,773,782 ;Agosto;2019
+Montecristí; 997 ; 9 ; 11,299,969 ;Agosto;2019
+Santiago Rodríguez; 140 ; 37 ; 22,826,500 ;Agosto;2019
+Dajabón; 272 ; 25 ; 36,965,000 ;Agosto;2019
+San José de las Matas; 145 ; 20 ; 36,527,700 ;Agosto;2019
+Puerto Plata; 1,590 ; 59 ; 14,183,222 ;Agosto;2019
+Santo Domingo; 658 ; 98 ; 93,297,395 ;Septiembre;2019
+San Cristóbal; 455 ; 32 ; 40,843,130 ;Septiembre;2019
+Monte Plata; 1,398 ; 49 ; 83,561,981 ;Septiembre;2019
+Hato Mayor; 3,243 ; 52 ; 33,178,223 ;Septiembre;2019
+El Seybo; 559 ; 40 ; 18,058,300 ;Septiembre;2019
+Higüey; 1 ; 25 ; 37,450,000 ;Septiembre;2019
+San Juan de la Maguana; 1,097 ; 28 ; 6,351,172 ;Septiembre;2019
+Baní; 749 ; 20 ; 16,770,000 ;Septiembre;2019
+San José de Ocoa; 435 ; 33 ; 56,247,750 ;Septiembre;2019
+Azua; 908 ; 33 ; 25,724,650 ;Septiembre;2019
+Barahona; 1,389 ; 28 ; 11,987,609 ;Septiembre;2019
+Neyba; 983 ; 42 ; 15,395,000 ;Septiembre;2019
+Comendador; 758 ; 37 ; 9,304,850 ;Septiembre;2019
+San Fco. Macorís; 5,077 ; 36 ; 30,025,632 ;Septiembre;2019
+Cotuí; 1,337 ; 38 ; 32,783,800 ;Septiembre;2019
+Villa Riva; 3,168 ; 29 ; 13,222,900 ;Septiembre;2019
+Arenoso; 360 ; 16 ; 11,424,700 ;Septiembre;2019
+Río San Juan; 1,049 ; 23 ; 13,963,280 ;Septiembre;2019
+Nagua; 125 ; 5 ; 5,795,000 ;Septiembre;2019
+Samaná; 1,156 ; 32 ; 7,053,282 ;Septiembre;2019
+La Vega; 1,478 ; 47 ; 99,351,134 ;Septiembre;2019
+Bonao; 1,220 ; 20 ; 16,443,197 ;Septiembre;2019
+Constanza; 855 ; 35 ; 71,739,518 ;Septiembre;2019
+Salcedo; 3,775 ; 52 ; 31,814,250 ;Septiembre;2019
+Moca; 675 ; 57 ; 144,828,909 ;Septiembre;2019
+Santiago; 219 ; 25 ; 14,695,472 ;Septiembre;2019
+Valverde Mao; 886 ; 13 ; 11,251,075 ;Septiembre;2019
+Montecristí; 705 ; 13 ; 6,140,400 ;Septiembre;2019
+Santiago Rodríguez; 110 ; 28 ; 14,758,770 ;Septiembre;2019
+Dajabón; 477 ; 32 ; 14,946,263 ;Septiembre;2019
+San José de las Matas; 975 ; 37 ; 13,937,000 ;Septiembre;2019
+Puerto Plata; 496 ; 67 ; 20,030,553 ;Septiembre;2019
+Santo Domingo; 300 ; 133 ; 182,312,257 ;Octubre;2019
+San Cristóbal; 390 ; 51 ; 38,673,987 ;Octubre;2019
+Monte Plata; 706 ; 48 ; 158,762,055 ;Octubre;2019
+Hato Mayor; 619 ; 63 ; 37,723,549 ;Octubre;2019
+El Seybo; 372 ; 36 ; 63,943,013 ;Octubre;2019
+Higüey; 75 ; 43 ; 49,111,600 ;Octubre;2019
+San Juan de la Maguana; 7,945 ; 156 ; 81,294,989 ;Octubre;2019
+Baní; 677 ; 30 ; 40,817,094 ;Octubre;2019
+San José de Ocoa; 578 ; 30 ; 65,754,407 ;Octubre;2019
+Azua; 1,038 ; 43 ; 61,346,960 ;Octubre;2019
+Barahona; 55 ; 41 ; 16,990,400 ;Octubre;2019
+Neyba; 420 ; 48 ; 10,912,553 ;Octubre;2019
+Comendador; 484 ; 25 ; 10,618,437 ;Octubre;2019
+San Fco. Macorís; 1,761 ; 34 ; 62,281,524 ;Octubre;2019
+Cotuí; 4,672 ; 46 ; 70,467,018 ;Octubre;2019
+Villa Riva; 649 ; 27 ; 102,257,801 ;Octubre;2019
+Arenoso; -   ; 7 ; 3,398,900 ;Octubre;2019
+Río San Juan; 663 ; 28 ; 14,332,294 ;Octubre;2019
+Nagua; 1,730 ; 14 ; 109,091,664 ;Octubre;2019
+Samaná; 359 ; 36 ; 9,024,659 ;Octubre;2019
+La Vega; 1,013 ; 55 ; 35,525,886 ;Octubre;2019
+Bonao; 200 ; 17 ; 72,407,478 ;Octubre;2019
+Constanza; 2,545 ; 57 ; 233,684,700 ;Octubre;2019
+Salcedo; 2,901 ; 79 ; 44,306,775 ;Octubre;2019
+Moca; 3,159 ; 85 ; 77,639,029 ;Octubre;2019
+Santiago; 1,333 ; 54 ; 86,842,994 ;Octubre;2019
+Valverde Mao; 482 ; 16 ; 30,630,115 ;Octubre;2019
+Montecristí; 1,222 ; 23 ; 10,484,800 ;Octubre;2019
+Santiago Rodríguez; 40 ; 22 ; 85,681,400 ;Octubre;2019
+Dajabón; 160 ; 36 ; 26,430,771 ;Octubre;2019
+San José de las Matas; 1,139 ; 36 ; 11,409,749 ;Octubre;2019
+Puerto Plata; 243 ; 89 ; 38,999,817 ;Octubre;2019
+Santo Domingo; 261 ; 130 ; 157,800,219 ;Noviembre;2019
+San Cristóbal; 320 ; 43 ; 53,822,829 ;Noviembre;2019
+Monte Plata; 4,841 ; 45 ; 232,813,222 ;Noviembre;2019
+Hato Mayor; 850 ; 72 ; 43,439,371 ;Noviembre;2019
+El Seybo; 1,312 ; 63 ; 25,471,034 ;Noviembre;2019
+Higüey; 2,850 ; 68 ; 22,601,933 ;Noviembre;2019
+San Juan de la Maguana; 5,318 ; 114 ; 82,199,128 ;Noviembre;2019
+Baní; 393 ; 30 ; 14,106,494 ;Noviembre;2019
+San José de Ocoa; 484 ; 37 ; 61,603,949 ;Noviembre;2019
+Azua; 880 ; 42 ; 188,398,695 ;Noviembre;2019
+Barahona; 795 ; 64 ; 32,107,920 ;Noviembre;2019
+Neyba; 455 ; 62 ; 19,756,014 ;Noviembre;2019
+Comendador; 562 ; 36 ; 13,324,200 ;Noviembre;2019
+San Fco. Macorís; 10,207 ; 101 ; 165,318,435 ;Noviembre;2019
+Cotuí; 2,974 ; 69 ; 52,940,236 ;Noviembre;2019
+Villa Riva; 15,784 ; 176 ; 89,532,000 ;Noviembre;2019
+Arenoso; 22,545 ; 146 ; 97,794,045 ;Noviembre;2019
+Río San Juan; 3,160 ; 42 ; 30,398,317 ;Noviembre;2019
+Nagua; 12,345 ; 140 ; 61,869,593 ;Noviembre;2019
+Samaná; 1,320 ; 40 ; 11,002,278 ;Noviembre;2019
+La Vega; 9,344 ; 197 ; 132,785,505 ;Noviembre;2019
+Bonao; 3,700 ; 69 ; 23,249,728 ;Noviembre;2019
+Constanza; 2,466 ; 64 ; 100,748,986 ;Noviembre;2019
+Salcedo; 6,034 ; 57 ; 42,043,389 ;Noviembre;2019
+Moca; 461 ; 48 ; 47,668,213 ;Noviembre;2019
+Santiago; 1,240 ; 41 ; 51,557,365 ;Noviembre;2019
+Valverde Mao; 1,954 ; 51 ; 74,767,641 ;Noviembre;2019
+Montecristí; 7,545 ; 115 ; 51,987,400 ;Noviembre;2019
+Santiago Rodríguez; 145 ; 32 ; 20,175,000 ;Noviembre;2019
+Dajabón; 2,496 ; 49 ; 27,541,710 ;Noviembre;2019
+San José de las Matas; 997 ; 32 ; 16,644,699 ;Noviembre;2019
+Puerto Plata; 509 ; 93 ; 43,602,131 ;Noviembre;2019
+Santo Domingo; 436 ; 315 ; 712,656,617 ;Diciembre;2019
+San Cristóbal; 265 ; 50 ; 48,632,185 ;Diciembre;2019
+Monte Plata; 6,825 ; 50 ; 230,326,726 ;Diciembre;2019
+Hato Mayor; 2,230 ; 81 ; 43,428,661 ;Diciembre;2019
+El Seybo; 694 ; 46 ; 14,408,109 ;Diciembre;2019
+Higüey; 460 ; 45 ; 22,385,700 ;Diciembre;2019
+San Juan de la Maguana; 6,753 ; 91 ; 92,756,612 ;Diciembre;2019
+Baní; 591 ; 21 ; 30,700,457 ;Diciembre;2019
+San José de Ocoa; 504 ; 36 ; 77,392,299 ;Diciembre;2019
+Azua; 1,501 ; 64 ; 63,061,248 ;Diciembre;2019
+Barahona; 3,578 ; 71 ; 39,410,100 ;Diciembre;2019
+Neyba; 274 ; 46 ; 13,439,643 ;Diciembre;2019
+Comendador; 690 ; 23 ; 13,039,800 ;Diciembre;2019
+San Fco. Macorís; 22,537 ; 220 ; 135,638,336 ;Diciembre;2019
+Cotuí; 23,918 ; 295 ; 181,679,925 ;Diciembre;2019
+Villa Riva; 5,705 ; 121 ; 37,798,387 ;Diciembre;2019
+Arenoso; 18,791 ; 199 ; 85,385,000 ;Diciembre;2019
+Río San Juan; 3,457 ; 55 ; 45,783,436 ;Diciembre;2019
+Nagua; 19,007 ; 256 ; 80,591,597 ;Diciembre;2019
+Samaná; 1,135 ; 38 ; 8,332,310 ;Diciembre;2019
+La Vega; 14,910 ; 188 ; 94,143,809 ;Diciembre;2019
+Bonao; 2,306 ; 83 ; 32,450,578 ;Diciembre;2019
+Constanza; 3,131 ; 63 ; 102,206,995 ;Diciembre;2019
+Salcedo; 4,997 ; 46 ; 34,396,060 ;Diciembre;2019
+Moca; 4,029 ; 80 ; 58,567,852 ;Diciembre;2019
+Santiago; 3,749 ; 44 ; 72,337,271 ;Diciembre;2019
+Valverde Mao; 14,386 ; 119 ; 103,975,110 ;Diciembre;2019
+Montecristí; 7,572 ; 93 ; 46,357,235 ;Diciembre;2019
+Santiago Rodríguez; 295 ; 24 ; 50,117,000 ;Diciembre;2019
+Dajabón; 6,515 ; 114 ; 67,471,735 ;Diciembre;2019
+San José de las Matas; 280 ; 41 ; 12,823,908 ;Diciembre;2019
+Puerto Plata; 508 ; 108 ; 41,871,752 ;Diciembre;2019
+Santo Domingo; 405 ; 140 ; 42,590,151 ;Enero;2020
+San Cristóbal; 1,101 ; 50 ; 25,481,270 ;Enero;2020
+Monte Plata; 970 ; 45 ; 160,893,317 ;Enero;2020
+Hato Mayor; 1,527 ; 70 ; 34,529,903 ;Enero;2020
+El Seybo; 254 ; 33 ; 21,685,100 ;Enero;2020
+Higüey; 115 ; 26 ; 12,422,940 ;Enero;2020
+San Juan de la Maguana; 2,153 ; 63 ; 43,188,140 ;Enero;2020
+Baní; 471 ; 30 ; 22,066,766 ;Enero;2020
+San José de Ocoa; 551 ; 27 ; 33,074,033 ;Enero;2020
+Azua; 1,182 ; 46 ; 44,248,861 ;Enero;2020
+Barahona; 412 ; 40 ; 13,815,600 ;Enero;2020
+Neyba; 584 ; 78 ; 21,045,635 ;Enero;2020
+Comendador; 629 ; 32 ; 11,933,520 ;Enero;2020
+San Fco. Macorís; 14,296 ; 76 ; 69,955,769 ;Enero;2020
+Cotuí; 8,396 ; 89 ; 76,154,655 ;Enero;2020
+Villa Riva; 2,135 ; 35 ; 13,101,708 ;Enero;2020
+Arenoso; 3,565 ; 47 ; 15,583,500 ;Enero;2020
+Río San Juan; 1,113 ; 27 ; 30,558,016 ;Enero;2020
+Nagua; 3,584 ; 40 ; 25,470,861 ;Enero;2020
+Samaná; 1,367 ; 34 ; 8,285,796 ;Enero;2020
+La Vega; 6,690 ; 91 ; 71,855,843 ;Enero;2020
+Bonao; 1,270 ; 35 ; 31,488,336 ;Enero;2020
+Constanza; 1,415 ; 52 ; 52,694,380 ;Enero;2020
+Salcedo; 4,564 ; 51 ; 33,162,577 ;Enero;2020
+Moca; 1,477 ; 66 ; 34,335,569 ;Enero;2020
+Santiago; 2,567 ; 55 ; 62,861,514 ;Enero;2020
+Valverde Mao; 2,005 ; 34 ; 15,175,540 ;Enero;2020
+Montecristí; 4,713 ; 56 ; 39,599,905 ;Enero;2020
+Santiago Rodríguez; 600 ; 30 ; 24,637,600 ;Enero;2020
+Dajabón; 1,505 ; 41 ; 19,896,854 ;Enero;2020
+San José de las Matas; 309 ; 24 ; 11,565,000 ;Enero;2020
+Puerto Plata; 798 ; 72 ; 19,796,623 ;Enero;2020
+Santo Domingo; 1,904 ; 153 ; 161,489,398 ;Febrero;2020
+San Cristóbal; 843 ; 61 ; 64,272,120 ;Febrero;2020
+Monte Plata; 536 ; 41 ; 205,904,722 ;Febrero;2020
+Hato Mayor; 3,124 ; 62 ; 40,111,607 ;Febrero;2020
+El Seybo; 338 ; 45 ; 15,322,300 ;Febrero;2020
+Higüey; 141 ; 36 ; 18,214,164 ;Febrero;2020
+San Juan de la Maguana; 4,446 ; 63 ; 84,481,011 ;Febrero;2020
+Baní; 1,256 ; 40 ; 28,577,286 ;Febrero;2020
+San José de Ocoa; 2,652 ; 35 ; 48,048,423 ;Febrero;2020
+Azua; 1,272 ; 49 ; 53,367,938 ;Febrero;2020
+Barahona; 1,383 ; 58 ; 78,529,840 ;Febrero;2020
+Neyba; 1,202 ; 70 ; 26,730,897 ;Febrero;2020
+Comendador; 478 ; 34 ; 9,524,928 ;Febrero;2020
+San Fco. Macorís; 8,213 ; 55 ; 64,495,316 ;Febrero;2020
+Cotuí; 7,839 ; 58 ; 86,573,209 ;Febrero;2020
+Villa Riva; 312 ; 23 ; 9,556,527 ;Febrero;2020
+Arenoso; 1,060 ; 14 ; 34,232,200 ;Febrero;2020
+Río San Juan; 638 ; 28 ; 52,785,427 ;Febrero;2020
+Nagua; 1,489 ; 13 ; 16,036,739 ;Febrero;2020
+Samaná; 1,471 ; 35 ; 9,047,373 ;Febrero;2020
+La Vega; 5,862 ; 59 ; 51,077,261 ;Febrero;2020
+Bonao; 225 ; 23 ; 56,888,088 ;Febrero;2020
+Constanza; 2,132 ; 45 ; 31,251,140 ;Febrero;2020
+Salcedo; 1,185 ; 53 ; 38,097,759 ;Febrero;2020
+Moca; 612 ; 57 ; 32,967,117 ;Febrero;2020
+Santiago; 570 ; 38 ; 25,029,956 ;Febrero;2020
+Valverde Mao; 2,080 ; 26 ; 16,947,673 ;Febrero;2020
+Montecristí; 1,336 ; 29 ; 23,088,350 ;Febrero;2020
+Santiago Rodríguez; 210 ; 26 ; 55,950,187 ;Febrero;2020
+Dajabón; 107 ; 26 ; 12,868,808 ;Febrero;2020
+San José de las Matas; 695 ; 37 ; 50,010,782 ;Febrero;2020
+Puerto Plata; 732 ; 96 ; 27,543,728 ;Febrero;2020
+Santo Domingo; 50 ; 139 ; 262,566,000 ;Marzo;2020
+San Cristóbal; 1,803 ; 73 ; 56,573,985 ;Marzo;2020
+Monte Plata; 869 ; 38 ; 115,635,258 ;Marzo;2020
+Hato Mayor; 1,098 ; 55 ; 103,805,046 ;Marzo;2020
+El Seybo; 370 ; 41 ; 18,811,200 ;Marzo;2020
+Higüey; 215 ; 34 ; 37,196,591 ;Marzo;2020
+San Juan de la Maguana; 4,191 ; 72 ; 64,454,300 ;Marzo;2020
+Baní; 1,412 ; 44 ; 35,601,847 ;Marzo;2020
+San José de Ocoa; 1,146 ; 31 ; 20,859,019 ;Marzo;2020
+Azua; 1,039 ; 36 ; 62,232,898 ;Marzo;2020
+Barahona; 1,664 ; 47 ; 32,679,700 ;Marzo;2020
+Neyba; 635 ; 37 ; 35,864,156 ;Marzo;2020
+Comendador; 396 ; 19 ; 5,518,500 ;Marzo;2020
+San Fco. Macorís; 5,757 ; 53 ; 57,528,942 ;Marzo;2020
+Cotuí; 1,009 ; 36 ; 27,497,600 ;Marzo;2020
+Villa Riva; 813 ; 23 ; 12,904,670 ;Marzo;2020
+Arenoso; 1,292 ; 12 ; 9,346,884 ;Marzo;2020
+Río San Juan; 248 ; 19 ; 15,753,748 ;Marzo;2020
+Nagua; 260 ; 16 ; 6,312,948 ;Marzo;2020
+Samaná; 766 ; 29 ; 10,660,704 ;Marzo;2020
+La Vega; 830 ; 38 ; 18,497,202 ;Marzo;2020
+Bonao; 520 ; 24 ; 13,486,021 ;Marzo;2020
+Constanza; 1,294 ; 19 ; 65,858,794 ;Marzo;2020
+Salcedo; 1,527 ; 36 ; 13,706,170 ;Marzo;2020
+Moca; 269 ; 38 ; 16,125,769 ;Marzo;2020
+Santiago; 262 ; 33 ; 39,807,346 ;Marzo;2020
+Valverde Mao; 773 ; 27 ; 27,001,862 ;Marzo;2020
+Montecristí; 1,169 ; 31 ; 30,270,670 ;Marzo;2020
+Santiago Rodríguez; 230 ; 27 ; 9,910,850 ;Marzo;2020
+Dajabón; -   ; 18 ; 43,756,851 ;Marzo;2020
+San José de las Matas; 675 ; 26 ; 9,215,000 ;Marzo;2020
+Puerto Plata; 1,007 ; 72 ; 26,646,643 ;Marzo;2020
+Santo Domingo; -   ; 100 ; 83,280,600 ;Abril;2020
+San Cristóbal; 665 ; 41 ; 10,703,735 ;Abril;2020
+Monte Plata; -   ; 12 ; 43,395,989 ;Abril;2020
+Hato Mayor; 1,096 ; 30 ; 6,345,915 ;Abril;2020
+El Seybo; 240 ; 24 ; 10,591,800 ;Abril;2020
+Higüey; 100 ; 14 ; 15,204,743 ;Abril;2020
+San Juan de la Maguana; 1,307 ; 40 ; 22,907,775 ;Abril;2020
+Baní; 629 ; 24 ; 7,480,418 ;Abril;2020
+San José de Ocoa; 390 ; 20 ; 8,176,500 ;Abril;2020
+Azua; 550 ; 12 ; 43,036,606 ;Abril;2020
+Barahona; 100 ; 34 ; 14,363,900 ;Abril;2020
+Neyba; 80 ; 11 ; 3,933,927 ;Abril;2020
+Comendador; 15 ; 2 ; 1,042,000 ;Abril;2020
+San Fco. Macorís; 5,496 ; 79 ; 29,685,353 ;Abril;2020
+Cotuí; 558 ; 18 ; 99,548,894 ;Abril;2020
+Villa Riva; 6,950 ; 86 ; 22,528,500 ;Abril;2020
+Arenoso; 6,111 ; 64 ; 26,678,945 ;Abril;2020
+Río San Juan; 135 ; 11 ; 3,701,139 ;Abril;2020
+Nagua; 7,114 ; 104 ; 30,654,500 ;Abril;2020
+Samaná; 173 ; 15 ; 4,664,850 ;Abril;2020
+La Vega; 1,921 ; 57 ; 75,703,016 ;Abril;2020
+Bonao; 422 ; 17 ; 4,616,243 ;Abril;2020
+Constanza; 13,249 ; 33 ; 21,600,584 ;Abril;2020
+Salcedo; 1,345 ; 31 ; 9,027,750 ;Abril;2020
+Moca; 252 ; 32 ; 36,097,787 ;Abril;2020
+Santiago; 61 ; 25 ; 41,256,188 ;Abril;2020
+Valverde Mao; 1,237 ; 34 ; 59,501,600 ;Abril;2020
+Montecristí; 4,511 ; 54 ; 27,959,432 ;Abril;2020
+Santiago Rodríguez; 250 ; 12 ; 23,548,800 ;Abril;2020
+Dajabón; 663 ; 23 ; 10,459,854 ;Abril;2020
+San José de las Matas; -   ; 1 ; 30,000 ;Abril;2020
+Puerto Plata; 35 ; 26 ; 9,368,681 ;Abril;2020
+Santo Domingo; -   ; 176 ; 194,942,859 ;Mayo;2020
+San Cristóbal; 988 ; 59 ; 50,898,740 ;Mayo;2020
+Monte Plata; 740 ; 33 ; 94,010,587 ;Mayo;2020
+Hato Mayor; 1,959 ; 59 ; 25,336,014 ;Mayo;2020
+El Seybo; 485 ; 45 ; 47,611,650 ;Mayo;2020
+Higüey; 1,647 ; 52 ; 20,269,934 ;Mayo;2020
+San Juan de la Maguana; 602 ; 23 ; 30,994,400 ;Mayo;2020
+Baní; 518 ; 32 ; 14,254,138 ;Mayo;2020
+San José de Ocoa; 1,487 ; 26 ; 23,864,883 ;Mayo;2020
+Azua; 261 ; 22 ; 33,378,551 ;Mayo;2020
+Barahona; 272 ; 47 ; 35,550,200 ;Mayo;2020
+Neyba; 368 ; 29 ; 11,039,606 ;Mayo;2020
+Comendador; 209 ; 11 ; 4,133,608 ;Mayo;2020
+San Fco. Macorís; 17,517 ; 165 ; 86,981,514 ;Mayo;2020
+Cotuí; 12,983 ; 162 ; 288,466,410 ;Mayo;2020
+Villa Riva; 10,091 ; 132 ; 40,766,559 ;Mayo;2020
+Arenoso; 16,228 ; 169 ; 89,782,060 ;Mayo;2020
+Río San Juan; 2,346 ; 26 ; 10,294,041 ;Mayo;2020
+Nagua; 11,716 ; 136 ; 54,224,551 ;Mayo;2020
+Samaná; 1,601 ; 38 ; 18,688,777 ;Mayo;2020
+La Vega; 12,864 ; 247 ; 144,287,800 ;Mayo;2020
+Bonao; 2,181 ; 70 ; 64,508,674 ;Mayo;2020
+Constanza; 2,239 ; 35 ; 98,330,400 ;Mayo;2020
+Salcedo; 870 ; 45 ; 24,461,858 ;Mayo;2020
+Moca; 554 ; 43 ; 25,090,320 ;Mayo;2020
+Santiago; 3,347 ; 38 ; 89,012,746 ;Mayo;2020
+Valverde Mao; 5,347 ; 81 ; 143,574,027 ;Mayo;2020
+Montecristí; 8,227 ; 80 ; 51,112,430 ;Mayo;2020
+Santiago Rodríguez; 120 ; 24 ; 11,525,000 ;Mayo;2020
+Dajabón; 3,936 ; 71 ; 29,295,658 ;Mayo;2020
+San José de las Matas; 382 ; 18 ; 5,805,000 ;Mayo;2020
+Puerto Plata; 278 ; 34 ; 23,097,964 ;Mayo;2020
+Santo Domingo; 3,078 ; 211 ;275,386,643 ;Junio;2020
+San Cristóbal; 1,018 ; 57 ;41,826,289 ;Junio;2020
+Monte Plata; 1,685 ; 47 ;134,136,988 ;Junio;2020
+Hato Mayor; 5,282 ; 102 ;54,858,500 ;Junio;2020
+El Seybo; 1,608 ; 55 ;25,748,000 ;Junio;2020
+Higüey; 502 ; 44 ;28,552,239 ;Junio;2020
+San Juan de la Maguana; 3,059 ; 67 ;61,906,635 ;Junio;2020
+Baní; 775 ; 37 ;22,124,095 ;Junio;2020
+San José de Ocoa; 984 ; 43 ;22,946,824 ;Junio;2020
+Azua; 974 ; 57 ;50,303,034 ;Junio;2020
+Barahona; 773 ; 82 ;61,534,300 ;Junio;2020
+Neyba; 338 ; 56 ;31,199,463 ;Junio;2020
+Comendador; 816 ; 39 ;18,827,648 ;Junio;2020
+San Fco. Macorís; 24,036 ; 115 ;178,678,885 ;Junio;2020
+Cotuí; 15,337 ; 170 ;96,801,209 ;Junio;2020
+Villa Riva; 4,799 ; 60 ;18,020,849 ;Junio;2020
+Arenoso; 10,368 ; 88 ;64,317,574 ;Junio;2020
+Río San Juan; 2,171 ; 37 ;17,212,820 ;Junio;2020
+Nagua; 5,045 ; 65 ;24,461,936 ;Junio;2020
+Samaná; 514 ; 41 ;20,970,622 ;Junio;2020
+La Vega; 13,459 ; 149 ;116,748,986 ;Junio;2020
+Bonao; 3,235 ; 73 ;30,314,435 ;Junio;2020
+Constanza; 15,323 ; 56 ;103,791,112 ;Junio;2020
+Salcedo; 2,478 ; 54 ;37,956,427 ;Junio;2020
+Moca; 2,032 ; 74 ;79,004,635 ;Junio;2020
+Santiago; 2,647 ; 44 ;47,284,735 ;Junio;2020
+Valverde Mao; 8,215 ; 69 ;56,194,860 ;Junio;2020
+Montecristí; 4,202 ; 71 ;35,658,175 ;Junio;2020
+Santiago Rodríguez; -   ; 23 ;25,019,466 ;Junio;2020
+Dajabón; 3,599 ; 60 ;40,037,829 ;Junio;2020
+San José de las Matas; 1,196 ; 38 ;34,048,280 ;Junio;2020
+Puerto Plata; 1,961 ; 132 ;65,511,342 ;Junio;2020
+Santo Domingo; 520 ; 192 ;162,369,959 ;Julio;2020
+San Cristóbal; 1,397 ; 72 ;41,944,020 ;Julio;2020
+Monte Plata; 1,826 ; 54 ;120,688,491 ;Julio;2020
+Hato Mayor; 5,618 ; 73 ;71,437,400 ;Julio;2020
+El Seybo; 2,076 ; 58 ;30,221,700 ;Julio;2020
+Higüey; 298 ; 38 ;25,942,072 ;Julio;2020
+San Juan de la Maguana; 2,528 ; 72 ;37,548,000 ;Julio;2020
+Baní; 938 ; 30 ;24,341,455 ;Julio;2020
+San José de Ocoa; 939 ; 42 ;26,839,000 ;Julio;2020
+Azua; 633 ; 34 ;93,223,865 ;Julio;2020
+Barahona; 312 ; 49 ;48,804,278 ;Julio;2020
+Neyba; 346 ; 60 ;27,902,356 ;Julio;2020
+Comendador; 616 ; 29 ;7,260,625 ;Julio;2020
+San Fco. Macorís; 13,772 ; 90 ;94,346,598 ;Julio;2020
+Cotuí; 12,011 ; 92 ;129,701,412 ;Julio;2020
+Villa Riva; 2,831 ; 55 ;16,412,332 ;Julio;2020
+Arenoso; 4,922 ; 43 ;24,746,000 ;Julio;2020
+Río San Juan; 2,034 ; 23 ;12,330,000 ;Julio;2020
+Nagua; 2,935 ; 44 ;30,570,236 ;Julio;2020
+Samaná; 858 ; 34 ;16,757,030 ;Julio;2020
+La Vega; 898 ; 36 ;45,386,933 ;Julio;2020
+Bonao; 1,727 ; 25 ;16,555,592 ;Julio;2020
+Constanza; 7,263 ; 38 ;57,565,168 ;Julio;2020
+Salcedo; 3,654 ; 45 ;32,231,632 ;Julio;2020
+Moca; 979 ; 43 ;73,473,392 ;Julio;2020
+Santiago; 255 ; 55 ;68,406,280 ;Julio;2020
+Valverde Mao; 4,518 ; 26 ;42,184,262 ;Julio;2020
+Montecristí; 997 ; 38 ;41,396,330 ;Julio;2020
+Santiago Rodríguez; 600 ; 30 ;15,197,500 ;Julio;2020
+Dajabón; 1,544 ; 40 ;40,160,334 ;Julio;2020
+San José de las Matas; 431 ; 20 ;6,700,000 ;Julio;2020
+Puerto Plata; 1,969 ; 82 ;32,975,260 ;Julio;2020
+Santo Domingo; 220 ; 91 ;77,719,662 ;Agosto;2020
+San Cristóbal; 813 ; 40 ;15,062,120 ;Agosto;2020
+Monte Plata; 5,605 ; 65 ;64,808,847 ;Agosto;2020
+Hato Mayor; 2,474 ; 46 ;23,411,360 ;Agosto;2020
+El Seybo; 607 ; 36 ;11,830,700 ;Agosto;2020
+Higüey; 200 ; 31 ;49,146,000 ;Agosto;2020
+San Juan de la Maguana; 4,900 ; 83 ;33,729,000 ;Agosto;2020
+Baní; 2,423 ; 23 ;22,883,000 ;Agosto;2020
+San José de Ocoa; 976 ; 32 ;37,231,042 ;Agosto;2020
+Azua; 90 ; 11 ;65,708,290 ;Agosto;2020
+Barahona; 644 ; 15 ;7,222,400 ;Agosto;2020
+Neyba; 398 ; 46 ;9,160,951 ;Agosto;2020
+Comendador; 438 ; 23 ;17,982,905 ;Agosto;2020
+San Fco. Macorís; 9,497 ; 52 ;30,045,093 ;Agosto;2020
+Cotuí; 4,854 ; 59 ;107,455,098 ;Agosto;2020
+Villa Riva; 2,334 ; 23 ;7,747,500 ;Agosto;2020
+Arenoso; 3,370 ; 23 ;27,611,420 ;Agosto;2020
+Río San Juan; 1,582 ; 27 ;15,200,778 ;Agosto;2020
+Nagua; 2,178 ; 23 ;25,211,057 ;Agosto;2020
+Samaná; 996 ; 17 ;3,566,600 ;Agosto;2020
+La Vega; 746 ; 35 ;48,493,091 ;Agosto;2020
+Bonao; 1,408 ; 15 ;18,993,144 ;Agosto;2020
+Constanza; 3,603 ; 66 ;80,130,892 ;Agosto;2020
+Salcedo; 7,344 ; 49 ;46,857,650 ;Agosto;2020
+Moca; 532 ; 67 ;60,986,602 ;Agosto;2020
+Santiago; 1,546 ; 29 ;80,310,873 ;Agosto;2020
+Valverde Mao; 214 ; 26 ;226,534,785 ;Agosto;2020
+Montecristí; 125 ; 26 ;34,855,835 ;Agosto;2020
+Santiago Rodríguez; 30 ; 15 ;8,936,000 ;Agosto;2020
+Dajabón; 222 ; 22 ;9,516,926 ;Agosto;2020
+San José de las Matas; 674 ; 41 ;15,358,587 ;Agosto;2020
+Puerto Plata; 1,835 ; 83 ;25,748,128 ;Agosto;2020
+Santo Domingo; 148 ; 40 ; 66,952,800 ;Septiembre;2020
+San Cristóbal; 638 ; 32 ; 8,225,060 ;Septiembre;2020
+Monte Plata; 2,683 ; 55 ; 11,309,000 ;Septiembre;2020
+Hato Mayor; 1,745 ; 50 ; 23,864,100 ;Septiembre;2020
+El Seybo; 456 ; 21 ; 3,821,000 ;Septiembre;2020
+Higüey; 100 ; 22 ; 20,781,000 ;Septiembre;2020
+San Juan de la Maguana; 2,092 ; 50 ; 23,819,736 ;Septiembre;2020
+Baní; 660 ; 18 ; 13,542,500 ;Septiembre;2020
+San José de Ocoa; 624 ; 21 ; 27,311,800 ;Septiembre;2020
+Azua; 418 ; 19 ; 21,089,292 ;Septiembre;2020
+Barahona; 579 ; 17 ; 4,595,000 ;Septiembre;2020
+Neyba; 383 ; 46 ; 12,377,123 ;Septiembre;2020
+Comendador; 183 ; 18 ; 3,390,000 ;Septiembre;2020
+San Fco. Macorís; 1,998 ; 27 ; 36,261,963 ;Septiembre;2020
+Cotuí; 1,957 ; 41 ; 48,104,000 ;Septiembre;2020
+Villa Riva; 1,560 ; 26 ; 26,784,136 ;Septiembre;2020
+Arenoso; 725 ; 6 ; 9,310,000 ;Septiembre;2020
+Río San Juan; 667 ; 19 ; 8,376,000 ;Septiembre;2020
+Nagua; 149 ; 9 ; 1,507,000 ;Septiembre;2020
+Samaná; 835 ; 32 ; 7,988,600 ;Septiembre;2020
+La Vega; 1,056 ; 26 ; 64,689,236 ;Septiembre;2020
+Bonao; 795 ; 9 ; 5,423,500 ;Septiembre;2020
+Constanza; 1,664 ; 52 ; 36,830,000 ;Septiembre;2020
+Salcedo; 3,295 ; 37 ; 30,515,000 ;Septiembre;2020
+Moca; 855 ; 60 ; 58,961,144 ;Septiembre;2020
+Santiago; 235 ; 32 ; 41,763,175 ;Septiembre;2020
+Valverde Mao; 153 ; 10 ; 34,726,363 ;Septiembre;2020
+Montecristí; 646 ; 21 ; 6,087,000 ;Septiembre;2020
+Santiago Rodríguez; 100 ; 24 ; 10,565,000 ;Septiembre;2020
+Dajabón; 363 ; 25 ; 23,608,556 ;Septiembre;2020
+San José de las Matas; 882 ; 29 ; 14,690,850 ;Septiembre;2020
+Puerto Plata; 1,786 ; 75 ; 18,289,155 ;Septiembre;2020
+Santo Domingo; 130 ; 56 ; 183,247,900 ;Octubre;2020
+San Cristóbal; 3,314 ; 31 ; 51,203,961 ;Octubre;2020
+Monte Plata; 2,044 ; 32 ; 36,333,560 ;Octubre;2020
+Hato Mayor; 1,081 ; 47 ; 22,242,485 ;Octubre;2020
+El Seybo; 250 ; 23 ; 37,047,000 ;Octubre;2020
+Higüey; 457 ; 34 ; 80,911,244 ;Octubre;2020
+San Juan de la Maguana; 8,100 ; 148 ; 67,764,446 ;Octubre;2020
+Baní; 2,363 ; 28 ; 26,706,400 ;Octubre;2020
+San José de Ocoa; 875 ; 35 ; 28,074,894 ;Octubre;2020
+Azua; 602 ; 33 ; 14,049,500 ;Octubre;2020
+Barahona; 1,264 ; 32 ; 21,019,485 ;Octubre;2020
+Neyba; 1,920 ; 60 ; 29,513,800 ;Octubre;2020
+Comendador; 341 ; 17 ; 12,398,500 ;Octubre;2020
+San Fco. Macorís; 1,911 ; 20 ; 116,599,413 ;Octubre;2020
+Cotuí; 3,018 ; 46 ; 105,443,542 ;Octubre;2020
+Villa Riva; 1,553 ; 21 ; 96,095,000 ;Octubre;2020
+Arenoso; 320 ; 7 ; 2,796,400 ;Octubre;2020
+Río San Juan; 1,335 ; 28 ; 13,675,200 ;Octubre;2020
+Nagua; 963 ; 9 ; 96,175,985 ;Octubre;2020
+Samaná; 1,038 ; 37 ; 8,092,398 ;Octubre;2020
+La Vega; 317 ; 28 ; 27,755,700 ;Octubre;2020
+Bonao; 1,428 ; 11 ; 66,129,350 ;Octubre;2020
+Constanza; 1,242 ; 36 ; 40,390,000 ;Octubre;2020
+Salcedo; 13,701 ; 38 ; 67,757,000 ;Octubre;2020
+Moca; 816 ; 45 ; 27,270,600 ;Octubre;2020
+Santiago; 2,305 ; 20 ; 22,816,571 ;Octubre;2020
+Valverde Mao; 179 ; 12 ; 8,086,925 ;Octubre;2020
+Montecristí; 1,215 ; 16 ; 12,182,500 ;Octubre;2020
+Santiago Rodríguez; 40 ; 17 ; 7,500,458 ;Octubre;2020
+Dajabón; 102 ; 14 ; 17,371,147 ;Octubre;2020
+San José de las Matas; 60 ; 13 ; 19,302,600 ;Octubre;2020
+Puerto Plata; 623 ; 50 ; 50,635,767 ;Octubre;2020
+Santo Domingo; 836 ; 76 ; 78,451,761 ;Noviembre;2020
+San Cristóbal; 2,255 ; 66 ; 19,671,670 ;Noviembre;2020
+Monte Plata; 718 ; 33 ; 119,827,146 ;Noviembre;2020
+Hato Mayor; 3,414 ; 65 ; 43,321,000 ;Noviembre;2020
+El Seybo; 1,707 ; 60 ; 36,000,200 ;Noviembre;2020
+Higüey; 3,044 ; 92 ; 103,065,289 ;Noviembre;2020
+San Juan de la Maguana; 9,098 ; 204 ; 115,427,500 ;Noviembre;2020
+Baní; 1,901 ; 53 ; 64,901,082 ;Noviembre;2020
+San José de Ocoa; 7,265 ; 68 ; 67,485,000 ;Noviembre;2020
+Azua; 4,673 ; 141 ; 71,117,932 ;Noviembre;2020
+Barahona; 3,151 ; 91 ; 37,103,700 ;Noviembre;2020
+Neyba; 1,875 ; 50 ; 29,804,500 ;Noviembre;2020
+Comendador; 2,609 ; 32 ; 19,039,900 ;Noviembre;2020
+San Fco. Macorís; 18,334 ; 119 ; 99,963,639 ;Noviembre;2020
+Cotuí; 6,011 ; 88 ; 56,493,300 ;Noviembre;2020
+Villa Riva; 10,449 ; 133 ; 45,486,500 ;Noviembre;2020
+Arenoso; 20,296 ; 148 ; 85,573,445 ;Noviembre;2020
+Río San Juan; 3,159 ; 44 ; 32,681,778 ;Noviembre;2020
+Nagua; 15,645 ; 219 ; 72,808,629 ;Noviembre;2020
+Samaná; 1,060 ; 28 ; 10,013,971 ;Noviembre;2020
+La Vega; 9,991 ; 176 ; 157,013,894 ;Noviembre;2020
+Bonao; 2,594 ; 52 ; 19,348,241 ;Noviembre;2020
+Constanza; 8,882 ; 99 ; 75,889,610 ;Noviembre;2020
+Salcedo; 6,284 ; 80 ; 49,013,300 ;Noviembre;2020
+Moca; 4,483 ; 73 ; 64,255,000 ;Noviembre;2020
+Santiago; 4,838 ; 32 ; 167,218,500 ;Noviembre;2020
+Valverde Mao; 2,438 ; 46 ; 32,485,463 ;Noviembre;2020
+Montecristí; 4,922 ; 45 ; 41,251,230 ;Noviembre;2020
+Santiago Rodríguez; 930 ; 52 ; 43,206,000 ;Noviembre;2020
+Dajabón; 2,602 ; 44 ; 21,949,000 ;Noviembre;2020
+San José de las Matas; 252 ; 23 ; 5,587,000 ;Noviembre;2020
+Puerto Plata; 1,085 ; 67 ; 33,581,382 ;Noviembre;2020
+Santo Domingo; 425 ; 144 ; 332,876,333 ;Diciembre;2020
+San Cristóbal; 2,196 ; 77 ; 85,824,950 ;Diciembre;2020
+Monte Plata; 2,606 ; 93 ; 186,221,474 ;Diciembre;2020
+Hato Mayor; 2,986 ; 90 ; 48,353,350 ;Diciembre;2020
+El Seybo; 1,132 ; 70 ; 71,590,603 ;Diciembre;2020
+Higüey; 1,091 ; 95 ; 74,950,454 ;Diciembre;2020
+San Juan de la Maguana; 6,022 ; 155 ; 133,331,376 ;Diciembre;2020
+Baní; 3,832 ; 73 ; 93,586,185 ;Diciembre;2020
+San José de Ocoa; 10,488 ; 56 ; 77,612,969 ;Diciembre;2020
+Azua; 12,295 ; 54 ; 202,539,268 ;Diciembre;2020
+Barahona; 12,670 ; 147 ; 182,582,300 ;Diciembre;2020
+Neyba; 1,424 ; 49 ; 28,152,384 ;Diciembre;2020
+Comendador; 1,115 ; 67 ; 28,991,449 ;Diciembre;2020
+San Fco. Macorís; 23,788 ; 197 ; 148,012,107 ;Diciembre;2020
+Cotuí; 20,108 ; 217 ; 148,627,284 ;Diciembre;2020
+Villa Riva; 28,799 ; 174 ; 84,922,620 ;Diciembre;2020
+Arenoso; 20,134 ; 206 ; 121,592,659 ;Diciembre;2020
+Río San Juan; 2,902 ; 67 ; 56,554,530 ;Diciembre;2020
+Nagua; 17,061 ; 216 ; 79,767,571 ;Diciembre;2020
+Samaná; 3,531 ; 55 ; 23,784,491 ;Diciembre;2020
+La Vega; 113,600 ; 265 ; 433,740,240 ;Diciembre;2020
+Bonao; 3,239 ; 78 ; 78,765,256 ;Diciembre;2020
+Constanza; 16,116 ; 126 ; 216,522,500 ;Diciembre;2020
+Salcedo; 11,806 ; 106 ; 104,500,610 ;Diciembre;2020
+Moca; 2,017 ; 97 ; 247,360,700 ;Diciembre;2020
+Santiago; 19,877 ; 47 ; 270,626,846 ;Diciembre;2020
+Valverde Mao; 10,781 ; 116 ; 187,913,632 ;Diciembre;2020
+Montecristí; 16,548 ; 168 ; 108,027,243 ;Diciembre;2020
+Santiago Rodríguez; 325 ; 50 ; 38,396,000 ;Diciembre;2020
+Dajabón; 9,769 ; 98 ; 98,866,704 ;Diciembre;2020
+San José de las Matas; 697 ; 43 ; 203,423,639 ;Diciembre;2020
+Puerto Plata; 1,991 ; 137 ; 97,991,223 ;Diciembre;2020
+Santo Domingo; 5,385 ; 57 ; 180,860,163 ;Enero;2021
+San Cristóbal; 1,353 ; 40 ; 33,335,310 ;Enero;2021
+Monte Plata; 1,918 ; 60 ; 69,569,689 ;Enero;2021
+Hato Mayor; 3,362 ; 62 ; 37,879,803 ;Enero;2021
+El Seybo; 778 ; 40 ; 18,009,300 ;Enero;2021
+Higüey; 227 ; 48 ; 48,430,600 ;Enero;2021
+San Juan de la Maguana; 4,394 ; 79 ; 43,461,456 ;Enero;2021
+Baní; 13,880 ; 32 ; 188,296,615 ;Enero;2021
+San José de Ocoa; 31,456 ; 47 ; 43,206,679 ;Enero;2021
+Azua; 2,216 ; 56 ; 76,079,980 ;Enero;2021
+Barahona; 4,234 ; 97 ; 42,837,600 ;Enero;2021
+Neyba; 1,824 ; 45 ; 27,954,344 ;Enero;2021
+Comendador; 716 ; 30 ; 31,071,012 ;Enero;2021
+San Fco. Macorís; 14,993 ; 95 ; 90,545,141 ;Enero;2021
+Cotuí; 8,996 ; 105 ; 87,561,852 ;Enero;2021
+Villa Riva; 3,248 ; 62 ; 17,879,500 ;Enero;2021
+Arenoso; 7,677 ; 71 ; 37,317,000 ;Enero;2021
+Río San Juan; 20,882 ; 28 ; 183,000,000 ;Enero;2021
+Nagua; 9,424 ; 84 ; 53,029,433 ;Enero;2021
+Samaná; 682 ; 29 ; 7,994,503 ;Enero;2021
+La Vega; 10,509 ; 86 ; 184,358,903 ;Enero;2021
+Bonao; 1,487 ; 34 ; 19,824,612 ;Enero;2021
+Constanza; 3,096 ; 115 ; 56,478,150 ;Enero;2021
+Salcedo; 4,341 ; 50 ; 40,798,780 ;Enero;2021
+Moca; 2,854 ; 90 ; 66,873,000 ;Enero;2021
+Santiago; 1,014 ; 51 ; 174,331,745 ;Enero;2021
+Valverde Mao; 5,865 ; 77 ; 126,811,164 ;Enero;2021
+Montecristí; 3,341 ; 63 ; 26,271,980 ;Enero;2021
+Santiago Rodríguez; 230 ; 29 ; 46,434,390 ;Enero;2021
+Dajabón; 2,238 ; 64 ; 39,903,488 ;Enero;2021
+San José de las Matas; 350 ; 19 ; 16,591,569 ;Enero;2021
+Puerto Plata; 1,232 ; 98 ; 46,885,586 ;Enero;2021
+Santo Domingo; 520 ; 155 ; 633,900,098 ;Febrero;2021
+San Cristóbal; 3,114 ; 99 ; 62,107,455 ;Febrero;2021
+Monte Plata; 3,424 ; 110 ; 140,143,036 ;Febrero;2021
+Hato Mayor; 5,118 ; 75 ; 98,446,300 ;Febrero;2021
+El Seybo; 1,192 ; 52 ; 34,213,634 ;Febrero;2021
+Higüey; 170 ; 37 ; 128,615,100 ;Febrero;2021
+San Juan de la Maguana; 3,037 ; 110 ; 82,574,268 ;Febrero;2021
+Baní; 1,860 ; 59 ; 37,655,132 ;Febrero;2021
+San José de Ocoa; 1,398 ; 57 ; 65,457,244 ;Febrero;2021
+Azua; 1,599 ; 54 ; 43,379,044 ;Febrero;2021
+Barahona; 2,141 ; 82 ; 46,132,500 ;Febrero;2021
+Neyba; 1,385 ; 59 ; 30,516,476 ;Febrero;2021
+Comendador; 1,189 ; 49 ; 20,828,500 ;Febrero;2021
+San Fco. Macorís; 4,721 ; 56 ; 52,423,366 ;Febrero;2021
+Cotuí; 8,933 ; 73 ; 93,264,221 ;Febrero;2021
+Villa Riva; 3,253 ; 53 ; 13,803,299 ;Febrero;2021
+Arenoso; 2,023 ; 44 ; 17,939,670 ;Febrero;2021
+Río San Juan; 1,880 ; 44 ; 44,085,440 ;Febrero;2021
+Nagua; 7,028 ; 66 ; 46,467,471 ;Febrero;2021
+Samaná; 1,952 ; 47 ; 21,363,488 ;Febrero;2021
+La Vega; 2,767 ; 69 ; 152,792,039 ;Febrero;2021
+Bonao; 547 ; 32 ; 41,148,916 ;Febrero;2021
+Constanza; 48,841 ; 161 ; 157,099,020 ;Febrero;2021
+Salcedo; 629 ; 54 ; 33,870,456 ;Febrero;2021
+Moca; 2,870 ; 93 ; 78,940,500 ;Febrero;2021
+Santiago; 443 ; 53 ; 218,165,546 ;Febrero;2021
+Valverde Mao; 3,065 ; 40 ; 79,942,089 ;Febrero;2021
+Montecristí; 7,996 ; 51 ; 47,531,950 ;Febrero;2021
+Santiago Rodríguez; 435 ; 42 ; 74,314,000 ;Febrero;2021
+Dajabón; 989 ; 47 ; 41,236,545 ;Febrero;2021
+San José de las Matas; 1,095 ; 39 ; 18,023,000 ;Febrero;2021
+Puerto Plata; 2,887 ; 104 ; 78,094,763 ;Febrero;2021
+Santo Domingo; 865 ; 192 ; 311,634,461 ;Marzo;2021
+San Cristóbal; 2,294 ; 93 ; 41,679,895 ;Marzo;2021
+Monte Plata; 3,181 ; 102 ; 118,961,006 ;Marzo;2021
+Hato Mayor; 6,809 ; 71 ; 136,914,300 ;Marzo;2021
+El Seybo; 264 ; 60 ; 48,178,700 ;Marzo;2021
+Higüey; 80 ; 53 ; 48,979,600 ;Marzo;2021
+San Juan de la Maguana; 4,528 ; 145 ; 67,210,500 ;Marzo;2021
+Baní; 3,214 ; 77 ; 111,877,727 ;Marzo;2021
+San José de Ocoa; 2,325 ; 63 ; 106,118,075 ;Marzo;2021
+Azua; 1,846 ; 72 ; 66,249,006 ;Marzo;2021
+Barahona; 2,157 ; 98 ; 61,069,400 ;Marzo;2021
+Neyba; 1,607 ; 88 ; 35,845,941 ;Marzo;2021
+Comendador; 790 ; 39 ; 22,213,554 ;Marzo;2021
+San Fco. Macorís; 3,619 ; 57 ; 61,007,442 ;Marzo;2021
+Cotuí; 3,779 ; 54 ; 87,966,955 ;Marzo;2021
+Villa Riva; 1,350 ; 46 ; 57,078,843 ;Marzo;2021
+Arenoso; 1,863 ; 20 ; 8,593,560 ;Marzo;2021
+Río San Juan; 1,256 ; 57 ; 40,271,427 ;Marzo;2021
+Nagua; 5,107 ; 48 ; 28,418,824 ;Marzo;2021
+Samaná; 2,553 ; 67 ; 30,179,074 ;Marzo;2021
+La Vega; 2,837 ; 78 ; 109,642,654 ;Marzo;2021
+Bonao; 767 ; 37 ; 22,454,451 ;Marzo;2021
+Constanza; 12,226 ; 82 ; 94,926,800 ;Marzo;2021
+Salcedo; 1,274 ; 36 ; 117,261,001 ;Marzo;2021
+Moca; 2,099 ; 79 ; 115,908,666 ;Marzo;2021
+Santiago; 1,081 ; 57 ; 54,957,844 ;Marzo;2021
+Valverde Mao; 1,609 ; 35 ; 104,036,190 ;Marzo;2021
+Montecristí; 2,241 ; 53 ; 145,440,620 ;Marzo;2021
+Santiago Rodríguez; 980 ; 45 ; 22,829,330 ;Marzo;2021
+Dajabón; 815 ; 37 ; 20,676,502 ;Marzo;2021
+San José de las Matas; 509 ; 21 ; 20,928,229 ;Marzo;2021
+Puerto Plata; 773 ; 134 ; 72,804,394 ;Marzo;2021
+Santo Domingo; 3,085 ; 146 ; 808,527,596 ;Abril;2021
+San Cristóbal; 2,281 ; 82 ; 35,066,670 ;Abril;2021
+Monte Plata; 3,734 ; 76 ; 127,366,418 ;Abril;2021
+Hato Mayor; 7,586 ; 68 ; 91,995,000 ;Abril;2021
+El Seybo; 1,697 ; 49 ; 51,374,250 ;Abril;2021
+Higüey; 86 ; 43 ; 44,217,830 ;Abril;2021
+San Juan de la Maguana; 4,576 ; 90 ; 43,442,275 ;Abril;2021
+Baní; 2,061 ; 73 ; 47,771,585 ;Abril;2021
+San José de Ocoa; 6,576 ; 58 ; 79,388,904 ;Abril;2021
+Azua; 3,118 ; 99 ; 66,240,887 ;Abril;2021
+Barahona; 5,652 ; 165 ; 79,695,200 ;Abril;2021
+Neyba; 1,801 ; 55 ; 36,707,079 ;Abril;2021
+Comendador; 2,449 ; 52 ; 75,966,066 ;Abril;2021
+San Fco. Macorís; 4,860 ; 84 ; 64,851,586 ;Abril;2021
+Cotuí; 4,138 ; 54 ; 154,488,664 ;Abril;2021
+Villa Riva; 6,208 ; 78 ; 35,339,641 ;Abril;2021
+Arenoso; 4,794 ; 70 ; 103,856,880 ;Abril;2021
+Río San Juan; 883 ; 35 ; 42,122,075 ;Abril;2021
+Nagua; 6,450 ; 47 ; 37,810,312 ;Abril;2021
+Samaná; 1,538 ; 55 ; 25,032,985 ;Abril;2021
+La Vega; 5,732 ; 138 ; 157,264,204 ;Abril;2021
+Bonao; 388 ; 24 ; 17,181,277 ;Abril;2021
+Constanza; 1,409 ; 81 ; 109,858,500 ;Abril;2021
+Salcedo; 2,091 ; 77 ; 45,443,557 ;Abril;2021
+Moca; 1,027 ; 71 ; 68,769,890 ;Abril;2021
+Santiago; 140 ; 46 ; 139,454,942 ;Abril;2021
+Valverde Mao; 598 ; 31 ; 244,776,747 ;Abril;2021
+Montecristí; 4,747 ; 81 ; 64,134,450 ;Abril;2021
+Santiago Rodríguez; 235 ; 49 ; 36,385,000 ;Abril;2021
+Dajabón; 1,326 ; 45 ; 33,532,444 ;Abril;2021
+San José de las Matas; 508 ; 24 ; 30,448,000 ;Abril;2021
+Puerto Plata; 2,065 ; 137 ; 89,987,376 ;Abril;2021
+Santo Domingo; 190 ; 172 ; 476,038,774 ;Mayo;2021
+San Cristóbal; 1,000 ; 63 ; 31,581,985 ;Mayo;2021
+Monte Plata; 1,425 ; 54 ; 118,415,104 ;Mayo;2021
+Hato Mayor; 2,718 ; 83 ; 51,384,000 ;Mayo;2021
+El Seybo; 1,501 ; 64 ; 36,683,162 ;Mayo;2021
+Higüey; 1,088 ; 67 ; 65,717,500 ;Mayo;2021
+San Juan de la Maguana; 1,798 ; 63 ; 45,208,900 ;Mayo;2021
+Baní; 1,204 ; 55 ; 113,173,880 ;Mayo;2021
+San José de Ocoa; 1,777 ; 55 ; 54,075,755 ;Mayo;2021
+Azua; 1,817 ; 70 ; 74,670,104 ;Mayo;2021
+Barahona; 2,880 ; 109 ; 65,197,700 ;Mayo;2021
+Neyba; 2,133 ; 63 ; 37,325,201 ;Mayo;2021
+Comendador; 751 ; 55 ; 23,374,900 ;Mayo;2021
+San Fco. Macorís; 17,568 ; 188 ; 192,097,493 ;Mayo;2021
+Cotuí; 8,543 ; 143 ; 280,685,311 ;Mayo;2021
+Villa Riva; 12,570 ; 178 ; 42,789,221 ;Mayo;2021
+Arenoso; 19,799 ; 174 ; 115,153,625 ;Mayo;2021
+Río San Juan; 12,531 ; 72 ; 56,304,947 ;Mayo;2021
+Nagua; 17,555 ; 225 ; 89,304,786 ;Mayo;2021
+Samaná; 989 ; 34 ; 25,668,555 ;Mayo;2021
+La Vega; 15,021 ; 312 ; 412,469,322 ;Mayo;2021
+Bonao; 2,172 ; 72 ; 54,648,872 ;Mayo;2021
+Constanza; 2,426 ; 87 ; 62,162,020 ;Mayo;2021
+Salcedo; 6,694 ; 51 ; 48,670,020 ;Mayo;2021
+Moca; 570 ; 54 ; 67,887,258 ;Mayo;2021
+Santiago; 2,371 ; 86 ; 341,052,444 ;Mayo;2021
+Valverde Mao; 5,930 ; 109 ; 169,715,891 ;Mayo;2021
+Montecristí; 10,382 ; 149 ; 103,618,219 ;Mayo;2021
+Santiago Rodríguez; 961 ; 60 ; 37,777,000 ;Mayo;2021
+Dajabón; 9,760 ; 101 ; 149,595,646 ;Mayo;2021
+San José de las Matas; 1,605 ; 32 ; 27,303,085 ;Mayo;2021
+Puerto Plata; 1,931 ; 141 ; 87,076,796 ;Mayo;2021
+Santo Domingo; 734 ; 195 ; 230,683,175 ;Junio;2021
+San Cristóbal; 1,386 ; 68 ; 51,484,289 ;Junio;2021
+Monte Plata; 1,162 ; 48 ; 102,305,626 ;Junio;2021
+Hato Mayor; 7,193 ; 107 ; 49,458,471 ;Junio;2021
+El Seybo; 1,076 ; 62 ; 41,627,590 ;Junio;2021
+Higüey; 1,200 ; 62 ; 46,647,400 ;Junio;2021
+San Juan de la Maguana; 3,901 ; 97 ; 66,171,300 ;Junio;2021
+Baní; 1,448 ; 64 ; 53,378,020 ;Junio;2021
+San José de Ocoa; 1,248 ; 40 ; 18,382,500 ;Junio;2021
+Azua; 538 ; 21 ; 49,399,310 ;Junio;2021
+Barahona; 1,414 ; 84 ; 59,746,800 ;Junio;2021
+Neyba; 550 ; 54 ; 33,216,431 ;Junio;2021
+Comendador; 1,399 ; 50 ; 19,661,660 ;Junio;2021
+San Fco. Macorís; 24,780 ; 135 ; 359,967,180 ;Junio;2021
+Cotuí; 14,512 ; 200 ; 129,708,044 ;Junio;2021
+Villa Riva; 6,552 ; 86 ; 50,216,102 ;Junio;2021
+Arenoso; 17,382 ; 136 ; 90,998,081 ;Junio;2021
+Río San Juan; 3,343 ; 65 ; 54,871,714 ;Junio;2021
+Nagua; 23,858 ; 161 ; 61,780,351 ;Junio;2021
+Samaná; 664 ; 44 ; 23,339,403 ;Junio;2021
+La Vega; 14,875 ; 151 ; 224,140,244 ;Junio;2021
+Bonao; 4,012 ; 87 ; 74,910,097 ;Junio;2021
+Constanza; 3,857 ; 84 ; 274,157,500 ;Junio;2021
+Salcedo; 2,888 ; 48 ; 38,078,407 ;Junio;2021
+Moca; 1,062 ; 56 ; 90,778,767 ;Junio;2021
+Santiago; 900 ; 54 ; 111,498,161 ;Junio;2021
+Valverde Mao; 15,411 ; 116 ; 226,104,376 ;Junio;2021
+Montecristí; 8,583 ; 59 ; 59,679,177 ;Junio;2021
+Santiago Rodríguez; 790 ; 55 ; 34,285,000 ;Junio;2021
+Dajabón; 3,947 ; 82 ; 65,495,966 ;Junio;2021
+San José de las Matas; 1,736 ; 23 ; 9,498,000 ;Junio;2021
+Puerto Plata; 1,468 ; 138 ; 90,929,811 ;Junio;2021
+Santo Domingo; 320 ; 118 ; 677,397,353 ;Julio;2021
+San Cristóbal; 1,351 ; 67 ; 36,945,600 ;Julio;2021
+Monte Plata; 3,772 ; 103 ; 131,010,554 ;Julio;2021
+Hato Mayor; 7,729 ; 103 ; 54,100,400 ;Julio;2021
+El Seybo; 2,436 ; 64 ; 28,605,000 ;Julio;2021
+Higüey; 5,108 ; 26 ; 89,067,138 ;Julio;2021
+San Juan de la Maguana; 3,953 ; 84 ; 88,232,800 ;Julio;2021
+Baní; 2,182 ; 51 ; 35,669,251 ;Julio;2021
+San José de Ocoa; 1,856 ; 52 ; 108,307,485 ;Julio;2021
+Azua; 1,564 ; 57 ; 63,105,496 ;Julio;2021
+Barahona; 3,025 ; 57 ; 26,826,700 ;Julio;2021
+Neyba; 1,661 ; 72 ; 31,534,411 ;Julio;2021
+Comendador; 1,065 ; 42 ; 11,001,400 ;Julio;2021
+San Fco. Macorís; 18,316 ; 90 ; 138,119,088 ;Julio;2021
+Cotuí; 20,280 ; 141 ; 122,236,205 ;Julio;2021
+Villa Riva; 3,841 ; 62 ; 20,456,997 ;Julio;2021
+Arenoso; 2,015 ; 38 ; 20,976,500 ;Julio;2021
+Río San Juan; 3,632 ; 62 ; 44,906,000 ;Julio;2021
+Nagua; 4,283 ; 52 ; 33,532,782 ;Julio;2021
+Samaná; 1,661 ; 38 ; 17,862,336 ;Julio;2021
+La Vega; 8,213 ; 68 ; 152,301,591 ;Julio;2021
+Bonao; 3,682 ; 60 ; 36,324,327 ;Julio;2021
+Constanza; 2,173 ; 80 ; 51,772,975 ;Julio;2021
+Salcedo; 3,415 ; 42 ; 46,254,000 ;Julio;2021
+Moca; 2,610 ; 53 ; 130,091,570 ;Julio;2021
+Santiago; 2,878 ; 51 ; 191,133,100 ;Julio;2021
+Valverde Mao; 10,124 ; 69 ; 207,722,416 ;Julio;2021
+Montecristí; 1,045 ; 27 ; 25,162,090 ;Julio;2021
+Santiago Rodríguez; 875 ; 57 ; 35,884,000 ;Julio;2021
+Dajabón; 916 ; 38 ; 21,094,590 ;Julio;2021
+San José de las Matas; 773 ; 15 ; 12,180,000 ;Julio;2021
+Puerto Plata; 2,401 ; 109 ; 56,177,161 ;Julio;2021
+Santo Domingo; 2,275 ; 140 ; 220,974,150 ;Agosto;2021
+San Cristóbal; 1,368 ; 65 ; 38,174,264 ;Agosto;2021
+Monte Plata; 3,726 ; 78 ; 111,128,061 ;Agosto;2021
+Hato Mayor; 2,684 ; 70 ; 58,609,000 ;Agosto;2021
+El Seybo; 9,165 ; 52 ; 66,644,576 ;Agosto;2021
+Higüey; 40 ; 36 ; 102,305,649 ;Agosto;2021
+San Juan de la Maguana; 4,121 ; 86 ; 39,301,100 ;Agosto;2021
+Baní; 1,719 ; 44 ; 44,989,586 ;Agosto;2021
+San José de Ocoa; 52,851 ; 49 ; 65,663,520 ;Agosto;2021
+Azua; 1,890 ; 47 ; 36,390,338 ;Agosto;2021
+Barahona; 4,533 ; 86 ; 97,001,365 ;Agosto;2021
+Neyba; 1,290 ; 76 ; 31,973,450 ;Agosto;2021
+Comendador; 656 ; 33 ; 13,979,000 ;Agosto;2021
+San Fco. Macorís; 12,435 ; 58 ; 68,646,132 ;Agosto;2021
+Cotuí; 5,374 ; 49 ; 138,578,190 ;Agosto;2021
+Villa Riva; 3,914 ; 53 ; 21,504,060 ;Agosto;2021
+Arenoso; 1,288 ; 18 ; 18,866,560 ;Agosto;2021
+Río San Juan; 2,759 ; 40 ; 37,912,783 ;Agosto;2021
+Nagua; 4,456 ; 53 ; 24,275,609 ;Agosto;2021
+Samaná; 724 ; 41 ; 14,218,208 ;Agosto;2021
+La Vega; 1,900 ; 42 ; 98,748,726 ;Agosto;2021
+Bonao; 1,770 ; 33 ; 21,038,596 ;Agosto;2021
+Constanza; 1,550 ; 54 ; 47,972,589 ;Agosto;2021
+Salcedo; 14,542 ; 33 ; 52,330,625 ;Agosto;2021
+Moca; 1,280 ; 63 ; 112,809,457 ;Agosto;2021
+Santiago; 234 ; 43 ; 63,558,401 ;Agosto;2021
+Valverde Mao; 2,069 ; 31 ; 144,251,849 ;Agosto;2021
+Montecristí; 1,650 ; 29 ; 77,527,212 ;Agosto;2021
+Santiago Rodríguez; 280 ; 57 ; 27,847,000 ;Agosto;2021
+Dajabón; 131 ; 30 ; 54,362,835 ;Agosto;2021
+San José de las Matas; 462 ; 17 ; 15,165,700 ;Agosto;2021
+Puerto Plata; 1,785 ; 105 ; 57,691,891 ;Agosto;2021
+Santo Domingo; 50 ; 72 ; 82,720,986 ;Septiembre ;2021
+San Cristóbal; 1,585 ; 34 ; 28,235,862 ;Septiembre ;2021
+Monte Plata; 2,565 ; 52 ; 71,291,225 ;Septiembre ;2021
+Hato Mayor; 1,415 ; 44 ; 11,303,300 ;Septiembre ;2021
+El Seybo; 853 ; 34 ; 19,252,121 ;Septiembre ;2021
+Higüey; 280 ; 28 ; 48,095,000 ;Septiembre ;2021
+San Juan de la Maguana; 2,085 ; 41 ; 11,913,848 ;Septiembre ;2021
+Baní; 1,138 ; 38 ; 50,518,128 ;Septiembre ;2021
+San José de Ocoa; 52,827 ; 75 ; 166,545,668 ;Septiembre ;2021
+Azua; 1,441 ; 27 ; 59,168,300 ;Septiembre ;2021
+Barahona; 4,135 ; 38 ; 53,774,900 ;Septiembre ;2021
+Neyba; 1,264 ; 71 ; 15,522,400 ;Septiembre ;2021
+Comendador; 745 ; 39 ; 11,244,800 ;Septiembre ;2021
+San Fco. Macorís; 7,141 ; 31 ; 48,264,100 ;Septiembre ;2021
+Cotuí; 2,307 ; 34 ; 60,224,000 ;Septiembre ;2021
+Villa Riva; 2,596 ; 32 ; 14,935,000 ;Septiembre ;2021
+Arenoso; 20 ; 11 ; 2,968,100 ;Septiembre ;2021
+Río San Juan; 2,063 ; 36 ; 37,400,000 ;Septiembre ;2021
+Nagua; 5,734 ; 53 ; 27,940,000 ;Septiembre ;2021
+Samaná; 1,177 ; 35 ; 12,087,924 ;Septiembre ;2021
+La Vega; 2,208 ; 42 ; 100,727,683 ;Septiembre ;2021
+Bonao; 2,068 ; 31 ; 60,015,032 ;Septiembre ;2021
+Constanza; 9,261 ; 67 ; 138,337,300 ;Septiembre ;2021
+Salcedo; 3,767 ; 39 ; 48,190,000 ;Septiembre ;2021
+Moca; 1,162 ; 51 ; 110,116,826 ;Septiembre ;2021
+Santiago; 214 ; 28 ; 56,885,766 ;Septiembre ;2021
+Valverde Mao; 284 ; 18 ; 65,009,522 ;Septiembre ;2021
+Montecristí; 1,102 ; 26 ; 14,077,000 ;Septiembre ;2021
+Santiago Rodríguez; 920 ; 41 ; 27,929,600 ;Septiembre ;2021
+Dajabón; 912 ; 21 ; 36,747,833 ;Septiembre ;2021
+San José de las Matas; 380 ; 17 ; 77,788,500 ;Septiembre ;2021
+Puerto Plata; 1,271 ; 70 ; 23,784,475 ;Septiembre ;2021
+Santo Domingo; 225 ; 72 ; 359,697,685 ;Octubre;2021
+San Cristóbal; 976 ; 44 ; 23,677,862 ;Octubre;2021
+Monte Plata; 1,110 ; 52 ; 61,717,088 ;Octubre;2021
+Hato Mayor; 2,235 ; 40 ; 40,317,660 ;Octubre;2021
+El Seybo; 501 ; 27 ; 25,577,000 ;Octubre;2021
+Higüey; 380 ; 20 ; 9,677,098 ;Octubre;2021
+San Juan de la Maguana; 6,704 ; 130 ; 87,039,670 ;Octubre;2021
+Baní; 1,003 ; 34 ; 87,167,300 ;Octubre;2021
+San José de Ocoa; 58,126 ; 79 ; 191,016,410 ;Octubre;2021
+Azua; 1,724 ; 48 ; 36,649,610 ;Octubre;2021
+Barahona; 215 ; 14 ; 6,539,990 ;Octubre;2021
+Neyba; 11,006 ; 63 ; 71,720,765 ;Octubre;2021
+Comendador; 316 ; 27 ; 8,323,000 ;Octubre;2021
+San Fco. Macorís; 2,714 ; 24 ; 25,910,000 ;Octubre;2021
+Cotuí; 839 ; 30 ; 38,058,600 ;Octubre;2021
+Villa Riva; 3,678 ; 26 ; 21,622,228 ;Octubre;2021
+Arenoso; 240 ; 10 ; 14,013,000 ;Octubre;2021
+Río San Juan; 1,621 ; 42 ; 29,829,000 ;Octubre;2021
+Nagua; 1,485 ; 20 ; 10,249,550 ;Octubre;2021
+Samaná; 604 ; 30 ; 9,225,096 ;Octubre;2021
+La Vega; 1,558 ; 37 ; 140,212,465 ;Octubre;2021
+Bonao; 315 ; 21 ; 38,086,340 ;Octubre;2021
+Constanza; 34,873 ; 80 ; 203,559,700 ;Octubre;2021
+Salcedo; 1,739 ; 33 ; 24,398,525 ;Octubre;2021
+Moca; 577 ; 44 ; 47,851,300 ;Octubre;2021
+Santiago; 265 ; 30 ; 75,128,418 ;Octubre;2021
+Valverde Mao; 747 ; 12 ; 69,955,122 ;Octubre;2021
+Montecristí; 581 ; 18 ; 10,495,000 ;Octubre;2021
+Santiago Rodríguez; 140 ; 20 ; 10,818,020 ;Octubre;2021
+Dajabón; -   ; 22 ; 15,031,000 ;Octubre;2021
+San José de las Matas; 150 ; 7 ; 6,930,000 ;Octubre;2021
+Puerto Plata; 736 ; 48 ; 20,139,800 ;Octubre;2021
+Santo Domingo; 135 ; 78 ; 275,285,153 ;Noviembre;2021
+San Cristóbal; 796 ; 36 ; 68,109,955 ;Noviembre;2021
+Monte Plata; 2,709 ; 60 ; 234,715,168 ;Noviembre;2021
+Hato Mayor; 3,684 ; 29 ; 39,856,000 ;Noviembre;2021
+El Seybo; 1,026 ; 45 ; 28,472,730 ;Noviembre;2021
+Higüey; 2,073 ; 55 ; 46,804,000 ;Noviembre;2021
+San Juan de la Maguana; 10,086 ; 231 ; 207,836,716 ;Noviembre;2021
+Baní; 567 ; 32 ; 115,594,000 ;Noviembre;2021
+San José de Ocoa; 1,133 ; 44 ; 61,298,505 ;Noviembre;2021
+Azua; 1,877 ; 51 ; 136,298,756 ;Noviembre;2021
+Barahona; 1,537 ; 43 ; 18,120,825 ;Noviembre;2021
+Neyba; 727 ; 52 ; 33,740,990 ;Noviembre;2021
+Comendador; 656 ; 32 ; 18,124,000 ;Noviembre;2021
+San Fco. Macorís; 8,407 ; 91 ; 141,138,500 ;Noviembre;2021
+Cotuí; 2,532 ; 58 ; 92,887,372 ;Noviembre;2021
+Villa Riva; 14,342 ; 159 ; 167,800,302 ;Noviembre;2021
+Arenoso; 19,295 ; 188 ; 124,003,845 ;Noviembre;2021
+Río San Juan; 9,923 ; 51 ; 39,921,440 ;Noviembre;2021
+Nagua; 14,749 ; 213 ; 74,533,180 ;Noviembre;2021
+Samaná; 1,841 ; 42 ; 10,435,000 ;Noviembre;2021
+La Vega; 12,759 ; 226 ; 290,689,473 ;Noviembre;2021
+Bonao; 991 ; 33 ; 32,210,750 ;Noviembre;2021
+Constanza; 3,834 ; 150 ; 259,074,000 ;Noviembre;2021
+Salcedo; 6,439 ; 32 ; 135,495,000 ;Noviembre;2021
+Moca; 1,372 ; 60 ; 45,533,638 ;Noviembre;2021
+Santiago; 662 ; 45 ; 110,935,038 ;Noviembre;2021
+Valverde Mao; 960 ; 13 ; 34,723,000 ;Noviembre;2021
+Montecristí; 11,404 ; 152 ; 82,630,234 ;Noviembre;2021
+Santiago Rodríguez; 165 ; 35 ; 32,207,000 ;Noviembre;2021
+Dajabón; 4,336 ; 67 ; 35,859,528 ;Noviembre;2021
+San José de las Matas; 175 ; 13 ; 9,400,000 ;Noviembre;2021
+Puerto Plata; 369 ; 49 ; 18,046,302 ;Noviembre;2021
+Santo Domingo; 180 ; 98 ; 225,202,585 ;Diciembre;2021
+San Cristóbal; 8,403 ; 30 ; 115,788,935 ;Diciembre;2021
+Monte Plata; 8,236 ; 105 ; 329,497,554 ;Diciembre;2021
+Hato Mayor; 3,683 ; 55 ; 66,062,900 ;Diciembre;2021
+El Seybo; 637 ; 44 ; 24,433,179 ;Diciembre;2021
+Higüey; 835 ; 44 ; 45,911,100 ;Diciembre;2021
+San Juan de la Maguana; 5,648 ; 96 ; 134,909,354 ;Diciembre;2021
+Baní; 3,859 ; 29 ; 42,329,800 ;Diciembre;2021
+San José de Ocoa; 1,375 ; 50 ; 68,835,315 ;Diciembre;2021
+Azua; 2,450 ; 52 ; 138,361,804 ;Diciembre;2021
+Barahona; 2,569 ; 50 ; 31,827,310 ;Diciembre;2021
+Neyba; 1,290 ; 70 ; 32,788,000 ;Diciembre;2021
+Comendador; 551 ; 29 ; 10,764,000 ;Diciembre;2021
+San Fco. Macorís; 14,062 ; 168 ; 82,087,300 ;Diciembre;2021
+Cotuí; 16,940 ; 223 ; 201,726,278 ;Diciembre;2021
+Villa Riva; 11,800 ; 169 ; 65,400,550 ;Diciembre;2021
+Arenoso; 22,509 ; 193 ; 104,649,500 ;Diciembre;2021
+Río San Juan; 6,208 ; 56 ; 26,047,500 ;Diciembre;2021
+Nagua; 16,905 ; 222 ; 82,086,500 ;Diciembre;2021
+Samaná; 3,605 ; 34 ; 26,349,024 ;Diciembre;2021
+La Vega; 17,979 ; 251 ; 164,078,255 ;Diciembre;2021
+Bonao; 4,254 ; 76 ; 130,223,156 ;Diciembre;2021
+Constanza; 11,916 ; 117 ; 209,190,000 ;Diciembre;2021
+Salcedo; 3,917 ; 57 ; 34,574,000 ;Diciembre;2021
+Moca; 2,057 ; 48 ; 106,067,500 ;Diciembre;2021
+Santiago; 565 ; 45 ; 141,786,857 ;Diciembre;2021
+Valverde Mao; 12,276 ; 128 ; 163,084,951 ;Diciembre;2021
+Montecristí; 10,005 ; 92 ; 52,825,800 ;Diciembre;2021
+Santiago Rodríguez; 558 ; 34 ; 53,666,735 ;Diciembre;2021
+Dajabón; 4,580 ; 85 ; 47,289,750 ;Diciembre;2021
+San José de las Matas; 212 ; 20 ; 14,105,000 ;Diciembre;2021
+Puerto Plata; 125 ; 70 ; 52,324,546 ;Diciembre;2021
+Santo Domingo; 145 ; 97 ; 214,161,700 ;Enero;2022
+San Cristóbal; 690 ; 49 ; 38,007,050 ;Enero;2022
+Monte Plata; 1,807 ; 67 ; 165,455,404 ;Enero;2022
+Hato Mayor; 1,703 ; 66 ; 46,766,500 ;Enero;2022
+El Seybo; 407 ; 40 ; 35,843,600 ;Enero;2022
+Higüey; 100 ; 20 ; 10,409,250 ;Enero;2022
+San Juan de la Maguana; 2,413 ; 56 ; 19,053,979 ;Enero;2022
+Baní; 1,074 ; 35 ; 40,587,839 ;Enero;2022
+San José de Ocoa; 824 ; 29 ; 43,150,000 ;Enero;2022
+Azua; 517 ; 28 ; 58,985,000 ;Enero;2022
+Barahona; 1,371 ; 46 ; 23,730,197 ;Enero;2022
+Neyba; 218 ; 37 ; 9,800,759 ;Enero;2022
+Comendador; 1,237 ; 27 ; 23,301,320 ;Enero;2022
+San Fco. Macorís; 16,136 ; 106 ; 104,834,360 ;Enero;2022
+Cotuí; 12,817 ; 93 ; 92,387,500 ;Enero;2022
+Villa Riva; 3,687 ; 68 ; 31,881,845 ;Enero;2022
+Arenoso; 3,222 ; 56 ; 18,495,500 ;Enero;2022
+Río San Juan; 3,921 ; 38 ; 23,391,369 ;Enero;2022
+Nagua; 7,394 ; 68 ; 132,897,553 ;Enero;2022
+Samaná; 759 ; 27 ; 7,394,348 ;Enero;2022
+La Vega; 17,376 ; 121 ; 118,742,968 ;Enero;2022
+Bonao; 1,237 ; 44 ; 29,545,595 ;Enero;2022
+Constanza; 1,883 ; 92 ; 69,261,195 ;Enero;2022
+Salcedo; 671 ; 30 ; 69,042,865 ;Enero;2022
+Moca; 706 ; 58 ; 51,362,810 ;Enero;2022
+Santiago; 1,207 ; 34 ; 73,731,528 ;Enero;2022
+Valverde Mao; 2,901 ; 43 ; 26,631,028 ;Enero;2022
+Montecristí; 1,301 ; 28 ; 9,809,290 ;Enero;2022
+Santiago Rodríguez; 600 ; 32 ; 54,226,727 ;Enero;2022
+Dajabón; 1,409 ; 42 ; 29,211,459 ;Enero;2022
+San José de las Matas; 385 ; 17 ; 7,995,000 ;Enero;2022
+Puerto Plata; 396 ; 86 ; 36,121,511 ;Enero;2022
+Santo Domingo; 2,496 ; 159 ; 157,736,630 ;Febrero;2022
+San Cristóbal; 1,934 ; 77 ; 24,209,300 ;Febrero;2022
+Monte Plata; 1,182 ; 69 ; 157,293,462 ;Febrero;2022
+Hato Mayor; 457 ; 21 ; 13,982,200 ;Febrero;2022
+El Seybo; 458 ; 44 ; 25,330,600 ;Febrero;2022
+Higüey; 55 ; 21 ; 27,302,600 ;Febrero;2022
+San Juan de la Maguana; 5,924 ; 69 ; 84,030,731 ;Febrero;2022
+Baní; 400 ; 27 ; 58,737,780 ;Febrero;2022
+San José de Ocoa; 1,601 ; 44 ; 45,038,925 ;Febrero;2022
+Azua; 800 ; 130 ; 81,288,539 ;Febrero;2022
+Barahona; 825 ; 63 ; 25,790,040 ;Febrero;2022
+Neyba; 848 ; 37 ; 17,214,122 ;Febrero;2022
+Comendador; 678 ; 36 ; 20,087,260 ;Febrero;2022
+San Fco. Macorís; 14,150 ; 66 ; 278,762,926 ;Febrero;2022
+Cotuí; 7,269 ; 65 ; 92,978,133 ;Febrero;2022
+Villa Riva; 3,877 ; 68 ; 23,771,417 ;Febrero;2022
+Arenoso; 1,554 ; 31 ; 14,312,400 ;Febrero;2022
+Río San Juan; 1,625 ; 36 ; 19,465,498 ;Febrero;2022
+Nagua; 5,561 ; 72 ; 24,572,917 ;Febrero;2022
+Samaná; 672 ; 44 ; 19,787,447 ;Febrero;2022
+La Vega; 18,198 ; 214 ; 137,957,017 ;Febrero;2022
+Bonao; 2,170 ; 50 ; 48,500,327 ;Febrero;2022
+Constanza; 1,721 ; 88 ; 106,433,032 ;Febrero;2022
+Salcedo; 3,544 ; 72 ; 66,128,279 ;Febrero;2022
+Moca; 696 ; 71 ; 35,973,478 ;Febrero;2022
+Santiago; 1,143 ; 64 ; 272,500,974 ;Febrero;2022
+Valverde Mao; 1,503 ; 25 ; 57,536,751 ;Febrero;2022
+Montecristí; 1,805 ; 29 ; 14,357,647 ;Febrero;2022
+Santiago Rodríguez; 550 ; 26 ; 21,597,000 ;Febrero;2022
+Dajabón; 298 ; 29 ; 17,496,297 ;Febrero;2022
+San José de las Matas; 123 ; 13 ; 6,486,000 ;Febrero;2022
+Puerto Plata; 1,051 ; 107 ; 50,308,329 ;Febrero;2022
+Santo Domingo; 60 ; 142 ; 180,216,128 ;Marzo;2022
+San Cristóbal; 2,182 ; 90 ; 59,978,628 ;Marzo;2022
+Monte Plata; 1,584 ; 88 ; 261,062,620 ;Marzo;2022
+Hato Mayor; 1,332 ; 49 ; 37,884,500 ;Marzo;2022
+El Seybo; 360 ; 40 ; 37,946,300 ;Marzo;2022
+Higüey; 396 ; 37 ; 36,398,770 ;Marzo;2022
+San Juan de la Maguana; 4,115 ; 116 ; 91,750,665 ;Marzo;2022
+Baní; 9,971 ; 57 ; 53,192,132 ;Marzo;2022
+San José de Ocoa; 2,148 ; 53 ; 115,696,621 ;Marzo;2022
+Azua; 759 ; 93 ; 127,894,099 ;Marzo;2022
+Barahona; 849 ; 51 ; 20,238,330 ;Marzo;2022
+Neyba; 793 ; 56 ; 44,797,732 ;Marzo;2022
+Comendador; 604 ; 36 ; 20,238,520 ;Marzo;2022
+San Fco. Macorís; 2,060 ; 55 ; 63,296,616 ;Marzo;2022
+Cotuí; 2,043 ; 49 ; 27,188,232 ;Marzo;2022
+Villa Riva; 3,584 ; 53 ; 40,611,650 ;Marzo;2022
+Arenoso; 1,115 ; 17 ; 13,420,349 ;Marzo;2022
+Río San Juan; 2,416 ; 42 ; 39,754,740 ;Marzo;2022
+Nagua; 5,180 ; 58 ; 24,025,858 ;Marzo;2022
+Samaná; 1,049 ; 56 ; 12,252,765 ;Marzo;2022
+La Vega; 10,407 ; 170 ; 494,458,699 ;Marzo;2022
+Bonao; 349 ; 32 ; 28,213,000 ;Marzo;2022
+Constanza; 2,803 ; 103 ; 153,896,055 ;Marzo;2022
+Salcedo; 1,427 ; 54 ; 35,622,597 ;Marzo;2022
+Moca; 1,471 ; 66 ; 77,228,986 ;Marzo;2022
+Santiago; 1,184 ; 83 ; 90,756,732 ;Marzo;2022
+Valverde Mao; 1,250 ; 30 ; 22,768,104 ;Marzo;2022
+Montecristí; 1,173 ; 38 ; 53,866,798 ;Marzo;2022
+Santiago Rodríguez; 50 ; 43 ; 55,990,247 ;Marzo;2022
+Dajabón; 130 ; 30 ; 38,537,691 ;Marzo;2022
+San José de las Matas; 276 ; 14 ; 10,750,000 ;Marzo;2022
+Puerto Plata; 921 ; 128 ; 58,282,495 ;Marzo;2022
+Santo Domingo; 10,460 ; 166 ; 244,304,621 ;Abril;2022
+San Cristóbal; 1,526 ; 73 ; 61,231,789 ;Abril;2022
+Monte Plata; 2,552 ; 72 ; 181,573,478 ;Abril;2022
+Hato Mayor; 1,220 ; 64 ; 78,946,113 ;Abril;2022
+El Seybo; 205 ; 41 ; 22,890,900 ;Abril;2022
+Higüey; 197 ; 50 ; 63,894,276 ;Abril;2022
+San Juan de la Maguana; 3,745 ; 68 ; 81,038,052 ;Abril;2022
+Baní; 4,726 ; 69 ; 85,185,394 ;Abril;2022
+San José de Ocoa; 1,964 ; 64 ; 46,928,588 ;Abril;2022
+Azua; 1,846 ; 52 ; 67,218,863 ;Abril;2022
+Barahona; 109 ; 32 ; 13,742,650 ;Abril;2022
+Neyba; 751 ; 60 ; 20,044,160 ;Abril;2022
+Comendador; 382 ; 39 ; 29,312,377 ;Abril;2022
+San Fco. Macorís; 2,068 ; 43 ; 52,880,562 ;Abril;2022
+Cotuí; 1,151 ; 39 ; 147,028,599 ;Abril;2022
+Villa Riva; 3,855 ; 68 ; 45,363,449 ;Abril;2022
+Arenoso; 3,285 ; 70 ; 60,656,812 ;Abril;2022
+Río San Juan; 922 ; 32 ; 63,516,896 ;Abril;2022
+Nagua; 2,005 ; 44 ; 46,118,487 ;Abril;2022
+Samaná; 728 ; 54 ; 19,220,729 ;Abril;2022
+La Vega; 2,175 ; 121 ; 432,761,465 ;Abril;2022
+Bonao; 811 ; 41 ; 71,668,434 ;Abril;2022
+Constanza; 2,249 ; 82 ; 100,338,272 ;Abril;2022
+Salcedo; 1,596 ; 68 ; 127,788,286 ;Abril;2022
+Moca; 857 ; 51 ; 54,824,771 ;Abril;2022
+Santiago; 1,853 ; 62 ; 143,032,237 ;Abril;2022
+Valverde Mao; 363 ; 23 ; 135,492,343 ;Abril;2022
+Montecristí; 8,305 ; 99 ; 88,136,755 ;Abril;2022
+Santiago Rodríguez; 120 ; 27 ; 45,604,624 ;Abril;2022
+Dajabón; 1,645 ; 58 ; 39,374,515 ;Abril;2022
+San José de las Matas; 461 ; 16 ; 12,688,955 ;Abril;2022
+Puerto Plata; 977 ; 102 ; 44,688,654 ;Abril;2022
+Santo Domingo; 346 ; 138 ; 164,903,581 ;Mayo ;2022
+San Cristóbal; 800 ; 60 ; 60,677,155 ;Mayo;2022
+Monte Plata; 1,717 ; 89 ; 280,726,072 ;Mayo;2022
+Hato Mayor; 2,500 ; 81 ; 86,069,928 ;Mayo;2022
+El Seybo; 293 ; 54 ; 83,762,430 ;Mayo;2022
+Higüey; 750 ; 54 ; 40,270,052 ;Mayo;2022
+San Juan de la Maguana; 2,307 ; 65 ; 98,353,650 ;Mayo;2022
+Baní; 2,952 ; 66 ; 61,555,209 ;Mayo;2022
+San José de Ocoa; 1,986 ; 51 ; 60,216,142 ;Mayo;2022
+Azua; 2,204 ; 65 ; 143,918,979 ;Mayo;2022
+Barahona; 1,638 ; 62 ; 51,325,294 ;Mayo;2022
+Neyba; 535 ; 60 ; 18,390,515 ;Mayo;2022
+Comendador; 658 ; 45 ; 31,732,079 ;Mayo;2022
+San Fco. Macorís; 7,974 ; 150 ; 190,318,107 ;Mayo;2022
+Cotuí; 3,871 ; 74 ; 525,454,962 ;Mayo;2022
+Villa Riva; 12,323 ; 181 ; 78,270,827 ;Mayo;2022
+Arenoso; 15,041 ; 147 ; 187,066,862 ;Mayo;2022
+Río San Juan; 3,612 ; 46 ; 40,005,449 ;Mayo;2022
+Nagua; 8,696 ; 84 ; 52,977,112 ;Mayo;2022
+Samaná; 2,144 ; 58 ; 22,355,146 ;Mayo;2022
+La Vega; 13,620 ; 338 ; 896,286,888 ;Mayo;2022
+Bonao; 1,191 ; 51 ; 82,265,973 ;Mayo;2022
+Constanza; 2,895 ; 91 ; 93,545,908 ;Mayo;2022
+Salcedo; 3,559 ; 60 ; 98,540,591 ;Mayo;2022
+Moca; 2,279 ; 62 ; 44,385,231 ;Mayo;2022
+Santiago; 3,375 ; 117 ; 238,028,808 ;Mayo;2022
+Valverde Mao; 3,915 ; 80 ; 269,754,922 ;Mayo;2022
+Montecristí; 12,723 ; 176 ; 125,097,487 ;Mayo;2022
+Santiago Rodríguez; 228 ; 40 ; 25,652,100 ;Mayo;2022
+Dajabón; 4,962 ; 88 ; 61,667,006 ;Mayo;2022
+San José de las Matas; 613 ; 23 ; 8,657,672 ;Mayo;2022
+Puerto Plata; 1,206 ; 141 ; 63,567,578 ;Mayo;2022
+Santo Domingo; 715 ; 139 ; 129,352,235 ;Junio;2022
+San Cristóbal; 1,788 ; 76 ; 45,991,602 ;Junio;2022
+Monte Plata; 1,530 ; 66 ; 102,726,176 ;Junio;2022
+Hato Mayor; 4,755 ; 64 ; 39,763,064 ;Junio;2022
+El Seybo; 1,556 ; 57 ; 33,929,623 ;Junio;2022
+Higüey; 1,718 ; 63 ; 28,706,920 ;Junio;2022
+San Juan de la Maguana; 2,374 ; 67 ; 234,823,897 ;Junio;2022
+Baní; 5,112 ; 68 ; 64,703,368 ;Junio;2022
+San José de Ocoa; 2,507 ; 71 ; 114,152,791 ;Junio;2022
+Azua; 1,338 ; 44 ; 65,545,062 ;Junio;2022
+Barahona; 1,210 ; 64 ; 26,624,250 ;Junio;2022
+Neyba; 2,280 ; 88 ; 66,578,570 ;Junio;2022
+Comendador; 826 ; 39 ; 20,696,000 ;Junio;2022
+San Fco. Macorís; 18,839 ; 175 ; 152,905,898 ;Junio;2022
+Cotuí; 13,329 ; 173 ; 131,265,093 ;Junio;2022
+Villa Riva; 10,402 ; 114 ; 64,174,155 ;Junio;2022
+Arenoso; 14,761 ; 149 ; 97,520,770 ;Junio;2022
+Río San Juan; 3,730 ; 72 ; 45,452,222 ;Junio;2022
+Nagua; 14,792 ; 213 ; 96,569,582 ;Junio;2022
+Samaná; 1,938 ; 51 ; 19,096,844 ;Junio;2022
+La Vega; 17,121 ; 216 ; 280,256,471 ;Junio;2022
+Bonao; 4,120 ; 87 ; 68,250,731 ;Junio;2022
+Constanza; 2,497 ; 99 ; 97,317,409 ;Junio;2022
+Salcedo; 5,215 ; 66 ; 60,530,174 ;Junio;2022
+Moca; 3,111 ; 92 ; 102,560,125 ;Junio;2022
+Santiago; 706 ; 75 ; 170,721,584 ;Junio;2022
+Valverde Mao; 5,759 ; 80 ; 115,332,640 ;Junio;2022
+Montecristí; 9,492 ; 130 ; 107,431,383 ;Junio;2022
+Santiago Rodríguez; 405 ; 26 ; 33,138,307 ;Junio;2022
+Dajabón; 2,863 ; 61 ; 56,557,846 ;Junio;2022
+San José de las Matas; 85 ; 14 ; 7,380,277 ;Junio;2022
+Puerto Plata; 1,479 ; 142 ; 56,157,777 ;Junio;2022
+Santo Domingo; 1,147 ; 130 ; 117,134,729 ;Julio;2022
+San Cristóbal; 1,241 ; 67 ; 63,077,277 ;Julio;2022
+Monte Plata; 1,751 ; 107 ; 118,903,966 ;Julio;2022
+Hato Mayor; 3,751 ; 96 ; 143,625,185 ;Julio;2022
+El Seybo; 2,672 ; 75 ; 56,559,383 ;Julio;2022
+Higüey; 383 ; 53 ; 43,455,300 ;Julio;2022
+San Juan de la Maguana; 1,968 ; 115 ; 81,008,687 ;Julio;2022
+Baní; 3,893 ; 81 ; 164,553,966 ;Julio;2022
+San José de Ocoa; 2,310 ; 68 ; 71,121,612 ;Julio;2022
+Azua; 2,976 ; 56 ; 189,460,690 ;Julio;2022
+Barahona; 1,993 ; 85 ; 40,537,650 ;Julio;2022
+Neyba; 1,208 ; 64 ; 36,785,485 ;Julio;2022
+Comendador; 951 ; 58 ; 49,538,600 ;Julio;2022
+San Fco. Macorís; 25,981 ; 122 ; 151,821,930 ;Julio;2022
+Cotuí; 16,360 ; 201 ; 192,075,078 ;Julio;2022
+Villa Riva; 7,871 ; 104 ; 54,448,435 ;Julio;2022
+Arenoso; 4,900 ; 62 ; 40,237,578 ;Julio;2022
+Río San Juan; 4,208 ; 96 ; 40,782,245 ;Julio;2022
+Nagua; 11,476 ; 126 ; 73,984,733 ;Julio;2022
+Samaná; 1,148 ; 39 ; 14,264,608 ;Julio;2022
+La Vega; 48,573 ; 113 ; 202,160,748 ;Julio;2022
+Bonao; 3,743 ; 109 ; 48,445,309 ;Julio;2022
+Constanza; 3,297 ; 101 ; 184,631,162 ;Julio;2022
+Salcedo; 4,433 ; 56 ; 48,551,711 ;Julio;2022
+Moca; 1,219 ; 64 ; 95,420,513 ;Julio;2022
+Santiago; 532 ; 62 ; 88,052,623 ;Julio;2022
+Valverde Mao; 6,715 ; 43 ; 71,610,644 ;Julio;2022
+Montecristí; 1,248 ; 31 ; 23,704,957 ;Julio;2022
+Santiago Rodríguez; 882 ; 48 ; 38,300,344 ;Julio;2022
+Dajabón; 1,259 ; 49 ; 33,706,430 ;Julio;2022
+San José de las Matas; 263 ; 19 ; 13,257,205 ;Julio;2022
+Puerto Plata; 2,492 ; 141 ; 52,525,656 ;Julio;2022
+Santo Domingo; 248 ; 109 ; 297,048,203 ;Agosto;2022
+San Cristóbal; 3,527 ; 121 ; 48,942,218 ;Agosto;2022
+Monte Plata; 3,683 ; 108 ; 283,999,721 ;Agosto;2022
+Hato Mayor; 2,025 ; 74 ; 41,817,118 ;Agosto;2022
+El Seybo; 1,012 ; 64 ; 37,693,400 ;Agosto;2022
+Higüey; 402 ; 51 ; 37,173,000 ;Agosto;2022
+San Juan de la Maguana; 3,622 ; 151 ; 70,215,962 ;Agosto;2022
+Baní; 2,028 ; 66 ; 51,971,840 ;Agosto;2022
+San José de Ocoa; 1,837 ; 95 ; 93,221,328 ;Agosto;2022
+Azua; 1,769 ; 61 ; 40,882,046 ;Agosto;2022
+Barahona; 4,045 ; 86 ; 44,671,730 ;Agosto;2022
+Neyba; 1,031 ; 73 ; 35,997,955 ;Agosto;2022
+Comendador; 2,004 ; 54 ; 24,893,000 ;Agosto;2022
+San Fco. Macorís; 12,464 ; 72 ; 142,154,526 ;Agosto;2022
+Cotuí; 10,091 ; 57 ; 97,022,196 ;Agosto;2022
+Villa Riva; 4,087 ; 54 ; 28,264,955 ;Agosto;2022
+Arenoso; 2,868 ; 32 ; 46,997,261 ;Agosto;2022
+Río San Juan; 3,201 ; 82 ; 40,790,364 ;Agosto;2022
+Nagua; 5,177 ; 64 ; 45,022,911 ;Agosto;2022
+Samaná; 1,443 ; 54 ; 17,887,336 ;Agosto;2022
+La Vega; 2,687 ; 57 ; 198,674,943 ;Agosto;2022
+Bonao; 3,018 ; 54 ; 38,540,552 ;Agosto;2022
+Constanza; 15,539 ; 101 ; 104,146,279 ;Agosto;2022
+Salcedo; 3,169 ; 73 ; 32,177,619 ;Agosto;2022
+Moca; 2,096 ; 66 ; 90,752,466 ;Agosto;2022
+Santiago; 2,400 ; 76 ; 213,328,403 ;Agosto;2022
+Valverde Mao; 76 ; 17 ; 141,263,425 ;Agosto;2022
+Montecristi; 3,630 ; 61 ; 27,816,078 ;Agosto;2022
+Santiago Rodríguez; 403 ; 33 ; 19,778,789 ;Agosto;2022
+Dajabón; 951 ; 44 ; 25,778,325 ;Agosto;2022
+San José de las Matas; 305 ; 25 ; 10,231,174 ;Agosto;2022
+Puerto Plata; 2,233 ; 126 ; 38,680,235 ;Agosto;2022
+Santo Domingo; 911 ; 90 ; 226,502,268 ;Septiembre;2022
+San Cristóbal; 3,820 ; 71 ; 35,967,433 ;Septiembre;2022
+Monte Plata; 2,646 ; 92 ; 138,437,400 ;Septiembre;2022
+Hato Mayor; 2,244 ; 48 ; 40,283,076 ;Septiembre;2022
+El Seybo; 1,439 ; 54 ; 37,177,940 ;Septiembre;2022
+Higüey; 320 ; 34 ; 40,037,000 ;Septiembre;2022
+San Juan de la Maguana; 7,381 ; 208 ; 167,055,597 ;Septiembre;2022
+Baní; 2,713 ; 58 ; 151,463,143 ;Septiembre;2022
+San José de Ocoa; 1,597 ; 65 ; 72,962,027 ;Septiembre;2022
+Azua; 1,222 ; 46 ; 22,009,019 ;Septiembre;2022
+Barahona; 1,462 ; 67 ; 22,036,250 ;Septiembre;2022
+Neyba; 840 ; 77 ; 36,322,700 ;Septiembre;2022
+Comendador; 858 ; 36 ; 18,309,000 ;Septiembre;2022
+San Fco. Macorís; 3,917 ; 35 ; 321,308,000 ;Septiembre;2022
+Cotuí; 2,819 ; 46 ; 40,132,827 ;Septiembre;2022
+Villa Riva; 5,361 ; 47 ; 39,046,391 ;Septiembre;2022
+Arenoso; 5,142 ; 16 ; 42,476,000 ;Septiembre;2022
+Río San Juan; 7,821 ; 77 ; 70,171,533 ;Septiembre;2022
+Nagua; 3,580 ; 49 ; 19,864,000 ;Septiembre;2022
+Samaná; 1,571 ; 52 ; 31,070,233 ;Septiembre;2022
+La Vega; 5,141 ; 52 ; 165,111,718 ;Septiembre;2022
+Bonao; 3,165 ; 49 ; 69,238,102 ;Septiembre;2022
+Constanza; 5,122 ; 101 ; 73,500,775 ;Septiembre;2022
+Salcedo; 2,426 ; 39 ; 36,412,534 ;Septiembre;2022
+Moca; 582 ; 60 ; 133,508,918 ;Septiembre;2022
+Santiago; 1,257 ; 67 ; 106,561,257 ;Septiembre;2022
+Valverde Mao; 1,021 ; 21 ; 108,250,588 ;Septiembre;2022
+Montecristi; 3,082 ; 40 ; 17,514,500 ;Septiembre;2022
+Santiago Rodríguez; 1,184 ; 50 ; 43,195,101 ;Septiembre;2022
+Dajabón; 1,215 ; 37 ; 19,776,000 ;Septiembre;2022
+San José de las Matas; 267 ; 24 ; 11,203,170 ;Septiembre;2022
+Puerto Plata; 1,256 ; 111 ; 44,224,167 ;Septiembre;2022
+Santo Domingo;1,117;61;204,605,466;Octubre;2022
+San Cristóbal;1,682;73;33,787,500;Octubre ;2022
+Monte Plata;6,855;94;337,858,524;Octubre;2022
+Hato Mayor;5,598;90;126,342,600;Octubre;2022
+El Seybo;7,239;135;87,598,460;Octubre;2022
+Higüey;7,991;95;99,311,900;Octubre;2022
+San Juan de la Maguana;10,629;248;250,033,111;Octubre;2022
+Baní;1,701;47;237,851,900;Octubre;2022
+San José de Ocoa;1,250;62;60,255,078;Octubre;2022
+Azua;3,964;67;59,624,316;Octubre;2022
+Barahona;2,323;98;35,973,330;Octubre;2022
+Neyba;432;60;24,595,300;Octubre;2022
+Comendador;1,008;40;14,865,000;Octubre;2022
+San Fco. Macorís;4,643;37;59,809,585;Octubre;2022
+Cotuí;1,918;39;110,607,914;Octubre;2022
+Villa Riva;2,467;39;23,904,042;Octubre;2022
+Arenoso;2,175;28;43,575,587;Octubre;2022
+Río San Juan;8,024;64;43,578,188;Octubre;2022
+Nagua;1,881;19;109,491,169;Octubre;2022
+Samaná;3,256;37;23,353,698;Octubre;2022
+La Vega;6,678;35;318,608,196;Octubre;2022
+Bonao;3,889;54;37,886,970;Octubre;2022
+Constanza;5,503;103;139,469,077;Octubre;2022
+Salcedo;2,631;40;13,808,200;Octubre;2022
+Moca;929;49;71,018,066;Octubre;2022
+Santiago;2,775;55;80,176,411;Octubre;2022
+Valverde Mao;417;11;66,373,200;Octubre;2022
+Montecristi;4,892;80;43,475,540;Octubre;2022
+Santiago Rodríguez;590;60;43,466,341;Octubre;2022
+Dajabón;2,260;29;17,852,960;Octubre;2022
+San José de las Matas;150;17;12,792,950;Octubre;2022
+Puerto Plata;1,244;86;39,112,053;Octubre;2022
+Santo Domingo; 2,045 ; 111 ; 158,997,016 ;Noviembre;2022
+San Cristóbal; 4,237 ; 65 ; 29,574,960 ;Noviembre;2022
+Monte Plata; 6,987 ; 194 ; 291,510,431 ;Noviembre;2022
+Hato Mayor; 8,706 ; 206 ; 181,167,717 ;Noviembre;2022
+El Seybo; 9,630 ; 212 ; 102,958,600 ;Noviembre;2022
+Higüey; 5,411 ; 136 ; 152,205,050 ;Noviembre;2022
+San Juan de la Maguana; 14,323 ; 395 ; 289,375,580 ;Noviembre;2022
+Baní; 1,313 ; 59 ; 37,720,030 ;Noviembre;2022
+San José de Ocoa; 2,753 ; 54 ; 90,609,721 ;Noviembre;2022
+Azua; 1,505 ; 58 ; 79,921,300 ;Noviembre;2022
+Barahona; 1,061 ; 70 ; 24,275,621 ;Noviembre;2022
+Neyba; 616 ; 68 ; 13,661,100 ;Noviembre;2022
+Comendador; 1,839 ; 33 ; 31,916,801 ;Noviembre;2022
+San Fco. Macorís; 14,650 ; 90 ; 188,292,520 ;Noviembre;2022
+Cotuí; 2,530 ; 37 ; 24,422,000 ;Noviembre;2022
+Villa Riva; 21,025 ; 146 ; 186,983,494 ;Noviembre;2022
+Arenoso; 16,392 ; 166 ; 205,273,300 ;Noviembre;2022
+Río San Juan; 7,322 ; 52 ; 68,069,263 ;Noviembre;2022
+Nagua; 23,162 ; 100 ; 326,981,901 ;Noviembre;2022
+Samaná; 6,655 ; 109 ; 46,439,308 ;Noviembre;2022
+La Vega; 43,503 ; 259 ; 414,521,661 ;Noviembre;2022
+Bonao; 5,727 ; 74 ; 76,411,578 ;Noviembre;2022
+Constanza; 6,128 ; 185 ; 600,670,909 ;Noviembre;2022
+Salcedo; 852 ; 23 ; 102,511,777 ;Noviembre;2022
+Moca; 930 ; 50 ; 126,323,968 ;Noviembre;2022
+Santiago; 3,418 ; 53 ; 128,283,188 ;Noviembre;2022
+Valverde Mao; 788 ; 15 ; 28,797,595 ;Noviembre;2022
+Montecristi; 14,270 ; 163 ; 122,738,676 ;Noviembre;2022
+Santiago Rodríguez; 675 ; 57 ; 41,457,276 ;Noviembre;2022
+Dajabón; 2,706 ; 59 ; 67,611,739 ;Noviembre;2022
+San José de las Matas; 815 ; 34 ; 91,400,198 ;Noviembre;2022
+Puerto Plata; 1,262 ; 75 ; 35,377,722 ;Noviembre;2022
+Santo Domingo; 294 ; 107 ; 209,754,580 ;Diciembre ;2022
+San Cristóbal; 1,077 ; 60 ; 100,003,090 ;Diciembre ;2022
+Monte Plata; 11,344 ; 98 ; 442,449,750 ;Diciembre ;2022
+Hato Mayor; 4,145 ; 139 ; 94,859,600 ;Diciembre ;2022
+El Seybo; 5,738 ; 129 ; 79,484,794 ;Diciembre ;2022
+Higüey; 4,052 ; 116 ; 105,364,600 ;Diciembre ;2022
+San Juan de la Maguana; 7,442 ; 281 ; 209,506,966 ;Diciembre ;2022
+Baní; 1,640 ; 48 ; 248,236,745 ;Diciembre ;2022
+San José de Ocoa; 1,985 ; 59 ; 99,160,262 ;Diciembre ;2022
+Azua; 995 ; 44 ; 75,822,600 ;Diciembre ;2022
+Barahona; 3,337 ; 82 ; 41,029,185 ;Diciembre ;2022
+Neyba; 1,077 ; 95 ; 38,369,600 ;Diciembre ;2022
+Comendador; 1,229 ; 30 ; 26,683,239 ;Diciembre ;2022
+San Fco. Macorís; 17,484 ; 204 ; 127,833,793 ;Diciembre ;2022
+Cotuí; 12,493 ; 189 ; 219,031,690 ;Diciembre ;2022
+Villa Riva; 25,632 ; 344 ; 138,937,910 ;Diciembre ;2022
+Arenoso; 24,950 ; 266 ; 157,061,589 ;Diciembre ;2022
+Río San Juan; 6,323 ; 75 ; 63,593,873 ;Diciembre ;2022
+Nagua; 31,971 ; 241 ; 329,929,181 ;Diciembre ;2022
+Samaná; 4,452 ; 90 ; 39,824,682 ;Diciembre ;2022
+La Vega; 23,631 ; 239 ; 203,578,385 ;Diciembre ;2022
+Bonao; 29,492 ; 87 ; 150,380,499 ;Diciembre ;2022
+Constanza; 8,243 ; 198 ; 223,794,958 ;Diciembre ;2022
+Salcedo; 24,613 ; 68 ; 104,003,732 ;Diciembre ;2022
+Moca; 10,169 ; 70 ; 77,767,556 ;Diciembre ;2022
+Santiago; 2,127 ; 49 ; 102,723,211 ;Diciembre ;2022
+Valverde Mao; 8,312 ; 87 ; 104,033,532 ;Diciembre ;2022
+Montecristi; 10,440 ; 150 ; 71,089,903 ;Diciembre ;2022
+Santiago Rodríguez; 569 ; 71 ; 49,655,041 ;Diciembre ;2022
+Dajabón; 8,833 ; 103 ; 62,238,609 ;Diciembre ;2022
+San José de las Matas; 2,466 ; 27 ; 11,789,790 ;Diciembre ;2022
+Puerto Plata; 1,448 ; 103 ; 42,661,277 ;Diciembre ;2022
+Santo Domingo; 364 ; 55 ; 70,489,179 ;Enero;2023
+El Seibo; 6,049 ; 126 ; 54,174,200 ;Enero ;2023
+Higüey; 1,053 ; 34 ; 83,467,000 ;Enero;2023
+Hato Mayor; 6,865 ; 169 ; 102,681,800 ;Enero;2023
+Monte Plata; 3,890 ; 110 ; 125,625,089 ;Enero;2023
+Azua; 921 ; 42 ; 68,874,176 ;Enero;2023
+Baní; 6,740 ; 33 ; 115,013,246 ;Enero;2023
+Neyba; 829 ; 78 ; 28,774,500 ;Enero;2023
+Barahona; 3,387 ; 61 ; 89,551,719 ;Enero;2023
+San Juan de la Maguana; 2,980 ; 155 ; 176,389,628 ;Enero;2023
+Comendador; 287 ; 33 ; 21,673,515 ;Enero;2023
+Nagua; 30,543 ; 267 ; 222,272,899 ;Enero;2023
+Arenoso; 15,579 ; 160 ; 106,452,488 ;Enero;2023
+Samaná; 3,127 ; 79 ; 25,179,903 ;Enero;2023
+Río San Juan; 5,883 ; 98 ; 52,344,916 ;Enero;2023
+Villa Riva; 15,416 ; 161 ; 87,363,025 ;Enero;2023
+San Fco. Macorís; 20,270 ; 134 ; 133,773,483 ;Enero;2023
+Santiago; 1,633 ; 43 ; 59,849,242 ;Enero;2023
+Moca; 889 ; 47 ; 55,720,514 ;Enero;2023
+San José de las Matas; 877 ; 28 ; 15,122,271 ;Enero;2023
+Constanza; 2,038 ; 107 ; 101,465,000 ;Enero;2023
+La Vega; 11,130 ; 91 ; 106,895,783 ;Enero;2023
+Santiago Rodríguez; 770 ; 40 ; 29,632,063 ;Enero;2023
+Montecristi; 2,402 ; 35 ; 23,808,991 ;Enero;2023
+Puerto Plata; 1,129 ; 89 ; 44,537,962 ;Enero;2023
+Valverde Mao; 8,370 ; 94 ; 125,171,124 ;Enero;2023
+Dajabón; 2,688 ; 60 ; 26,532,000 ;Enero;2023
+San José de Ocoa; 1,191 ; 37 ; 37,174,591 ;Enero;2023
+Bonao; 1,557 ; 45 ; 18,238,213 ;Enero;2023
+San Cristóbal; 421 ; 28 ; 25,251,400 ;Enero;2023
+Salcedo; 2,812 ; 30 ; 53,414,574 ;Enero;2023
+Cotuí; 11,902 ; 139 ; 141,755,336 ;Enero;2023
+Santo Domingo; 95 ; 81 ; 251,004,672 ;Febrero;2023
+El Seibo; 4,716 ; 138 ; 65,695,728 ;Febrero;2023
+Higüey; 1,076 ; 40 ; 65,324,200 ;Febrero;2023
+Hato Mayor; 3,093 ; 112 ; 98,573,688 ;Febrero;2023
+Monte Plata; 2,007 ; 104 ; 148,543,285 ;Febrero;2023
+Azua; 1,105 ; 40 ; 43,327,312 ;Febrero;2023
+Baní; 717 ; 37 ; 48,098,780 ;Febrero;2023
+Neyba; 534 ; 56 ; 23,130,700 ;Febrero;2023
+Barahona; 1,574 ; 71 ; 34,570,585 ;Febrero;2023
+San Juan de la Maguana; 2,576 ; 126 ; 80,412,743 ;Febrero;2023
+Comendador; 642 ; 34 ; 21,809,220 ;Febrero;2023
+Nagua; 21,057 ; 281 ; 116,790,841 ;Febrero;2023
+Arenoso; 7,545 ; 87 ; 91,599,850 ;Febrero;2023
+Samaná; 1,221 ; 76 ; 19,761,620 ;Febrero;2023
+Río San Juan; 2,993 ; 82 ; 53,551,539 ;Febrero;2023
+Villa Riva; 4,107 ; 50 ; 32,011,130 ;Febrero;2023
+San Fco. Macorís; 9,675 ; 63 ; 273,895,277 ;Febrero;2023
+Santiago; 1,398 ; 37 ; 207,920,220 ;Febrero;2023
+Moca; 823 ; 55 ; 38,910,785 ;Febrero;2023
+San José de las Matas; 707 ; 23 ; 12,090,882 ;Febrero;2023
+Constanza; 1,537 ; 93 ; 119,545,000 ;Febrero;2023
+La Vega; 5,338 ; 74 ; 105,794,279 ;Febrero;2023
+Santiago Rodríguez; 350 ; 32 ; 17,577,725 ;Febrero;2023
+Montecristi; 1,351 ; 29 ; 25,024,934 ;Febrero;2023
+Puerto Plata; 1,004 ; 74 ; 34,768,240 ;Febrero;2023
+Valverde Mao; 2,153 ; 37 ; 90,682,800 ;Febrero;2023
+Dajabón; 509 ; 31 ; 14,683,403 ;Febrero;2023
+San José de Ocoa; 1,062 ; 39 ; 76,074,597 ;Febrero;2023
+Bonao; 1,286 ; 36 ; 30,117,269 ;Febrero;2023
+San Cristóbal; 1,927 ; 57 ; 39,051,240 ;Febrero;2023
+Salcedo; 1,693 ; 30 ; 40,124,655 ;Febrero;2023
+Cotuí; 5,429 ; 57 ; 43,543,186 ;Febrero;2023
+Santo Domingo; 120 ; 126 ; 251,314,591 ;Marzo;2023
+El Seibo; 3,395 ; 103 ; 37,822,608 ;Marzo;2023
+Higüey; 1,861 ; 57 ; 76,391,000 ;Marzo;2023
+Hato Mayor; 3,227 ; 108 ; 96,555,450 ;Marzo;2023
+Monte Plata; 3,686 ; 141 ; 138,925,104 ;Marzo;2023
+Azua; 1,763 ; 39 ; 68,639,100 ;Marzo;2023
+Baní; 1,409 ; 51 ; 36,828,835 ;Marzo;2023
+Neyba; 585 ; 67 ; 19,868,682 ;Marzo;2023
+Barahona; 2,453 ; 90 ; 44,767,003 ;Marzo;2023
+San Juan de la Maguana; 2,403 ; 120 ; 140,755,219 ;Marzo;2023
+Comendador; 357 ; 48 ; 31,335,618 ;Marzo;2023
+Nagua; 16,879 ; 131 ; 104,701,049 ;Marzo;2023
+Arenoso; 2,174 ; 60 ; 29,501,680 ;Marzo;2023
+Samaná; 1,409 ; 68 ; 23,284,011 ;Marzo;2023
+Río San Juan; 3,310 ; 77 ; 42,929,115 ;Marzo;2023
+Villa Riva; 3,971 ; 48 ; 33,615,488 ;Marzo;2023
+San Fco. Macorís; 9,743 ; 52 ; 101,569,222 ;Marzo;2023
+Santiago; 1,833 ; 64 ; 184,760,596 ;Marzo;2023
+Moca; 1,287 ; 66 ; 105,498,405 ;Marzo;2023
+San José de las Matas; 1,020 ; 22 ; 23,096,562 ;Marzo;2023
+Constanza; 1,371 ; 90 ; 152,456,482 ;Marzo;2023
+La Vega; 2,979 ; 60 ; 286,327,800 ;Marzo;2023
+Santiago Rodríguez; 75 ; 41 ; 52,688,981 ;Marzo;2023
+Montecristi; 2,032 ; 28 ; 35,744,717 ;Marzo;2023
+Puerto Plata; 1,395 ; 96 ; 55,685,420 ;Marzo;2023
+Valverde Mao; 2,376 ; 45 ; 187,401,900 ;Marzo;2023
+Dajabón; 253 ; 37 ; 37,183,678 ;Marzo;2023
+San José de Ocoa; 799 ; 52 ; 121,399,053 ;Marzo;2023
+Bonao; 911 ; 54 ; 71,787,631 ;Marzo;2023
+San Cristóbal; 1,061 ; 40 ; 48,583,815 ;Marzo;2023
+Salcedo; 386 ; 26 ; 56,273,683 ;Marzo;2023
+Cotuí; 1,561 ; 37 ; 35,777,036 ;Marzo;2023
+Santo Domingo; 143 ; 69 ; 195,605,965 ;Abril;2023
+El Seibo; 2,192 ; 68 ; 25,287,000 ;Abril;2023
+Higüey; 1,382 ; 33 ; 68,420,300 ;Abril;2023
+Hato Mayor; 1,641 ; 92 ; 65,940,763 ;Abril;2023
+Monte Plata; 1,622 ; 63 ; 79,692,300 ;Abril;2023
+Azua; 1,484 ; 35 ; 91,227,500 ;Abril;2023
+Baní; 1,723 ; 44 ; 66,262,618 ;Abril;2023
+Neyba; 288 ; 47 ; 9,594,663 ;Abril;2023
+Barahona; 1,679 ; 63 ; 40,140,615 ;Abril;2023
+San Juan de la Maguana; 2,330 ; 65 ; 102,117,591 ;Abril;2023
+Comendador; 727 ; 35 ; 43,625,246 ;Abril;2023
+Nagua; 3,042 ; 40 ; 25,454,793 ;Abril;2023
+Arenoso; 1,939 ; 31 ; 63,332,240 ;Abril;2023
+Samaná; 573 ; 43 ; 25,432,423 ;Abril;2023
+Río San Juan; 650 ; 31 ; 26,892,824 ;Abril;2023
+Villa Riva; -   ; 31 ; 28,340,480 ;Abril;2023
+San Fco. Macorís; 2,596 ; 40 ; 121,663,443 ;Abril;2023
+Santiago; 1,724 ; 36 ; 300,876,043 ;Abril;2023
+Moca; 825 ; 56 ; 104,854,091 ;Abril;2023
+San José de las Matas; 717 ; 24 ; 17,703,929 ;Abril;2023
+Constanza; 1,257 ; 99 ; 190,869,166 ;Abril;2023
+La Vega; 536 ; 70 ; 423,233,919 ;Abril;2023
+Santiago Rodríguez; 169 ; 22 ; 15,107,600 ;Abril;2023
+Montecristi; 756 ; 38 ; 77,494,395 ;Abril;2023
+Puerto Plata; 639 ; 84 ; 65,904,646 ;Abril;2023
+Valverde Mao; 284 ; 39 ; 238,196,200 ;Abril;2023
+Dajabón; 460 ; 44 ; 20,869,481 ;Abril;2023
+San José de Ocoa; 1,566 ; 51 ; 116,193,353 ;Abril;2023
+Bonao; 5,678 ; 34 ; 130,246,953 ;Abril;2023
+San Cristóbal; 1,898 ; 62 ; 16,761,098 ;Abril;2023
+Salcedo; 135 ; 23 ; 61,124,718 ;Abril;2023
+Cotuí; 972 ; 30 ; 178,017,363 ;Abril;2023
+Santo Domingo; 615 ; 110 ; 289,559,521 ;Mayo;2023
+El Seibo; 1,991 ; 60 ; 39,944,300 ;Mayo;2023
+Higüey; 1,700 ; 36 ; 51,488,710 ;Mayo;2023
+Hato Mayor; 9,710 ; 175 ; 155,064,579 ;Mayo;2023
+Monte Plata; 2,739 ; 88 ; 138,604,257 ;Mayo;2023
+Azua; 1,574 ; 55 ; 65,738,910 ;Mayo;2023
+Baní; 1,869 ; 40 ; 54,363,505 ;Mayo;2023
+Neyba; 436 ; 66 ; 63,823,942 ;Mayo;2023
+Barahona; 1,916 ; 66 ; 33,140,615 ;Mayo;2023
+San Juan de la Maguana; 2,484 ; 68 ; 43,999,070 ;Mayo;2023
+Comendador; 769 ; 47 ; 26,266,635 ;Mayo;2023
+Nagua; 5,829 ; 92 ; 83,925,081 ;Mayo;2023
+Arenoso; 21,027 ; 175 ; 232,313,340 ;Mayo;2023
+Samaná; 1,059 ; 73 ; 21,774,493 ;Mayo;2023
+Río San Juan; 733 ; 43 ; 64,439,317 ;Mayo;2023
+Villa Riva; 10,918 ; 129 ; 59,829,463 ;Mayo;2023
+San Fco. Macorís; 8,968 ; 134 ; 246,206,865 ;Mayo;2023
+Santiago; 201 ; 52 ; 185,197,969 ;Mayo;2023
+Moca; 870 ; 57 ; 65,165,866 ;Mayo;2023
+San José de las Matas; 398 ; 18 ; 138,980,742 ;Mayo;2023
+Constanza; 2,450 ; 144 ; 183,303,359 ;Mayo;2023
+La Vega; 5,954 ; 138 ; 590,586,311 ;Mayo;2023
+Santiago Rodríguez; 270 ; 60 ; 44,959,420 ;Mayo;2023
+Montecristi; 14,640 ; 183 ; 125,588,100 ;Mayo;2023
+Puerto Plata; 1,449 ; 110 ; 100,126,546 ;Mayo;2023
+Valverde Mao; 3,506 ; 88 ; 202,463,824 ;Mayo;2023
+Dajabón; 2,647 ; 76 ; 61,056,128 ;Mayo;2023
+San José de Ocoa; 2,065 ; 57 ; 121,302,891 ;Mayo;2023
+Bonao; 2,041 ; 44 ; 156,534,685 ;Mayo;2023
+San Cristóbal; 721 ; 45 ; 56,734,446 ;Mayo;2023
+Salcedo; 3,640 ; 56 ; 44,441,413 ;Mayo;2023
+Cotuí; 975 ; 45 ; 188,721,686 ;Mayo;2023
+Santo Domingo; 266 ;112;295,260,950;Junio;2023
+El Seibo; 1,563 ;52;23,842,400;Junio;2023
+Higüey; 785 ;38;51,160,400;Junio;2023
+Hato Mayor; 2,079 ;116;49,368,171;Junio;2023
+Monte Plata; 2,868 ;84;168,588,148;Junio;2023
+Azua; 1,984 ;49;106,077,106;Junio;2023
+Baní; 1,468 ;46;44,262,194;Junio;2023
+Neyba; 963 ;75;31,897,022;Junio;2023
+Barahona; 2,086 ;71;57,498,580;Junio;2023
+San Juan de la Maguana; 4,198 ;260;278,962,628;Junio;2023
+Comendador; 657 ;32;22,147,290;Junio;2023
+Nagua; 23,785 ;270;159,798,992;Junio;2023
+Arenoso; 24,000 ;222;205,793,798;Junio;2023
+Samaná; 946 ;62;21,667,912;Junio;2023
+Río San Juan; 4,474 ;98;70,476,870;Junio;2023
+Villa Riva; 10,724 ;154;70,677,865;Junio;2023
+San Fco. Macorís; 19,841 ;139;128,699,266;Junio;2023
+Santiago; 5,315 ;61;256,521,692;Junio;2023
+Moca; 1,848 ;54;98,551,286;Junio;2023
+San José de las Matas; 310 ;21;14,275,152;Junio;2023
+Constanza; 2,990 ;138;110,427,580;Junio;2023
+La Vega; 16,710 ;267;458,031,541;Junio;2023
+Santiago Rodríguez; 384 ;40;16,225,000;Junio;2023
+Montecristi; 6,876 ;108;87,364,620;Junio;2023
+Puerto Plata; 1,804 ;98;60,903,247;Junio;2023
+Valverde Mao; 8,857 ;111;158,088,320;Junio;2023
+Dajabón; 3,688 ;82;40,350,034;Junio;2023
+San José de Ocoa; 1,989 ;89;144,637,427;Junio;2023
+Bonao; 4,380 ;82;131,602,390;Junio;2023
+San Cristóbal; 1,903 ;40;19,067,000;Junio;2023
+Salcedo; 19,679 ;83;96,008,783;Junio;2023
+Cotuí; 10,510 ;149;181,628,849;Junio;2023
+Santo Domingo; 2,248 ; 112 ; 275,423,989 ;Julio;2023
+El Seibo; 2,063 ; 44 ; 43,866,529 ;Julio;2023
+Higüey; 235 ; 38 ; 35,915,300 ;Julio;2023
+Hato Mayor; 2,926 ; 67 ; 59,572,275 ;Julio;2023
+Monte Plata; 4,970 ; 96 ; 112,503,660 ;Julio;2023
+Azua; 941 ; 35 ; 23,866,864 ;Julio;2023
+Baní; 1,345 ; 40 ; 40,202,485 ;Julio;2023
+Neyba; 1,376 ; 73 ; 36,426,407 ;Julio;2023
+Barahona; 2,781 ; 65 ; 34,424,559 ;Julio;2023
+San Juan de la Maguana; 7,075 ; 203 ; 152,015,712 ;Julio;2023
+Comendador; 1,204 ; 43 ; 23,769,296 ;Julio;2023
+Nagua; 15,035 ; 135 ; 122,304,400 ;Julio;2023
+Arenoso; 10,288 ; 125 ; 86,588,472 ;Julio;2023
+Samaná; 1,634 ; 53 ; 31,152,135 ;Julio;2023
+Río San Juan; 3,740 ; 63 ; 43,125,555 ;Julio;2023
+Villa Riva; 5,604 ; 93 ; 41,144,820 ;Julio;2023
+San Fco. Macorís; 12,443 ; 105 ; 148,671,027 ;Julio;2023
+Santiago; 1,796 ; 56 ; 184,968,419 ;Julio;2023
+Moca; 1,628 ; 48 ; 95,974,044 ;Julio;2023
+San José de las Matas; 615 ; 24 ; 14,965,514 ;Julio;2023
+Constanza; 3,117 ; 126 ; 156,083,674 ;Julio;2023
+La Vega; 5,875 ; 103 ; 222,267,263 ;Julio;2023
+Santiago Rodríguez; 386 ; 30 ; 17,965,240 ;Julio;2023
+Montecristi; 4,097 ; 45 ; 74,911,000 ;Julio;2023
+Puerto Plata; 1,995 ; 120 ; 61,784,519 ;Julio;2023
+Valverde Mao; 4,938 ; 53 ; 72,847,106 ;Julio;2023
+Dajabón; 2,895 ; 69 ; 38,142,011 ;Julio;2023
+San José de Ocoa; 1,893 ; 70 ; 104,128,860 ;Julio;2023
+Bonao; 3,880 ; 61 ; 40,551,716 ;Julio;2023
+San Cristóbal; 2,370 ; 64 ; 26,713,485 ;Julio;2023
+Salcedo; 3,676 ; 42 ; 52,336,241 ;Julio;2023
+Cotuí; 17,118 ; 180 ; 124,447,183 ;Julio;2023
+Santo Domingo; -   ; 93 ; 125,631,074 ;Agosto;2023
+El Seibo; 1,181 ; 36 ; 44,857,300 ;Agosto;2023
+Higüey; 285 ; 27 ; 47,209,000 ;Agosto;2023
+Hato Mayor; 1,787 ; 58 ; 43,169,861 ;Agosto;2023
+Monte Plata; 4,290 ; 76 ; 202,944,280 ;Agosto;2023
+Azua; 1,331 ; 61 ; 40,512,195 ;Agosto;2023
+Baní; 1,553 ; 47 ; 93,399,691 ;Agosto;2023
+Neyba; 932 ; 67 ; 31,376,190 ;Agosto;2023
+Barahona; 1,568 ; 49 ; 37,906,600 ;Agosto;2023
+San Juan de la Maguana; 2,585 ; 115 ; 121,034,489 ;Agosto;2023
+Comendador; 995 ; 28 ; 34,344,082 ;Agosto;2023
+Nagua; 8,447 ; 77 ; 135,204,000 ;Agosto;2023
+Arenoso; 1,731 ; 26 ; 28,958,452 ;Agosto;2023
+Samaná; 498 ; 32 ; 10,450,200 ;Agosto;2023
+Río San Juan; 1,990 ; 44 ; 37,780,000 ;Agosto;2023
+Villa Riva; 3,234 ; 40 ; 27,742,271 ;Agosto;2023
+San Fco. Macorís; 13,519 ; 58 ; 139,849,000 ;Agosto;2023
+Santiago; 2,219 ; 31 ; 193,063,065 ;Agosto;2023
+Moca; 712 ; 49 ; 55,665,800 ;Agosto;2023
+San José de las Matas; 1,000 ; 28 ; 16,020,362 ;Agosto;2023
+Constanza; 1,713 ; 104 ; 95,604,442 ;Agosto;2023
+La Vega; 5,465 ; 55 ; 167,199,534 ;Agosto;2023
+Santiago Rodríguez; 454 ; 51 ; 37,743,582 ;Agosto;2023
+Montecristi; 1,347 ; 33 ; 147,376,280 ;Agosto;2023
+Puerto Plata; 1,263 ; 57 ; 35,275,505 ;Agosto;2023
+Valverde Mao; 1,387 ; 41 ; 156,295,075 ;Agosto;2023
+Dajabón; 1,025 ; 40 ; 31,456,000 ;Agosto;2023
+San José de Ocoa; 1,299 ; 57 ; 63,719,724 ;Agosto;2023
+Bonao; 749 ; 19 ; 12,631,489 ;Agosto;2023
+San Cristóbal; 1,559 ; 44 ; 23,238,000 ;Agosto;2023
+Salcedo; 2,223 ; 45 ; 34,840,890 ;Agosto;2023
+Cotuí; 9,527 ; 81 ; 58,532,800 ;Agosto;2023
+Santo Domingo; 91 ; 72 ; 183,720,377 ;Septiembre;2023
+El Seibo; 269 ; 27 ; 25,406,900 ;Septiembre;2023
+Higüey; 154 ; 28 ; 23,971,300 ;Septiembre;2023
+Hato Mayor; 3,656 ; 55 ; 161,822,865 ;Septiembre;2023
+Monte Plata; 2,500 ; 91 ; 92,037,000 ;Septiembre;2023
+Azua; 1,197 ; 35 ; 54,409,918 ;Septiembre;2023
+Baní; 2,054 ; 41 ; 68,208,980 ;Septiembre;2023
+Neyba; 1,053 ; 73 ; 26,539,443 ;Septiembre;2023
+Barahona; 1,516 ; 50 ; 29,153,801 ;Septiembre;2023
+San Juan de la Maguana; 3,139 ; 118 ; 129,429,416 ;Septiembre;2023
+Comendador; 564 ; 54 ; 36,469,663 ;Septiembre;2023
+Nagua; 4,746 ; 44 ; 34,363,750 ;Septiembre;2023
+Arenoso; 250 ; 22 ; 17,841,000 ;Septiembre;2023
+Samaná; 422 ; 34 ; 10,595,275 ;Septiembre;2023
+Río San Juan; 1,450 ; 56 ; 40,383,800 ;Septiembre;2023
+Villa Riva; 4,636 ; 50 ; 36,757,788 ;Septiembre;2023
+San Fco. Macorís; 7,813 ; 40 ; 344,468,486 ;Septiembre;2023
+Santiago; 1,100 ; 47 ; 55,260,572 ;Septiembre;2023
+Moca; 1,395 ; 55 ; 148,965,400 ;Septiembre;2023
+San José de las Matas; 459 ; 22 ; 28,243,950 ;Septiembre;2023
+Constanza; 2,514 ; 126 ; 97,261,544 ;Septiembre;2023
+La Vega; 4,061 ; 44 ; 127,982,980 ;Septiembre;2023
+Santiago Rodríguez; 500 ; 55 ; 45,573,565 ;Septiembre;2023
+Montecristi; 1,708 ; 51 ; 39,363,150 ;Septiembre;2023
+Puerto Plata; 979 ; 71 ; 32,192,964 ;Septiembre;2023
+Valverde Mao; 1,047 ; 26 ; 105,845,812 ;Septiembre;2023
+Dajabón; 587 ; 45 ; 23,888,000 ;Septiembre;2023
+San José de Ocoa; 945 ; 44 ; 40,543,686 ;Septiembre;2023
+Bonao; 331 ; 16 ; 8,002,639 ;Septiembre;2023
+San Cristóbal; 1,075 ; 30 ; 7,726,685 ;Septiembre;2023
+Salcedo; 2,256 ; 36 ; 31,248,843 ;Septiembre;2023
+Cotuí; 2,792 ; 47 ; 45,190,592 ;Septiembre;2023
+Santo Domingo; 35 ; 105 ; 150,067,776 ;Octubre;2023
+El Seibo; 121 ; 30 ; 20,595,800 ;Octubre;2023
+Higüey; 335 ; 44 ; 54,257,920 ;Octubre;2023
+Hato Mayor; 1,540 ; 39 ; 54,700,971 ;Octubre;2023
+Monte Plata; 2,653 ; 110 ; 227,160,477 ;Octubre;2023
+Azua; 1,432 ; 47 ; 94,531,853 ;Octubre;2023
+Baní; 7,342 ; 42 ; 137,300,055 ;Octubre;2023
+Neyba; 993 ; 70 ; 41,381,290 ;Octubre;2023
+Barahona; 2,367 ; 56 ; 39,892,470 ;Octubre;2023
+San Juan de la Maguana; 3,731 ; 175 ; 96,648,926 ;Octubre;2023
+Comendador; 898 ; 48 ; 26,930,616 ;Octubre;2023
+Nagua; 833 ; 11 ; 5,802,422 ;Octubre;2023
+Arenoso; 532 ; 17 ; 36,309,800 ;Octubre;2023
+Samaná; 1,213 ; 63 ; 31,213,472 ;Octubre;2023
+Río San Juan; 710 ; 37 ; 46,550,000 ;Octubre;2023
+Villa Riva; 1,985 ; 44 ; 27,564,738 ;Octubre;2023
+San Fco. Macorís; 7,887 ; 48 ; 67,117,372 ;Octubre;2023
+Santiago; 2,469 ; 60 ; 72,259,160 ;Octubre;2023
+Moca; 1,526 ; 68 ; 116,408,178 ;Octubre;2023
+San José de las Matas; 651 ; 26 ; 52,886,053 ;Octubre;2023
+Constanza; 2,752 ; 124 ; 126,721,439 ;Octubre;2023
+La Vega; 5,794 ; 49 ; 110,803,996 ;Octubre;2023
+Santiago Rodríguez; 305 ; 48 ; 51,161,137 ;Octubre;2023
+Montecristi; 1,439 ; 53 ; 36,905,774 ;Octubre;2023
+Puerto Plata; 1,130 ; 88 ; 48,926,750 ;Octubre;2023
+Valverde Mao; 1,089 ; 34 ; 90,187,420 ;Octubre;2023
+Dajabón; 405 ; 34 ; 11,127,486 ;Octubre;2023
+San José de Ocoa; 2,657 ; 47 ; 107,229,751 ;Octubre;2023
+Bonao; 505 ; 22 ; 52,918,453 ;Octubre;2023
+San Cristóbal; 1,052 ; 53 ; 25,557,854 ;Octubre;2023
+Salcedo; 1,910 ; 42 ; 25,916,070 ;Octubre;2023
+Cotuí; 1,758 ; 31 ; 27,135,000 ;Octubre;2023
+Santo Domingo; 300 ; 102 ; 290,198,940 ;Noviembre ;2023
+El Seibo; 878 ; 37 ; 21,751,500 ;Noviembre ;2023
+Higüey; 1,954 ; 65 ; 25,883,900 ;Noviembre;2023
+Hato Mayor; 1,662 ; 51 ; 43,799,094 ;Noviembre;2023
+Monte Plata; 2,581 ; 108 ; 114,869,090 ;Noviembre;2023
+Azua; 1,379 ; 51 ; 93,901,700 ;Noviembre;2023
+Baní; 916 ; 49 ; 360,598,255 ;Noviembre;2023
+Neyba; 873 ; 65 ; 26,356,415 ;Noviembre;2023
+Barahona; 4,561 ; 100 ; 83,082,540 ;Noviembre;2023
+San Juan de la Maguana; 6,185 ; 179 ; 154,665,529 ;Noviembre;2023
+Comendador; 571 ; 30 ; 15,930,114 ;Noviembre;2023
+Nagua; 6,986 ; 55 ; 49,581,921 ;Noviembre;2023
+Arenoso; 22,130 ; 218 ; 166,142,156 ;Noviembre;2023
+Samaná; 816 ; 43 ; 17,460,774 ;Noviembre;2023
+Río San Juan; 864 ; 34 ; 23,846,861 ;Noviembre;2023
+Villa Riva; 9,978 ; 121 ; 155,826,034 ;Noviembre;2023
+San Fco. Macorís; 16,647 ; 105 ; 126,602,665 ;Noviembre;2023
+Santiago; 4,111 ; 55 ; 109,683,013 ;Noviembre;2023
+Moca; 1,338 ; 57 ; 61,816,626 ;Noviembre;2023
+San José de las Matas; 440 ; 16 ; 18,743,739 ;Noviembre;2023
+Constanza; 2,993 ; 130 ; 177,507,177 ;Noviembre;2023
+La Vega; 12,674 ; 220 ; 248,372,287 ;Noviembre;2023
+Santiago Rodríguez; 1,117 ; 54 ; 42,085,200 ;Noviembre;2023
+Montecristi; 16,761 ; 171 ; 153,346,750 ;Noviembre;2023
+Puerto Plata; 777 ; 84 ; 44,014,195 ;Noviembre;2023
+Valverde Mao; 3,241 ; 57 ; 53,371,862 ;Noviembre;2023
+Dajabón; 1,534 ; 38 ; 45,726,727 ;Noviembre;2023
+San José de Ocoa; 1,282 ; 43 ; 106,976,804 ;Noviembre;2023
+Bonao; 1,902 ; 47 ; 49,274,191 ;Noviembre;2023
+San Cristóbal; 561 ; 28 ; 13,064,000 ;Noviembre;2023
+Salcedo; 5,796 ; 53 ; 60,093,127 ;Noviembre;2023
+Cotuí; 2,083 ; 37 ; 81,317,900 ;Noviembre;2023
+Santo Domingo; 147 ; 112 ; 195,355,591 ;Diciembre;2023
+El Seibo; 1,733 ; 51 ; 52,130,900 ;Diciembre;2023
+Higüey; 1,891 ; 46 ; 50,032,000 ;Diciembre;2023
+Hato Mayor; 2,339 ; 65 ; 31,235,996 ;Diciembre;2023
+Monte Plata; 4,582 ; 97 ; 70,898,332 ;Diciembre;2023
+Azua; 832 ; 44 ; 117,953,000 ;Diciembre;2023
+Baní; 1,056 ; 36 ; 48,866,049 ;Diciembre;2023
+Neyba; 539 ; 51 ; 19,110,126 ;Diciembre;2023
+Barahona; 5,772 ; 99 ; 86,010,236 ;Diciembre;2023
+San Juan de la Maguana; 2,765 ; 110 ; 123,458,319 ;Diciembre;2023
+Comendador; 642 ; 28 ; 15,373,057 ;Diciembre;2023
+Nagua; 16,275 ; 169 ; 106,539,015 ;Diciembre;2023
+Arenoso; 28,488 ; 332 ; 232,435,400 ;Diciembre;2023
+Samaná; 821 ; 54 ; 24,208,520 ;Diciembre;2023
+Río San Juan; 4,008 ; 65 ; 76,014,600 ;Diciembre;2023
+Villa Riva; 11,453 ; 208 ; 80,923,315 ;Diciembre;2023
+San Fco. Macorís; 15,359 ; 174 ; 322,859,801 ;Diciembre;2023
+Santiago; 2,604 ; 40 ; 135,568,163 ;Diciembre;2023
+Moca; 3,817 ; 65 ; 107,681,878 ;Diciembre;2023
+San José de las Matas; 252 ; 12 ; 8,692,117 ;Diciembre;2023
+Constanza; 32,185 ; 141 ; 267,938,653 ;Diciembre;2023
+La Vega; 19,822 ; 185 ; 219,215,925 ;Diciembre;2023
+Santiago Rodríguez; 1,633 ; 60 ; 59,760,000 ;Diciembre;2023
+Montecristi; 9,827 ; 130 ; 82,846,000 ;Diciembre;2023
+Puerto Plata; 1,736 ; 115 ; 72,753,434 ;Diciembre;2023
+Valverde Mao; 10,881 ; 97 ; 238,739,156 ;Diciembre;2023
+Dajabón; 5,353 ; 103 ; 50,651,824 ;Diciembre;2023
+San José de Ocoa; 2,372 ; 44 ; 128,183,257 ;Diciembre;2023
+Bonao; 2,869 ; 62 ; 75,536,143 ;Diciembre;2023
+San Cristóbal; 588 ; 29 ; 13,330,495 ;Diciembre;2023
+Salcedo; 1,901 ; 38 ; 84,911,927 ;Diciembre;2023
+Cotuí; 12,487 ; 159 ; 127,968,636 ;Diciembre;2023
+Santo Domingo; 339 ; 45 ; 117,846,887 ;Enero;2024
+El Seibo; 768 ; 34 ; 20,215,200 ;Enero ;2024
+Higüey; 433 ; 27 ; 19,194,100 ;Enero;2024
+Hato Mayor; 2,876 ; 44 ; 106,878,765 ;Enero;2024
+Monte Plata; 3,963 ; 77 ; 80,945,000 ;Enero;2024
+Azua; 2,890 ; 54 ; 45,037,837 ;Enero;2024
+Baní; 1,811 ; 49 ; 47,436,049 ;Enero;2024
+Neyba; 1,463 ; 92 ; 41,348,402 ;Enero;2024
+Barahona; 4,759 ; 97 ; 68,131,400 ;Enero;2024
+San Juan de la Maguana; 4,133 ; 152 ; 119,553,781 ;Enero;2024
+Comendador; 550 ; 68 ; 47,408,731 ;Enero;2024
+Nagua; 12,439 ; 174 ; 172,427,000 ;Enero;2024
+Arenoso; 11,644 ; 128 ; 89,062,000 ;Enero;2024
+Samaná; 1,192 ; 53 ; 24,339,103 ;Enero;2024
+Río San Juan; 2,020 ; 47 ; 67,043,712 ;Enero;2024
+Villa Riva; 6,852 ; 112 ; 61,256,190 ;Enero;2024
+San Fco. Macorís; 11,815 ; 110 ; 98,185,554 ;Enero;2024
+Santiago; 1,640 ; 44 ; 149,855,469 ;Enero;2024
+Moca; 889 ; 47 ; 28,250,046 ;Enero;2024
+San José de las Matas; 295 ; 10 ; 4,140,112 ;Enero;2024
+Constanza; 9,436 ; 242 ; 474,039,751 ;Enero;2024
+La Vega; 8,413 ; 116 ; 238,838,800 ;Enero;2024
+Santiago Rodríguez; 1,190 ; 51 ; 39,615,000 ;Enero;2024
+Montecristi; 1,979 ; 42 ; 32,922,000 ;Enero;2024
+Puerto Plata; 1,358 ; 61 ; 35,646,965 ;Enero;2024
+Valverde Mao; 4,473 ; 63 ; 41,951,717 ;Enero;2024
+Dajabón; 2,716 ; 57 ; 34,263,694 ;Enero;2024
+San José de Ocoa; 1,209 ; 58 ; 77,068,684 ;Enero;2024
+Bonao; 1,718 ; 31 ; 23,386,000 ;Enero;2024
+San Cristóbal; 1,345 ; 47 ; 29,125,905 ;Enero;2024
+Salcedo; 1,006 ; 43 ; 51,028,888 ;Enero;2024
+Cotuí; 13,229 ; 131 ; 123,769,294 ;Enero;2024
+Santo Domingo; 80 ; 138 ; 374,787,222 ;Febrero ;2024
+El Seibo; 199 ; 29 ; 37,446,100 ;Febrero;2024
+Higüey; 300 ; 33 ; 23,695,710 ;Febrero;2024
+Hato Mayor; 3,042 ; 41 ; 55,320,857 ;Febrero;2024
+Monte Plata; 2,019 ; 85 ; 84,050,900 ;Febrero;2024
+Azua; 1,291 ; 39 ; 62,003,500 ;Febrero;2024
+Baní; 1,004 ; 46 ; 46,769,967 ;Febrero;2024
+Neyba; 637 ; 65 ; 25,206,000 ;Febrero;2024
+Barahona; 9,481 ; 134 ; 112,426,300 ;Febrero;2024
+San Juan de la Maguana; 3,494 ; 115 ; 92,106,025 ;Febrero;2024
+Comendador; 580 ; 79 ; 32,569,828 ;Febrero;2024
+Nagua; 7,824 ; 100 ; 47,309,256 ;Febrero;2024
+Arenoso; 1,373 ; 37 ; 33,410,616 ;Febrero;2024
+Samaná; 573 ; 49 ; 18,278,742 ;Febrero;2024
+Río San Juan; 2,593 ; 57 ; 34,723,182 ;Febrero;2024
+Villa Riva; 4,466 ; 32 ; 26,048,386 ;Febrero;2024
+San Fco. Macorís; 7,607 ; 44 ; 69,147,837 ;Febrero;2024
+Santiago; 1,093 ; 59 ; 161,064,868 ;Febrero;2024
+Moca; 1,618 ; 50 ; 48,260,936 ;Febrero;2024
+San José de las Matas; 479 ; 16 ; 9,813,605 ;Febrero;2024
+Constanza; 4,495 ; 175 ; 338,361,000 ;Febrero;2024
+La Vega; 7,993 ; 89 ; 115,354,290 ;Febrero;2024
+Santiago Rodríguez; 185 ; 34 ; 31,998,000 ;Febrero;2024
+Montecristi; 690 ; 38 ; 40,532,465 ;Febrero;2024
+Puerto Plata; 745 ; 85 ; 46,058,442 ;Febrero;2024
+Valverde Mao; 713 ; 19 ; 11,737,622 ;Febrero;2024
+Dajabón; 626 ; 32 ; 29,226,400 ;Febrero;2024
+San José de Ocoa; 640 ; 36 ; 170,287,098 ;Febrero;2024
+Bonao; 374 ; 25 ; 23,341,229 ;Febrero;2024
+San Cristóbal; 2,189 ; 56 ; 50,902,505 ;Febrero;2024
+Salcedo; 2,137 ; 36 ; 62,049,601 ;Febrero;2024
+Cotuí; 5,721 ; 59 ; 126,959,000 ;Febrero;2024
+Santo Domingo; 150 ; 138 ; 193,233,389 ;Marzo;2024
+El Seibo; 260 ; 24 ; 27,089,700 ;Marzo;2024
+Higüey; -   ; 22 ; 46,953,100 ;Marzo;2024
+Hato Mayor; 238 ; 18 ; 12,467,243 ;Marzo;2024
+Monte Plata; 1,410 ; 53 ; 104,308,600 ;Marzo;2024
+Azua; 1,328 ; 41 ; 83,331,200 ;Marzo;2024
+Baní; 1,771 ; 48 ; 54,201,525 ;Marzo;2024
+Neyba; 177 ; 47 ; 21,951,511 ;Marzo;2024
+Barahona; 2,191 ; 66 ; 37,214,127 ;Marzo;2024
+San Juan de la Maguana; 3,869 ; 89 ; 34,685,054 ;Marzo;2024
+Comendador; 323 ; 35 ; 14,075,536 ;Marzo;2024
+Nagua; 2,285 ; 35 ; 86,003,332 ;Marzo;2024
+Arenoso; 659 ; 29 ; 29,794,610 ;Marzo;2024
+Samaná; 775 ; 37 ; 18,417,143 ;Marzo;2024
+Río San Juan; 2,742 ; 45 ; 51,865,468 ;Marzo;2024
+Villa Riva; 1,256 ; 46 ; 37,188,217 ;Marzo;2024
+San Fco. Macorís; 10,440 ; 42 ; 98,374,738 ;Marzo;2024
+Santiago; 462 ; 43 ; 116,691,991 ;Marzo;2024
+Moca; 1,105 ; 49 ; 66,919,427 ;Marzo;2024
+San José de las Matas; 459 ; 10 ; 4,550,358 ;Marzo;2024
+Constanza; 3,746 ; 138 ; 205,628,202 ;Marzo;2024
+La Vega; 1,234 ; 40 ; 102,358,517 ;Marzo;2024
+Santiago Rodríguez; 260 ; 32 ; 22,134,000 ;Marzo;2024
+Montecristi; 5,056 ; 83 ; 93,187,000 ;Marzo;2024
+Puerto Plata; 904 ; 79 ; 46,101,782 ;Marzo;2024
+Valverde Mao; 1,264 ; 23 ; 109,462,170 ;Marzo;2024
+Dajabón; 794 ; 27 ; 25,497,648 ;Marzo;2024
+San José de Ocoa; 1,470 ; 65 ; 261,843,940 ;Marzo;2024
+Bonao; 1,125 ; 20 ; 48,465,839 ;Marzo;2024
+San Cristóbal; 1,697 ; 46 ; 34,644,075 ;Marzo;2024
+Salcedo; 381 ; 28 ; 52,697,131 ;Marzo;2024
+Cotuí; 2,522 ; 46 ; 36,863,636 ;Marzo;2024
+Santo Domingo; 681 ; 104 ; 406,343,653 ;Abril ;2024
+El Seibo; 271 ; 35 ; 37,431,000 ;Abril ;2024
+Higüey; 57 ; 20 ; 27,522,240 ;Abril;2024
+Hato Mayor; 686 ; 39 ; 67,820,880 ;Abril;2024
+Monte Plata; 1,229 ; 68 ; 67,949,084 ;Abril;2024
+Azua; 1,540 ; 45 ; 108,803,700 ;Abril;2024
+Baní; 3,288 ; 64 ; 96,629,205 ;Abril;2024
+Neyba; 672 ; 48 ; 21,737,322 ;Abril;2024
+Barahona; 2,879 ; 65 ; 37,240,200 ;Abril;2024
+San Juan de la Maguana; 2,719 ; 92 ; 57,750,870 ;Abril;2024
+Comendador; 677 ; 29 ; 21,525,553 ;Abril;2024
+Nagua; 1,135 ; 20 ; 13,623,758 ;Abril;2024
+Arenoso; 6,649 ; 94 ; 41,496,240 ;Abril;2024
+Samaná; 802 ; 52 ; 18,892,738 ;Abril;2024
+Río San Juan; 943 ; 27 ; 25,952,231 ;Abril;2024
+Villa Riva; 5,620 ; 69 ; 51,865,320 ;Abril;2024
+San Fco. Macorís; 5,465 ; 90 ; 69,047,568 ;Abril;2024
+Santiago; 1,099 ; 56 ; 131,101,371 ;Abril;2024
+Moca; 1,463 ; 49 ; 148,119,600 ;Abril;2024
+San José de las Matas; 521 ; 20 ; 333,258,003 ;Abril;2024
+Constanza; 4,243 ; 158 ; 191,866,755 ;Abril;2024
+La Vega; 9,947 ; 154 ; 324,233,872 ;Abril;2024
+Santiago Rodríguez; 280 ; 29 ; 13,830,100 ;Abril;2024
+Montecristi; 12,705 ; 167 ; 140,513,189 ;Abril;2024
+Puerto Plata; 786 ; 83 ; 51,998,513 ;Abril;2024
+Valverde Mao; 1,628 ; 54 ; 116,825,070 ;Abril;2024
+Dajabón; 870 ; 32 ; 22,670,000 ;Abril;2024
+San José de Ocoa; 1,919 ; 65 ; 196,403,190 ;Abril;2024
+Bonao; 110 ; 15 ; 47,813,555 ;Abril;2024
+San Cristóbal; 1,905 ; 62 ; 17,741,745 ;Abril;2024
+Salcedo; 1,469 ; 50 ; 23,662,103 ;Abril;2024
+Cotuí; 1,128 ; 27 ; 32,235,000 ;Abril;2024
+Santo Domingo; 60 ; 114 ; 450,452,326 ;Mayo;2024
+El Seibo; 304 ; 27 ; 49,646,360 ;Mayo ;2024
+Higüey; 4,863 ; 42 ; 56,946,090 ;Mayo;2024
+Hato Mayor; 1,139 ; 37 ; 152,762,646 ;Mayo;2024
+Monte Plata; 1,648 ; 69 ; 172,606,450 ;Mayo;2024
+Azua; 2,229 ; 78 ; 67,723,600 ;Mayo;2024
+Baní; 1,656 ; 54 ; 68,658,647 ;Mayo;2024
+Neyba; 429 ; 47 ; 17,010,000 ;Mayo;2024
+Barahona; 6,126 ; 105 ; 72,251,700 ;Mayo;2024
+San Juan de la Maguana; 3,364 ; 70 ; 46,938,680 ;Mayo;2024
+Comendador; 476 ; 37 ; 18,576,800 ;Mayo;2024
+Nagua; 3,481 ; 26 ; 28,349,300 ;Mayo;2024
+Arenoso; 29,078 ; 221 ; 268,516,020 ;Mayo;2024
+Samaná; 600 ; 54 ; 29,098,666 ;Mayo;2024
+Río San Juan; 323 ; 24 ; 70,161,510 ;Mayo;2024
+Villa Riva; 7,144 ; 73 ; 39,898,400 ;Mayo;2024
+San Fco. Macorís; 9,585 ; 115 ; 113,419,527 ;Mayo;2024
+Santiago; 2,332 ; 64 ; 267,809,460 ;Mayo;2024
+Moca; 2,125 ; 41 ; 62,929,697 ;Mayo;2024
+San José de las Matas; 310 ; 13 ; 9,421,053 ;Mayo;2024
+Constanza; 3,623 ; 124 ; 238,919,857 ;Mayo;2024
+La Vega; 8,416 ; 192 ; 580,673,062 ;Mayo;2024
+Santiago Rodríguez; 349 ; 31 ; 18,366,140 ;Mayo;2024
+Montecristi; 5,118 ; 73 ; 66,794,310 ;Mayo;2024
+Puerto Plata; 1,135 ; 80 ; 44,175,066 ;Mayo;2024
+Valverde Mao; 5,462 ; 88 ; 162,797,700 ;Mayo;2024
+Dajabón; 4,947 ; 80 ; 39,755,264 ;Mayo;2024
+San José de Ocoa; 2,492 ; 93 ; 172,870,555 ;Mayo;2024
+Bonao; 1,528 ; 43 ; 173,035,730 ;Mayo;2024
+San Cristóbal; 528 ; 28 ; 22,710,725 ;Mayo;2024
+Salcedo; 1,421 ; 29 ; 111,901,646 ;Mayo;2024
+Cotuí; 3,922 ; 64 ; 151,090,134 ;Mayo;2024
+Santo Domingo; 327 ; 104 ; 239,960,127 ;Junio;2024
+El Seibo; 207 ; 17 ; 10,700,700 ;Junio;2024
+Higüey; 16,686 ; 36 ; 34,493,200 ;Junio;2024
+Hato Mayor; 1,181 ; 31 ; 14,334,800 ;Junio;2024
+Monte Plata; 1,055 ; 44 ; 126,264,000 ;Junio;2024
+Azua; 519 ; 16 ; 73,516,000 ;Junio;2024
+Baní; 803 ; 36 ; 42,233,295 ;Junio;2024
+Neyba; 385 ; 41 ; 13,494,420 ;Junio;2024
+Barahona; 2,674 ; 57 ; 43,491,700 ;Junio;2024
+San Juan de la Maguana; 3,628 ; 74 ; 53,407,207 ;Junio;2024
+Comendador; 726 ; 32 ; 18,195,241 ;Junio;2024
+Nagua; 6,203 ; 85 ; 86,974,739 ;Junio;2024
+Arenoso; 13,031 ; 119 ; 94,624,500 ;Junio;2024
+Samaná; 570 ; 41 ; 15,607,187 ;Junio;2024
+Río San Juan; 4,256 ; 64 ; 44,004,832 ;Junio;2024
+Villa Riva; 3,974 ; 81 ; 42,787,691 ;Junio;2024
+San Fco. Macorís; 11,775 ; 73 ; 87,574,055 ;Junio;2024
+Santiago; 3,570 ; 52 ; 205,850,670 ;Junio;2024
+Moca; 445 ; 39 ; 82,560,338 ;Junio;2024
+San José de las Matas; 195 ; 10 ; 13,487,748 ;Junio;2024
+Constanza; 3,716 ; 42 ; 80,260,388 ;Junio;2024
+La Vega; 17,080 ; 116 ; 95,080,790 ;Junio;2024
+Santiago Rodríguez; 280 ; 27 ; 26,138,912 ;Junio;2024
+Montecristi; 4,255 ; 46 ; 66,150,200 ;Junio;2024
+Puerto Plata; 1,338 ; 99 ; 56,729,076 ;Junio;2024
+Valverde Mao; 2,806 ; 50 ; 60,610,696 ;Junio;2024
+Dajabón; 2,537 ; 47 ; 40,419,000 ;Junio;2024
+San José de Ocoa; 1,185 ; 49 ; 79,705,254 ;Junio;2024
+Bonao; 2,915 ; 56 ; 32,919,490 ;Junio;2024
+San Cristóbal; 758 ; 23 ; 12,712,740 ;Junio;2024
+Salcedo; 1,119 ; 39 ; 79,499,690 ;Junio;2024
+Cotuí; 7,823 ; 123 ; 93,099,860 ;Junio;2024
+Santo Domingo; 494 ; 109 ; 120,874,740 ;Julio;2024
+El Seibo; 440 ; 18 ; 8,303,500 ;Julio;2024
+Higüey; 560 ; 34 ; 34,845,900 ;Julio;2024
+Hato Mayor; 3,713 ; 36 ; 41,021,190 ;Julio;2024
+Monte Plata; 2,322 ; 63 ; 72,046,156 ;Julio;2024
+Azua; 703 ; 32 ; 78,200,467 ;Julio;2024
+Baní; 1,349 ; 42 ; 39,680,600 ;Julio;2024
+Neyba; 498 ; 40 ; 13,581,229 ;Julio;2024
+Barahona; 2,437 ; 54 ; 40,453,000 ;Julio;2024
+San Juan de la Maguana; 6,949 ; 114 ; 119,995,889 ;Julio;2024
+Comendador; 825 ; 29 ; 12,394,290 ;Julio;2024
+Nagua; 17,357 ; 218 ; 114,559,000 ;Julio;2024
+Arenoso; 9,885 ; 96 ; 84,615,543 ;Julio;2024
+Samaná; 751 ; 41 ; 16,203,630 ;Julio;2024
+Río San Juan; 3,664 ; 78 ; 58,361,000 ;Julio;2024
+Villa Riva; 9,943 ; 134 ; 74,610,300 ;Julio;2024
+San Fco. Macorís; 10,778 ; 113 ; 154,550,459 ;Julio;2024
+Santiago; 2,231 ; 60 ; 153,792,819 ;Julio;2024
+Moca; 2,193 ; 67 ; 51,875,756 ;Julio;2024
+San José de las Matas; 346 ; 15 ; 22,196,219 ;Julio;2024
+Constanza; 33,135 ; 157 ; 169,408,933 ;Julio;2024
+La Vega; 9,482 ; 92 ; 177,726,798 ;Julio;2024
+Santiago Rodríguez; 225 ; 32 ; 24,764,829 ;Julio;2024
+Montecristi; 302 ; 22 ; 52,509,447 ;Julio;2024
+Puerto Plata; 1,911 ; 99 ; 55,222,719 ;Julio;2024
+Valverde Mao; 7,623 ; 67 ; 199,001,093 ;Julio;2024
+Dajabón; 2,273 ; 52 ; 34,606,100 ;Julio;2024
+San José de Ocoa; 8,727 ; 66 ; 123,497,324 ;Julio;2024
+Bonao; 2,210 ; 50 ; 31,336,824 ;Julio;2024
+San Cristóbal; 1,275 ; 41 ; 15,236,805 ;Julio;2024
+Salcedo; 5,480 ; 49 ; 52,285,134 ;Julio;2024
+Cotuí; 13,041 ; 155 ; 109,326,450 ;Julio;2024
+Santo Domingo; 80 ; 71 ; 82,669,734 ;Agosto;2024
+El Seibo; 395 ; 24 ; 14,346,000 ;Agosto;2024
+Higüey; 150 ; 21 ; 25,892,092 ;Agosto;2024
+Hato Mayor; 3,482 ; 45 ; 48,089,030 ;Agosto;2024
+Monte Plata; 1,009 ; 38 ; 27,309,000 ;Agosto;2024
+Azua; 1,870 ; 53 ; 61,270,952 ;Agosto;2024
+Baní; 1,156 ; 26 ; 35,456,330 ;Agosto;2024
+Neyba; 469 ; 43 ; 12,669,917 ;Agosto;2024
+Barahona; 2,355 ; 49 ; 48,783,940 ;Agosto;2024
+San Juan de la Maguana; 1,850 ; 63 ; 20,630,130 ;Agosto;2024
+Comendador; 472 ; 30 ; 17,209,000 ;Agosto;2024
+Nagua; 7,231 ; 60 ; 53,386,400 ;Agosto;2024
+Arenoso; 1,950 ; 29 ; 29,325,100 ;Agosto;2024
+Samaná; 585 ; 38 ; 11,634,900 ;Agosto;2024
+Río San Juan; 1,209 ; 36 ; 29,809,000 ;Agosto;2024
+Villa Riva; 2,694 ; 43 ; 26,163,500 ;Agosto;2024
+San Fco. Macorís; 9,364 ; 50 ; 88,720,100 ;Agosto;2024
+Santiago; 560 ; 33 ; 142,875,679 ;Agosto;2024
+Moca; 1,776 ; 47 ; 30,199,600 ;Agosto;2024
+San José de las Matas; 733 ; 22 ; 20,827,312 ;Agosto;2024
+Constanza; 4,329 ; 66 ; 116,671,500 ;Agosto;2024
+La Vega; 4,322 ; 45 ; 50,945,400 ;Agosto;2024
+Santiago Rodríguez; 205 ; 26 ; 19,443,158 ;Agosto;2024
+Montecristi; 4,001 ; 37 ; 79,360,100 ;Agosto;2024
+Puerto Plata; 568 ; 48 ; 24,686,452 ;Agosto;2024
+Valverde Mao; 528 ; 29 ; 269,104,516 ;Agosto;2024
+Dajabón; 493 ; 31 ; 20,445,412 ;Agosto;2024
+San José de Ocoa; 16,506 ; 43 ; 86,951,105 ;Agosto;2024
+Bonao; 1,488 ; 21 ; 26,498,614 ;Agosto;2024
+San Cristóbal; 1,476 ; 42 ; 14,145,030 ;Agosto;2024
+Salcedo; 1,405 ; 35 ; 18,262,200 ;Agosto;2024
+Cotuí; 9,438 ; 55 ; 85,429,070 ;Agosto;2024
+Santo Domingo; 385 ; 61 ; 149,832,622 ;Septiembre;2024
+El Seibo; 1,053 ; 20 ; 11,504,000 ;Septiembre ;2024
+Higüey; 317 ; 40 ; 27,606,452 ;Septiembre;2024
+Hato Mayor; 438 ; 16 ; 8,714,330 ;Septiembre;2024
+Monte Plata; 399 ; 23 ; 20,993,000 ;Septiembre;2024
+Azua; 972 ; 25 ; 11,916,500 ;Septiembre;2024
+Baní; 380 ; 15 ; 17,185,400 ;Septiembre;2024
+Neyba; 417 ; 55 ; 17,705,400 ;Septiembre;2024
+Barahona; 525 ; 13 ; 9,106,263 ;Septiembre;2024
+San Juan de la Maguana; 1,364 ; 43 ; 18,573,500 ;Septiembre;2024
+Comendador; -   ; 11 ; 7,047,800 ;Septiembre;2024
+Nagua; 1,416 ; 11 ; 7,590,200 ;Septiembre;2024
+Arenoso; 547 ; 18 ; 15,779,269 ;Septiembre;2024
+Samaná; 970 ; 40 ; 17,942,500 ;Septiembre;2024
+Río San Juan; 472 ; 18 ; 8,141,700 ;Septiembre;2024
+Villa Riva; 1,913 ; 31 ; 15,768,285 ;Septiembre;2024
+San Fco. Macorís; 4,358 ; 34 ; 73,599,974 ;Septiembre;2024
+Santiago; 250 ; 27 ; 43,750,909 ;Septiembre;2024
+Moca; 2,752 ; 53 ; 131,244,600 ;Septiembre;2024
+San José de las Matas; 654 ; 25 ; 16,593,182 ;Septiembre;2024
+Constanza; 24,637 ; 65 ; 80,560,000 ;Septiembre;2024
+La Vega; 1,564 ; 34 ; 88,477,079 ;Septiembre;2024
+Santiago Rodríguez; 69 ; 18 ; 17,812,600 ;Septiembre;2024
+Montecristi; 480 ; 41 ; 19,509,930 ;Septiembre;2024
+Puerto Plata; 803 ; 53 ; 37,340,706 ;Septiembre;2024
+Valverde Mao; 145 ; 21 ; 108,748,712 ;Septiembre;2024
+Dajabón; 537 ; 29 ; 15,951,500 ;Septiembre;2024
+San José de Ocoa; 6,635 ; 36 ; 32,839,250 ;Septiembre;2024
+Bonao; 486 ; 14 ; 11,734,400 ;Septiembre;2024
+San Cristóbal; 1,316 ; 34 ; 8,505,000 ;Septiembre;2024
+Salcedo; 1,009 ; 27 ; 20,026,379 ;Septiembre;2024
+Cotuí; 5,707 ; 59 ; 41,939,528 ;Septiembre;2024
+Santo Domingo; -   ; 73 ; 259,717,134 ;Octubre ;2024
+El Seibo; 345 ; 25 ; 17,474,300 ;Octubre;2024
+Higüey; 105 ; 32 ; 32,752,628 ;Octubre;2024
+Hato Mayor; 238 ; 28 ; 18,534,600 ;Octubre;2024
+Monte Plata; 1,334 ; 61 ; 82,516,900 ;Octubre;2024
+Azua; 937 ; 34 ; 20,162,000 ;Octubre;2024
+Baní; 3,268 ; 40 ; 174,432,900 ;Octubre;2024
+Neyba; 173 ; 39 ; 12,931,900 ;Octubre;2024
+Barahona; -   ; 4 ; 1,380,200 ;Octubre;2024
+San Juan de la Maguana; 967 ; 43 ; 36,218,500 ;Octubre;2024
+Comendador; 177 ; 23 ; 13,019,520 ;Octubre;2024
+Nagua; 581 ; 13 ; 86,182,050 ;Octubre;2024
+Arenoso; 280 ; 19 ; 13,988,030 ;Octubre;2024
+Samaná; 889 ; 49 ; 17,591,901 ;Octubre;2024
+Río San Juan; 436 ; 38 ; 27,163,990 ;Octubre;2024
+Villa Riva; 1,891 ; 27 ; 17,902,520 ;Octubre;2024
+San Fco. Macorís; 7,829 ; 47 ; 62,934,183 ;Octubre;2024
+Santiago; 1,772 ; 49 ; 90,935,486 ;Octubre;2024
+Moca; 758 ; 43 ; 101,172,400 ;Octubre;2024
+San José de las Matas; 576 ; 22 ; 28,044,593 ;Octubre;2024
+Constanza; 7,381 ; 98 ; 123,500,000 ;Octubre;2024
+La Vega; 18,666 ; 46 ; 77,671,101 ;Octubre;2024
+Santiago Rodríguez; 370 ; 30 ; 21,867,952 ;Octubre;2024
+Montecristi; 1,049 ; 35 ; 16,991,765 ;Octubre;2024
+Puerto Plata; 1,137 ; 59 ; 35,727,092 ;Octubre;2024
+Valverde Mao; 573 ; 27 ; 86,655,934 ;Octubre;2024
+Dajabón; 283 ; 24 ; 28,766,200 ;Octubre;2024
+San José de Ocoa; 7,372 ; 42 ; 55,735,205 ;Octubre;2024
+Bonao; 400 ; 9 ; 15,605,341 ;Octubre;2024
+San Cristóbal; 597 ; 25 ; 10,205,000 ;Octubre;2024
+Salcedo; 12,304 ; 26 ; 57,921,560 ;Octubre;2024
+Cotuí; 6,606 ; 66 ; 107,919,699 ;Octubre;2024
+Santo Domingo; 310 ; 59 ; 272,393,616 ;Noviembre;2024
+El Seibo; 756 ; 24 ; 13,672,500 ;Noviembre;2024
+Higüey; 2,193 ; 51 ; 19,902,600 ;Noviembre;2024
+Hato Mayor; 259 ; 20 ; 27,455,189 ;Noviembre;2024
+Monte Plata; 602 ; 29 ; 22,039,400 ;Noviembre;2024
+Azua; 1,085 ; 32 ; 26,063,935 ;Noviembre;2024
+Baní; 1,715 ; 23 ; 41,825,000 ;Noviembre;2024
+Neyba; 607 ; 27 ; 10,099,540 ;Noviembre;2024
+Barahona; 23 ; 5 ; 2,082,000 ;Noviembre;2024
+San Juan de la Maguana; 7,416 ; 176 ; 68,227,270 ;Noviembre;2024
+Comendador; 194 ; 12 ; 17,559,500 ;Noviembre;2024
+Nagua; 3,636 ; 44 ; 19,545,000 ;Noviembre;2024
+Arenoso; 9,713 ; 73 ; 72,416,292 ;Noviembre;2024
+Samaná; 405 ; 35 ; 13,442,971 ;Noviembre;2024
+Río San Juan; 365 ; 17 ; 16,919,400 ;Noviembre;2024
+Villa Riva; 5,209 ; 63 ; 35,811,018 ;Noviembre;2024
+San Fco. Macorís; 2,660 ; 33 ; 52,166,646 ;Noviembre;2024
+Santiago; 1,005 ; 36 ; 76,898,445 ;Noviembre;2024
+Moca; 1,353 ; 46 ; 54,018,443 ;Noviembre;2024
+San José de las Matas; 745 ; 15 ; 12,245,581 ;Noviembre;2024
+Constanza; 2,909 ; 84 ; 86,246,500 ;Noviembre;2024
+La Vega; 5,264 ; 129 ; 54,765,187 ;Noviembre;2024
+Santiago Rodríguez; 980 ; 24 ; 27,228,368 ;Noviembre;2024
+Montecristi; 9,980 ; 80 ; 70,022,077 ;Noviembre;2024
+Puerto Plata; 1,352 ; 54 ; 28,463,192 ;Noviembre;2024
+Valverde Mao; 638 ; 21 ; 171,424,667 ;Noviembre;2024
+Dajabón; 777 ; 23 ; 10,078,400 ;Noviembre;2024
+San José de Ocoa; 1,184 ; 25 ; 83,009,328 ;Noviembre;2024
+Bonao; 555 ; 19 ; 21,102,000 ;Noviembre;2024
+San Cristóbal; 1,430 ; 38 ; 11,977,000 ;Noviembre;2024
+Salcedo; 1,931 ; 21 ; 24,038,660 ;Noviembre;2024
+Cotuí; 2,938 ; 22 ; 77,775,772 ;Noviembre;2024
+Santo Domingo; 387 ; 68 ; 219,550,552 ;Diciembre;2024
+El Seibo; 1,175 ; 50 ; 51,055,400 ;Diciembre;2024
+Higüey; 1,121 ; 32 ; 28,617,500 ;Diciembre;2024
+Hato Mayor; 6,009 ; 43 ; 148,242,490 ;Diciembre;2024
+Monte Plata; 1,745 ; 33 ; 112,074,146 ;Diciembre;2024
+Azua; 809 ; 26 ; 13,585,000 ;Diciembre;2024
+Baní; 528 ; 12 ; 230,465,000 ;Diciembre;2024
+Neyba; 192 ; 33 ; 10,122,900 ;Diciembre;2024
+Barahona; 338 ; 9 ; 4,800,900 ;Diciembre;2024
+San Juan de la Maguana; 2,123 ; 52 ; 140,920,184 ;Diciembre;2024
+Comendador; 45 ; 19 ; 16,156,104 ;Diciembre;2024
+Nagua; 13,719 ; 131 ; 84,018,000 ;Diciembre;2024
+Arenoso; 28,535 ; 253 ; 199,731,600 ;Diciembre;2024
+Samaná; 667 ; 44 ; 17,452,326 ;Diciembre;2024
+Río San Juan; 4,293 ; 78 ; 43,856,000 ;Diciembre;2024
+Villa Riva; 11,232 ; 151 ; 75,204,000 ;Diciembre;2024
+San Fco. Macorís; 17,106 ; 125 ; 221,894,721 ;Diciembre;2024
+Santiago; 2,156 ; 53 ; 138,312,665 ;Diciembre;2024
+Moca; 3,950 ; 55 ; 107,555,958 ;Diciembre;2024
+San José de las Matas; 840 ; 16 ; 14,785,715 ;Diciembre;2024
+Constanza; 9,540 ; 88 ; 86,319,950 ;Diciembre;2024
+La Vega; 12,479 ; 175 ; 128,669,872 ;Diciembre;2024
+Santiago Rodríguez; 1,110 ; 29 ; 37,583,112 ;Diciembre;2024
+Montecristi; 11,083 ; 147 ; 86,393,600 ;Diciembre;2024
+Puerto Plata; 1,785 ; 83 ; 49,414,173 ;Diciembre;2024
+Valverde Mao; 4,084 ; 67 ; 162,445,625 ;Diciembre;2024
+Dajabón; 5,196 ; 92 ; 47,138,500 ;Diciembre;2024
+San José de Ocoa; 884 ; 32 ; 183,875,293 ;Diciembre;2024
+Bonao; 3,088 ; 59 ; 42,015,600 ;Diciembre;2024
+San Cristóbal; 559 ; 26 ; 4,450,000 ;Diciembre;2024
+Salcedo; 3,144 ; 32 ; 61,347,200 ;Diciembre;2024
+Cotuí; 8,103 ; 100 ; 70,292,000 ;Diciembre;2024
+Santo Domingo; 100 ; 46 ; 110,292,400 ;Enero;2025
+El Seibo; 329 ; 22 ; 9,531,300 ;Enero ;2025
+Higüey; 370 ; 24 ; 18,423,163 ;Enero;2025
+Hato Mayor; 1,352 ; 30 ; 28,028,200 ;Enero;2025
+Monte Plata; 1,222 ; 35 ; 24,315,250 ;Enero;2025
+Azua; 438 ; 14 ; 9,445,000 ;Enero;2025
+Baní; 467 ; 18 ; 16,459,026 ;Enero;2025
+Neyba; 255 ; 20 ; 7,479,511 ;Enero;2025
+Barahona; 745 ; 16 ; 6,282,500 ;Enero;2025
+San Juan de la Maguana; 3,327 ; 58 ; 66,292,600 ;Enero;2025
+Comendador; 295 ; 23 ; 12,326,119 ;Enero;2025
+Nagua; 10,047 ; 110 ; 66,165,000 ;Enero;2025
+Arenoso; 14,290 ; 167 ; 106,239,350 ;Enero;2025
+Samaná; 571 ; 34 ; 14,708,259 ;Enero;2025
+Río San Juan; 1,621 ; 28 ; 26,444,735 ;Enero;2025
+Villa Riva; 10,682 ; 143 ; 77,996,000 ;Enero;2025
+San Fco. Macorís; 18,688 ; 129 ; 303,063,061 ;Enero;2025
+Santiago; 491 ; 45 ; 147,525,795 ;Enero;2025
+Moca; 7,028 ; 42 ; 65,717,000 ;Enero;2025
+San José de las Matas; 776 ; 14 ; 15,418,782 ;Enero;2025
+Constanza; 6,168 ; 127 ; 169,488,300 ;Enero;2025
+La Vega; 5,766 ; 99 ; 166,056,053 ;Enero;2025
+Santiago Rodríguez; 740 ; 18 ; 22,115,667 ;Enero;2025
+Montecristi; 4,121 ; 61 ; 40,085,000 ;Enero;2025
+Puerto Plata; 460 ; 61 ; 46,683,878 ;Enero;2025
+Valverde Mao; 10,497 ; 120 ; 89,879,238 ;Enero;2025
+Dajabón; 2,583 ; 49 ; 31,967,700 ;Enero;2025
+San José de Ocoa; 555 ; 28 ; 59,694,903 ;Enero;2025
+Bonao; 1,228 ; 29 ; 160,803,555 ;Enero;2025
+San Cristóbal; 713 ; 20 ; 7,959,000 ;Enero;2025
+Salcedo; 2,391 ; 21 ; 25,730,000 ;Enero;2025
+Cotuí; 18,914 ; 131 ; 78,827,020 ;Enero;2025
+Santo Domingo; -   ; 50 ; 101,220,574 ;Febrero;2025
+El Seibo; 138 ; 14 ; 28,919,500 ;Febrero;2025
+Higüey; 228 ; 19 ; 7,475,400 ;Febrero;2025
+Hato Mayor; 721 ; 17 ; 23,621,000 ;Febrero;2025
+Monte Plata; 1,018 ; 32 ; 42,827,300 ;Febrero;2025
+Azua; 1,046 ; 36 ; 18,110,800 ;Febrero;2025
+Baní; 548 ; 21 ; 109,355,000 ;Febrero;2025
+Neyba; 332 ; 22 ; 7,940,000 ;Febrero;2025
+Barahona; 1,248 ; 36 ; 13,026,000 ;Febrero;2025
+San Juan de la Maguana; 2,234 ; 57 ; 24,746,000 ;Febrero;2025
+Comendador; 535 ; 23 ; 14,082,803 ;Febrero;2025
+Nagua; 4,880 ; 66 ; 62,921,800 ;Febrero;2025
+Arenoso; 7,647 ; 101 ; 58,521,200 ;Febrero;2025
+Samaná; 226 ; 23 ; 10,384,873 ;Febrero;2025
+Río San Juan; 976 ; 30 ; 25,624,200 ;Febrero;2025
+Villa Riva; 5,022 ; 34 ; 34,830,500 ;Febrero;2025
+San Fco. Macorís; 6,501 ; 48 ; 238,665,249 ;Febrero;2025
+Santiago; 1,268 ; 44 ; 51,825,719 ;Febrero;2025
+Moca; 739 ; 40 ; 25,571,000 ;Febrero;2025
+San José de las Matas; 1,074 ; 25 ; 24,626,794 ;Febrero;2025
+Constanza; 7,489 ; 116 ; 216,815,000 ;Febrero;2025
+La Vega; 8,390 ; 61 ; 41,053,962 ;Febrero;2025
+Santiago Rodríguez; 385 ; 31 ; 30,779,226 ;Febrero;2025
+Montecristi; 796 ; 23 ; 30,203,200 ;Febrero;2025
+Puerto Plata; 902 ; 64 ; 41,516,787 ;Febrero;2025
+Valverde Mao; 2,577 ; 40 ; 44,482,818 ;Febrero;2025
+Dajabón; 588 ; 28 ; 17,297,719 ;Febrero;2025
+San José de Ocoa; 756 ; 37 ; 52,829,620 ;Febrero;2025
+Bonao; 888 ; 15 ; 14,723,560 ;Febrero;2025
+San Cristóbal; 919 ; 27 ; 7,665,000 ;Febrero;2025
+Salcedo; 2,253 ; 22 ; 17,527,521 ;Febrero;2025
+Cotuí; 4,195 ; 51 ; 42,176,500 ;Febrero;2025
+Santo Domingo; -   ; 95 ; 315,888,531 ;Marzo;2025
+El Seibo; 101 ; 27 ; 26,654,763 ;Marzo;2025
+Higüey; 313 ; 24 ; 142,529,800 ;Marzo;2025
+Hato Mayor; 1,983 ; 30 ; 52,263,622 ;Marzo;2025
+Monte Plata; 508 ; 28 ; 18,017,600 ;Marzo;2025
+Azua; 1,839 ; 41 ; 29,793,383 ;Marzo;2025
+Baní; 1,102 ; 35 ; 24,128,900 ;Marzo;2025
+Neyba; 845 ; 34 ; 16,762,205 ;Marzo;2025
+Barahona; 1,186 ; 29 ; 8,114,200 ;Marzo;2025
+San Juan de la Maguana; 1,944 ; 53 ; 61,916,187 ;Marzo;2025
+Comendador; 475 ; 34 ; 17,504,031 ;Marzo;2025
+Nagua; 3,462 ; 36 ; 21,381,000 ;Marzo;2025
+Arenoso; 656 ; 10 ; 6,387,000 ;Marzo;2025
+Samaná; 791 ; 36 ; 16,583,536 ;Marzo;2025
+Río San Juan; 1,115 ; 31 ; 24,300,000 ;Marzo;2025
+Villa Riva; 670 ; 20 ; 11,140,000 ;Marzo;2025
+San Fco. Macorís; 5,056 ; 42 ; 88,344,865 ;Marzo;2025
+Santiago; 2,423 ; 46 ; 76,702,187 ;Marzo;2025
+Moca; 484 ; 41 ; 72,266,100 ;Marzo;2025
+San José de las Matas; 1,221 ; 35 ; 20,038,681 ;Marzo;2025
+Constanza; 4,335 ; 155 ; 346,071,999 ;Marzo;2025
+La Vega; 7,784 ; 52 ; 85,311,420 ;Marzo;2025
+Santiago Rodríguez; 220 ; 20 ; 48,015,511 ;Marzo;2025
+Montecristi; 3,036 ; 46 ; 58,863,000 ;Marzo;2025
+Puerto Plata; 925 ; 78 ; 53,046,152 ;Marzo;2025
+Valverde Mao; 3,163 ; 31 ; 102,989,898 ;Marzo;2025
+Dajabón; 1,466 ; 30 ; 26,228,200 ;Marzo;2025
+San José de Ocoa; 16,493 ; 24 ; 19,574,383 ;Marzo;2025
+Bonao; 150 ; 16 ; 19,499,292 ;Marzo;2025
+San Cristóbal; 2,410 ; 58 ; 21,779,000 ;Marzo;2025
+Salcedo; 1,770 ; 29 ; 25,642,070 ;Marzo;2025
+Cotuí; 1,999 ; 32 ; 85,867,331 ;Marzo;2025
+Santo Domingo; 220 ; 83 ; 315,435,191 ;Abril;2025
+El Seibo; 220 ; 15 ; 17,176,100 ;Abril;2025
+Higüey; 73 ; 22 ; 24,142,900 ;Abril;2025
+Hato Mayor; 89 ; 14 ; 22,723,514 ;Abril;2025
+Monte Plata; 418 ; 23 ; 24,508,400 ;Abril;2025
+Azua; 846 ; 29 ; 13,340,000 ;Abril;2025
+Baní; 561 ; 28 ; 22,898,020 ;Abril;2025
+Neyba; 170 ; 20 ; 6,014,500 ;Abril;2025
+Barahona; 674 ; 26 ; 12,285,100 ;Abril;2025
+San Juan de la Maguana; 1,024 ; 38 ; 59,111,000 ;Abril;2025
+Comendador; 239 ; 17 ; 11,890,000 ;Abril;2025
+Nagua; 2,920 ; 31 ; 93,272,800 ;Abril;2025
+Arenoso; 949 ; 22 ; 35,921,500 ;Abril;2025
+Samaná; 749 ; 35 ; 13,809,450 ;Abril;2025
+Río San Juan; 1,270 ; 28 ; 16,230,000 ;Abril;2025
+Villa Riva; 2,898 ; 30 ; 20,045,834 ;Abril;2025
+San Fco. Macorís; 5,715 ; 57 ; 194,124,057 ;Abril;2025
+Santiago; 2,489 ; 55 ; 164,733,320 ;Abril;2025
+Moca; 1,141 ; 36 ; 65,768,200 ;Abril;2025
+San José de las Matas; 330 ; 19 ; 16,133,529 ;Abril;2025
+Constanza; 3,863 ; 140 ; 281,950,082 ;Abril;2025
+La Vega; 2,860 ; 79 ; 300,185,303 ;Abril;2025
+Santiago Rodríguez; 310 ; 22 ; 15,689,926 ;Abril;2025
+Montecristi; 10,934 ; 149 ; 208,349,995 ;Abril;2025
+Puerto Plata; 382 ; 59 ; 32,185,698 ;Abril;2025
+Valverde Mao; 1,131 ; 30 ; 126,264,920 ;Abril;2025
+Dajabón; 1,670 ; 36 ; 22,759,000 ;Abril;2025
+San José de Ocoa; 1,334 ; 42 ; 108,307,880 ;Abril;2025
+Bonao; 190 ; 9 ; 13,996,700 ;Abril;2025
+San Cristóbal; 1,087 ; 34 ; 7,795,000 ;Abril;2025
+Salcedo; 1,581 ; 36 ; 19,664,821 ;Abril;2025
+Cotuí; 1,512 ; 22 ; 34,689,914 ;Abril;2025
+Santo Domingo; 425 ; 75 ; 330,345,449 ;Mayo ;2025
+El Seibo; 213 ; 13 ; 69,044,400 ;Mayo ;2025
+Higüey; 973 ; 33 ; 16,171,900 ;Mayo;2025
+Hato Mayor; 189 ; 15 ; 28,296,600 ;Mayo;2025
+Monte Plata; 753 ; 27 ; 59,445,025 ;Mayo;2025
+Azua; 863 ; 29 ; 14,475,000 ;Mayo;2025
+Baní; 2,553 ; 53 ; 62,092,930 ;Mayo;2025
+Neyba; 470 ; 21 ; 11,357,000 ;Mayo;2025
+Barahona; 485 ; 12 ; 11,782,760 ;Mayo;2025
+San Juan de la Maguana; 892 ; 40 ; 34,747,697 ;Mayo;2025
+Comendador; 325 ; 26 ; 15,186,500 ;Mayo;2025
+Nagua; 784 ; 13 ; 30,833,000 ;Mayo;2025
+Arenoso; 8,882 ; 111 ; 82,044,500 ;Mayo;2025
+Samaná; 851 ; 43 ; 19,104,161 ;Mayo;2025
+Río San Juan; 495 ; 23 ; 64,064,000 ;Mayo;2025
+Villa Riva; 6,243 ; 84 ; 35,173,000 ;Mayo;2025
+San Fco. Macorís; 8,148 ; 113 ; 95,580,486 ;Mayo;2025
+Santiago; 215 ; 50 ; 162,875,824 ;Mayo;2025
+Moca; 546 ; 35 ; 35,795,832 ;Mayo;2025
+San José de las Matas; 1,234 ; 29 ; 33,973,242 ;Mayo;2025
+Constanza; 2,203 ; 68 ; 112,417,500 ;Mayo;2025
+La Vega; 8,476 ; 162 ; 262,380,135 ;Mayo;2025
+Santiago Rodríguez; 15 ; 13 ; 12,216,260 ;Mayo;2025
+Montecristi; 5,778 ; 100 ; 111,274,640 ;Mayo;2025
+Puerto Plata; 1,456 ; 72 ; 54,866,065 ;Mayo;2025
+Valverde Mao; 3,585 ; 80 ; 357,951,947 ;Mayo;2025
+Dajabón; 1,454 ; 32 ; 24,975,000 ;Mayo;2025
+San José de Ocoa; 1,333 ; 41 ; 97,072,137 ;Mayo;2025
+Bonao; 708 ; 18 ; 45,968,000 ;Mayo;2025
+San Cristóbal; 1,375 ; 32 ; 15,506,000 ;Mayo;2025
+Salcedo; 2,152 ; 31 ; 65,845,132 ;Mayo;2025
+Cotuí; 4,537 ; 48 ; 232,601,400 ;Mayo;2025
+Santo Domingo; 275 ; 97 ; 226,813,725 ;Junio;2025
+El Seibo; 483 ; 20 ; 13,398,000 ;Junio;2025
+Higüey; 1,170 ; 37 ; 30,628,300 ;Junio;2025
+Hato Mayor; 3,857 ; 25 ; 36,103,417 ;Junio;2025
+Monte Plata; 811 ; 25 ; 38,074,410 ;Junio;2025
+Azua; 1,025 ; 29 ; 18,450,000 ;Junio;2025
+Baní; 797 ; 32 ; 29,456,230 ;Junio;2025
+Neyba; 576 ; 28 ; 10,831,100 ;Junio;2025
+Barahona; 55 ; 15 ; 13,208,900 ;Junio;2025
+San Juan de la Maguana; 3,127 ; 70 ; 48,056,323 ;Junio;2025
+Comendador; 1,296 ; 42 ; 18,886,883 ;Junio;2025
+Nagua; 11,118 ; 127 ; 89,169,000 ;Junio;2025
+Arenoso; 19,670 ; 148 ; 141,448,870 ;Junio;2025
+Samaná; 572 ; 42 ; 15,976,366 ;Junio;2025
+Río San Juan; 2,324 ; 53 ; 42,100,000 ;Junio;2025
+Villa Riva; 5,448 ; 87 ; 31,461,900 ;Junio;2025
+San Fco. Macorís; 8,856 ; 115 ; 147,625,936 ;Junio;2025
+Santiago; 530 ; 38 ; 114,686,258 ;Junio;2025
+Moca; 369 ; 28 ; 88,649,000 ;Junio;2025
+San José de las Matas; 873 ; 24 ; 31,002,304 ;Junio;2025
+Constanza; 2,290 ; 27 ; 73,771,000 ;Junio;2025
+La Vega; 8,740 ; 100 ; 254,582,818 ;Junio;2025
+Santiago Rodríguez; 15 ; 19 ; 23,167,681 ;Junio;2025
+Montecristi; 3,997 ; 37 ; 63,828,600 ;Junio;2025
+Puerto Plata; 960 ; 55 ; 35,283,077 ;Junio;2025
+Valverde Mao; 7,216 ; 87 ; 81,214,550 ;Junio;2025
+Dajabón; 2,395 ; 55 ; 27,348,000 ;Junio;2025
+San José de Ocoa; 1,430 ; 52 ; 76,292,100 ;Junio;2025
+Bonao; 1,159 ; 31 ; 70,634,080 ;Junio;2025
+San Cristóbal; 894 ; 31 ; 10,000,000 ;Junio;2025
+Salcedo; 1,348 ; 28 ; 42,839,756 ;Junio;2025
+Cotuí; 6,528 ; 104 ; 80,788,160 ;Junio;2025
+Santo Domingo; 412 ; 77 ; 119,597,000 ;Julio;2025
+El Seibo; 1,089 ; 29 ; 32,836,813 ;Julio;2025
+Higüey; 1,461 ; 41 ; 44,491,800 ;Julio;2025
+Hato Mayor; 2,529 ; 40 ; 20,906,900 ;Julio;2025
+Monte Plata; 1,118 ; 49 ; 184,000,678 ;Julio;2025
+Azua; 1,535 ; 49 ; 98,078,987 ;Julio;2025
+Baní; 1,423 ; 43 ; 48,455,900 ;Julio;2025
+Neyba; 411 ; 32 ; 13,885,700 ;Julio;2025
+Barahona; 480 ; 19 ; 10,812,100 ;Julio;2025
+San Juan de la Maguana; 7,943 ; 139 ; 135,161,809 ;Julio;2025
+Comendador; 761 ; 31 ; 33,230,526 ;Julio;2025
+Nagua; 13,291 ; 130 ; 92,709,000 ;Julio;2025
+Arenoso; 12,264 ; 135 ; 83,475,500 ;Julio;2025
+Samaná; 467 ; 54 ; 22,730,305 ;Julio;2025
+Río San Juan; 2,924 ; 51 ; 38,806,760 ;Julio;2025
+Villa Riva; 7,478 ; 82 ; 49,691,823 ;Julio;2025
+San Fco. Macorís; 14,892 ; 96 ; 123,661,645 ;Julio;2025
+Santiago; 3,320 ; 57 ; 188,288,895 ;Julio;2025
+Moca; 1,031 ; 44 ; 50,492,500 ;Julio;2025
+San José de las Matas; 743 ; 40 ; 28,537,046 ;Julio;2025
+Constanza; 1,941 ; 44 ; 123,264,000 ;Julio;2025
+La Vega; 7,697 ; 107 ; 179,845,970 ;Julio;2025
+Santiago Rodríguez; 150 ; 26 ; 19,761,144 ;Julio;2025
+Montecristi; 2,497 ; 53 ; 82,880,000 ;Julio;2025
+Puerto Plata; 2,055 ; 94 ; 58,551,346 ;Julio;2025
+Valverde Mao; 4,413 ; 50 ; 187,120,343 ;Julio;2025
+Dajabón; 2,809 ; 54 ; 36,897,705 ;Julio;2025
+San José de Ocoa; 1,116 ; 40 ; 187,949,253 ;Julio;2025
+Bonao; 1,723 ; 43 ; 51,757,447 ;Julio;2025
+San Cristóbal; 1,356 ; 32 ; 20,987,000 ;Julio;2025
+Salcedo; 2,304 ; 27 ; 49,612,000 ;Julio;2025
+Cotuí; 11,675 ; 158 ; 189,717,088 ;Julio;2025
+Santo Domingo; 60 ; 87 ; 259,954,596 ;Agosto;2025
+El Seibo; 55 ; 15 ; 7,010,000 ;Agosto;2025
+Higüey; 75 ; 15 ; 13,312,400 ;Agosto;2025
+Hato Mayor; 402 ; 7 ; 173,867,523 ;Agosto;2025
+Monte Plata; 1,035 ; 32 ; 48,408,400 ;Agosto;2025
+Azua; 1,199 ; 46 ; 124,949,200 ;Agosto;2025
+Baní; 598 ; 26 ; 246,297,117 ;Agosto;2025
+Neyba; 1,140 ; 24 ; 32,547,316 ;Agosto;2025
+Barahona; 375 ; 15 ; 7,761,464 ;Agosto;2025
+San Juan de la Maguana; 1,656 ; 41 ; 147,721,542 ;Agosto;2025
+Comendador; 320 ; 19 ; 13,368,900 ;Agosto;2025
+Nagua; 3,207 ; 30 ; 24,890,400 ;Agosto;2025
+Arenoso; 2,485 ; 32 ; 23,382,893 ;Agosto;2025
+Samaná; 345 ; 28 ; 16,223,286 ;Agosto;2025
+Río San Juan; 848 ; 25 ; 26,855,000 ;Agosto;2025
+Villa Riva; 2,095 ; 39 ; 111,418,700 ;Agosto;2025
+San Fco. Macorís; 5,057 ; 34 ; 39,823,000 ;Agosto;2025
+Santiago; 136 ; 44 ; 103,101,715 ;Agosto;2025
+Moca; 1,771 ; 35 ; 38,429,100 ;Agosto;2025
+San José de las Matas; 391 ; 26 ; 20,965,883 ;Agosto;2025
+Constanza; 1,012 ; 31 ; 69,653,400 ;Agosto;2025
+La Vega; 3,380 ; 35 ; 299,239,400 ;Agosto;2025
+Santiago Rodríguez; 195 ; 22 ; 17,034,995 ;Agosto;2025
+Montecristi; 908 ; 31 ; 77,358,000 ;Agosto;2025
+Puerto Plata; 1,549 ; 54 ; 32,033,238 ;Agosto;2025
+Valverde Mao; 2,479 ; 33 ; 194,406,615 ;Agosto;2025
+Dajabón; 658 ; 33 ; 32,048,700 ;Agosto;2025
+San José de Ocoa; 995 ; 50 ; 95,523,112 ;Agosto;2025
+Bonao; 1,582 ; 22 ; 33,341,500 ;Agosto;2025
+San Cristóbal; 1,551 ; 45 ; 20,447,000 ;Agosto;2025
+Salcedo; 2,310 ; 19 ; 10,368,000 ;Agosto;2025
+Cotuí; 4,779 ; 48 ; 51,861,300 ;Agosto;2025
+Santo Domingo; -   ; 39 ; 141,410,233 ;Septiembre ;2025
+El Seibo; 216 ; 22 ; 10,635,504 ;Septiembre ;2025
+Higüey; 433 ; 17 ; 12,062,500 ;Septiembre;2025
+Hato Mayor; 104 ; 10 ; 2,668,700 ;Septiembre;2025
+Monte Plata; 302 ; 30 ; 33,388,336 ;Septiembre;2025
+Azua; 1,156 ; 35 ; 19,039,000 ;Septiembre;2025
+Baní; 2,090 ; 32 ; 67,025,000 ;Septiembre;2025
+Neyba; 807 ; 40 ; 14,267,500 ;Septiembre;2025
+Barahona; 1,948 ; 21 ; 6,593,000 ;Septiembre;2025
+San Juan de la Maguana; 1,374 ; 37 ; 17,127,818 ;Septiembre;2025
+Comendador; 298 ; 23 ; 17,798,168 ;Septiembre;2025
+Nagua; 480 ; 7 ; 77,994,000 ;Septiembre;2025
+Arenoso; 621 ; 10 ; 6,625,300 ;Septiembre;2025
+Samaná; 374 ; 23 ; 10,860,000 ;Septiembre;2025
+Río San Juan; 852 ; 21 ; 25,240,541 ;Septiembre;2025
+Villa Riva; 2,027 ; 26 ; 17,598,370 ;Septiembre;2025
+San Fco. Macorís; 6,962 ; 26 ; 91,527,173 ;Septiembre;2025
+Santiago; 790 ; 29 ; 69,742,492 ;Septiembre;2025
+Moca; 1,855 ; 46 ; 161,149,600 ;Septiembre;2025
+San José de las Matas; 471 ; 18 ; 53,800,098 ;Septiembre;2025
+Constanza; 5,062 ; 28 ; 45,946,270 ;Septiembre;2025
+La Vega; 3,521 ; 48 ; 211,321,378 ;Septiembre;2025
+Santiago Rodríguez; 149 ; 25 ; 24,103,985 ;Septiembre;2025
+Montecristi; 536 ; 36 ; 18,748,982 ;Septiembre;2025
+Puerto Plata; 1,284 ; 58 ; 33,267,302 ;Septiembre;2025
+Valverde Mao; 914 ; 21 ; 165,056,176 ;Septiembre;2025
+Dajabón; 575 ; 16 ; 16,195,000 ;Septiembre;2025
+San José de Ocoa; 1,189 ; 36 ; 78,021,713 ;Septiembre;2025
+Bonao; 519 ; 15 ; 16,744,600 ;Septiembre;2025
+San Cristóbal; 1,138 ; 39 ; 15,467,000 ;Septiembre;2025
+Salcedo; 12,215 ; 29 ; 53,579,727 ;Septiembre;2025
+Cotuí; 5,152 ; 57 ; 41,516,000 ;Septiembre;2025
+Santo Domingo; -   ; 77 ; 222,679,750 ;Octubre ;2025
+El Seibo; 960 ; 34 ; 33,482,500 ;Octubre ;2025
+Higüey; 165 ; 32 ; 17,335,700 ;Octubre;2025
+Hato Mayor; 185 ; 16 ; 12,887,000 ;Octubre;2025
+Monte Plata; 708 ; 23 ; 24,510,101 ;Octubre;2025
+Azua; 1,150 ; 39 ; 15,021,600 ;Octubre;2025
+Baní; 363 ; 26 ; 133,196,795 ;Octubre;2025
+Neyba; 243 ; 26 ; 6,420,200 ;Octubre;2025
+Barahona; 267 ; 14 ; 6,797,039 ;Octubre;2025
+San Juan de la Maguana; 2,106 ; 48 ; 45,854,917 ;Octubre;2025
+Comendador; 153 ; 4 ; 1,520,000 ;Octubre;2025
+Nagua; 3,129 ; 18 ; 22,177,000 ;Octubre;2025
+Arenoso; 550 ; 15 ; 12,312,500 ;Octubre;2025
+Samaná; 778 ; 52 ; 24,037,824 ;Octubre;2025
+Río San Juan; 617 ; 21 ; 24,690,618 ;Octubre;2025
+Villa Riva; 957 ; 22 ; 10,261,776 ;Octubre;2025
+San Fco. Macorís; 7,566 ; 48 ; 86,508,135 ;Octubre;2025
+Santiago; 1,525 ; 47 ; 124,910,505 ;Octubre;2025
+Moca; 504 ; 40 ; 109,570,400 ;Octubre;2025
+San José de las Matas; 690 ; 33 ; 19,758,007 ;Octubre;2025
+Constanza; 1,256 ; 36 ; 63,230,964 ;Octubre;2025
+La Vega; 1,444 ; 41 ; 78,050,265 ;Octubre;2025
+Santiago Rodríguez; 130 ; 29 ; 32,842,500 ;Octubre;2025
+Montecristi; 1,118 ; 37 ; 35,676,600 ;Octubre;2025
+Puerto Plata; 2,064 ; 81 ; 54,320,188 ;Octubre;2025
+Valverde Mao; 1,163 ; 27 ; 61,199,844 ;Octubre;2025
+Dajabón; 137 ; 15 ; 18,199,000 ;Octubre;2025
+San José de Ocoa; 404 ; 30 ; 94,678,271 ;Octubre;2025
+Bonao; 3,129 ; 10 ; 80,786,180 ;Octubre;2025
+San Cristóbal; 601 ; 27 ; 10,350,170 ;Octubre;2025
+Salcedo; 649 ; 17 ; 9,649,945 ;Octubre;2025
+Cotuí; 3,605 ; 40 ; 47,897,000 ;Octubre;2025
+Santo Domingo; 606 ; 80 ; 239,236,821 ;Noviembre;2025
+El Seibo; 1,184 ; 30 ; 16,267,000 ;Noviembre;2025
+Higüey; 1,963 ; 46 ; 42,022,900 ;Noviembre;2025
+Hato Mayor; 432 ; 21 ; 18,783,400 ;Noviembre;2025
+Monte Plata; 337 ; 25 ; 23,089,909 ;Noviembre;2025
+Azua; 1,258 ; 49 ; 36,265,400 ;Noviembre;2025
+Baní; 686 ; 29 ; 28,928,400 ;Noviembre;2025
+Neyba; 928 ; 34 ; 17,680,000 ;Noviembre;2025
+Barahona; 435 ; 18 ; 8,395,000 ;Noviembre;2025
+San Juan de la Maguana; 5,853 ; 184 ; 117,503,974 ;Noviembre;2025
+Comendador; -   ; 17 ; 26,092,777 ;Noviembre;2025
+Nagua; 2,258 ; 39 ; 22,787,000 ;Noviembre;2025
+Arenoso; 9,924 ; 92 ; 69,570,000 ;Noviembre;2025
+Samaná; 1,221 ; 31 ; 25,469,138 ;Noviembre;2025
+Río San Juan; 1,541 ; 37 ; 32,173,592 ;Noviembre;2025
+Villa Riva; 8,137 ; 106 ; 55,160,088 ;Noviembre;2025
+San Fco. Macorís; 5,885 ; 96 ; 71,943,858 ;Noviembre;2025
+Santiago; 326 ; 46 ; 120,913,635 ;Noviembre;2025
+Moca; 2,235 ; 48 ; 81,368,300 ;Noviembre;2025
+San José de las Matas; 759 ; 23 ; 20,191,564 ;Noviembre;2025
+Constanza; 3,420 ; 57 ; 97,938,721 ;Noviembre;2025
+La Vega; 7,460 ; 164 ; 97,380,128 ;Noviembre;2025
+Santiago Rodríguez; 760 ; 44 ; 44,476,174 ;Noviembre;2025
+Montecristi; 15,134 ; 155 ; 111,937,290 ;Noviembre;2025
+Puerto Plata; 1,659 ; 68 ; 46,281,193 ;Noviembre;2025
+Valverde Mao; 1,644 ; 36 ; 99,480,829 ;Noviembre;2025
+Dajabón; 1,516 ; 34 ; 23,706,750 ;Noviembre;2025
+San José de Ocoa; 1,248 ; 37 ; 101,062,275 ;Noviembre;2025
+Bonao; 678 ; 25 ; 63,345,320 ;Noviembre;2025
+San Cristóbal; 1,036 ; 28 ; 9,487,000 ;Noviembre;2025
+Salcedo; 1,454 ; 23 ; 18,277,983 ;Noviembre;2025
+Cotuí; 6,595 ; 65 ; 131,068,680 ;Noviembre;2025
+Santo Domingo; 217 ; 87 ; 388,856,364 ;Diciembre;2025
+El Seibo; 1,491 ; 53 ; 28,183,500 ;Diciembre;2025
+Higüey; 2,423 ; 58 ; 49,639,866 ;Diciembre;2025
+Hato Mayor; 6,242 ; 64 ; 55,209,400 ;Diciembre;2025
+Monte Plata; 2,487 ; 65 ; 58,631,987 ;Diciembre;2025
+Azua; 2,715 ; 73 ; 93,783,986 ;Diciembre;2025
+Baní; 31,907 ; 75 ; 471,431,000 ;Diciembre;2025
+Neyba; 1,322 ; 54 ; 22,089,000 ;Diciembre;2025
+Barahona; 3,014 ; 72 ; 46,731,000 ;Diciembre;2025
+San Juan de la Maguana; 4,076 ; 147 ; 122,067,495 ;Diciembre;2025
+Comendador; 535 ; 32 ; 16,402,323 ;Diciembre;2025
+Nagua; 16,841 ; 158 ; 111,755,160 ;Diciembre;2025
+Arenoso; 24,281 ; 208 ; 183,445,320 ;Diciembre;2025
+Samaná; 2,200 ; 88 ; 42,209,410 ;Diciembre;2025
+Río San Juan; 3,876 ; 65 ; 55,952,603 ;Diciembre;2025
+Villa Riva; 19,447 ; 258 ; 143,629,050 ;Diciembre;2025
+San Fco. Macorís; 23,517 ; 207 ; 180,576,814 ;Diciembre;2025
+Santiago; 3,870 ; 91 ; 181,041,349 ;Diciembre;2025
+Moca; 2,224 ; 58 ; 286,865,000 ;Diciembre;2025
+San José de las Matas; 1,896 ; 35 ; 49,277,593 ;Diciembre;2025
+Constanza; 1,766 ; 57 ; 131,158,500 ;Diciembre;2025
+La Vega; 14,058 ; 216 ; 204,118,245 ;Diciembre;2025
+Santiago Rodríguez; 507 ; 51 ; 72,734,100 ;Diciembre;2025
+Montecristi; 9,738 ; 125 ; 146,276,000 ;Diciembre;2025
+Puerto Plata; 1,538 ; 96 ; 106,903,931 ;Diciembre;2025
+Valverde Mao; 9,419 ; 124 ; 209,764,978 ;Diciembre;2025
+Dajabón; 5,228 ; 118 ; 148,516,375 ;Diciembre;2025
+San José de Ocoa; 2,658 ; 96 ; 163,398,179 ;Diciembre;2025
+Bonao; 3,340 ; 53 ; 48,072,800 ;Diciembre;2025
+San Cristóbal; 2,961 ; 88 ; 77,300,696 ;Diciembre;2025
+Salcedo; 5,070 ; 42 ; 60,557,232 ;Diciembre;2025
+Cotuí; 18,716 ; 195 ; 219,039,000 ;Diciembre;2025
+Santo Domingo; 35 ; 47 ; 94,345,075 ;Enero;2026
+El Seibo; 481 ; 25 ; 29,211,500 ;Enero;2026
+Higüey; 140 ; 10 ; 4,600,000 ;Enero;2026
+Hato Mayor; 626 ; 16 ; 24,905,000 ;Enero;2026
+Monte Plata; 720 ; 19 ; 16,055,479 ;Enero;2026
+Azua; 2,226 ; 48 ; 36,602,000 ;Enero;2026
+Baní; 1,038 ; 38 ; 50,196,900 ;Enero;2026
+Neyba; 360 ; 25 ; 14,132,000 ;Enero;2026
+Barahona; 1,438 ; 35 ; 16,930,000 ;Enero;2026
+San Juan de la Maguana; 1,266 ; 36 ; 17,801,800 ;Enero;2026
+Comendador; 339 ; 20 ; 10,623,002 ;Enero;2026
+Nagua; 8,051 ; 110 ; 45,670,760 ;Enero;2026
+Arenoso; 8,330 ; 117 ; 63,526,000 ;Enero;2026
+Samaná; 666 ; 39 ; 19,826,300 ;Enero;2026
+Río San Juan; 1,002 ; 28 ; 31,879,457 ;Enero;2026
+Villa Riva; 1,812 ; 18 ; 10,801,973 ;Enero;2026
+San Fco. Macorís; 6,737 ; 55 ; 260,114,057 ;Enero;2026
+Santiago; 900 ; 47 ; 208,547,265 ;Enero;2026
+Moca; 914 ; 31 ; 42,920,000 ;Enero;2026
+San José de las Matas; 210 ; 11 ; 40,717,760 ;Enero;2026
+Constanza; 2,544 ; 27 ; 38,256,500 ;Enero;2026
+La Vega; 5,257 ; 70 ; 239,005,270 ;Enero;2026
+Santiago Rodríguez; 1,005 ; 42 ; 48,038,098 ;Enero;2026
+Montecristi; 1,472 ; 32 ; 48,545,000 ;Enero;2026
+Puerto Plata; 595 ; 45 ; 30,436,543 ;Enero;2026
+Valverde Mao; 4,172 ; 45 ; 45,694,894 ;Enero;2026
+Dajabón; 2,234 ; 43 ; 34,149,000 ;Enero;2026
+San José de Ocoa; 1,253 ; 28 ; 81,290,000 ;Enero;2026
+Bonao; 2,016 ; 31 ; 15,212,000 ;Enero;2026
+San Cristóbal; 1,489 ; 41 ; 66,358,900 ;Enero;2026
+Salcedo; 1,493 ; 25 ; 21,395,634 ;Enero;2026
+Cotuí; 6,855 ; 69 ; 67,046,000 ;Enero;2026
+Santo Domingo; -   ; 70 ; 164,152,347 ;Febrero;2026
+El Seibo; 404 ; 22 ; 10,718,000 ;Febrero;2026
+Higüey; 190 ; 22 ; 12,990,775 ;Febrero;2026
+Hato Mayor; 693 ; 15 ; 38,286,900 ;Febrero;2026
+Monte Plata; 678 ; 37 ; 42,871,184 ;Febrero;2026
+Azua; 395 ; 18 ; 16,214,000 ;Febrero;2026
+Baní; 535 ; 33 ; 52,919,900 ;Febrero;2026
+Neyba; 423 ; 35 ; 11,923,800 ;Febrero;2026
+Barahona; 318 ; 20 ; 8,197,000 ;Febrero;2026
+San Juan de la Maguana; 1,967 ; 69 ; 51,254,447 ;Febrero;2026
+Comendador; 575 ; 25 ; 17,103,255 ;Febrero;2026
+Nagua; 12,539 ; 113 ; 77,279,852 ;Febrero;2026
+Arenoso; 7,047 ; 103 ; 57,153,260 ;Febrero;2026
+Samaná; 1,205 ; 47 ; 24,140,451 ;Febrero;2026
+Río San Juan; 370 ; 26 ; 44,953,419 ;Febrero;2026
+Villa Riva; 3,112 ; 46 ; 25,240,130 ;Febrero;2026
+San Fco. Macorís; 3,686 ; 38 ; 127,606,092 ;Febrero;2026
+Santiago; 514 ; 38 ; 80,207,276 ;Febrero;2026
+Moca; 562 ; 34 ; 52,468,784 ;Febrero;2026
+San José de las Matas; 1,149 ; 34 ; 35,778,536 ;Febrero;2026
+Constanza; 11,819 ; 48 ; 103,268,000 ;Febrero;2026
+La Vega; 10,574 ; 55 ; 121,234,486 ;Febrero;2026
+Santiago Rodríguez; 270 ; 31 ; 35,255,350 ;Febrero;2026
+Montecristi; 1,558 ; 38 ; 44,347,000 ;Febrero;2026
+Puerto Plata; 540 ; 52 ; 34,799,141 ;Febrero;2026
+Valverde Mao; 3,346 ; 28 ; 59,257,500 ;Febrero;2026
+Dajabón; 932 ; 18 ; 9,693,000 ;Febrero;2026
+San José de Ocoa; 16,582 ; 48 ; 118,613,931 ;Febrero;2026
+Bonao; 290 ; 11 ; 7,101,800 ;Febrero;2026
+San Cristóbal; 1,705 ; 37 ; 22,316,000 ;Febrero;2026
+Salcedo; 2,280 ; 30 ; 35,854,004 ;Febrero;2026
+Cotuí; 4,465 ; 48 ; 46,850,000 ;Febrero;2026
+Santo Domingo; 62 ; 93 ; 331,268,850 ;Marzo;2026
+El Seibo; 75 ; 18 ; 36,795,000 ;Marzo;2026
+Higüey; 113 ; 28 ; 41,686,000 ;Marzo;2026
+Hato Mayor; 155 ; 16 ; 14,174,100 ;Marzo;2026
+Monte Plata; 942 ; 33 ; 45,998,259 ;Marzo;2026
+Azua; 658 ; 36 ; 31,222,500 ;Marzo;2026
+Baní; 914 ; 35 ; 56,701,800 ;Marzo;2026
+Neyba; 1,059 ; 40 ; 16,804,400 ;Marzo;2026
+Barahona; 443 ; 25 ; 8,446,000 ;Marzo;2026
+San Juan de la Maguana; 2,586 ; 81 ; 42,564,927 ;Marzo;2026
+Comendador; 362 ; 21 ; 12,568,802 ;Marzo;2026
+Nagua; 2,706 ; 34 ; 17,796,000 ;Marzo;2026
+Arenoso; 1,444 ; 33 ; 26,859,295 ;Marzo;2026
+Samaná; 712 ; 37 ; 32,577,833 ;Marzo;2026
+Río San Juan; 489 ; 41 ; 30,971,126 ;Marzo;2026
+Villa Riva; 7,101 ; 64 ; 55,306,621 ;Marzo;2026
+San Fco. Macorís; 5,097 ; 44 ; 122,978,651 ;Marzo;2026
+Santiago; 1,926 ; 71 ; 236,961,987 ;Marzo;2026
+Moca; 2,343 ; 51 ; 70,312,149 ;Marzo;2026
+San José de las Matas; 919 ; 24 ; 70,832,741 ;Marzo;2026
+Constanza; 3,430 ; 50 ; 216,189,894 ;Marzo;2026
+La Vega; 1,835 ; 39 ; 93,206,356 ;Marzo;2026
+Santiago Rodríguez; 313 ; 36 ; 61,944,650 ;Marzo;2026
+Montecristi; 8,847 ; 153 ; 122,383,951 ;Marzo;2026
+Puerto Plata; 996 ; 64 ; 50,648,127 ;Marzo;2026
+Valverde Mao; 744 ; 17 ; 127,475,000 ;Marzo;2026
+Dajabón; 554 ; 22 ; 13,482,000 ;Marzo;2026
+San José de Ocoa; 824 ; 32 ; 28,044,500 ;Marzo;2026
+Bonao; 65 ; 12 ; 91,103,353 ;Marzo;2026
+San Cristóbal; 1,833 ; 58 ; 28,345,500 ;Marzo;2026
+Salcedo; 859 ; 22 ; 17,651,852 ;Marzo;2026
+Cotuí; 2,456 ; 37 ; 58,852,000 ;Marzo;2026

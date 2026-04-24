@@ -2,7 +2,7 @@
 
 This guide explains how to run the Banco Agricola RD database project on Linux using Docker and SQL Server.
 
-It works for Ubuntu and other Debian-based distributions. Ubuntu users can follow this guide directly.
+It works for Ubuntu, Debian, Fedora, CentOS, RHEL, Rocky Linux, AlmaLinux, Arch Linux, and most distributions that can run Docker.
 
 ---
 
@@ -10,7 +10,7 @@ It works for Ubuntu and other Debian-based distributions. Ubuntu users can follo
 
 You need:
 
-- Linux, including Ubuntu.
+- Linux, including Ubuntu, Debian, Fedora, CentOS/RHEL, Rocky/AlmaLinux, and Arch.
 - Docker installed.
 - Permission to run Docker commands.
 - The project folder downloaded locally.
@@ -23,19 +23,45 @@ BancoAgricolaRD
 
 ---
 
-## 2. Check Docker
+## 2. Install Or Check Docker
 
-On Ubuntu, first check if Docker exists:
+First check if Docker exists:
 
 ```bash
 docker --version
 ```
 
-If Docker is not installed on Ubuntu, install it with:
+### Ubuntu / Debian
 
 ```bash
 sudo apt update
 sudo apt install -y docker.io
+sudo systemctl enable docker
+sudo systemctl start docker
+```
+
+### Fedora
+
+```bash
+sudo dnf install -y docker
+sudo systemctl enable docker
+sudo systemctl start docker
+```
+
+### CentOS / RHEL / Rocky Linux / AlmaLinux
+
+```bash
+sudo dnf install -y docker
+sudo systemctl enable docker
+sudo systemctl start docker
+```
+
+If `docker` is not available in the default repositories, install Docker Engine from the official Docker repository for that distribution.
+
+### Arch Linux
+
+```bash
+sudo pacman -Syu docker
 sudo systemctl enable docker
 sudo systemctl start docker
 ```
@@ -60,7 +86,7 @@ sudo usermod -aG docker "$USER"
 
 Then log out and log back in.
 
-For a quick temporary workaround on Ubuntu, keep using `sudo docker` in the commands.
+For a quick temporary workaround, keep using `sudo docker` in the commands.
 
 ---
 

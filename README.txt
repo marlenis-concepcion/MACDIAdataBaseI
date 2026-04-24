@@ -241,6 +241,50 @@ DELIVERABLES INCLUDED / ENTREGABLES INCLUIDOS
 - Cleaned CSV files
 - Original CSV files
 - Power BI guide
+- Data dictionary and data lineage documentation
+- Quick start guide
+- Demo script
+- Teaching DQL script
+- Integrity tests
+- Backup/restore template
+- Security role script
+- Performance notes
+- Evidence checklist
+
+ADVANCED PORTFOLIO ADDITIONS / ADICIONES AVANZADAS PARA PORTAFOLIO
+
+- DATA_DICTIONARY.md
+  Documents tables, columns, keys, constraints, views, procedures, triggers, and indexes.
+
+- DATA_LINEAGE.md
+  Explains how raw CSV files become clean data, SQL inserts, dashboard assets, and Power BI output.
+
+- QUICK_START.md
+  Gives fast execution commands for macOS Docker, Linux Docker, and Windows SQL Server.
+
+- DEMO_PRESENTATION_SCRIPT_SPANISH.md
+  Provides a Spanish live-demo speaking script and execution sequence.
+
+- PERFORMANCE_NOTES.md
+  Explains indexes, views, query patterns, and future optimization ideas.
+
+- diagramas/DATABASE_ERD_README.md
+  Explains the conceptual, logical, and physical ERD diagrams.
+
+- evidencias/README.md
+  Lists recommended screenshots and evidence files for submission or portfolio.
+
+- sql/07_DQL_Ejemplos_Didacticos_BancoAgricolaRD.sql
+  Teaching DQL examples covering basic to advanced SQL topics.
+
+- sql/08_Pruebas_Integridad_BancoAgricolaRD.sql
+  Validates non-empty tables, foreign keys, negative values, duplicates, totals, procedures, and views.
+
+- sql/09_Backup_Restore_BancoAgricolaRD.sql
+  Backup and restore template for SQL Server and Docker.
+
+- sql/10_Seguridad_Usuarios_Roles_BancoAgricolaRD.sql
+  Creates a read-only role and portable no-login user for academic review.
 
 GITHUB DESCRIPTION / DESCRIPCION PARA GITHUB
 
@@ -249,4 +293,3 @@ Relational database and dashboard project using Dominican open data from Banco A
 
 Espanol:
 Proyecto relacional de base de datos y dashboard usando datos abiertos del Banco Agricola de la Republica Dominicana, con scripts SQL Server, normalizacion, diagramas y archivos listos para Power BI.
-

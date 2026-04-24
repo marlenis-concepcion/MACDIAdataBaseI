@@ -2,13 +2,15 @@
 
 This guide explains how to run the Banco Agricola RD database project on Linux using Docker and SQL Server.
 
+It works for Ubuntu and other Debian-based distributions. Ubuntu users can follow this guide directly.
+
 ---
 
 ## 1. Requirements
 
 You need:
 
-- Linux.
+- Linux, including Ubuntu.
 - Docker installed.
 - Permission to run Docker commands.
 - The project folder downloaded locally.
@@ -22,6 +24,23 @@ BancoAgricolaRD
 ---
 
 ## 2. Check Docker
+
+On Ubuntu, first check if Docker exists:
+
+```bash
+docker --version
+```
+
+If Docker is not installed on Ubuntu, install it with:
+
+```bash
+sudo apt update
+sudo apt install -y docker.io
+sudo systemctl enable docker
+sudo systemctl start docker
+```
+
+Then verify:
 
 ```bash
 docker ps
@@ -40,6 +59,8 @@ sudo usermod -aG docker "$USER"
 ```
 
 Then log out and log back in.
+
+For a quick temporary workaround on Ubuntu, keep using `sudo docker` in the commands.
 
 ---
 
@@ -132,4 +153,3 @@ FactMontoDestino: 4913
 ```
 
 If these counts appear, the database is loaded and ready.
-

@@ -83,11 +83,28 @@ cd "$PROJECT_DIR" && SA_PASSWORD="$(docker inspect sql1 --format '{{range .Confi
 
 ---
 
-## 3. Configuracion En Linux Con Docker
+## 3. Configuracion En Linux / Ubuntu Con Docker
 
-Usuarios de Linux tambien pueden correr SQL Server usando Docker.
+Usuarios de Linux, incluyendo Ubuntu, tambien pueden correr SQL Server usando Docker.
 
 ### 3.1. Verificar Docker
+
+En Ubuntu, verificar si Docker esta instalado:
+
+```bash
+docker --version
+```
+
+Si Docker no esta instalado:
+
+```bash
+sudo apt update
+sudo apt install -y docker.io
+sudo systemctl enable docker
+sudo systemctl start docker
+```
+
+Luego ejecutar:
 
 ```bash
 docker ps
@@ -238,4 +255,3 @@ DOCKER_SETUP_MAC.md
 DOCKER_SETUP_LINUX.md
 WINDOWS_SQL_SERVER_SETUP.md
 ```
-

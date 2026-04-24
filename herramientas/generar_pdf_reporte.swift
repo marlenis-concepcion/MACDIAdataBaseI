@@ -2,9 +2,37 @@ import Foundation
 import AppKit
 import CoreText
 
-let baseDir = "/Users/vampy/Documents/UASD/proyecto finakl"
-let inputPath = baseDir + "/documento/Proyecto_Final_Banco_Agricola.md"
-let outputPath = baseDir + "/documento/Proyecto_Final_Banco_Agricola.pdf"
+func readEnvFile(_ path: String) -> [String: String] {
+    guard let content = try? String(contentsOfFile: path, encoding: .utf8) else {
+        return [:]
+    }
+
+    var values: [String: String] = [:]
+    for rawLine in content.components(separatedBy: .newlines) {
+        let line = rawLine.trimmingCharacters(in: .whitespacesAndNewlines)
+        if line.isEmpty || line.hasPrefix("#") || !line.contains("=") {
+            continue
+        }
+        let parts = line.split(separator: "=", maxSplits: 1, omittingEmptySubsequences: false)
+        let key = String(parts[0]).trimmingCharacters(in: .whitespacesAndNewlines)
+        let value = String(parts[1]).trimmingCharacters(in: .whitespacesAndNewlines)
+        values[key] = value
+    }
+    return values
+}
+
+let fileManager = FileManager.default
+let currentDir = fileManager.currentDirectoryPath
+let parentDir = URL(fileURLWithPath: currentDir).deletingLastPathComponent().path
+let localEnv = readEnvFile(currentDir + "/.env.local").merging(
+    readEnvFile(parentDir + "/.env.local")
+) { current, _ in current }
+let processEnv = ProcessInfo.processInfo.environment
+let env = localEnv.merging(processEnv) { _, process in process }
+
+let projectDir = env["PROJECT_DIR"] ?? currentDir
+let inputPath = env["REPORT_INPUT_PATH"] ?? projectDir + "/documento/Proyecto_Final_Banco_Agricola.md"
+let outputPath = env["REPORT_OUTPUT_PATH"] ?? projectDir + "/documento/Proyecto_Final_Banco_Agricola.pdf"
 
 let pageWidth: CGFloat = 612
 let pageHeight: CGFloat = 792

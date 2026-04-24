@@ -2,6 +2,14 @@
 
 Final project for **Database I** in the **Master's Degree in Data Science and Artificial Intelligence** at Universidad Autonoma de Santo Domingo (UASD). This repository contains a complete database solution built from open government datasets related to the Dominican Republic's Banco Agricola.
 
+---
+
+**Autora / Author:** Marlenis Judith Concepcion Cuevas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marlenis%20Concepcion-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/marlenis-judith-c-561117a3/)
+[![Instagram](https://img.shields.io/badge/Instagram-marlenisj.concepcionc-E4405F?style=flat&logo=instagram)](https://www.instagram.com/marlenisj.concepcionc/)
+
+---
+
 The project transforms raw CSV files into a normalized relational database model, SQL Server implementation scripts, analytical queries, database programming objects, diagrams, a web dashboard, and a Power BI-ready dataset.
 
 ---
@@ -582,3 +590,102 @@ Relational database and dashboard project using Dominican open data from Banco A
 ## Descripcion sugerida para GitHub
 
 Proyecto relacional de base de datos y dashboard usando datos abiertos del Banco Agricola de la Republica Dominicana, con scripts SQL Server, normalizacion, diagramas y archivos listos para Power BI.
+
+---
+
+## Uso de Inteligencia Artificial y Agentes de IA
+
+Este proyecto fue desarrollado aplicando tecnicas modernas de Inteligencia Artificial Generativa y agentes de IA como herramientas de productividad profesional.
+
+### Herramientas de IA utilizadas
+
+| Herramienta | Uso en el Proyecto |
+| --- | --- |
+| **Claude (Anthropic)** | Generacion y revision de scripts SQL (DDL, DML, DQL), stored procedures y triggers; construccion del dashboard HTML; generacion de diagramas Mermaid; redaccion del informe y documentacion tecnica. |
+| **Claude Code (Anthropic)** | Agente de IA en terminal para automatizar la construccion de los archivos del proyecto, generacion de PDFs, scripts Python y Swift, y verificacion de consistencia del repositorio. |
+| **ChatGPT (OpenAI)** | Apoyo en la validacion de convenciones de nombres SQL, verificacion de logica de normalizacion y consulta de buenas practicas de modelado dimensional. |
+
+### Por que se uso IA en este proyecto
+
+El uso de agentes de IA no sustituye el conocimiento academico sino que acelera la implementacion y reduce errores de sintaxis, permitiendo dedicar mas tiempo al analisis, la interpretacion de datos y las decisiones de modelado. La autora reviso, ajusto y valido cada componente generado por IA para garantizar la coherencia academica y tecnica del entregable.
+
+El flujo de trabajo combina:
+- Criterio humano para decisiones de diseno (claves, restricciones, normalizacion, estructura del dashboard).
+- Agentes de IA para generacion de codigo repetitivo, documentacion y transformacion de formatos.
+- Revision manual para validar integridad, consistencia y alineacion con los requisitos academicos.
+
+### Referencias de IA
+
+Anthropic. (2024). *Claude: AI assistant*. https://www.anthropic.com/claude
+
+Anthropic. (2024). *Claude Code: AI-powered terminal agent*. https://www.anthropic.com/claude-code
+
+OpenAI. (2024). *ChatGPT: Large language model*. https://chatgpt.com/
+
+---
+
+## Referencias APA
+
+Las siguientes referencias sustentan las mejores practicas aplicadas en el proyecto.
+
+### Normalizacion y Modelado Relacional
+
+Codd, E. F. (1970). A relational model of data for large shared data banks. *Communications of the ACM, 13*(6), 377–387. https://doi.org/10.1145/362384.362685
+
+Date, C. J. (2019). *Database design and relational theory: Normal forms and all that jazz* (2nd ed.). Apress. https://doi.org/10.1007/978-1-4842-5540-7
+
+Kimball, R., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). John Wiley & Sons.
+
+### Limpieza y Calidad de Datos
+
+Rahm, E., & Do, H. H. (2000). Data cleaning: Problems and current approaches. *IEEE Data Engineering Bulletin, 23*(4), 3–13. http://sites.computer.org/debull/A00dec/rahm.pdf
+
+### SQL Server y Programacion de Bases de Datos
+
+Microsoft. (2024a). *SQL Server technical documentation*. Microsoft Learn. https://learn.microsoft.com/en-us/sql/sql-server/
+
+Microsoft. (2024b). *Stored procedures (Database Engine)*. Microsoft Learn. https://learn.microsoft.com/en-us/sql/relational-databases/stored-procedures/stored-procedures-database-engine
+
+Microsoft. (2024c). *DML triggers*. Microsoft Learn. https://learn.microsoft.com/en-us/sql/relational-databases/triggers/dml-triggers
+
+Microsoft. (2024d). *Indexes (SQL Server)*. Microsoft Learn. https://learn.microsoft.com/en-us/sql/relational-databases/indexes/indexes
+
+Mullins, C. S. (2012). *Database administration: The complete guide to DBA practices and procedures* (2nd ed.). Addison-Wesley.
+
+### Visualizacion de Datos y Dashboards
+
+Few, S. (2006). *Information dashboard design: The effective visual communication of data*. O'Reilly Media.
+
+Tufte, E. R. (2001). *The visual display of quantitative information* (2nd ed.). Graphics Press.
+
+Microsoft. (2024e). *Power BI documentation*. Microsoft Learn. https://learn.microsoft.com/en-us/power-bi/
+
+### Gobierno del Dato y Documentacion
+
+DAMA International. (2017). *DAMA-DMBOK: Data management body of knowledge* (2nd ed.). Technics Publications.
+
+Seiner, R. S. (2014). *Non-invasive data governance: The path of least resistance and greatest success*. Technics Publications.
+
+### Datos Abiertos
+
+Gobierno de la Republica Dominicana. (2024). *Portal de datos abiertos de la Republica Dominicana*. datos.gob.do. https://datos.gob.do/
+
+Banco Agricola de la Republica Dominicana. (2024). *Datasets de financiamiento agricola 2017–2026* [Conjuntos de datos]. Portal de Datos Abiertos RD. https://datos.gob.do/
+
+### Contenedores y Reproducibilidad
+
+Merkel, D. (2014). Docker: Lightweight Linux containers for consistent development and deployment. *Linux Journal, 2014*(239), 2.
+
+### Control de Versiones
+
+Chacon, S., & Straub, B. (2014). *Pro Git* (2nd ed.). Apress. https://git-scm.com/book/en/v2
+
+### Inteligencia Artificial Generativa y Agentes de IA
+
+Anthropic. (2024). *Claude: AI assistant*. https://www.anthropic.com/claude
+
+Anthropic. (2024). *Claude Code: AI-powered terminal agent*. https://www.anthropic.com/claude-code
+
+OpenAI. (2024). *ChatGPT: Large language model*. https://chatgpt.com/
+
+Bubeck, S., Chandrasekaran, V., Eldan, R., Gehrke, J., Horvitz, E., Kamar, E., Lee, P., Lee, Y. T., Li, Y., Lundberg, S., Nori, H., Palangi, H., Ribeiro, M. T., & Zhang, Y. (2023). Sparks of artificial general intelligence: Early experiments with GPT-4. *arXiv preprint arXiv:2303.12528*. https://arxiv.org/abs/2303.12528

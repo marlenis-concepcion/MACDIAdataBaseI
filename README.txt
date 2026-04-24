@@ -253,19 +253,19 @@ DELIVERABLES INCLUDED / ENTREGABLES INCLUIDOS
 
 ADVANCED PORTFOLIO ADDITIONS / ADICIONES AVANZADAS PARA PORTAFOLIO
 
-- DATA_DICTIONARY.md
+- docs/database/DATA_DICTIONARY.md
   Documents tables, columns, keys, constraints, views, procedures, triggers, and indexes.
 
-- DATA_LINEAGE.md
+- docs/database/DATA_LINEAGE.md
   Explains how raw CSV files become clean data, SQL inserts, dashboard assets, and Power BI output.
 
-- QUICK_START.md
+- docs/setup/QUICK_START.md
   Gives fast execution commands for macOS Docker, Linux Docker, and Windows SQL Server.
 
-- DEMO_PRESENTATION_SCRIPT_SPANISH.md
+- docs/demo/DEMO_PRESENTATION_SCRIPT_SPANISH.md
   Provides a Spanish live-demo speaking script and execution sequence.
 
-- PERFORMANCE_NOTES.md
+- docs/database/PERFORMANCE_NOTES.md
   Explains indexes, views, query patterns, and future optimization ideas.
 
 - diagramas/DATABASE_ERD_README.md

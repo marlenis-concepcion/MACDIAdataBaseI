@@ -81,6 +81,7 @@ Important note: **the disbursements and collections dataset only contains 2025-2
 ├── .gitignore
 ├── README.md
 ├── README.txt
+├── Presentacion_Final_Banco_Agricola_RD.pptx
 ├── Tarea 5.3_Proyecto Final (1).pdf
 ├── dashboard/
 │   └── dashboard_banco_agricola.html
@@ -105,13 +106,35 @@ Important note: **the disbursements and collections dataset only contains 2025-2
 │   ├── 01_modelo_conceptual.svg
 │   ├── 02_modelo_logico.mmd
 │   ├── 02_modelo_logico.svg
+│   ├── DATABASE_ERD_README.md
 │   ├── 03_modelo_fisico.mmd
 │   └── 03_modelo_fisico.svg
 ├── documento/
 │   ├── Proyecto_Final_Banco_Agricola.md
 │   └── Proyecto_Final_Banco_Agricola.pdf
+├── docs/
+│   ├── README.md
+│   ├── database/
+│   │   ├── DATA_DICTIONARY.md
+│   │   ├── DATA_LINEAGE.md
+│   │   └── PERFORMANCE_NOTES.md
+│   ├── demo/
+│   │   └── DEMO_PRESENTATION_SCRIPT_SPANISH.md
+│   └── setup/
+│       ├── DOCKER_AI_TROUBLESHOOTING_GUIDE.md
+│       ├── DOCKER_SETUP_LINUX.md
+│       ├── DOCKER_SETUP_MAC.md
+│       ├── PROJECT_SETUP_GUIDE_ENGLISH.md
+│       ├── PROJECT_SETUP_GUIDE_SPANISH.md
+│       ├── QUICK_START.md
+│       ├── SQL_SERVER_DOCKER_PORTFOLIO_GUIDE_ENGLISH.md
+│       ├── SQL_SERVER_DOCKER_PORTFOLIO_GUIDE_SPANISH.md
+│       └── WINDOWS_SQL_SERVER_SETUP.md
+├── evidencias/
+│   └── README.md
 ├── herramientas/
-│   └── generar_pdf_reporte.swift
+│   ├── generar_pdf_reporte.swift
+│   └── generar_presentacion_final.py
 ├── powerbi/
 │   ├── BancoAgricolaRD_PowerBI_Unificado.csv
 │   └── Guia_PowerBI.md
@@ -121,7 +144,12 @@ Important note: **the disbursements and collections dataset only contains 2025-2
     ├── 02_DML_BancoAgricolaRD.sql
     ├── 03_DQL_25_Consultas_BancoAgricolaRD.sql
     ├── 04_Programacion_SP_Triggers_BancoAgricolaRD.sql
-    └── 05_Script_Maestro_Completo_BancoAgricolaRD.sql
+    ├── 05_Script_Maestro_Completo_BancoAgricolaRD.sql
+    ├── 06_Verificacion_Demo_BancoAgricolaRD.sql
+    ├── 07_DQL_Ejemplos_Didacticos_BancoAgricolaRD.sql
+    ├── 08_Pruebas_Integridad_BancoAgricolaRD.sql
+    ├── 09_Backup_Restore_BancoAgricolaRD.sql
+    └── 10_Seguridad_Usuarios_Roles_BancoAgricolaRD.sql
 ```
 
 ## EN_File Inventory
@@ -533,11 +561,11 @@ These files extend the project beyond the base academic requirements and make th
 
 | File | Purpose |
 | --- | --- |
-| `DATA_DICTIONARY.md` | Documents tables, columns, keys, constraints, views, procedures, triggers, and indexes. |
-| `DATA_LINEAGE.md` | Explains how raw CSV files become clean data, SQL inserts, dashboard assets, and Power BI output. |
-| `QUICK_START.md` | Gives fast execution commands for macOS Docker, Linux Docker, and Windows SQL Server. |
-| `DEMO_PRESENTATION_SCRIPT_SPANISH.md` | Provides a Spanish live-demo speaking script and execution sequence. |
-| `PERFORMANCE_NOTES.md` | Explains indexes, views, query patterns, and future optimization ideas. |
+| `docs/database/DATA_DICTIONARY.md` | Documents tables, columns, keys, constraints, views, procedures, triggers, and indexes. |
+| `docs/database/DATA_LINEAGE.md` | Explains how raw CSV files become clean data, SQL inserts, dashboard assets, and Power BI output. |
+| `docs/setup/QUICK_START.md` | Gives fast execution commands for macOS Docker, Linux Docker, and Windows SQL Server. |
+| `docs/demo/DEMO_PRESENTATION_SCRIPT_SPANISH.md` | Provides a Spanish live-demo speaking script and execution sequence. |
+| `docs/database/PERFORMANCE_NOTES.md` | Explains indexes, views, query patterns, and future optimization ideas. |
 | `diagramas/DATABASE_ERD_README.md` | Explains the conceptual, logical, and physical ERD diagrams. |
 | `evidencias/README.md` | Lists recommended screenshots and evidence files for submission or portfolio. |
 | `sql/07_DQL_Ejemplos_Didacticos_BancoAgricolaRD.sql` | Teaching DQL examples covering basic to advanced SQL topics. |

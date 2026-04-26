@@ -21,9 +21,11 @@ Sistema integral de análisis de desembolsos y cartera de préstamos del Banco A
 ### Opción 1: Script Automático (Recomendado)
 
 ```bash
-cd base-datos-mysql
+cd <PATH>/base-datos-mysql
 ./setup-y-ejecutar.sh
 ```
+
+> **Nota:** Reemplaza `<PATH>` con la ruta donde clonaste el repositorio
 
 **Resultado esperado:**
 ```
@@ -325,10 +327,10 @@ CALL SP_ConsultarDesembolsosPorAnio(2025);
 ## 📚 Documentación Adicional
 
 - **Proyecto Final Completo:** Ver README.md en directorio padre
-- **Datos Originales:** `/datos/originales/` CSV files
-- **Datos Limpios:** `/datos/limpios/` clean CSV files
-- **Diagramas:** `/diagramas/` ER y DFD diagrams
-- **Presentación:** `Presentacion_Final_Banco_Agricola_RD.pptx`
+- **Datos Originales:** `../datos/originales/` CSV files (original)
+- **Datos Limpios:** `../datos/limpios/` CSV files (limpiados)
+- **Diagramas:** `../diagramas/` ER y DFD diagrams
+- **Presentación:** `../Presentacion_Final_Banco_Agricola_RD.pptx`
 
 ---
 

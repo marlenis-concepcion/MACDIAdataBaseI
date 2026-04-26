@@ -415,9 +415,11 @@ MontoDestino → Periodo (Periodo_ID)
 ## 9️⃣ COMANDO DE EJECUCIÓN
 
 ```bash
-cd base-datos-mysql
+cd <PATH>/base-datos-mysql
 ./setup-y-ejecutar.sh
 ```
+
+> **Nota:** Reemplaza `<PATH>` con la ruta donde clonaste el repositorio
 
 **Resultado Esperado:**
 - ✅ 12 tablas creadas

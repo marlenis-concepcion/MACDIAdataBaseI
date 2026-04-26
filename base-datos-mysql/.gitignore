@@ -1,0 +1,44 @@
+# ============================================================
+# GITIGNORE - PROYECTO FINAL - MYSQL
+# ============================================================
+
+# Archivos de Configuración (Sensibles)
+.env
+.env.local
+.env.*.local
+
+# Logs y Caché
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Backups de Base de Datos
+*.sql.bak
+*.sql.backup
+*.dump
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Docker
+docker-compose.override.yml
+
+# ============================================================
+# ARCHIVOS PERMITIDOS:
+# - *.sql (Scripts de base de datos)
+# - setup-y-ejecutar.sh
+# - .env.example (Template)
+# - README.md (Documentación)
+# - *.md (Markdown files)
+# ============================================================
